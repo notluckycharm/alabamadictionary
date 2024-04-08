@@ -1,0 +1,258 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">U</font></center><br>
+<br><b>ubiquitous</b>
+&nbsp;to be scattered all over, be ubiquitous: &nbsp;<i><a href="b.htm#báana">báana</a></i>.&nbsp;
+<br><b>udder</b>&nbsp;&nbsp;<i><a href="w.htm#waakimpisi">waakimpisi</a></i>.&nbsp;
+<br><b>ugly</b>
+&nbsp;ugliness: &nbsp;<i><a href="i2.htm#istalaamitilka">istalaamitilka</a></i>.&nbsp;
+&nbsp;to be ugly: &nbsp;<i><a href="i2.htm#istalaami">istalaami</a>, <a href="i2.htm#istalasmi">istalasmi</a></i>.&nbsp;
+<br><b>uh</b>
+&nbsp;let's see..., er, uh: &nbsp;<i><a href="n.htm#naho1">naho<sup>1</sup></a></i>.&nbsp;
+<br><b>umbilical cord</b>&nbsp;&nbsp;<i><a href="i1.htm#inchokbi achitìika">inchokbi achitìika</a>, <a href="i1.htm#inchokbi imbaksa">inchokbi imbaksa</a></i>.&nbsp;
+<br><b>umbrella</b>&nbsp;&nbsp;<i><a href="i2.htm#istapahcha">istapahcha</a></i>.&nbsp;
+<br><b>unable</b>
+&nbsp;to be unable to do anything, not feel up to doing anything because feeble or lethargic: &nbsp;<i><a href="i1.htm#imalawkachíkso">imalawkachíkso</a></i>.&nbsp;
+<br><b>unaccessible</b>
+&nbsp;to not be able to be found by, be illegible to, be unaccessible to: &nbsp;<i><a href="i1.htm#immottaíkko">immottaíkko</a></i>.&nbsp;
+<br><b>unaware</b>
+&nbsp;to be unsure about, not expect, be unaware of: &nbsp;<i><a href="a.htm#akíilo">akíilo</a></i>.&nbsp;
+&nbsp;to not be in one's right mind, insentient, unaware, incompetent, not know any better (as a baby or a drunk): &nbsp;<i><a href="h.htm#hakti">hakti</a></i>.&nbsp;
+<br><b>unbecoming</b>
+&nbsp;to be unfamiliar, not used to, unbecoming: &nbsp;<i><a href="i2.htm#istipílko">istipílko</a></i>.&nbsp;
+<br><b>unbeliever</b>&nbsp;&nbsp;<i><a href="i2.htm#iyyìnko">iyyìnko</a></i>.&nbsp;
+<br><b>unbutton</b>
+&nbsp;to unbutton or untie (one object) for: &nbsp;<i><a href="i2.htm#istimiisitoffi">istimiisitoffi</a></i>.&nbsp;
+&nbsp;to unfasten, unlatch, loosen, unbutton, let loose, unplug, undo (one object) from: &nbsp;<i><a href="i1.htm#iⁿhamoffichi">iⁿhamoffichi</a></i>.&nbsp;
+&nbsp;to untie (a restraint), unbutton (one button): &nbsp;<i><a href="s.htm#sitoffi">sitoffi</a></i>.&nbsp;
+&nbsp;to untie or unbutton (one button of one's own clothes): &nbsp;<i><a href="i2.htm#issitoffi">issitoffi</a></i>.&nbsp;
+&nbsp;to have one garment come undone, unbuttoned, or untied: &nbsp;<i><a href="i2.htm#istimiisitofka">istimiisitofka</a>, <a href="i2.htm#istiⁿsitofka">istiⁿsitofka</a></i>.&nbsp;
+<br><b>uncle</b>&nbsp;&nbsp;<i><a href="f.htm#fósi">fósi</a></i>.&nbsp;
+&nbsp;maternal uncle, mother's brother: &nbsp;<i><a href="m.htm#móosi">móosi</a></i>.&nbsp;
+&nbsp;paternal uncle, father's brother: &nbsp;<i><a href="t.htm#taatasi">taatasi</a></i>.&nbsp;
+&nbsp;uncle, aunt's husband, especially, grandmother's sister's husband: &nbsp;<i><a href="a.htm#awosi">awosi</a></i>.&nbsp;
+<br><b>uncomfortable</b>
+&nbsp;to be irritated, uncomfortable, impatient (esp. from pain): &nbsp;<i><a href="n.htm#nokhamohkachi">nokhamohkachi</a></i>.&nbsp;
+<br><b>uncommon</b>
+&nbsp;to be very rare, uncommon, the only one, unique: &nbsp;<i><a href="c.htm#chafáaⁿkàasi">chafáaⁿkàasi</a></i>.&nbsp;
+<br><b>unconscious</b>
+&nbsp;to stun, paralyze, knock unconscious: &nbsp;<i><a href="h.htm#haapolommi">haapolommi</a></i>.&nbsp;
+<br><b>uncontrollable</b>
+&nbsp;to be uncontrollable to: &nbsp;<i><a href="a.htm#áyyapka">áyyapka</a></i>.&nbsp;
+<br><b>uncooked</b>
+&nbsp;to be raw, uncooked: &nbsp;<i><a href="o.htm#okcháako">okcháako</a></i>.&nbsp;
+<br><b>uncooperative</b>
+&nbsp;to act stubborn, be uncooperative: &nbsp;<i><a href="i2.htm#istiliichoba">istiliichoba</a></i>.&nbsp;
+&nbsp;to be difficult to handle (as a wild horse), hard to train, uncooperative: &nbsp;<i><a href="i2.htm#istachihba">istachihba</a></i>.&nbsp;
+<br><b>under</b>
+&nbsp;to go under, crawl under: &nbsp;<i><a href="n.htm#nottakonotli">nottakonotli</a>, <a href="i2.htm#ittakonotli">ittakonotli</a></i>.&nbsp;
+&nbsp;to stoop to go under: &nbsp;<i><a href="i2.htm#itachonotli">itachonotli</a></i>.&nbsp;
+<br><b>underarm</b>&nbsp;&nbsp;<i><a href="h.htm#haktambi">haktambi</a></i>.&nbsp;
+&nbsp;underarm hair: &nbsp;<i><a href="h.htm#haktambi hissi">haktambi hissi</a></i>.&nbsp;
+<br><b>underpants</b>&nbsp;&nbsp;<i><a href="h.htm#hayilaanikofka">hayilaanikofka</a></i>.&nbsp;
+<br><b>underpass</b>&nbsp;&nbsp;<i><a href="h.htm#hininota ɬopotka">hininota ɬopotka</a></i>.&nbsp;
+<br><b>underside</b>&nbsp;&nbsp;<i><a href="n.htm#nota">nota</a></i>.&nbsp;
+<br><b>understand</b>
+&nbsp;thought, understanding: &nbsp;<i><a href="a.htm#akostinitilka">akostinitilka</a></i>.&nbsp;
+&nbsp;anything that helps one understand, helps one examine and know oneself: &nbsp;<i><a href="i2.htm#istilakostinichilka">istilakostinichilka</a></i>.&nbsp;
+&nbsp;to understand: &nbsp;<i><a href="a.htm#akostiníichi">akostiníichi</a></i>.&nbsp;
+&nbsp;to understand someone: &nbsp;<i><a href="i1.htm#imakostiniichi">imakostiniichi</a></i>.&nbsp;
+&nbsp;to understand something pretty well (but not completely): &nbsp;<i><a href="a.htm#akostínnìichi">akostínnìichi</a></i>.&nbsp;
+&nbsp;to almost be able to understand someone but not entirely: &nbsp;<i><a href="i1.htm#imakostínnìichi">imakostínnìichi</a></i>.&nbsp;
+&nbsp;to finally understand someone: &nbsp;<i><a href="i1.htm#imakostiníichi">imakostiníichi</a></i>.&nbsp;
+&nbsp;to misunderstand, make a mistake about: &nbsp;<i><a href="i2.htm#istiⁿɬakoffi">istiⁿɬakoffi</a></i>.&nbsp;
+<br><b>undertaker</b>&nbsp;&nbsp;<i><a href="a.htm#aatilli talbòoli">aatilli talbòoli</a></i>.&nbsp;
+<br><b>under water</b>
+&nbsp;to dive under water, go under water, submerge once: &nbsp;<i><a href="o.htm#okhaboska">okhaboska</a></i>.&nbsp;
+<br><b>underway</b>
+&nbsp;to be coming, on the way, underway, en route: &nbsp;<i><a href="i1.htm#íila">íila</a></i>.&nbsp;
+<br><b>underwear</b>&nbsp;&nbsp;<i><a href="h.htm#hayilaanikofka">hayilaanikofka</a>, <a href="h.htm#hayo holikfa">hayo holikfa</a></i>.&nbsp;
+<br><b>undisciplined</b>
+&nbsp;to be undisciplined: &nbsp;<i><a href="a.htm#ayapka">ayapka</a></i>.&nbsp;
+<br><b>undo</b>
+&nbsp;to undo, loosen: &nbsp;<i><a href="y.htm#yiɬɬi">yiɬɬi</a></i>.&nbsp;
+&nbsp;to loosen, undo (one object) from: &nbsp;<i><a href="i1.htm#iⁿhamoffichi">iⁿhamoffichi</a></i>.&nbsp;
+&nbsp;to come undone from, be torn apart: &nbsp;<i><a href="i2.htm#istintipka">istintipka</a></i>.&nbsp;
+&nbsp;to come loose, undone: &nbsp;<i><a href="h.htm#hamoffi">hamoffi</a></i>.&nbsp;
+&nbsp;to have a seam rip out, come undone (at a seam), come unraveled: &nbsp;<i><a href="i2.htm#istiⁿsihkachi">istiⁿsihkachi</a></i>.&nbsp;
+&nbsp;to have one garment come undone, unbuttoned, or untied: &nbsp;<i><a href="i2.htm#istimiisitofka">istimiisitofka</a></i>.&nbsp;
+&nbsp;to have (something) rip apart or tear open, have (clothing) come undone: &nbsp;<i><a href="i2.htm#istimintipka">istimintipka</a></i>.&nbsp;
+<br><b>undress</b>
+&nbsp;to undress oneself, remove more than one article of clothing: &nbsp;<i><a href="i1.htm#iliisiihli">iliisiihli</a></i>.&nbsp;
+&nbsp;to be undressed: &nbsp;<i><a href="i1.htm#ilokfíkso">ilokfíkso</a></i>.&nbsp;
+<br><b>uneasy</b>
+&nbsp;to be uneasy, tense, nervous: &nbsp;<i><a href="y.htm#yowaapa">yowaapa</a></i>.&nbsp;
+&nbsp;to make someone nervous, make tense, make uneasy: &nbsp;<i><a href="y.htm#yowaapachi">yowaapachi</a></i>.&nbsp;
+<br><b>unequal</b>
+&nbsp;to be unequal: &nbsp;<i><a href="a.htm#ahokìibo">ahokìibo</a>, <a href="a.htm#ahoobatíkko">ahoobatíkko</a></i>.&nbsp;
+<br><b>uneven</b>
+&nbsp;to be uneven in several places: &nbsp;<i><a href="i2.htm#ittílláwko">ittílláwko</a></i>.&nbsp;
+<br><b>unfamiliar</b>
+&nbsp;to be unfamiliar, not used to, unbecoming: &nbsp;<i><a href="i2.htm#istipílko">istipílko</a></i>.&nbsp;
+<br><b>unfasten</b>
+&nbsp;to unfasten, loosen, unplug, undo (one object) from: &nbsp;<i><a href="i1.htm#iⁿhamoffichi">iⁿhamoffichi</a></i>.&nbsp;
+<br><b>unfold</b>
+&nbsp;to open up (one object), unfold (e.g. a jacknife): &nbsp;<i><a href="f.htm#fakopli">fakopli</a></i>.&nbsp;
+<br><b>unhappy</b>
+&nbsp;to be slightly angry, unhappy: &nbsp;<i><a href="a.htm#ayokíkpo">ayokíkpo</a></i>.&nbsp;
+<br><b>unhitch</b>
+&nbsp;to detatch something from, unhitch (an animal) from (a vehicle): &nbsp;<i><a href="i1.htm#iⁿsiipli">iⁿsiipli</a></i>.&nbsp;
+<br><b>unhook</b>
+&nbsp;to unhook (one object): &nbsp;<i><a href="t.htm#taɬoffichi">taɬoffichi</a></i>.&nbsp;
+&nbsp;to be unhooked (of several): &nbsp;<i><a href="t.htm#taɬòoli">taɬòoli</a></i>.&nbsp;
+<br><b>uniform</b>
+&nbsp;dancing costume, regalia, uniform for dancing: &nbsp;<i><a href="i2.htm#isbitka">isbitka</a></i>.&nbsp;
+&nbsp;to dress (someone) up in costume, uniform, or finery: &nbsp;<i><a href="i1.htm#ilommachiichi">ilommachiichi</a></i>.&nbsp;
+&nbsp;to dress up in costume, uniform, or finery, be well dressed: &nbsp;<i><a href="i1.htm#ilommachi">ilommachi</a></i>.&nbsp;
+<br><b>unique</b>
+&nbsp;to be very rare, uncommon, unique: &nbsp;<i><a href="c.htm#chafáaⁿkàasi">chafáaⁿkàasi</a></i>.&nbsp;
+<br><b>unkempt</b>
+&nbsp;to be unkempt, messy, dirty, caked with mud: &nbsp;<i><a href="p.htm#pasàali">pasàali</a></i>.&nbsp;
+&nbsp;to be a little dirty, messy, sloppy, unkempt, disheveled: &nbsp;<i><a href="t.htm#taláamòosi">taláamòosi</a></i>.&nbsp;
+<br><b>unknown</b>
+&nbsp;to be unknown, secret, mysterious, strange: &nbsp;<i><a href="s.htm#sobayhíkko">sobayhíkko</a></i>.&nbsp;
+<br><b>unlatch</b>
+&nbsp;to unlatch: &nbsp;<i><a href="h.htm#hamoffichi">hamoffichi</a></i>.&nbsp;
+&nbsp;to unlatch, undo (one object) from: &nbsp;<i><a href="i1.htm#iⁿhamoffichi">iⁿhamoffichi</a></i>.&nbsp;
+<br><b>unlike</b>
+&nbsp;to be different from each other, unlike, mismatched: &nbsp;<i><a href="i2.htm#ittimaɬahka">ittimaɬahka</a></i>.&nbsp;
+<br><b>unload</b>
+&nbsp;to help down (as down the steps), help get out of a vehicle, drop off (a person), unload (one object): &nbsp;<i><a href="t.htm#tanatlichi">tanatlichi</a></i>.&nbsp;
+&nbsp;to unload (more than one thing): &nbsp;<i><a href="t.htm#tanahlichi">tanahlichi</a></i>.&nbsp;
+<br><b>unlucky</b>
+&nbsp;to be unlucky: &nbsp;<i><a href="p.htm#piyaafo">piyaafo</a></i>.&nbsp;
+<br><b>unmake</b>
+&nbsp;to unmake (e.g. a bed): &nbsp;<i><a href="y.htm#yiɬɬi">yiɬɬi</a></i>.&nbsp;
+<br><b>unmarried</b>
+&nbsp;unmarried man: &nbsp;<i><a href="h.htm#halkíkso">halkíkso</a></i>.&nbsp;
+&nbsp;unmarried woman: &nbsp;<i><a href="i1.htm#innaaníkso">innaaníkso</a></i>.&nbsp;
+<br><b>unpaved road</b>&nbsp;&nbsp;<i><a href="t.htm#tissanaha iⁿhini">tissanaha iⁿhini</a></i>.&nbsp;
+<br><b>unplug</b>
+&nbsp;to unplug (an appliance): &nbsp;<i><a href="i2.htm#istimisi">istimisi</a>, <a href="i2.htm#istonasiipli">istonasiipli</a></i>.&nbsp;
+&nbsp;to unplug, undo (one object) from: &nbsp;<i><a href="i1.htm#iⁿhamoffichi">iⁿhamoffichi</a></i>.&nbsp;
+<br><b>unravel</b>
+&nbsp;to pull out loose threads, unravel (thread): &nbsp;<i><a href="s.htm#sihlichi">sihlichi</a></i>.&nbsp;
+&nbsp;to come unravelled: &nbsp;<i><a href="s.htm#sihkachi">sihkachi</a></i>.&nbsp;
+&nbsp;to have a seam rip out, come undone (at a seam), come unraveled: &nbsp;<i><a href="i2.htm#istiⁿsihkachi">istiⁿsihkachi</a></i>.&nbsp;
+<br><b>unripe</b>&nbsp;&nbsp;<i><a href="w.htm#wakìiyo">wakìiyo</a></i>.&nbsp;
+<br><b>unruly</b>
+&nbsp;to be mussed, unruly, wild (of hair): &nbsp;<i><a href="w.htm#wooksi">wooksi</a></i>.&nbsp;
+<br><b>unsure</b>
+&nbsp;to be unsure about, not expect, be unaware of: &nbsp;<i><a href="a.htm#akíilo">akíilo</a></i>.&nbsp;
+<br><b>untangle</b>
+&nbsp;to untangle: &nbsp;<i><a href="f.htm#fakohlichi">fakohlichi</a></i>.&nbsp;
+<br><b>untie</b>
+&nbsp;to untie (a restraint), unbutton (one button): &nbsp;<i><a href="s.htm#sitoffi">sitoffi</a></i>.&nbsp;
+&nbsp;to untie or unbutton (one button of one's own clothes): &nbsp;<i><a href="i2.htm#issitoffi">issitoffi</a></i>.&nbsp;
+&nbsp;to untie (the laces of a shoe): &nbsp;<i><a href="i2.htm#istiⁿsitoffi">istiⁿsitoffi</a></i>.&nbsp;
+&nbsp;to untie (one object) for: &nbsp;<i><a href="i2.htm#istimiisitoffi">istimiisitoffi</a></i>.&nbsp;
+&nbsp;to untie (a restraint) for (a person or animal), let loose from, set free from: &nbsp;<i><a href="i1.htm#iⁿsitoffi">iⁿsitoffi</a></i>.&nbsp;
+&nbsp;to untie (a restraint) from (a person or animal) for (someone), let loose from for (someone), set free from for (someone): &nbsp;<i><a href="i1.htm#imiisitoffi">imiisitoffi</a></i>.&nbsp;
+&nbsp;to be untied (of one): &nbsp;<i><a href="s.htm#sitofka">sitofka</a></i>.&nbsp;
+&nbsp;to have (one thing) come untied or unbuttoned: &nbsp;<i><a href="i2.htm#istiⁿsitofka">istiⁿsitofka</a></i>.&nbsp;
+<br><b>until</b>
+&nbsp;during a certain period in the past up to or until some later time: &nbsp;<i><a href="i2.htm#istíila">istíila</a></i>.&nbsp;
+<br><b>untuck</b>
+&nbsp;to be untucked: &nbsp;<i><a href="s.htm#samaíkko">samaíkko</a></i>.&nbsp;
+<br><b>unwell</b>
+&nbsp;to be sickly, unwell, feeling bad chronically: &nbsp;<i><a href="k.htm#koyaabi">koyaabi</a></i>.&nbsp;
+<br><b>up</b>&nbsp;&nbsp;<i><a href="a.htm#abahli">abahli</a></i>.&nbsp;
+&nbsp;way up high, far up: &nbsp;<i><a href="a.htm#abaapínha">abaapínha</a></i>.&nbsp;
+&nbsp;to be high up, be a certain height: &nbsp;<i><a href="a.htm#abáski">abáski</a></i>.&nbsp;
+&nbsp;to be high up, be up: &nbsp;<i><a href="a.htm#abahli">abahli</a></i>.&nbsp;
+&nbsp;to be higher up, above some reference point: &nbsp;<i><a href="m.htm#maapáanàasi">maapáanàasi</a></i>.&nbsp;
+&nbsp;to come up, go out, get out, exit (of more than one): &nbsp;<i><a href="a.htm#askahka">askahka</a></i>.&nbsp;
+&nbsp;to come up, rise (of the sun): &nbsp;<i><a href="a.htm#assaliika">assaliika</a></i>.&nbsp;
+&nbsp;to ascend, rise, take off (as an airplane), go up: &nbsp;<i><a href="a.htm#abahlichi">abahlichi</a></i>.&nbsp;
+&nbsp;to pull up (covers) over oneself, drape oneself with: &nbsp;<i><a href="a.htm#anchi">anchi</a></i>.&nbsp;
+&nbsp;to dig out, pull up, get out (one object) that is stuck in: &nbsp;<i><a href="f.htm#fitipka">fitipka</a></i>.&nbsp;
+&nbsp;to hang, pick up, hold up, dangle (one object): &nbsp;<i><a href="a.htm#atakàali">atakàali</a></i>.&nbsp;
+&nbsp;to jump, hop up and down (repeatedly): &nbsp;<i><a href="c.htm#choffi">choffi</a></i>.&nbsp;
+&nbsp;to pick up, take up (more than one) from below: &nbsp;<i><a href="i2.htm#itapihli">itapihli</a></i>.&nbsp;
+&nbsp;to put up (hair) in a bun, wear (hair) in a bun: &nbsp;<i><a href="b.htm#bonotli">bonotli</a></i>.&nbsp;
+&nbsp;to tear up (one object): &nbsp;<i><a href="y.htm#yiɬapli">yiɬapli</a></i>.&nbsp;
+&nbsp;to turn over face up: &nbsp;<i><a href="h.htm#hanokfalanka">hanokfalanka</a></i>.&nbsp;
+<br><b>up and down</b>
+&nbsp;to pump, move (something) up and down: &nbsp;<i><a href="a.htm#abitlichi">abitlichi</a></i>.&nbsp;
+<br><b>upon</b>
+&nbsp;upon, the very minute: &nbsp;<i><a href="afx.htm#-yáali">-yáali</a></i>.&nbsp;
+<br><b>upper arm</b>
+&nbsp;shoulder, upper arm: &nbsp;<i><a href="s.htm#sakbakonìiɬa">sakbakonìiɬa</a></i>.&nbsp;
+&nbsp;arm (uppermost part), top of the shoulder, upper arm: &nbsp;<i><a href="s.htm#sakbapáana">sakbapáana</a></i>.&nbsp;
+<br><b>uppers</b>
+&nbsp;top teeth, uppers: &nbsp;<i><a href="i1.htm#innatipáana">innatipáana</a></i>.&nbsp;
+<br><b>upright</b>
+&nbsp;upright supporting posts for the frame of a house: &nbsp;<i><a href="i1.htm#iisintonni">iisintonni</a></i>.&nbsp;
+&nbsp;to be standing upright, be set up vertically (of more than one): &nbsp;<i><a href="l.htm#lókkòoli">lókkòoli</a></i>.&nbsp;
+&nbsp;to set down on, put on top of, use in an upright position (one thing in a container): &nbsp;<i><a href="i2.htm#ispaachokoolichi">ispaachokoolichi</a></i>.&nbsp;
+&nbsp;to stand one thing upright, esp. put a pot on the fire: &nbsp;<i><a href="i2.htm#istitahachaalichi">istitahachaalichi</a></i>.&nbsp;
+<br><b>uproot</b>
+&nbsp;to uproot (one object): &nbsp;<i><a href="t.htm#tiifka">tiifka</a></i>.&nbsp;
+&nbsp;to dig out, get out (one object) that is stuck in, uproot: &nbsp;<i><a href="f.htm#fitipka">fitipka</a></i>.&nbsp;
+<br><b>upside down</b>
+&nbsp;to be upside down: &nbsp;<i><a href="i1.htm#ibakpila">ibakpila</a></i>.&nbsp;
+&nbsp;to be bent over, turned upside down: &nbsp;<i><a href="ll.htm#ɬíppìika">ɬíppìika</a></i>.&nbsp;
+&nbsp;to be leaning towards being upside down: &nbsp;<i><a href="i1.htm#ibakpìila">ibakpìila</a></i>.&nbsp;
+&nbsp;to turn upside down: &nbsp;<i><a href="i1.htm#ibakpilaachi">ibakpilaachi</a></i>.&nbsp;
+&nbsp;to be turned upside down, turned over (of more than one): &nbsp;<i><a href="ll.htm#ɬìipka">ɬìipka</a></i>.&nbsp;
+&nbsp;to have (one object) turned upside down: &nbsp;<i><a href="ll.htm#ɬíppìili">ɬíppìili</a></i>.&nbsp;
+&nbsp;to turn (one object with a top and bottom) upside down: &nbsp;<i><a href="ll.htm#ɬipìili">ɬipìili</a></i>.&nbsp;
+<br><b>upstairs</b>&nbsp;&nbsp;<i><a href="a.htm#abahli">abahli</a></i>.&nbsp;
+<br><b>urge</b>
+&nbsp;to force, urge, encourage to go: &nbsp;<i><a href="i2.htm#ischiliita">ischiliita</a></i>.&nbsp;
+&nbsp;to urge forward, push forward, send (a messenger), delegate, get someone to do something: &nbsp;<i><a href="p.htm#paatohno">paatohno</a></i>.&nbsp;
+<br><b>urinal</b>&nbsp;&nbsp;<i><a href="a.htm#aaholiswa">aaholiswa</a>, <a href="a.htm#aaɬoyhilka">aaɬoyhilka</a></i>.&nbsp;
+<br><b>urinate</b>
+&nbsp;to urinate: &nbsp;<i><a href="h.htm#hoswa">hoswa</a></i>.&nbsp;
+&nbsp;to wet on oneself, be incontinent: &nbsp;<i><a href="i1.htm#ilihoswa">ilihoswa</a></i>.&nbsp;
+&nbsp;to wet the bed: &nbsp;<i><a href="p.htm#patkan oohoswa">patkan oohoswa</a></i>.&nbsp;
+<br><b>urine</b>&nbsp;&nbsp;<i><a href="h.htm#holiswa">holiswa</a></i>.&nbsp;
+&nbsp;to smell of urine: &nbsp;<i><a href="k.htm#kaɬaama">kaɬaama</a></i>.&nbsp;
+<br><b>us</b>&nbsp;&nbsp;<i><a href="p.htm#posna">posna</a></i>.&nbsp;
+<br><b>use</b>
+&nbsp;to use: &nbsp;<i><a href="n.htm#naho2">naho<sup>2</sup></a></i>.&nbsp;
+&nbsp;to use for a specific purpose: &nbsp;<i><a href="i2.htm#isnaho">isnaho</a></i>.&nbsp;
+<br><b>used to</b>
+&nbsp;to be used to: &nbsp;<i><a href="i2.htm#istimponna">istimponna</a></i>.&nbsp;
+&nbsp;to be used to, be familiar with, be comfortable with: &nbsp;<i><a href="i2.htm#istipìila">istipìila</a></i>.&nbsp;
+<br><b>use up</b>
+&nbsp;to finish off, get through with, use up: &nbsp;<i><a href="a.htm#anooli">anooli</a>, <a href="a.htm#anosli">anosli</a></i>.&nbsp;
+&nbsp;to finish off, eat up, use up (one object belonging to someone): &nbsp;<i><a href="i1.htm#imanooli">imanooli</a></i>.&nbsp;
+&nbsp;to use up (something belonging to someone) for or on: &nbsp;<i><a href="i2.htm#istimanooli">istimanooli</a></i>.&nbsp;
+&nbsp;to be all gone, finished up, used up: &nbsp;<i><a href="a.htm#anooka">anooka</a>, <a href="a.htm#anoska">anoska</a></i>.&nbsp;
+<br><b>utensil</b>
+&nbsp;cooking utensil: &nbsp;<i><a href="i2.htm#ishoponka">ishoponka</a></i>.&nbsp;
+&nbsp;eating utensils, silverware: &nbsp;<i><a href="i2.htm#istoolimpa">istoolimpa</a></i>.&nbsp;
+<br><b>uvula</b>&nbsp;&nbsp;<i><a href="i1.htm#icholaksi ochòosi">icholaksi ochòosi</a>, <a href="i1.htm#icholaksosi">icholaksosi</a></i>.&nbsp;
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

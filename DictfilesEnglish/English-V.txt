@@ -1,0 +1,141 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">V</font></center><br>
+<br><b>vacant</b>
+&nbsp;vacant lot or field: &nbsp;<i><a href="i1.htm#ihtolaana">ihtolaana</a></i>.&nbsp;
+<br><b>vagina</b>&nbsp;&nbsp;<i><a href="c.htm#chocho">chocho</a>, <a href="i1.htm#inchoocho">inchoocho</a>, <a href="t.htm#tayyihastiⁿholiswa">tayyihastiⁿholiswa</a></i>.&nbsp;
+&nbsp;genitals (male or female): &nbsp;<i><a href="i2.htm#istiⁿholiswa">istiⁿholiswa</a></i>.&nbsp;
+<br><b>vain</b>
+&nbsp;to be a bragger, proud, vain: &nbsp;<i><a href="i1.htm#ilahota">ilahota</a></i>.&nbsp;
+&nbsp;to be proud of something, vain about: &nbsp;<i><a href="i2.htm#istilahota">istilahota</a></i>.&nbsp;
+<br><b>valley</b>&nbsp;&nbsp;<i><a href="o.htm#ookolokbi">ookolokbi</a></i>.&nbsp;
+&nbsp;potholes, series of dips or valleys: &nbsp;<i><a href="k.htm#kolkobi">kolkobi</a></i>.&nbsp;
+<br><b>value</b>
+&nbsp;to treat with respect, treasure, value: &nbsp;<i><a href="a.htm#ayyiho">ayyiho</a>, <a href="i2.htm#iyíihòssi">iyíihòssi</a></i>.&nbsp;
+&nbsp;to value, treasure or cherish something belonging to someone else: &nbsp;<i><a href="i1.htm#imiyíihòosi">imiyíihòosi</a></i>.&nbsp;
+<br><b>vapor trail</b>&nbsp;&nbsp;<i><a href="ll.htm#ɬaafka">ɬaafka</a></i>.&nbsp;
+<br><b>vat</b>&nbsp;&nbsp;<i><a href="i2.htm#iyyìisa">iyyìisa</a></i>.&nbsp;
+<br><b>vegetables</b>&nbsp;&nbsp;<i><a href="n.htm#nàaswaaya">nàaswaaya</a></i>.&nbsp;
+<br><b>vegetation</b>
+&nbsp;to be overgrown, dense (with vegetation): &nbsp;<i><a href="o.htm#olahna">olahna</a></i>.&nbsp;
+<br><b>vehicle</b>
+&nbsp;any motorized vehicle: &nbsp;<i><a href="i1.htm#ibisnáaliwalíika">ibisnáaliwalíika</a></i>.&nbsp;
+&nbsp;to be turned over inside a vehicle, flip a vehicle in an accident: &nbsp;<i><a href="i2.htm#istafilinka">istafilinka</a></i>.&nbsp;
+&nbsp;to drive (a car), run, operate, turn on or start (a vehicle or machine): &nbsp;<i><a href="w.htm#waliilichi">waliilichi</a></i>.&nbsp;
+<br><b>vein</b>&nbsp;&nbsp;<i><a href="ll.htm#ɬakhani assikchi">ɬakhani assikchi</a>, <a href="a.htm#assikchi">assikchi</a></i>.&nbsp;
+&nbsp;leaf veins: &nbsp;<i><a href="i2.htm#ittohissichofkoni">ittohissichofkoni</a></i>.&nbsp;
+<br><b>venereal disease</b>&nbsp;&nbsp;<i><a href="y.htm#yokbi">yokbi</a></i>.&nbsp;
+<br><b>Venetian blinds</b>&nbsp;&nbsp;<i><a href="a.htm#ayyanchahka mastimatonka">ayyanchahka mastimatonka</a></i>.&nbsp;
+<br><b>venison</b>&nbsp;&nbsp;<i><a href="i1.htm#ichonipo">ichonipo</a></i>.&nbsp;
+<br><b>vertebra</b>&nbsp;&nbsp;<i><a href="c.htm#chanahki">chanahki</a>, <a href="w.htm#wakhachanahki">wakhachanahki</a></i>.&nbsp;
+<br><b>vertical</b>
+&nbsp;to be standing upright, be set up vertically (of more than one): &nbsp;<i><a href="l.htm#lókkòoli">lókkòoli</a></i>.&nbsp;
+<br><b>vertigo</b>
+&nbsp;to experience vertigo: &nbsp;<i><a href="i1.htm#imayohka">imayohka</a></i>.&nbsp;
+&nbsp;to cause someone to experience vertigo: &nbsp;<i><a href="i1.htm#imayohlichi">imayohlichi</a></i>.&nbsp;
+<br><b>very</b>&nbsp;&nbsp;<i><a href="f.htm#fíhna">fíhna</a></i>.&nbsp;
+&nbsp;exactly, right, very, really: &nbsp;<i><a href="afx.htm#-fíhna">-fíhna</a></i>.&nbsp;
+&nbsp;really, very: &nbsp;<i><a href="afx.htm#-àapi">-àapi</a>, <a href="afx.htm#-palammi">-palammi</a></i>.&nbsp;
+&nbsp;the one, the very, the same, the exact: &nbsp;<i><a href="afx.htm#-áali">-áali</a></i>.&nbsp;
+&nbsp;very, really: &nbsp;<i><a href="afx.htm#-mooli">-mooli</a>, <a href="afx.htm#-yáali">-yáali</a></i>.&nbsp;
+&nbsp;(do) a lot, (do) too much, very, too: &nbsp;<i><a href="a.htm#áalòosi">áalòosi</a></i>.&nbsp;
+<br><b>vessel</b>
+&nbsp;large ship, sea vessel: &nbsp;<i><a href="p.htm#piɬɬabaski">piɬɬabaski</a></i>.&nbsp;
+&nbsp;blood vessel: &nbsp;<i><a href="ll.htm#ɬakhaniⁿhini">ɬakhaniⁿhini</a>, <a href="ll.htm#ɬakhani assikchi">ɬakhani assikchi</a>, <a href="a.htm#assikchi">assikchi</a></i>.&nbsp;
+<br><b>vest</b>&nbsp;&nbsp;<i><a href="k.htm#kapòota koboksi">kapòota koboksi</a></i>.&nbsp;
+<br><b>veteran</b>&nbsp;&nbsp;<i><a href="i2.htm#ittilbafa aati">ittilbafa aati</a></i>.&nbsp;
+<br><b>vibrate</b>
+&nbsp;to vibrate: &nbsp;<i><a href="i1.htm#ilkowàalichi">ilkowàalichi</a>, <a href="i1.htm#ilkowàali">ilkowàali</a>, <a href="a.htm#ataawotlichi">ataawotlichi</a></i>.&nbsp;
+<br><b>viburnum</b>&nbsp;&nbsp;<i><a href="i2.htm#ittobitìima">ittobitìima</a></i>.&nbsp;
+<br><b>vice</b>
+&nbsp;to pound, squeeze open in a vice: &nbsp;<i><a href="l.htm#liska">liska</a></i>.&nbsp;
+<br><b>vice president</b>&nbsp;&nbsp;<i><a href="m.htm#mikko istatòkla">mikko istatòkla</a>, <a href="m.htm#mikko istimatòkla">mikko istimatòkla</a></i>.&nbsp;
+<br><b>vicinity</b>
+&nbsp;here, this place, this vicinity, right here, this way: &nbsp;<i><a href="y.htm#yàali">yàali</a></i>.&nbsp;
+<br><b>vicious</b>
+&nbsp;to be mad, crazy, mean (of an animal), vicious: &nbsp;<i><a href="h.htm#hoyoopa">hoyoopa</a></i>.&nbsp;
+<br><b>victim</b>
+&nbsp;abused victimized person, a person one is mean to and uncaring about: &nbsp;<i><a href="s.htm#sikoopali">sikoopali</a></i>.&nbsp;
+<br><b>village</b>&nbsp;&nbsp;<i><a href="o.htm#oola">oola</a></i>.&nbsp;
+<br><b>vine</b>&nbsp;&nbsp;<i><a href="a.htm#apànkachi">apànkachi</a>, <a href="ll.htm#ɬolotli">ɬolotli</a></i>.&nbsp;
+&nbsp;creeper, crawling vine: &nbsp;<i><a href="a.htm#apakfòoli">apakfòoli</a></i>.&nbsp;
+&nbsp;blue vine with thorns: &nbsp;<i><a href="b.htm#baɬkapìhchi okchakko">baɬkapìhchi okchakko</a></i>.&nbsp;
+&nbsp;crawling vine with purple flowers, prob. morning glory: &nbsp;<i><a href="h.htm#hapaafalala">hapaafalala</a></i>.&nbsp;
+&nbsp;muscadine vine: &nbsp;<i><a href="c.htm#chokkapihchi">chokkapihchi</a></i>.&nbsp;
+&nbsp;wild grape vine: &nbsp;<i><a href="b.htm#baɬkapihchi">baɬkapihchi</a></i>.&nbsp;
+<br><b>vinegar</b>&nbsp;&nbsp;<i><a href="f.htm#finika">finika</a></i>.&nbsp;
+<br><b>violet</b>
+&nbsp;wild violet: &nbsp;<i><a href="f.htm#fayolitka maɬátli">fayolitka maɬátli</a></i>.&nbsp;
+&nbsp;African violet: &nbsp;<i><a href="f.htm#fayolitka">fayolitka</a></i>.&nbsp;
+&nbsp;to be blue, green, purple, violet, in the blue-green spectrum: &nbsp;<i><a href="o.htm#okchakko">okchakko</a></i>.&nbsp;
+<br><b>virile</b>
+&nbsp;to be virile: &nbsp;<i><a href="p.htm#polooma">polooma</a></i>.&nbsp;
+<br><b>visible</b>
+&nbsp;to be visible: &nbsp;<i><a href="i1.htm#ilhíicha">ilhíicha</a></i>.&nbsp;
+&nbsp;to be visible to: &nbsp;<i><a href="i1.htm#immóttàaki">immóttàaki</a></i>.&nbsp;
+&nbsp;to be visible from a distance: &nbsp;<i><a href="m.htm#maamóttàaki">maamóttàaki</a></i>.&nbsp;
+&nbsp;to be visible, legible, perceivable: &nbsp;<i><a href="m.htm#mottaki">mottaki</a></i>.&nbsp;
+&nbsp;to be perceptible to, visible to: &nbsp;<i><a href="i1.htm#immottaki">immottaki</a></i>.&nbsp;
+&nbsp;to be showing, be perceived, be seen, be visible: &nbsp;<i><a href="m.htm#móttàaki">móttàaki</a></i>.&nbsp;
+&nbsp;to be able to be seen, be still visible to: &nbsp;<i><a href="i1.htm#immottáaki">immottáaki</a></i>.&nbsp;
+&nbsp;to be out and visible (of a heavenly body): &nbsp;<i><a href="c.htm#chókkòoli">chókkòoli</a>, <a href="m.htm#maachókkòoli">maachókkòoli</a></i>.&nbsp;
+&nbsp;to appear, be out and visible (of a rainbow): &nbsp;<i><a href="m.htm#maahátchàali">maahátchàali</a></i>.&nbsp;
+&nbsp;to be invisible: &nbsp;<i><a href="i1.htm#ilhichíkso">ilhichíkso</a></i>.&nbsp;
+<br><b>vision</b>&nbsp;&nbsp;<i><a href="i2.htm#istilhicha">istilhicha</a></i>.&nbsp;
+&nbsp;to be blurry, dim, clouded (of the vision): &nbsp;<i><a href="t.htm#tóobòosi">tóobòosi</a></i>.&nbsp;
+<br><b>visit</b>
+&nbsp;to visit: &nbsp;<i><a href="i1.htm#imonti">imonti</a></i>.&nbsp;
+&nbsp;to visit with: &nbsp;<i><a href="i1.htm#imbiniili">imbiniili</a></i>.&nbsp;
+&nbsp;to come to see (someone), visit: &nbsp;<i><a href="i1.htm#imila">imila</a></i>.&nbsp;
+&nbsp;to come, arrive (at a place), visit a place: &nbsp;<i><a href="o.htm#oɬa">oɬa</a></i>.&nbsp;
+&nbsp;to go visiting: &nbsp;<i><a href="b.htm#biniili">biniili</a></i>.&nbsp;
+&nbsp;to sleep over at a person's, come visit with overnight: &nbsp;<i><a href="i1.htm#iltinnochi">iltinnochi</a></i>.&nbsp;
+&nbsp;to sleep over, come visit overnight: &nbsp;<i><a href="i1.htm#ilnochi">ilnochi</a></i>.&nbsp;
+&nbsp;to stay, visit, live, be here (of one or two): &nbsp;<i><a href="a.htm#àtta">àtta</a></i>.&nbsp;
+<br><b>visitor</b>&nbsp;&nbsp;<i><a href="b.htm#binìili">binìili</a></i>.&nbsp;
+<br><b>visor</b>&nbsp;&nbsp;<i><a href="i1.htm#intalka">intalka</a></i>.&nbsp;
+<br><b>voice</b>&nbsp;&nbsp;<i><a href="n.htm#nokbi">nokbi</a></i>.&nbsp;
+<br><b>void</b>
+&nbsp;to divorce, make the marriage license void: &nbsp;<i><a href="a.htm#alwahli">alwahli</a></i>.&nbsp;
+<br><b>volleyball</b>&nbsp;&nbsp;<i><a href="p.htm#pokkobatka">pokkobatka</a></i>.&nbsp;
+<br><b>vomit</b>&nbsp;&nbsp;<i><a href="a.htm#ahoolta">ahoolta</a></i>.&nbsp;
+&nbsp;to vomit, throw up: &nbsp;<i><a href="a.htm#ahoota">ahoota</a></i>.&nbsp;
+&nbsp;to vomit on purpose, purge oneself: &nbsp;<i><a href="a.htm#ahoota">ahoota</a></i>.&nbsp;
+&nbsp;to vomit up (something), vomit because of something in particular: &nbsp;<i><a href="i2.htm#istahoota">istahoota</a></i>.&nbsp;
+&nbsp;to make vomit, nauseate: &nbsp;<i><a href="a.htm#ahootachi">ahootachi</a></i>.&nbsp;
+<br><b>vote</b>
+&nbsp;selecting a chief, vote for chief: &nbsp;<i><a href="m.htm#mikkochilka">mikkochilka</a></i>.&nbsp;
+&nbsp;to abstain, make oneself stop (as from voting): &nbsp;<i><a href="i1.htm#iliinokchoba">iliinokchoba</a></i>.&nbsp;
+<br><b>vulture</b>&nbsp;&nbsp;<i><a href="s.htm#sayki">sayki</a>, <a href="s.htm#saykichòoba">saykichòoba</a></i>.&nbsp;
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

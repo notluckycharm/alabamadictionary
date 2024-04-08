@@ -1,0 +1,371 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">N</font></center><br>
+<br><b>N</b>
+&nbsp;the letter `N': &nbsp;<i><a href="i1.htm#ìnka">ìnka</a></i>.&nbsp;
+<br><b>nail</b>
+&nbsp;iron nail: &nbsp;<i><a href="a.htm#achoopa">achoopa</a></i>.&nbsp;
+&nbsp;plugs, nails, pins: &nbsp;<i><a href="i2.htm#istachosli">istachosli</a></i>.&nbsp;
+&nbsp;spike, big nail: &nbsp;<i><a href="a.htm#achoopachoba">achoopachoba</a></i>.&nbsp;
+&nbsp;thumb tack, carpet tack, small nail: &nbsp;<i><a href="a.htm#achoopasi">achoopasi</a></i>.&nbsp;
+&nbsp;anything nailed up or used to nail something up: &nbsp;<i><a href="i2.htm#istachosòoli">istachosòoli</a></i>.&nbsp;
+&nbsp;anything used to pull nails: &nbsp;<i><a href="a.htm#achoopa issiihka">achoopa issiihka</a></i>.&nbsp;
+&nbsp;toenail, hoof, claw: &nbsp;<i><a href="i2.htm#iyyaksi">iyyaksi</a></i>.&nbsp;
+&nbsp;to be nailed, be stuck into (e.g. of a dart) (once): &nbsp;<i><a href="a.htm#achosòoka1">achosòoka<sup>1</sup></a></i>.&nbsp;
+&nbsp;to nail, drive in (a sharp object), stick in, stab, pierce, impale (one object): &nbsp;<i><a href="a.htm#achosòoli">achosòoli</a></i>.&nbsp;
+<br><b>nail file</b>&nbsp;&nbsp;<i><a href="i1.htm#ilbaksissohkachi">ilbaksissohkachi</a></i>.&nbsp;
+<br><b>nail polish</b>&nbsp;&nbsp;<i><a href="i1.htm#ilbaksihomma">ilbaksihomma</a></i>.&nbsp;
+&nbsp;to apply nail polish: &nbsp;<i><a href="i1.htm#ilbaksihommachi">ilbaksihommachi</a></i>.&nbsp;
+<br><b>nails</b>
+&nbsp;fingernails: &nbsp;<i><a href="i1.htm#ilbaksi">ilbaksi</a></i>.&nbsp;
+<br><b>naked</b>&nbsp;&nbsp;<i><a href="i1.htm#ilokfíkso">ilokfíkso</a></i>.&nbsp;
+<br><b>name</b>&nbsp;&nbsp;<i><a href="h.htm#holchifa">holchifa</a></i>.&nbsp;
+&nbsp;surname, family name: &nbsp;<i><a href="h.htm#holchifastanóoka">holchifastanóoka</a></i>.&nbsp;
+&nbsp;nickname: &nbsp;<i><a href="h.htm#holchifafíhnòkkohchi">holchifafíhnòkkohchi</a></i>.&nbsp;
+&nbsp;traditional woman's name: &nbsp;<i><a href="a.htm#Awakáhyi">Awakáhyi</a></i>.&nbsp;
+&nbsp;a girl's name: &nbsp;<i><a href="s.htm#Sihooki">Sihooki</a></i>.&nbsp;
+&nbsp;Clem Fain: &nbsp;<i><a href="k.htm#Kilim Finka">Kilim Finka</a></i>.&nbsp;
+&nbsp;Clenson: &nbsp;<i><a href="k.htm#Kilinsi">Kilinsi</a></i>.&nbsp;
+&nbsp;Cooper: &nbsp;<i><a href="k.htm#Kòpa">Kòpa</a></i>.&nbsp;
+&nbsp;McConico (Battise): &nbsp;<i><a href="k.htm#Kaniko">Kaniko</a></i>.&nbsp;
+&nbsp;name of Chief B.C. Sylestine's mule: &nbsp;<i><a href="c.htm#Chòotka">Chòotka</a></i>.&nbsp;
+&nbsp;to name (someone), call (something) a name: &nbsp;<i><a href="h.htm#hochifa">hochifa</a></i>.&nbsp;
+&nbsp;to be named: &nbsp;<i><a href="h.htm#holchifa">holchifa</a></i>.&nbsp;
+&nbsp;to name after someone: &nbsp;<i><a href="a.htm#ahochifa">ahochifa</a>, <a href="o.htm#onahochifa">onahochifa</a></i>.&nbsp;
+&nbsp;to be named after: &nbsp;<i><a href="a.htm#aholchifa">aholchifa</a>, <a href="o.htm#onaholchifa">onaholchifa</a></i>.&nbsp;
+&nbsp;to give a nickname to: &nbsp;<i><a href="h.htm#hótchìifa">hótchìifa</a></i>.&nbsp;
+&nbsp;to inherit a name (first or last name) of, take someone's name (as a woman in marriage): &nbsp;<i><a href="i2.htm#istonaholchifa">istonaholchifa</a></i>.&nbsp;
+<br><b>namer</b>&nbsp;&nbsp;<i><a href="h.htm#hochìifa">hochìifa</a></i>.&nbsp;
+<br><b>nape</b>&nbsp;&nbsp;<i><a href="i1.htm#ichiksa">ichiksa</a></i>.&nbsp;
+<br><b>napkin</b>&nbsp;&nbsp;<i><a href="i2.htm#istilichoopaska">istilichoopaska</a></i>.&nbsp;
+<br><b>narrow</b>
+&nbsp;narrow road, alley: &nbsp;<i><a href="h.htm#hiniɬibaata">hiniɬibaata</a></i>.&nbsp;
+&nbsp;to be narrow: &nbsp;<i><a href="ll.htm#ɬibaata">ɬibaata</a>, <a href="ll.htm#ɬibáatàssi">ɬibáatàssi</a>, <a href="c.htm#chokíibossi">chokíibossi</a></i>.&nbsp;
+<br><b>nasalize</b>
+&nbsp;to talk through the nose, nasalize the speech: &nbsp;<i><a href="i1.htm#ibisaani isnaaɬiika">ibisaani isnaaɬiika</a></i>.&nbsp;
+<br><b>nasal mucus</b>&nbsp;&nbsp;<i><a href="i1.htm#ibiɬkani">ibiɬkani</a></i>.&nbsp;
+<br><b>nasty</b>
+&nbsp;to act hateful to, be nasty to, treat cruelly: &nbsp;<i><a href="i1.htm#impalatka">impalatka</a></i>.&nbsp;
+<br><b>nation</b>
+&nbsp;mixed nations, races: &nbsp;<i><a href="i2.htm#ittimaɬahkóyha">ittimaɬahkóyha</a></i>.&nbsp;
+<br><b>Native American</b>&nbsp;&nbsp;<i><a href="a.htm#aati">aati</a>, <a href="a.htm#aati aapihchi hómma">aati aapihchi hómma</a>, <a href="a.htm#aatihòmma">aatihòmma</a></i>.&nbsp;
+&nbsp;American Indian baby or child: &nbsp;<i><a href="a.htm#aatosi">aatosi</a></i>.&nbsp;
+<br><b>nausea</b>&nbsp;&nbsp;<i><a href="n.htm#nokwaalatilka">nokwaalatilka</a>, <a href="n.htm#nokwaliiya">nokwaliiya</a></i>.&nbsp;
+<br><b>nauseate</b>
+&nbsp;to be nauseated, sick to one's stomach, queasy: &nbsp;<i><a href="n.htm#nokwaala">nokwaala</a></i>.&nbsp;
+&nbsp;to make vomit, nauseate: &nbsp;<i><a href="a.htm#ahootachi">ahootachi</a></i>.&nbsp;
+<br><b>navel</b>&nbsp;&nbsp;<i><a href="c.htm#chokbi">chokbi</a>, <a href="i1.htm#inchokbi">inchokbi</a></i>.&nbsp;
+<br><b>navy bean</b>&nbsp;&nbsp;<i><a href="c.htm#chastokhátkasi">chastokhátkasi</a></i>.&nbsp;
+<br><b>near</b>
+&nbsp;close, near (in time or space): &nbsp;<i><a href="a.htm#ayákha">ayákha</a></i>.&nbsp;
+&nbsp;near, close together (of two): &nbsp;<i><a href="i2.htm#ittayákha">ittayákha</a></i>.&nbsp;
+&nbsp;nearer or closer, a little farther back, close to: &nbsp;<i><a href="i1.htm#íilòosi">íilòosi</a></i>.&nbsp;
+&nbsp;to be near, next to, close to: &nbsp;<i><a href="a.htm#ayákhàasi">ayákhàasi</a></i>.&nbsp;
+&nbsp;to be next to, be near (of one): &nbsp;<i><a href="l.htm#lapahli">lapahli</a>, <a href="l.htm#láppàali">láppàali</a></i>.&nbsp;
+&nbsp;to be put next to, near, or beside (of one): &nbsp;<i><a href="a.htm#apotòoka1">apotòoka<sup>1</sup></a></i>.&nbsp;
+&nbsp;to get next to, near, or beside (of one): &nbsp;<i><a href="a.htm#apotòoka2">apotòoka<sup>2</sup></a></i>.&nbsp;
+&nbsp;to get next to, near, beside each other (of two): &nbsp;<i><a href="i2.htm#ittapotòoka2">ittapotòoka<sup>2</sup></a></i>.&nbsp;
+&nbsp;to be at a distance getting nearer, as in nearing the destination of a trip: &nbsp;<i><a href="m.htm#maatáyyákhàachi">maatáyyákhàachi</a></i>.&nbsp;
+&nbsp;to be getting nearer to: &nbsp;<i><a href="i2.htm#istáyyákhàachi">istáyyákhàachi</a>, <a href="a.htm#áyyákhàachi">áyyákhàachi</a></i>.&nbsp;
+<br><b>neat</b>
+&nbsp;to be neat, clean: &nbsp;<i><a href="s.htm#sopátkàasi">sopátkàasi</a></i>.&nbsp;
+<br><b>Neches River</b>&nbsp;&nbsp;<i><a href="n.htm#Nìichi">Nìichi</a></i>.&nbsp;
+<br><b>Neches Village</b>&nbsp;&nbsp;<i><a href="n.htm#Nìichi Oola">Nìichi Oola</a></i>.&nbsp;
+<br><b>neck</b>&nbsp;&nbsp;<i><a href="n.htm#nokbi">nokbi</a></i>.&nbsp;
+&nbsp;back of the neck, nape: &nbsp;<i><a href="i1.htm#ichiksa">ichiksa</a></i>.&nbsp;
+&nbsp;anything worn around the neck: &nbsp;<i><a href="w.htm#wataaka">wataaka</a></i>.&nbsp;
+&nbsp;to burn the neck (as sunburn): &nbsp;<i><a href="n.htm#noolibatli">noolibatli</a></i>.&nbsp;
+&nbsp;to chafe the neck (as a collar): &nbsp;<i><a href="n.htm#noomiɬoffichi">noomiɬoffichi</a></i>.&nbsp;
+&nbsp;to have a crick in the neck: &nbsp;<i><a href="n.htm#noohalatka">noohalatka</a></i>.&nbsp;
+&nbsp;to have whiplash, have a wrenched neck: &nbsp;<i><a href="n.htm#nokpanayka">nokpanayka</a></i>.&nbsp;
+&nbsp;to get the meat off the neck of a hog or other animal: &nbsp;<i><a href="n.htm#nootaɬafka">nootaɬafka</a></i>.&nbsp;
+&nbsp;to put around the neck, put on (a tie), wear (a harness): &nbsp;<i><a href="w.htm#wataali">wataali</a>, <a href="w.htm#wáttàali">wáttàali</a></i>.&nbsp;
+&nbsp;to put in a sling, put a pendant on a chain around the neck: &nbsp;<i><a href="i2.htm#iswataali">iswataali</a></i>.&nbsp;
+&nbsp;to chop off at the neck (one object): &nbsp;<i><a href="n.htm#noochakaffi">noochakaffi</a></i>.&nbsp;
+&nbsp;to twist off at the neck (as the head of a chicken), wring the neck (of a chicken): &nbsp;<i><a href="n.htm#nokpanayli">nokpanayli</a></i>.&nbsp;
+<br><b>necklace</b>&nbsp;&nbsp;<i><a href="o.htm#okchopi">okchopi</a>, <a href="w.htm#wataaka">wataaka</a></i>.&nbsp;
+<br><b>necktie</b>&nbsp;&nbsp;<i><a href="w.htm#wataaka">wataaka</a></i>.&nbsp;
+&nbsp;to put on a tie, wear a necktie: &nbsp;<i><a href="w.htm#wataali">wataali</a></i>.&nbsp;
+<br><b>nectarine</b>&nbsp;&nbsp;<i><a href="t.htm#takkoosàwwa">takkoosàwwa</a></i>.&nbsp;
+<br><b>need</b>
+&nbsp;need, want: &nbsp;<i><a href="b.htm#balinna">balinna</a></i>.&nbsp;
+&nbsp;to want (some thing or occurrence), need, like, be inclined to, try: &nbsp;<i><a href="b.htm#banna">banna</a></i>.&nbsp;
+<br><b>needle</b>
+&nbsp;pin, needle: &nbsp;<i><a href="c.htm#chofa">chofa</a>, <a href="c.htm#choyyihissi">choyyihissi</a></i>.&nbsp;
+&nbsp;sewing needle: &nbsp;<i><a href="c.htm#chofisɬopòoli">chofisɬopòoli</a>, <a href="c.htm#chofistoolfa">chofistoolfa</a>, <a href="c.htm#chofa isɬopotli">chofa isɬopotli</a></i>.&nbsp;
+&nbsp;sewing machine needle: &nbsp;<i><a href="i2.htm#istolfachi inchofa">istolfachi inchofa</a></i>.&nbsp;
+&nbsp;knitting needles: &nbsp;<i><a href="i2.htm#istaɬka">istaɬka</a></i>.&nbsp;
+&nbsp;eye of a needle: &nbsp;<i><a href="c.htm#chofisɬopòoli iⁿɬobafka">chofisɬopòoli iⁿɬobafka</a>, <a href="c.htm#chofattiɬi">chofattiɬi</a></i>.&nbsp;
+&nbsp;stickers, thorn, sliver, burrs, dart, needle, arrow, knife, etc.: &nbsp;<i><a href="a.htm#achosòoka1">achosòoka<sup>1</sup></a></i>.&nbsp;
+<br><b>needy</b>
+&nbsp;to be dependent, needy: &nbsp;<i><a href="o.htm#onasikóopa">onasikóopa</a></i>.&nbsp;
+<br><b>Negro</b>&nbsp;&nbsp;<i><a href="l.htm#loocha">loocha</a></i>.&nbsp;
+<br><b>neigh</b>
+&nbsp;to neigh, bray: &nbsp;<i><a href="p.htm#pahka">pahka</a></i>.&nbsp;
+<br><b>neighbor</b>&nbsp;&nbsp;<i><a href="a.htm#ayákhachókkòoli">ayákhachókkòoli</a></i>.&nbsp;
+&nbsp;neighboring house, house next door: &nbsp;<i><a href="a.htm#ayákhàasi iisa">ayákhàasi iisa</a></i>.&nbsp;
+<br><b>nephew</b>&nbsp;&nbsp;<i><a href="i1.htm#iⁿsabàyyanaani">iⁿsabàyyanaani</a>, <a href="i1.htm#imaalokòosi naani">imaalokòosi naani</a></i>.&nbsp;
+&nbsp;niece or nephew: &nbsp;<i><a href="i1.htm#iⁿsabàyya">iⁿsabàyya</a></i>.&nbsp;
+&nbsp;nephew, stepson, anyone like a son: &nbsp;<i><a href="o.htm#ochòostoba">ochòostoba</a></i>.&nbsp;
+<br><b>nervous</b>
+&nbsp;something that will make one nervous: &nbsp;<i><a href="w.htm#wisisihka">wisisihka</a></i>.&nbsp;
+&nbsp;to be nervous: &nbsp;<i><a href="w.htm#wisisihkachi">wisisihkachi</a></i>.&nbsp;
+&nbsp;to be jittery, nervous, fidgety (as horses or a teenager getting ready for a dance): &nbsp;<i><a href="y.htm#yawoota">yawoota</a></i>.&nbsp;
+&nbsp;to be uneasy, tense, nervous, apprehensive (as when watching an acrobat): &nbsp;<i><a href="y.htm#yowaapa">yowaapa</a></i>.&nbsp;
+&nbsp;to twitch, shake, quake, tremble, quiver, be nervous, wiggle: &nbsp;<i><a href="y.htm#yòolichi">yòolichi</a></i>.&nbsp;
+&nbsp;to make somebody nervous: &nbsp;<i><a href="w.htm#wisisihlichi">wisisihlichi</a>, <a href="y.htm#yowaapachi">yowaapachi</a></i>.&nbsp;
+<br><b>nest</b>&nbsp;&nbsp;<i><a href="k.htm#kopi">kopi</a></i>.&nbsp;
+&nbsp;place in a tree (esp. a pine) where branches are twisted together to form a kind of nest where something might hide: &nbsp;<i><a href="a.htm#aatosi ilhichíkso imiisa">aatosi ilhichíkso imiisa</a></i>.&nbsp;
+&nbsp;to build a nest: &nbsp;<i><a href="k.htm#kopiichi">kopiichi</a></i>.&nbsp;
+&nbsp;to have a litter or nest (of offspring), to be nesting: &nbsp;<i><a href="c.htm#chíkkìili">chíkkìili</a>, <a href="c.htm#chíkkìili">chíkkìili</a></i>.&nbsp;
+<br><b>nestling</b>&nbsp;&nbsp;<i><a href="f.htm#foososi">foososi</a></i>.&nbsp;
+<br><b>net</b>&nbsp;&nbsp;<i><a href="s.htm#sakla">sakla</a>, <a href="t.htm#taɬka sakla">taɬka sakla</a></i>.&nbsp;
+&nbsp;fish net: &nbsp;<i><a href="ll.htm#ɬaɬo istokhiɬilka">ɬaɬo istokhiɬilka</a></i>.&nbsp;
+&nbsp;throw net (for fish): &nbsp;<i><a href="ll.htm#ɬaɬo istokbohòokachi">ɬaɬo istokbohòokachi</a></i>.&nbsp;
+&nbsp;window screen, net wire, chicken wire: &nbsp;<i><a href="o.htm#ochonasakla">ochonasakla</a></i>.&nbsp;
+&nbsp;to fish with a net: &nbsp;<i><a href="o.htm#okɬolohka">okɬolohka</a>, <a href="i1.htm#imokbohòolichi">imokbohòolichi</a>, <a href="o.htm#okhiɬka">okhiɬka</a>, <a href="ll.htm#ɬaɬo okbohòolichi">ɬaɬo okbohòolichi</a></i>.&nbsp;
+<br><b>netwire</b>
+&nbsp;wire fence, netwire fence: &nbsp;<i><a href="o.htm#ochana isholihta">ochana isholihta</a></i>.&nbsp;
+<br><b>never</b>
+&nbsp;never, only (?): &nbsp;<i><a href="afx.htm#-máɬɬi">-máɬɬi</a></i>.&nbsp;
+<br><b>nevertheless</b>
+&nbsp;anyhow, nevertheless, yet, although, despite: &nbsp;<i><a href="s.htm#sáhtík">sáhtík</a></i>.&nbsp;
+<br><b>new</b>
+&nbsp;to be new: &nbsp;<i><a href="h.htm#hahpa">hahpa</a></i>.&nbsp;
+&nbsp;to be renovated, be made like new: &nbsp;<i><a href="p.htm#paahahpa">paahahpa</a></i>.&nbsp;
+&nbsp;to make like new, completely overhaul, rebuild, renovate: &nbsp;<i><a href="p.htm#paahahpachi">paahahpachi</a>, <a href="h.htm#hahpachi">hahpachi</a></i>.&nbsp;
+<br><b>newcomer</b>&nbsp;&nbsp;<i><a href="a.htm#aatihàhpa">aatihàhpa</a></i>.&nbsp;
+<br><b>new moon</b>&nbsp;&nbsp;<i><a href="t.htm#tankahasiháhpa">tankahasiháhpa</a></i>.&nbsp;
+&nbsp;new moon, first of the month (also new clock, new calendar): &nbsp;<i><a href="h.htm#hasiháhpa">hasiháhpa</a></i>.&nbsp;
+<br><b>news</b>&nbsp;&nbsp;<i><a href="n.htm#naaɬiilka">naaɬiilka</a></i>.&nbsp;
+<br><b>newspaper</b>&nbsp;&nbsp;<i><a href="h.htm#holisso">holisso</a></i>.&nbsp;
+<br><b>New Year's day</b>&nbsp;&nbsp;<i><a href="l.htm#lokbahaháhpa">lokbahaháhpa</a></i>.&nbsp;
+&nbsp;Happy New Year!: &nbsp;<i><a href="b.htm#bonolee">bonolee</a></i>.&nbsp;
+<br><b>next</b>
+&nbsp;next, subsequent: &nbsp;<i><a href="m.htm#mìntama">mìntama</a></i>.&nbsp;
+&nbsp;then, next, and then, so: &nbsp;<i><a href="m.htm#máamòosi">máamòosi</a></i>.&nbsp;
+&nbsp;next month: &nbsp;<i><a href="h.htm#hasimìnta">hasimìnta</a></i>.&nbsp;
+&nbsp;to be next to, be near (of one): &nbsp;<i><a href="l.htm#lapahli">lapahli</a></i>.&nbsp;
+<br><b>next door</b>
+&nbsp;neighboring house, house next door: &nbsp;<i><a href="a.htm#ayákhàasi iisa">ayákhàasi iisa</a></i>.&nbsp;
+<br><b>next time</b>&nbsp;&nbsp;<i><a href="a.htm#atokláali">atokláali</a>, <a href="h.htm#hitòkla">hitòkla</a>, <a href="a.htm#atóklama">atóklama</a></i>.&nbsp;
+&nbsp;next time, seconds: &nbsp;<i><a href="a.htm#atòkla">atòkla</a></i>.&nbsp;
+&nbsp;to be twice, be two times, again, next time: &nbsp;<i><a href="a.htm#atòkla">atòkla</a></i>.&nbsp;
+<br><b>next to</b>
+&nbsp;to be near, next to, close to: &nbsp;<i><a href="a.htm#ayákhàasi">ayákhàasi</a>, <a href="l.htm#láppàali">láppàali</a></i>.&nbsp;
+&nbsp;to be second to, be next to, next in line: &nbsp;<i><a href="i2.htm#istimatòkla">istimatòkla</a></i>.&nbsp;
+&nbsp;to be next to, be close together (but not touching): &nbsp;<i><a href="i2.htm#ittilapàalòosi">ittilapàalòosi</a></i>.&nbsp;
+&nbsp;to be next to, beside but not touching, alongside, side by side (of more than one): &nbsp;<i><a href="a.htm#apòotka2">apòotka<sup>2</sup></a></i>.&nbsp;
+&nbsp;to be moving next to something: &nbsp;<i><a href="i2.htm#istáyyákhàachi">istáyyákhàachi</a></i>.&nbsp;
+&nbsp;to be lined up next to each other but not touching: &nbsp;<i><a href="i2.htm#ittapòotka1">ittapòotka<sup>1</sup></a></i>.&nbsp;
+&nbsp;to be put next to, put beside but not touching, side by side (of more than one): &nbsp;<i><a href="a.htm#apòotka1">apòotka<sup>1</sup></a></i>.&nbsp;
+&nbsp;to get next to, near, beside each other (of two): &nbsp;<i><a href="i2.htm#ittapotòoka2">ittapotòoka<sup>2</sup></a></i>.&nbsp;
+&nbsp;to get next to, near, or beside (of more than one): &nbsp;<i><a href="a.htm#apotka2">apotka<sup>2</sup></a></i>.&nbsp;
+&nbsp;to have been put next to (of more than one): &nbsp;<i><a href="i2.htm#ittibachaskachi">ittibachaskachi</a></i>.&nbsp;
+&nbsp;to join one to another, put next to, add on to, expand (one object): &nbsp;<i><a href="a.htm#apotòoli">apotòoli</a>, <a href="a.htm#apotòolichi">apotòolichi</a></i>.&nbsp;
+&nbsp;to put next to (one object), put (two objects) together: &nbsp;<i><a href="i1.htm#ibachasàali">ibachasàali</a></i>.&nbsp;
+<br><b>next year</b>&nbsp;&nbsp;<i><a href="l.htm#lokbáahaama">lokbáahaama</a>, <a href="o.htm#ostillokbaha">ostillokbaha</a></i>.&nbsp;
+<br><b>nibble</b>
+&nbsp;to nibble: &nbsp;<i><a href="s.htm#sáwwàasin ipa">sáwwàasin ipa</a></i>.&nbsp;
+&nbsp;to gnaw on, nibble on: &nbsp;<i><a href="k.htm#kaɬɬi">kaɬɬi</a></i>.&nbsp;
+&nbsp;to take little pieces of to nibble: &nbsp;<i><a href="n.htm#niplichi">niplichi</a></i>.&nbsp;
+<br><b>nice</b>
+&nbsp;to be kind, nice, good: &nbsp;<i><a href="a.htm#alíila">alíila</a></i>.&nbsp;
+&nbsp;to do something nice for, be very nice to: &nbsp;<i><a href="n.htm#nàasfináachòssi">nàasfináachòssi</a></i>.&nbsp;
+<br><b>nice-looking</b>
+&nbsp;to be nice-looking, attractive, beautiful: &nbsp;<i><a href="i1.htm#ilhicha kano">ilhicha kano</a></i>.&nbsp;
+<br><b>nickel</b>
+&nbsp;nickel, five cents: &nbsp;<i><a href="p.htm#pikayo">pikayo</a></i>.&nbsp;
+<br><b>nickname</b>&nbsp;&nbsp;<i><a href="h.htm#holchifafíhnòkkohchi">holchifafíhnòkkohchi</a>, <a href="h.htm#hótchìifahchi">hótchìifahchi</a></i>.&nbsp;
+&nbsp;to give a nickname to: &nbsp;<i><a href="h.htm#hótchìifa">hótchìifa</a></i>.&nbsp;
+<br><b>niece</b>&nbsp;&nbsp;<i><a href="a.htm#àhpotayyi">àhpotayyi</a>, <a href="i1.htm#iⁿsabàyyatayyi">iⁿsabàyyatayyi</a>, <a href="i2.htm#ipokitàyyi">ipokitàyyi</a>, <a href="i1.htm#imaalokòosi tayyi">imaalokòosi tayyi</a></i>.&nbsp;
+&nbsp;niece or nephew: &nbsp;<i><a href="i1.htm#iⁿsabàyya">iⁿsabàyya</a></i>.&nbsp;
+&nbsp;niece, stepdaughter: &nbsp;<i><a href="o.htm#ostaykitoba">ostaykitoba</a></i>.&nbsp;
+<br><b>night</b>&nbsp;&nbsp;<i><a href="t.htm#tanka">tanka</a></i>.&nbsp;
+&nbsp;tonight: &nbsp;<i><a href="t.htm#tankaama">tankaama</a></i>.&nbsp;
+&nbsp;midnight: &nbsp;<i><a href="n.htm#niɬhóota">niɬhóota</a></i>.&nbsp;
+&nbsp;previous night, last night: &nbsp;<i><a href="t.htm#tankaako">tankaako</a></i>.&nbsp;
+&nbsp;tomorrow night: &nbsp;<i><a href="n.htm#níhta tankaama">níhta tankaama</a></i>.&nbsp;
+&nbsp;to spend the night at (someone's house) (of one): &nbsp;<i><a href="i1.htm#imbalàaka">imbalàaka</a></i>.&nbsp;
+<br><b>night after next</b>&nbsp;&nbsp;<i><a href="n.htm#nìhta koɬa tankaama">nìhta koɬa tankaama</a></i>.&nbsp;
+<br><b>night before last</b>&nbsp;&nbsp;<i><a href="t.htm#tankaakok koɬaako">tankaakok koɬaako</a></i>.&nbsp;
+<br><b>nightcrawler</b>&nbsp;&nbsp;<i><a href="l.htm#lapcho">lapcho</a></i>.&nbsp;
+<br><b>nightgown</b>&nbsp;&nbsp;<i><a href="i2.htm#istinnochi">istinnochi</a></i>.&nbsp;
+<br><b>nighthawk</b>&nbsp;&nbsp;<i><a href="k.htm#kitini">kitini</a></i>.&nbsp;
+<br><b>nightmare</b>&nbsp;&nbsp;<i><a href="i1.htm#ichoowanha">ichoowanha</a>, <a href="o.htm#ooltobalwahka">ooltobalwahka</a>, <a href="o.htm#ooltobakánko">ooltobakánko</a></i>.&nbsp;
+<br><b>nine</b>&nbsp;&nbsp;<i><a href="c.htm#chákkàali">chákkàali</a></i>.&nbsp;
+&nbsp;ninth, nine times: &nbsp;<i><a href="i2.htm#ischákkàali">ischákkàali</a></i>.&nbsp;
+&nbsp;to be only nine: &nbsp;<i><a href="c.htm#chákkàalossi">chákkàalossi</a></i>.&nbsp;
+&nbsp;to have nine: &nbsp;<i><a href="i1.htm#inchákkàali">inchákkàali</a></i>.&nbsp;
+&nbsp;to make nine, do nine times: &nbsp;<i><a href="c.htm#chákkàalìichi">chákkàalìichi</a></i>.&nbsp;
+<br><b>nineteen</b>&nbsp;&nbsp;<i><a href="p.htm#pókkòolawahchákkàali">pókkòolawahchákkàali</a></i>.&nbsp;
+<br><b>ninety</b>&nbsp;&nbsp;<i><a href="p.htm#poolihchichákkàali">poolihchichákkàali</a></i>.&nbsp;
+<br><b>ninth</b>
+&nbsp;ninth, nine times: &nbsp;<i><a href="i2.htm#ischákkàali">ischákkàali</a></i>.&nbsp;
+<br><b>nipple</b>&nbsp;&nbsp;<i><a href="p.htm#pisi">pisi</a></i>.&nbsp;
+<br><b>no</b>
+&nbsp;no, it is not so, it is not the case: &nbsp;<i><a href="a.htm#ánkobi">ánkobi</a></i>.&nbsp;
+&nbsp;no, it wasn't X: &nbsp;<i><a href="m.htm#mókko">mókko</a></i>.&nbsp;
+&nbsp;no, not so, it is not the case, it didn't happen like that, it was nothing: &nbsp;<i><a href="m.htm#mànko">mànko</a></i>.&nbsp;
+<br><b>Noah</b>&nbsp;&nbsp;<i><a href="n.htm#Nowa">Nowa</a></i>.&nbsp;
+<br><b>nod</b>
+&nbsp;to nod at (once): &nbsp;<i><a href="i1.htm#innìili">innìili</a></i>.&nbsp;
+&nbsp;to nod once (involuntarily, e.g. sleepily): &nbsp;<i><a href="n.htm#nìili">nìili</a></i>.&nbsp;
+<br><b>no good</b>
+&nbsp;to be bad, evil, no good, rotten, worthless: &nbsp;<i><a href="k.htm#kànko">kànko</a></i>.&nbsp;
+<br><b>noise</b>
+&nbsp;to make a noise: &nbsp;<i><a href="a.htm#aksobaachi">aksobaachi</a></i>.&nbsp;
+<br><b>noisy</b>
+&nbsp;noisy person: &nbsp;<i><a href="a.htm#aksobàachi">aksobàachi</a></i>.&nbsp;
+&nbsp;to be noisy: &nbsp;<i><a href="a.htm#aksómbàachi">aksómbàachi</a></i>.&nbsp;
+<br><b>nomad</b>&nbsp;&nbsp;<i><a href="a.htm#albinàachi">albinàachi</a></i>.&nbsp;
+<br><b>none</b>
+&nbsp;to not be, not have, be absent, be empty, be none, have any, not be here, be lacking: &nbsp;<i><a href="i1.htm#íkso">íkso</a></i>.&nbsp;
+<br><b>noon</b>&nbsp;&nbsp;<i><a href="p.htm#pontókkòoli">pontókkòoli</a></i>.&nbsp;
+&nbsp;today at twelve noon: &nbsp;<i><a href="h.htm#himáaka pontóoliiyon">himáaka pontóoliiyon</a></i>.&nbsp;
+&nbsp;yesterday at noon: &nbsp;<i><a href="p.htm#pihaakopontókkòoli">pihaakopontókkòoli</a></i>.&nbsp;
+&nbsp;tomorrow at noon: &nbsp;<i><a href="n.htm#nìhtapontókkòoli">nìhtapontókkòoli</a></i>.&nbsp;
+&nbsp;tomorrow after noon: &nbsp;<i><a href="n.htm#nìhtapontókkòot ɬopotli">nìhtapontókkòot ɬopotli</a>, <a href="n.htm#nìhtapontókkòot taɬoffi">nìhtapontókkòot taɬoffi</a></i>.&nbsp;
+<br><b>normal</b>
+&nbsp;to have one's weight drop back to normal: &nbsp;<i><a href="ll.htm#ɬoyka">ɬoyka</a></i>.&nbsp;
+&nbsp;to recede (of floodwater), return to a normal level from a high (as weight): &nbsp;<i><a href="ll.htm#ɬoyli">ɬoyli</a></i>.&nbsp;
+&nbsp;to return to normal (of water level in a creek or lake) after having been completely dry from a drought: &nbsp;<i><a href="o.htm#oki aɬkatanooka">oki aɬkatanooka</a></i>.&nbsp;
+<br><b>north</b>&nbsp;&nbsp;<i><a href="f.htm#falammi1">falammi<sup>1</sup></a></i>.&nbsp;
+<br><b>northeast</b>&nbsp;&nbsp;<i><a href="m.htm#maafalammi hasi maatassaliika iⁿhókkìita">maafalammi hasi maatassaliika iⁿhókkìita</a></i>.&nbsp;
+<br><b>northern prairie lizard</b>&nbsp;&nbsp;<i><a href="h.htm#hanaabiya pàlki">hanaabiya pàlki</a></i>.&nbsp;
+<br><b>North Star</b>&nbsp;&nbsp;<i><a href="f.htm#falámmifa hochiiɬi">falámmifa hochiiɬi</a>, <a href="m.htm#maafalámmihochiiɬi">maafalámmihochiiɬi</a></i>.&nbsp;
+<br><b>north wind</b>&nbsp;&nbsp;<i><a href="m.htm#maafalammi">maafalammi</a></i>.&nbsp;
+<br><b>nose</b>&nbsp;&nbsp;<i><a href="i1.htm#ibisaani">ibisaani</a></i>.&nbsp;
+&nbsp;to blow the nose: &nbsp;<i><a href="i1.htm#ibisaanin ɬiihka">ibisaanin ɬiihka</a></i>.&nbsp;
+&nbsp;to have a runny nose, have the sniffles: &nbsp;<i><a href="i1.htm#ibissano">ibissano</a></i>.&nbsp;
+<br><b>nosebleed</b>
+&nbsp;to have a nosebleed: &nbsp;<i><a href="i1.htm#ibayya">ibayya</a></i>.&nbsp;
+<br><b>nosey</b>
+&nbsp;to be nosey: &nbsp;<i><a href="i1.htm#ibisaanik baskifíina">ibisaanik baskifíina</a>, <a href="s.htm#sómbàylifìinakáhchi">sómbàylifìinakáhchi</a></i>.&nbsp;
+<br><b>nostrils</b>&nbsp;&nbsp;<i><a href="i1.htm#ibisaani ɬomka">ibisaani ɬomka</a></i>.&nbsp;
+<br><b>not</b>
+&nbsp;it can't be, it is not that way: &nbsp;<i><a href="a.htm#ánkohchoolo">ánkohchoolo</a></i>.&nbsp;
+&nbsp;No, it is not an X: &nbsp;<i><a href="m.htm#mókko">mókko</a></i>.&nbsp;
+&nbsp;on the contrary, it is not the case that: &nbsp;<i><a href="i1.htm#ínkotóot ommo">ínkotóot ommo</a></i>.&nbsp;
+<br><b>nothing</b>&nbsp;&nbsp;<i><a href="n.htm#náasòkko">náasòkko</a></i>.&nbsp;
+&nbsp;no, not so, it is not the case, it didn't happen like that, it was nothing: &nbsp;<i><a href="m.htm#mànko">mànko</a></i>.&nbsp;
+&nbsp;to not have, not carry (of a store), have nothing: &nbsp;<i><a href="i1.htm#imíkso">imíkso</a></i>.&nbsp;
+<br><b>not so</b>
+&nbsp;no, it is not so, it is not the case: &nbsp;<i><a href="a.htm#ánkobi">ánkobi</a>, <a href="m.htm#mànko">mànko</a></i>.&nbsp;
+<br><b>November</b>&nbsp;&nbsp;<i><a href="h.htm#hasiholtina istapókkòolawahcháffàaka">hasiholtina istapókkòolawahcháffàaka</a>, <a href="n.htm#Nofìmba">Nofìmba</a></i>.&nbsp;
+<br><b>now</b>&nbsp;&nbsp;<i><a href="h.htm#himáakayàali">himáakayàali</a></i>.&nbsp;
+&nbsp;now, and: &nbsp;<i><a href="m.htm#mooton">mooton</a></i>.&nbsp;
+&nbsp;now, now then: &nbsp;<i><a href="m.htm#mooliiya">mooliiya</a></i>.&nbsp;
+&nbsp;today, now: &nbsp;<i><a href="h.htm#himáakaya">himáakaya</a></i>.&nbsp;
+&nbsp;nowadays: &nbsp;<i><a href="h.htm#himáakayáhmiiyon">himáakayáhmiiyon</a>, <a href="h.htm#himàaka">himàaka</a></i>.&nbsp;
+<br><b>nude</b>&nbsp;&nbsp;<i><a href="i1.htm#ilokfíkso">ilokfíkso</a></i>.&nbsp;
+<br><b>nudge</b>
+&nbsp;to push gently with the elbow or shoulder, nudge: &nbsp;<i><a href="t.htm#tiiɬi">tiiɬi</a></i>.&nbsp;
+&nbsp;to nudge each other with the elbows (as a crowd exiting): &nbsp;<i><a href="i2.htm#ittitiiɬi">ittitiiɬi</a></i>.&nbsp;
+&nbsp;to elbow, nudge, jab or poke with the elbow (once): &nbsp;<i><a href="i1.htm#inkowàasan ischifipka">inkowàasan ischifipka</a></i>.&nbsp;
+&nbsp;to give friendly nudges in the ribs: &nbsp;<i><a href="c.htm#chifka">chifka</a></i>.&nbsp;
+<br><b>nulliparous</b>
+&nbsp;to be barren, nulliparous, have no offspring: &nbsp;<i><a href="o.htm#ochoskíkso báana">ochoskíkso báana</a></i>.&nbsp;
+<br><b>numb</b>
+&nbsp;to have a numb spot, have the circulation cut off, have a body part be asleep: &nbsp;<i><a href="i1.htm#iⁿsimohka">iⁿsimohka</a>, <a href="i1.htm#iⁿsobàyko">iⁿsobàyko</a>, <a href="s.htm#simohka">simohka</a></i>.&nbsp;
+&nbsp;to have a numb mouth: &nbsp;<i><a href="i1.htm#ichoosimohka">ichoosimohka</a>, <a href="i1.htm#ichoosobáyko">ichoosobáyko</a></i>.&nbsp;
+<br><b>number</b>
+&nbsp;beginning, the start, the first, number one: &nbsp;<i><a href="a.htm#aɬɬámmòona">aɬɬámmòona</a></i>.&nbsp;
+&nbsp;one: &nbsp;<i><a href="c.htm#cháffàaka">cháffàaka</a></i>.&nbsp;
+&nbsp;two: &nbsp;<i><a href="t.htm#tòklo">tòklo</a></i>.&nbsp;
+&nbsp;three: &nbsp;<i><a href="t.htm#tótchìina">tótchìina</a></i>.&nbsp;
+&nbsp;four: &nbsp;<i><a href="o.htm#óstàaka">óstàaka</a></i>.&nbsp;
+&nbsp;five: &nbsp;<i><a href="t.htm#táɬɬàapi">táɬɬàapi</a></i>.&nbsp;
+&nbsp;six: &nbsp;<i><a href="h.htm#hánnàali">hánnàali</a></i>.&nbsp;
+&nbsp;seven: &nbsp;<i><a href="o.htm#ontòklo">ontòklo</a></i>.&nbsp;
+&nbsp;eight: &nbsp;<i><a href="o.htm#ontótchìina">ontótchìina</a></i>.&nbsp;
+&nbsp;nine: &nbsp;<i><a href="c.htm#chákkàali">chákkàali</a></i>.&nbsp;
+&nbsp;ten: &nbsp;<i><a href="p.htm#pókkòoli">pókkòoli</a></i>.&nbsp;
+&nbsp;eleven: &nbsp;<i><a href="p.htm#pókkòolawahcháffàaka">pókkòolawahcháffàaka</a></i>.&nbsp;
+&nbsp;twelve: &nbsp;<i><a href="p.htm#pókkòolawahtòklo">pókkòolawahtòklo</a></i>.&nbsp;
+&nbsp;thirteen: &nbsp;<i><a href="p.htm#pókkòolawahtótchìina">pókkòolawahtótchìina</a></i>.&nbsp;
+&nbsp;fourteen: &nbsp;<i><a href="p.htm#pókkòolawahóstàaka">pókkòolawahóstàaka</a></i>.&nbsp;
+&nbsp;fifteen: &nbsp;<i><a href="p.htm#pókkòolawahtáɬɬàapi">pókkòolawahtáɬɬàapi</a></i>.&nbsp;
+&nbsp;sixteen: &nbsp;<i><a href="p.htm#pókkòolawahhánnàali">pókkòolawahhánnàali</a></i>.&nbsp;
+&nbsp;seventeen: &nbsp;<i><a href="p.htm#pókkòolawahontòklo">pókkòolawahontòklo</a></i>.&nbsp;
+&nbsp;eighteen: &nbsp;<i><a href="p.htm#pókkòolawahontótchìina">pókkòolawahontótchìina</a></i>.&nbsp;
+&nbsp;nineteen: &nbsp;<i><a href="p.htm#pókkòolawahchákkàali">pókkòolawahchákkàali</a></i>.&nbsp;
+&nbsp;twenty: &nbsp;<i><a href="p.htm#poolihchitóklo">poolihchitóklo</a></i>.&nbsp;
+&nbsp;thirty: &nbsp;<i><a href="p.htm#poolihchitótchìina">poolihchitótchìina</a></i>.&nbsp;
+&nbsp;thirty-five: &nbsp;<i><a href="p.htm#poolihchitótchìinan awah táɬɬàapi">poolihchitótchìinan awah táɬɬàapi</a></i>.&nbsp;
+&nbsp;forty: &nbsp;<i><a href="p.htm#poolihchóstàaka">poolihchóstàaka</a></i>.&nbsp;
+&nbsp;fifty: &nbsp;<i><a href="p.htm#poolihchitáɬɬàapi">poolihchitáɬɬàapi</a></i>.&nbsp;
+&nbsp;sixty: &nbsp;<i><a href="p.htm#poolihchihánnàali">poolihchihánnàali</a></i>.&nbsp;
+&nbsp;seventy: &nbsp;<i><a href="p.htm#poolihchontóklo">poolihchontóklo</a></i>.&nbsp;
+&nbsp;eighty: &nbsp;<i><a href="p.htm#poolihchontótchìina">poolihchontótchìina</a></i>.&nbsp;
+&nbsp;ninety: &nbsp;<i><a href="p.htm#poolihchichákkàali">poolihchichákkàali</a></i>.&nbsp;
+&nbsp;one hundred: &nbsp;<i><a href="t.htm#táɬɬìipascháffàaka">táɬɬìipascháffàaka</a>, <a href="p.htm#poolispókkòoli">poolispókkòoli</a>, <a href="h.htm#hanti">hanti</a>, <a href="t.htm#táɬɬìipa">táɬɬìipa</a></i>.&nbsp;
+&nbsp;one hundred and two: &nbsp;<i><a href="t.htm#taɬɬìipa awah tòklo">taɬɬìipa awah tòklo</a></i>.&nbsp;
+&nbsp;two hundred: &nbsp;<i><a href="t.htm#taɬɬìipastòklo">taɬɬìipastòklo</a>, <a href="p.htm#poolispókkòolawah tóklo">poolispókkòolawah tóklo</a></i>.&nbsp;
+&nbsp;two hundred and two: &nbsp;<i><a href="t.htm#taɬiipastòklo awah tòklo">taɬiipastòklo awah tòklo</a></i>.&nbsp;
+&nbsp;three hundred: &nbsp;<i><a href="t.htm#taɬɬìipastótchìina">taɬɬìipastótchìina</a>, <a href="p.htm#poolispókkòolawah tótchìina">poolispókkòolawah tótchìina</a></i>.&nbsp;
+&nbsp;four hundred: &nbsp;<i><a href="p.htm#poolispókkòolawah óstàaka">poolispókkòolawah óstàaka</a></i>.&nbsp;
+&nbsp;five hundred: &nbsp;<i><a href="p.htm#poolispókkòolawah táɬɬàapi">poolispókkòolawah táɬɬàapi</a></i>.&nbsp;
+&nbsp;six hundred: &nbsp;<i><a href="p.htm#poolispókkòolawah hánnàali">poolispókkòolawah hánnàali</a></i>.&nbsp;
+&nbsp;seven hundred: &nbsp;<i><a href="p.htm#poolispókkòolawah ontóklo">poolispókkòolawah ontóklo</a></i>.&nbsp;
+&nbsp;eight hundred: &nbsp;<i><a href="p.htm#poolispókkòolawah ontótchìina">poolispókkòolawah ontótchìina</a></i>.&nbsp;
+&nbsp;nine hundred: &nbsp;<i><a href="p.htm#poolispókkòolawah chákkàali">poolispókkòolawah chákkàali</a></i>.&nbsp;
+&nbsp;one thousand: &nbsp;<i><a href="t.htm#taɬɬìipaspókkòoli">taɬɬìipaspókkòoli</a></i>.&nbsp;
+&nbsp;two thousand: &nbsp;<i><a href="t.htm#taɬìipaspoolistòklo">taɬìipaspoolistòklo</a></i>.&nbsp;
+&nbsp;three thousand: &nbsp;<i><a href="t.htm#taɬiipaspoolistótchìina">taɬiipaspoolistótchìina</a></i>.&nbsp;
+&nbsp;four thousand: &nbsp;<i><a href="t.htm#taɬiipaspoolihchi óstàaka">taɬiipaspoolihchi óstàaka</a></i>.&nbsp;
+&nbsp;five thousand: &nbsp;<i><a href="t.htm#taɬiipaspoolistáɬɬàapi">taɬiipaspoolistáɬɬàapi</a></i>.&nbsp;
+&nbsp;six thousand: &nbsp;<i><a href="t.htm#taɬiipaspoolishánnàali">taɬiipaspoolishánnàali</a></i>.&nbsp;
+&nbsp;seven thousand: &nbsp;<i><a href="t.htm#taɬiipaspoolihchi ontóklo">taɬiipaspoolihchi ontóklo</a></i>.&nbsp;
+&nbsp;eight thousand: &nbsp;<i><a href="t.htm#taɬiipaspoolihchi ontótchìina">taɬiipaspoolihchi ontótchìina</a></i>.&nbsp;
+&nbsp;nine thousand: &nbsp;<i><a href="t.htm#taɬiipaspoolischákkàali">taɬiipaspoolischákkàali</a></i>.&nbsp;
+&nbsp;ten thousand: &nbsp;<i><a href="t.htm#taɬiipaspoolispókkòoli">taɬiipaspoolispókkòoli</a></i>.&nbsp;
+&nbsp;to mix together, combine, add numbers: &nbsp;<i><a href="i2.htm#ittasaachi">ittasaachi</a></i>.&nbsp;
+<br><b>numerous</b>
+&nbsp;to be many, numerous, be a certain number: &nbsp;<i><a href="n.htm#nàmpo">nàmpo</a></i>.&nbsp;
+<br><b>nurse</b>
+&nbsp;female nurse: &nbsp;<i><a href="t.htm#tayyi alikchi">tayyi alikchi</a></i>.&nbsp;
+&nbsp;female nurse, woman doctor: &nbsp;<i><a href="a.htm#alìkchitàyyi">alìkchitàyyi</a></i>.&nbsp;
+&nbsp;male nurse: &nbsp;<i><a href="a.htm#alìkchinaani">alìkchinaani</a></i>.&nbsp;
+&nbsp;to nurse, suckle: &nbsp;<i><a href="i1.htm#impisi">impisi</a></i>.&nbsp;
+&nbsp;to nurse (a child), breastfeed, give milk to: &nbsp;<i><a href="p.htm#pisiichi">pisiichi</a></i>.&nbsp;
+&nbsp;to nurse oneself with: &nbsp;<i><a href="i2.htm#istilitalibòoli">istilitalibòoli</a></i>.&nbsp;
+<br><b>nursing home</b>&nbsp;&nbsp;<i><a href="a.htm#aathochòobimìistilka">aathochòobimìistilka</a></i>.&nbsp;
+<br><b>nut</b>
+&nbsp;coconut: &nbsp;<i><a href="s.htm#sawaatisbakki">sawaatisbakki</a></i>.&nbsp;
+&nbsp;hickory nuts: &nbsp;<i><a href="o.htm#ocha">ocha</a></i>.&nbsp;
+&nbsp;peanut, peanut butter: &nbsp;<i><a href="h.htm#hayaɬi">hayaɬi</a></i>.&nbsp;
+&nbsp;pecan: &nbsp;<i><a href="o.htm#ochahobaski">ochahobaski</a></i>.&nbsp;
+&nbsp;nut, screw, bolt: &nbsp;<i><a href="i2.htm#istonasankachi">istonasankachi</a></i>.&nbsp;
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

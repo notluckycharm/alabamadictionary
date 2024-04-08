@@ -1,0 +1,3120 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">C</font></center><br>
+<br><font size="+2"><b><a name="chaabi"></a>chaabi</b> </font>
+<font size="+2">intestine </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+<br><font size="+2"><b><a name="chaabistimaɬka"></a>chaabistimaɬka</b> </font>
+<font size="+2">sausage casing</font>
+&nbsp; [/chaabi ist-im- /aɬi-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="cháachi"></a>cháachi</b> </font>
+<font size="+2">older same sex sibling (brother of a man, sister of a woman) </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Ancháachi.
+ <i>My older brother.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#cháachosi">cháachosi</a></i>
+&nbsp;first born son, eldest brother
+<br><font size="+2"><b><a name="cháachichòoba"></a>cháachichòoba</b> </font>
+<font size="+2">oldest same sex sibling (brother of a man, sister of a woman) </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+&nbsp; [/cháachi /achòoba]
+<br><font size="+2"><b><a name="cháachosi"></a>cháachosi</b> </font>
+<font size="+2">first born son, eldest brother </font>
+ <i>Usage: </i>Older word.
+&nbsp; [/cháachi-osi]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="c.htm#cháachi">cháachi</a>
+<br><font size="+2"><b><a name="chaafapihchi"></a>chaafapihchi</b> </font>
+<font size="+2">ax handle </font>
+&nbsp; [/chaafa /apihchi]
+<br><font size="+2"><b><a name="chaafi"></a>chaafi</b> </font>
+<font size="+2">ax </font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chaafosi">chaafosi</a></i>
+&nbsp;hatchet
+<br><font size="+2"><b><a name="chaafosi"></a>chaafosi</b> </font>
+<font size="+2">hatchet </font>
+&nbsp; [/chaafi-osi]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="c.htm#chaafi">chaafi</a>
+<br><font size="+2"><b><a name="chaaftóklo"></a>chaaftóklo</b> </font>
+<font size="+2">double-bit ax </font>
+&nbsp; [/chaafi /tóklo]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chaaha"></a>chaaha</b> </font>
+<font size="+2">to be tall</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Pokkotòolihaya hótchàaha.
+ <i>The ballplayers are of medium height.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chaliiha">chaliiha</a></i>
+&nbsp;tallness
+<br>&nbsp;&nbsp;<i><a href="c.htm#chakìiho">chakìiho</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="c.htm#chakíihossi">chakíihossi</a></i>
+ Neg.
+&nbsp;to be short
+<br>&nbsp;&nbsp;<i><a href="c.htm#cháhha">cháhha</a></i>
+&nbsp;to be taller, tallest
+<br>&nbsp;&nbsp;<i><a href="p.htm#paachaaha">paachaaha</a></i>
+&nbsp;to be over full
+<br><font size="+2"><b><a name="chaalo"></a>chaalo</b> </font>
+<font size="+2">trout, white bass </font>
+<br><font size="+2"><b><a name="Chaama"></a>Chaama</b> </font>
+<font size="+2">German person</font>
+ <i>Usage: </i>Modern word.
+ {&nbsp;English}
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chaamo"></a>chaamo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chahmo">chahmo</a>&nbsp;
+<br><font size="+2"><b><a name="Chaanìiska"></a>Chaanìiska</b> </font>
+<font size="+2">Chinese person</font>
+&nbsp; [/chaanìis-ka<sup>3</sup>]
+ {&nbsp;English}
+<br><font size="+2"><b><a name="chafaa-"></a>chafaa-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#cháffàali">cháffàali</a></i>
+&nbsp;to do once, produce one
+<br>&nbsp;&nbsp;<i><a href="c.htm#chafaaka">chafaaka</a></i>
+&nbsp;to be intermittent
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chafáaⁿkàasi">chafáaⁿkàasi</a></i>
+&nbsp;to be very rare
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ischafáhkamáali">ischafáhkamáali</a></i>
+&nbsp;chain store
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#cháffàaka">cháffàaka</a></i>
+&nbsp;one
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#cháffàakaya">cháffàakaya</a></i>
+&nbsp;other
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#cháⁿhkàasi">cháⁿhkàasi</a></i>
+&nbsp;to be only one
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#incháⁿkàssi">incháⁿkàssi</a></i>
+&nbsp;to have only one
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#macháⁿhkàssi">macháⁿhkàssi</a></i>
+&nbsp;to be by oneself
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#acháffàaka">acháffàaka</a></i>
+&nbsp;once
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inchafàali">inchafàali</a></i>
+&nbsp;to get one
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#incháffàaka">incháffàaka</a></i>
+&nbsp;to have one
+<br><font size="+2"><b><a name="chafaaka"></a>chafaaka</b> </font>
+<font size="+2">to be few and far between, intermittent, singular, spaced far apart, infrequent</font>
+ (also used of an animal that normally has a large litter who has only one or two)
+&nbsp; [/chafaa-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chasson achihlilitoon chafaakahchooti.
+ <i>I planted corn but they came up one here, one over there.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chafáakàasiiya istállàakati.
+ <i>They are spaced out individually (e.g. cars in a lot, or plants).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chafáakaabáanat ontihchi.
+ <i>They're coming one by one.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chafaa-">chafaa-</a>
+<br><font size="+2"><b><a name="chafáaⁿkàasi"></a>chafáaⁿkàasi</b> </font>
+<font size="+2">to be very rare, uncommon, singular, the only one, unique</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/chafaa-ka<sup>1</sup>-osi]
+ [<i>ngr</i>]
+&nbsp;<font face="Arial">«</font>Choyyihissihobaskiya chafáaⁿkàasiya hislit áayahchi.
+ <i>Long-leaf pines are very rare around here.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chafaaka">chafaaka</a>
+<br><font size="+2"><b><a name="cháffàaka"></a>cháffàaka</b> </font>
+<font size="+2">to be one </font>
+&nbsp; [/chafaa-ka<sup>1</sup>]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Cháffàakan istissiimok cháffàakan istanka.
+ <i>You take one and I'll take one.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chafaaka">chafaaka</a>
+<br><font size="+2"><b><a name="cháffàakaya"></a>cháffàakaya</b> </font>
+<font size="+2">other, the other one, another one</font>
+&nbsp; [/chafaa-ka<sup>1</sup>-ya]
+ [<i>ggr</i>]
+ ☞<a href="c.htm#cháffàaka">cháffàaka</a>
+<br><font size="+2"><b><a name="cháffàali"></a>cháffàali</b> </font>
+<font size="+2">to do once, one time, produce one</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>cháffàachi, cháffàahili, cháffàahachi</i>)
+&nbsp; [/chafaa-li]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Cháffàalin anka.
+ <i>Give me one of them/the other one.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Cháffàachi.
+ <i>You did it once.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hocháffàalihchi.
+ <i>They produced one (e.g. a child).</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chafaa-">chafaa-</a>
+<br><font size="+2"><b><a name="chafpàtha"></a>chafpàtha</b> </font>
+<font size="+2">flat ax </font>
+&nbsp; [/chaafi /patha]
+<br><font size="+2"><b><a name="cháhha"></a>cháhha</b> </font>
+<font size="+2">to be taller, tallest</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/chaaha]
+ [<i>hgr</i>]
+&nbsp;<font face="Arial">«</font>Pokkotòolihaya hocháhhahchi.
+ <i>Ballplayers are real tall.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nákson choyyi cháhhaama hátchàalòoliⁿ?
+ <i>Where is that tallest pine tree standing?</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chaaha">chaaha</a>
+<br><font size="+2"><b><a name="chahmo"></a>chahmo</b> </font>
+<font size="+2">to be lazy, bored</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ <i>Var: chaamo</i>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chakíhmo">chakíhmo</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="c.htm#chalihma">chalihma</a></i>
+&nbsp;laziness
+<br><font size="+2"><b><a name="chahochahka"></a>chahochahka</b> </font>
+<font size="+2">woodpecker, speckled woodpecker </font>
+ <i>Var: chaochahka</i>
+<br><font size="+2"><b><a name="Chahta"></a>Chahta</b> </font>
+<font size="+2">Choctaw Indian</font>
+<br><font size="+2"><b><a name="Chahta innaaɬiilka"></a>Chahta innaaɬiilka</b> </font>
+<font size="+2">Choctaw language</font>
+&nbsp; [/chahta im- /naaɬii&lt;il&gt;-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="chakaawa"></a>chakaawa</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">cornbread, baked cornmeal</font>
+&nbsp;2.&nbsp;
+<font size="+2">to be rough, bumpy, coarse in texture</font>
+&nbsp;<font face="Arial">«</font>Hinik chakaawa.
+ <i>The road is rough.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chakáawa">chakáawa</a></i>
+&nbsp;1.&nbsp;
+&nbsp;crusty
+&nbsp;2.&nbsp;
+&nbsp;cornbread
+<br>&nbsp;&nbsp;<i><a href="c.htm#chakaawatilka">chakaawatilka</a></i>
+&nbsp;roughness
+<br><font size="+2"><b><a name="chakáawa"></a>chakáawa</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be sticky, tough and crusty (as of bread cooked wrong)</font>
+&nbsp;<font size="0">(DB)</font>
+ [<i>lgr</i>]
+&nbsp;2.&nbsp;
+<font size="+2">cornbread</font>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Anchakáawak paatobiila.
+ <i>My cornbread is burnt.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chakaawa">chakaawa</a>
+<br><font size="+2"><b><a name="chakaawatilka"></a>chakaawatilka</b> </font>
+<font size="+2">roughness, coarseness</font>
+&nbsp; [/chakaawa-tilka]
+ ☞<a href="c.htm#chakaawa">chakaawa</a>
+<br><font size="+2"><b><a name="chakaffi"></a>chakaffi</b> </font>
+<font size="+2">to make a sharp downward stroke; to chop at, hoe (once), hack; to peck at (once)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>chakafchi, chakafhili, chakafhachi</i>)
+&nbsp; [/chakaf-li]
+<br>&nbsp;&nbsp;<i><a href="c.htm#chakáfko">chakáfko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inchakaffi">inchakaffi</a></i>
+&nbsp;to hoe
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istinchakaffi">istinchakaffi</a></i>
+&nbsp;to hoe with
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istinchakafka">istinchakafka</a></i>
+&nbsp;hoe
+<br>&nbsp;&nbsp;<i><a href="n.htm#noochakaffi">noochakaffi</a></i>
+&nbsp;to behead; to cut down
+<br>&nbsp;&nbsp;<i><a href="c.htm#chakli">chakli</a></i>
+&nbsp;to chop (rep.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istinchakka">istinchakka</a></i>
+&nbsp;cock's spurs; beak
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#itachakli">itachakli</a></i>
+&nbsp;to clear ground
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#onachakli">onachakli</a></i>
+&nbsp;to chop down
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chakka">chakka</a></i>
+&nbsp;to be chopped
+<br><font size="+2"><b><a name="chakáfko"></a>chakáfko</b> </font>
+ Neg.
+ ☞<a href="c.htm#chakaffi">chakaffi</a>
+<br><font size="+2"><b><a name="chakchaki"></a>chakchaki</b><sup>1</sup> </font>
+<font size="+2">to be slatted, have long vertical or horizontal openings as a picket fence, venetian blinds, grill, grate, vent, etc.; to be cut to a point (e.g. wood stakes or picket fence slats)</font>
+ {poss. reduplicated form &nbsp;chak-li}
+&nbsp;<font size="0">(IB)</font>
+&nbsp;<font face="Arial">«</font>Holìhta chakchaki.
+ <i>Picket fence.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="chakchaki"></a>chakchaki</b><sup>2</sup> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chokchoki">chokchoki</a>&nbsp;
+<br><font size="+2"><b><a name="chakhíkko"></a>chakhíkko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Hochakhíkkot ohikhìichot onkok ɬoyóhkat ɬopòoli ɬopòolit wasatkat máamòosin ontibíikatoha.
+ <i>They hadn't caught up with them or found them so they turned around and passed back by them and were gone, then they went on back, so they used to say.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+ ☞<a href="c.htm#chakki">chakki</a>
+<br><font size="+2"><b><a name="chaki"></a>chaki</b> </font>
+<font size="+2">to be very small, tiny</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chakosi">chakosi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be tiny
+&nbsp;2.&nbsp;
+&nbsp;midget
+<br><font size="+2"><b><a name="chakíhmo"></a>chakíhmo</b> </font>
+ Neg.
+ ☞<a href="c.htm#chahmo">chahmo</a>
+<br><font size="+2"><b><a name="chakìiho"></a>chakìiho</b> </font>
+ Neg.
+ ☞<a href="c.htm#chaaha">chaaha</a>
+<br><font size="+2"><b><a name="chakíihossi"></a>chakíihossi</b> </font>
+ Neg.
+<font size="+2">to be short, not tall</font>
+&nbsp; [/chaa&lt;kìi&gt;ho-osi-hchi]
+ ☞<a href="c.htm#chakìiho">chakìiho</a>
+<br><font size="+2"><b><a name="chakissa"></a>chakissa</b> </font>
+<font size="+2">to be gooey, moist and sticky, slimy (as paste, a wet clay road, a fish, etc.)</font>
+ (not slippery or slick)
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoochakissa">ichoochakissa</a></i>
+&nbsp;to have something sticky around the mouth
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istinchakissa">istinchakissa</a></i>
+&nbsp;glue
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inchakissachi">inchakissachi</a></i>
+&nbsp;to glue to
+<br>&nbsp;&nbsp;<i><a href="i2.htm#itachakissachi">itachakissachi</a></i>
+&nbsp;to glue to the floor
+<br>&nbsp;&nbsp;<i><a href="p.htm#paachakissa">paachakissa</a></i>
+&nbsp;to be sticky on top
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paachakissachi">paachakissachi</a></i>
+&nbsp;to glue on top
+<br><font size="+2"><b><a name="chakka"></a>chakka</b> </font>
+<font size="+2">to be chopped</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/chak(af)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+&nbsp;<font face="Arial">«</font>Ittok chakkaaso.
+ <i>The wood has been chopped.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chakli">chakli</a>
+<br><font size="+2"><b><a name="chákkàako"></a>chákkàako</b> </font>
+ Neg.
+ ☞<a href="c.htm#chákkàali">chákkàali</a>
+<br><font size="+2"><b><a name="chákkàali"></a>chákkàali</b> </font>
+<font size="+2">to be nine </font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>chákkàalitiska, chákkàalitilka, chákkàalitaska</i>)
+&nbsp; [prob. /chakaa-li]
+ [<i>prob. ggr</i>]
+&nbsp;<font face="Arial">«</font>Chákkàalitilko.
+ <i>There are nine of us.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Pokkon onamaakáaliliiyok chákkàalin aapittalo.
+ <i>I threw the ball and put nine in.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chákkàalossi">chákkàalossi</a></i>
+&nbsp;to be only nine
+<br>&nbsp;&nbsp;<i><a href="c.htm#chákkàako">chákkàako</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="c.htm#chákkàalitíkko">chákkàalitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inchákkàali">inchákkàali</a></i>
+&nbsp;to have nine
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ischákkàali">ischákkàali</a></i>
+&nbsp;to be ninth, nine times
+<br>&nbsp;&nbsp;<i><a href="c.htm#chákkàalìichi">chákkàalìichi</a></i>
+&nbsp;to make nine
+<br><font size="+2"><b><a name="chákkàalìichi"></a>chákkàalìichi</b> </font>
+<font size="+2">to make nine, do nine times</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>chákkàalìichitiska, chákkàalìichitilka, chákkàalìichitaska</i>)
+&nbsp; [/chákkàa-li-chi<sup>1</sup>]
+ ☞<a href="c.htm#chákkàali">chákkàali</a>
+<br><font size="+2"><b><a name="chákkàalitíkko"></a>chákkàalitíkko</b> </font>
+ Neg.
+ ☞<a href="c.htm#chákkàali">chákkàali</a>
+<br><font size="+2"><b><a name="chákkàalossi"></a>chákkàalossi</b> </font>
+<font size="+2">to be only nine</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>chákkàalostiska, chákkàalostilka, chákkàalostaska</i>)
+&nbsp; [/chákkàa-li-osi-hchi]
+&nbsp;<font face="Arial">«</font>Chákkàalòssi?
+ <i>Oh, he's just nine?</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chákkàali">chákkàali</a>
+<br><font size="+2"><b><a name="chakki"></a>chakki</b> </font>
+<font size="+2">to catch up with</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>chakhiska, chakhilka, chakhaska</i>)
+<br>&nbsp;&nbsp;<i><a href="c.htm#chakkitíkko">chakkitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="c.htm#chakhíkko">chakhíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="chakkitíkko"></a>chakkitíkko</b> </font>
+ Neg.
+ ☞<a href="c.htm#chakki">chakki</a>
+<br><font size="+2"><b><a name="chakli"></a>chakli</b> </font>
+<font size="+2">to make sharp downward strokes, chop, hoe, hack at (plural objects or repeatedly); to peck</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>chakchi, chakhili, chakhachi</i>)
+&nbsp; [/chak(af)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+&nbsp;<font face="Arial">«</font>Itton hocháklit nahoomok, ittiswakaykakon hotalbòolit hobaskit yáamòosikáhchon (gesture) hotalbòoliimok (gesture) ittimpòoktat howaakayòolihchoolikha.
+ <i>They would chop some of the logs and that's the way they would do; they would make a gadget to lift logs with, they made it about so long (three feet), and got on either side and used to lift that way.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="c.htm#chakaffi">chakaffi</a>
+<br><font size="+2"><b><a name="chaknaaski"></a>chaknaaski</b> </font>
+<font size="+2">to be tilted, to lean to the side, slope or slant (of ground)</font>
+ (can be used of the head too)
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chaknaaskitíkko">chaknaaskitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="c.htm#chaknaaskichi">chaknaaskichi</a></i>
+&nbsp;to lean (something) to one side
+<br><font size="+2"><b><a name="chaknaaskichi"></a>chaknaaskichi</b> </font>
+<font size="+2">to tilt, lean (something) to one side</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>chaknaaskichiska, chaknaaskichilka, chaknaaskichaska</i>)
+&nbsp;(<i>chaknaaskichitiska, chaknaaskichitilka, chaknaaskichitaska</i>)
+&nbsp; [/chanaaski-chi<sup>1</sup>]
+ ☞<a href="c.htm#chaknaaski">chaknaaski</a>
+<br><font size="+2"><b><a name="chaknáaskit baláaka"></a>chaknáaskit baláaka</b> </font>
+<font size="+2">to lie on the side</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/chaknaaski-t /balaa-ka<sup>1</sup>]
+ [<i>lgr</i>]
+ ☞<a href="b.htm#balàaka">balàaka</a>
+<br><font size="+2"><b><a name="chaknaaskitíkko"></a>chaknaaskitíkko</b> </font>
+ Neg.
+ ☞<a href="c.htm#chaknaaski">chaknaaski</a>
+<br><font size="+2"><b><a name="chakolàati"></a>chakolàati</b> </font>
+<font size="+2">chocolate</font>
+ {&nbsp;English}
+<br><font size="+2"><b><a name="chakosi"></a>chakosi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be tiny, very small</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/chaki-osi]
+&nbsp;2.&nbsp;
+<font size="+2">midget</font>
+ <i>Var: achakosi</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="c.htm#chaki">chaki</a>
+<br><font size="+2"><b><a name="chalakbi"></a>chalakbi</b> </font>
+<font size="+2">to be tough, hard, stiff (in texture); to be sticky; to be starched</font>
+&nbsp;<font face="Arial">«</font>Mankostobatomat lapáaffiimok chalakbíimamáskat...
+ <i>If you don't do that (prepare the hide right), it (flesh) sticks to it and then it gets very stiff and tough.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chalakbichi">chalakbichi</a></i>
+&nbsp;to make stiff
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoochalakbi">ichoochalakbi</a></i>
+&nbsp;to have a sticky face
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ischalakbi">ischalakbi</a></i>
+&nbsp;starch
+<br><font size="+2"><b><a name="chalakbichi"></a>chalakbichi</b> </font>
+<font size="+2">to make (something) stiff; to starch (clothing)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>chalakbichitiska, chalakbichitilka, chalakbichitaska</i>)
+&nbsp;(<i>chalakbichiska, chalakbichilka, chalakbichaska</i>)
+&nbsp; [/chalakbi-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="c.htm#chalakbi">chalakbi</a>
+<br><font size="+2"><b><a name="Chalakki"></a>Chalakki</b> </font>
+<font size="+2">Cherokee Indian</font>
+ <i>Usage: </i>Older word.
+<br><font size="+2"><b><a name="chalakkitayyi"></a>chalakkitayyi</b> </font>
+<font size="+2">Gypsy woman</font>
+&nbsp; [/chalakki /tayyi]
+<br><font size="+2"><b><a name="chali"></a>chali</b> </font>
+<font size="+2">to be a member of a class, belong to a group (of the speaker)</font>
+&nbsp; [prob. cha- -(li)]
+ [<i>This is the first person form used in a construction that identifies an individual as a member of the class described by the noun. The verb consists of the noncontrol pronouns prefixed to a formative -li. With nominal subjects, the predicate is the class noun followed by ooli</i>]
+&nbsp;<font face="Arial">«</font>Aatok chalo.
+ <i>I'm an Indian.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Aabàachok chalihchoolikha.
+ <i>I used to be teacher.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasok chali?
+ <i>What kind of person am I?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasok chali amayiksamo.
+ <i>What's my clan? (a child asking a parent).</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chálko">chálko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="chalihma"></a>chalihma</b> </font>
+<font size="+2">laziness, sloth </font>
+&nbsp; [/cha&lt;li&gt;hmo-a]
+&nbsp;<font face="Arial">«</font>Chalihmamon wíikoolo.
+ <i>He stays lazy.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chahmo">chahmo</a>
+<br><font size="+2"><b><a name="chaliiha"></a>chaliiha</b> </font>
+<font size="+2">tallness</font>
+&nbsp; [/chaa&lt;lii&gt;ha]
+ ☞<a href="c.htm#chaaha">chaaha</a>
+<br><font size="+2"><b><a name="chálko"></a>chálko</b> </font>
+ Neg.
+ ☞<a href="c.htm#chali">chali</a>
+<br><font size="+2"><b><a name="chalóoka"></a>chalóoka</b> </font>
+<font size="+2">gelatin </font>
+&nbsp; [/chalóo-ka<sup>3</sup>]
+ {&nbsp;English `jello'}
+<br><font size="+2"><b><a name="chaɬaffi"></a>chaɬaffi</b> </font>
+<font size="+2">to split (one object), cut off a slice, pull two things apart</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>chaɬafchi, chaɬafhili, chaɬafhachi</i>)
+&nbsp; [/chaɬaf-li]
+ <i>Var: choɬaffi</i>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chaɬáfko">chaɬáfko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="c.htm#chaɬɬi">chaɬɬi</a></i>
+&nbsp;to split
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chaɬka">chaɬka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be sliced
+&nbsp;2.&nbsp;
+&nbsp;strip of leather
+<br><font size="+2"><b><a name="chaɬáfko"></a>chaɬáfko</b> </font>
+ Neg.
+ ☞<a href="c.htm#chaɬaffi">chaɬaffi</a>
+<br><font size="+2"><b><a name="chaɬaɬahkachi"></a>chaɬaɬahkachi</b> </font>
+<font size="+2">to make a rattling noise </font>
+&nbsp; [/chaɬaɬah-ka<sup>1</sup>-chi<sup>2</sup>]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Tissanahak chaɬaɬahkáachiti.
+ <i>The wagon is rattling in the distance.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chaɬchaɬchaɬchaɬ">chaɬchaɬchaɬchaɬ</a></i>
+&nbsp;sound of rattling, noise of a brown thrasher
+<br><font size="+2"><b><a name="chaɬcha"></a>chaɬcha</b> </font>
+<font size="+2">small, brown bird of winter and spring, poss. brown thrasher or a kind of woodpecker (?)</font>
+<br><font size="+2"><b><a name="chaɬchachoba"></a>chaɬchachoba</b> </font>
+<font size="+2">brown thrasher (?) </font>
+&nbsp; [/chaɬcha /choba]
+&nbsp;<font size="0">(IB)</font>
+ <i>Var: chaɬɬachòoba</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chaɬchaɬchaɬchaɬ"></a>chaɬchaɬchaɬchaɬ</b> </font>
+<font size="+2">the sound of rattling</font>
+&nbsp;<font size="0">(VC)</font>
+; <font size="+2">noise of a brown thrasher before dark</font>
+&nbsp;<font size="0">(DB)</font>
+ ☞<a href="c.htm#chaɬaɬahkachi">chaɬaɬahkachi</a>
+<br><font size="+2"><b><a name="chaɬka"></a>chaɬka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be split, sliced</font>
+&nbsp; [/chaɬ(af)-ka<sup>1</sup>]
+&nbsp;2.&nbsp;
+<font size="+2">strip of leather, leather thong</font>
+ ☞<a href="c.htm#chaɬɬi">chaɬɬi</a>
+<br><font size="+2"><b><a name="chaɬɬachòoba"></a>chaɬɬachòoba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chaɬchachoba">chaɬchachoba</a>&nbsp;
+<br><font size="+2"><b><a name="chaɬɬi"></a>chaɬɬi</b> </font>
+<font size="+2">to split (plural objects or repeatedly), cut off slices</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>chaɬchi, chaɬhili, chaɬhachi</i>)
+&nbsp; [/chaɬ(af)-li]
+ [<i>dsfx1</i>]
+ <i>Neg: </i>cháɬko
+ <i>Var: choɬɬi</i>
+ ☞<a href="c.htm#chaɬaffi">chaɬaffi</a>
+<br><font size="+2"><b><a name="chamàalichi"></a>chamàalichi</b> </font>
+<font size="+2">to clink, tinkle, jingle, make a clanging noise of something against metal, make a ringing noise, clank, clatter </font>
+ (may refer to the sound of clattering shingles, rattling dishes, coins in the pocket, any small bell, but not a large bell as a church bell)
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>chamàachichi, chamàahilichi, chamàahachichi</i>)
+&nbsp; [/chamaa-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Mahlok íisa ispaatalkan chamàalichiimoolo.
+ <i>The wind is clattering the shingles.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chamàalichiimoolo.
+ <i>They (the pots and pans) are clanging a lot.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chamàaya">chamàaya</a>
+<br><font size="+2"><b><a name="chamàaya"></a>chamàaya</b> </font>
+<font size="+2">to clang, ring, bang (of metal objects), clatter, jingle</font>
+&nbsp; [prob. /chamaa-a]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Ispaatalkak chamàayan háaloliti mahlifòokon.
+ <i>I heard the shingles clattering in the wind.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chamàalichi">chamàalichi</a></i>
+&nbsp;to make a jingling sound
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ischamàalichi">ischamàalichi</a></i>
+&nbsp;to cause something to jingle
+<br>&nbsp;&nbsp;<i><a href="c.htm#chamchamchamcham">chamchamchamcham</a></i>
+&nbsp;sound of clanging
+<br>&nbsp;&nbsp;<i><a href="c.htm#chamamahkachi">chamamahkachi</a></i>
+&nbsp;to rattle
+<br><font size="+2"><b><a name="chamamahkachi"></a>chamamahkachi</b> </font>
+<font size="+2">to rattle, esp. of something metal</font>
+&nbsp; [/chamamah-ka<sup>1</sup>-chi<sup>1</sup>]
+ {poss. reduplicated form of chamàaya}
+ ☞<a href="c.htm#chamàaya">chamàaya</a>
+<br><font size="+2"><b><a name="chamchakosi"></a>chamchakosi</b> </font>
+<font size="+2">to be speckled</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="chamchamchamcham"></a>chamchamchamcham</b> </font>
+<font size="+2">clang clang clang, the sound of clanging against metal</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="c.htm#chamàaya">chamàaya</a>
+<br><font size="+2"><b><a name="champóhli"></a>champóhli</b> </font>
+<font size="+2">to be sweeter</font>
+&nbsp; [/champoli]
+ [<i>hgr</i>]
+ ☞<a href="c.htm#champoli">champoli</a>
+<br><font size="+2"><b><a name="champolapihchi"></a>champolapihchi</b> </font>
+<font size="+2">sugar cane, cane sugar</font>
+&nbsp; [/champoli /apihchi]
+<br><font size="+2"><b><a name="champoli"></a>champoli</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">sugar, candy, a sweet, (something) tasty, sweetness; diabetes</font>
+&nbsp;<font face="Arial">«</font>Champolik chahoopachihchi.
+ <i>Diabetes makes me sick.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Champolik chahoopachaoⁿsi.
+ <i>I'm a borderline diabetic.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to taste good, taste sweet</font>
+&nbsp;<font face="Arial">«</font>California Mixkak champoliimon ipaliimoolo.
+ <i>California Mix tastes good so I eat too much.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Paspaya champoliimoolo.
+ <i>The bread tastes real good.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Champolihchi?
+ <i>Is it sweet?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chámpolihchi.
+ <i>It's very sweet.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ya ilpa ya ilpa yakchiyok champoliiyóot ishohochifaton ommitooli?
+ <i>This food, the yakchi, is it because it tastes so good that they called it that?</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#champólko">champólko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="c.htm#champóolostíkko">champóolostíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="c.htm#champòoli">champòoli</a></i>
+&nbsp;to be sweet
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inchampoli">inchampoli</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to like the taste of
+&nbsp;2.&nbsp;
+&nbsp;to have diabetes
+&nbsp;3.&nbsp;
+&nbsp;sweetheart
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#inchampòoli">inchampòoli</a></i>
+&nbsp;to have a sweet tooth
+<br>&nbsp;&nbsp;<i><a href="c.htm#champoliichi">champoliichi</a></i>
+&nbsp;to sweeten
+<br>&nbsp;&nbsp;<i><a href="c.htm#champóhli">champóhli</a></i>
+&nbsp;to be sweeter
+<br>&nbsp;&nbsp;<i><a href="c.htm#champóoⁿlossi">champóoⁿlossi</a></i>
+&nbsp;to be very sweet
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoochampoli">ichoochampoli</a></i>
+&nbsp;to have a sweet taste in the mouth
+<br>&nbsp;&nbsp;<i><a href="c.htm#champóolihchi">champóolihchi</a></i>
+&nbsp;anything sweet
+<br><font size="+2"><b><a name="champolibomboki"></a>champolibomboki</b> </font>
+<font size="+2">jawbreakers, round hard candy</font>
+&nbsp; [/champoli /bomboki]
+<br><font size="+2"><b><a name="champolibonotka"></a>champolibonotka</b> </font>
+<font size="+2">jawbreaker candy</font>
+&nbsp; [/champoli /bonot-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="champoliichi"></a>champoliichi</b> </font>
+<font size="+2">to sweeten</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>champoliichiska, champoliichilka, champoliichaska</i>)
+&nbsp;(<i>champoliitiska, champoliitilka, champoliitaska</i>)
+&nbsp; [/champoli-chi<sup>1</sup>]
+ ☞<a href="c.htm#champoli">champoli</a>
+<br><font size="+2"><b><a name="champolilaana"></a>champolilaana</b> </font>
+<font size="+2">brown sugar</font>
+&nbsp; [/champoli /laana]
+<br><font size="+2"><b><a name="champolisàncho"></a>champolisàncho</b> </font>
+<font size="+2">granulated sugar</font>
+&nbsp; [/champoli /sancho]
+ [<i>fgr</i>]
+ <i>Var: champolisáncho</i>
+<br><font size="+2"><b><a name="champolisankachi"></a>champolisankachi</b> </font>
+<font size="+2">candy cane, stick candy</font>
+&nbsp; [/champoli /san-ka<sup>1</sup>-chi<sup>1</sup>]
+<br><font size="+2"><b><a name="champolisoⁿilka"></a>champolisoⁿilka</b> </font>
+<font size="+2">sugar cane, cane sugar</font>
+&nbsp; [/champoli /som&lt;hil&gt;-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="champólko"></a>champólko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Oolimpak champólkoti.
+ <i>The food tasted bad.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#champoli">champoli</a>
+<br><font size="+2"><b><a name="champolokchi"></a>champolokchi</b> </font>
+<font size="+2">honey; syrup (cane, maple, chocolate, etc.); molasses</font>
+&nbsp; [/champoli /okchi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="champolokchi hatka"></a>champolokchi hatka</b> </font>
+<font size="+2">corn syrup</font>
+&nbsp; [/champoli /okchi /hat-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="champòoli"></a>champòoli</b> </font>
+<font size="+2">to be sweet</font>
+&nbsp; [/champoli]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Champóolihchi?
+ <i>Is it sweet?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Champòolihchi.
+ <i>It's sweet.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkàaylok nàasok champòolilaakkàaba.
+ <i>That doesn't look like it's going to taste good.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkàaylok nàasok champòolilaókkokáhcho.
+ <i>That doesn't look like it's going to taste good.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#champoli">champoli</a>
+<br><font size="+2"><b><a name="champóolihchi"></a>champóolihchi</b> </font>
+<font size="+2">anything sweet (as a sweet drink like lemonade, coke, etc.)</font>
+&nbsp; [/champoli-hchi]
+ [<i>lgr</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="c.htm#champoli">champoli</a>
+<br><font size="+2"><b><a name="champóolostíkko"></a>champóolostíkko</b> </font>
+ Neg.
+&nbsp; [/champoli-osi-tíkko]
+ ☞<a href="c.htm#champoli">champoli</a>
+<br><font size="+2"><b><a name="champóoⁿlossi"></a>champóoⁿlossi</b> </font>
+<font size="+2">to be just a little sweet</font>
+&nbsp; [/champoli-osi-hchi]
+ ☞<a href="c.htm#champoli">champoli</a>
+<br><font size="+2"><b><a name="chanahki"></a>chanahki</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">vertebra, backbone </font>
+&nbsp;2.&nbsp;
+<font size="+2">to be skinny, boney</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font face="Arial">«</font>Chichanáhkòosit.
+ <i>You're real skinny.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#paachanahki">paachanahki</a></i>
+&nbsp;1.&nbsp;
+&nbsp;backbone
+&nbsp;2.&nbsp;
+&nbsp;to be very skinny
+<br><font size="+2"><b><a name="chanaɬba"></a>chanaɬba</b> </font>
+<font size="+2">to be cleared of chaff, culled</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chanaɬbachi">chanaɬbachi</a></i>
+&nbsp;to clear grain of chaff
+<br><font size="+2"><b><a name="chanaɬbachi"></a>chanaɬbachi</b> </font>
+<font size="+2">to clear grain of chaff, separate out chaff, cull</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>chanaɬbachiska, chanaɬbachilka, chanaɬbachaska</i>)
+&nbsp;(<i>chanaɬbachitiska, chanaɬbachitilka, chanaɬbachitaska</i>)
+&nbsp; [/chanaɬba-chi<sup>1</sup>]
+ ☞<a href="c.htm#chanaɬba">chanaɬba</a>
+<br><font size="+2"><b><a name="cháⁿhkàasi"></a>cháⁿhkàasi</b> </font>
+<font size="+2">to be only one, the only one</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [prob. /chafaaka-osi]
+ [<i>poss. ngr</i>]
+&nbsp;<font face="Arial">«</font>Cháⁿhkastik istalpiiso.
+ <i>One of them is enough.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ano chachaⁿhkàssi.
+ <i>I'm the only one.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chaⁿhkàssok annàahobi màamin chimpaɬatlaaho.
+ <i>I only have one but I'll split it with you.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kowaɬɬit batatka chaⁿhkastík?
+ <i>Break them with just one swat, huh?</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+ ☞<a href="c.htm#chafaaka">chafaaka</a>
+<br><font size="+2"><b><a name="chanóofa"></a>chanóofa</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chiniifa">chiniifa</a>&nbsp;
+<br><font size="+2"><b><a name="chaochahka"></a>chaochahka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chahochahka">chahochahka</a>&nbsp;
+<br><font size="+2"><b><a name="chàpka"></a>chàpka</b> </font>
+<font size="+2">chops (cracked corn to feed chickens)</font>
+&nbsp; [/chàp-ka<sup>3</sup>]
+ {&nbsp;English}
+<br><font size="+2"><b><a name="chasàa-"></a>chasàa-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chasàalichi">chasàalichi</a></i>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ischasàalichi">ischasàalichi</a></i>
+&nbsp;to make something rattle
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chasàakachi">chasàakachi</a></i>
+&nbsp;to rattle (with the whole body)
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inchasàaya">inchasàaya</a></i>
+&nbsp;rattlesnake's rattle
+<br><font size="+2"><b><a name="chasàakachi"></a>chasàakachi</b> </font>
+<font size="+2">to be the sound of rattling, crackling </font>
+&nbsp; [/chasàa-ka<sup>1</sup>-chi<sup>2</sup>]
+ ☞<a href="c.htm#chasàalichi">chasàalichi</a>
+<br><font size="+2"><b><a name="chasàalichi"></a>chasàalichi</b> </font>
+<font size="+2">to rattle, make a rattling noise (of a snake), rustle, make a rustling noise</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>chasàachichi, chasàahilichi, chasàahachichi</i>)
+&nbsp; [/chasàa-li-chi<sup>2</sup>]
+ ☞<a href="c.htm#chasàa-">chasàa-</a>
+<br><font size="+2"><b><a name="chasbotòoka"></a>chasbotòoka</b> </font>
+<font size="+2">cornmeal</font>
+&nbsp; [/chassi /botoo-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="chasbotòoka afolka"></a>chasbotòoka afolka</b> </font>
+<font size="+2">cornmeal mush</font>
+&nbsp; [/chassi /botoo-ka<sup>1</sup> /afol-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="chasbotòoka paspa"></a>chasbotòoka paspa</b> </font>
+<font size="+2">cornbread</font>
+&nbsp; [/chassi /botoo-ka<sup>1</sup> /paspa]
+<br><font size="+2"><b><a name="chaschámpoli"></a>chaschámpoli</b> </font>
+<font size="+2">sweet corn</font>
+&nbsp; [/chassi /champoli]
+<br><font size="+2"><b><a name="chaschilohka"></a>chaschilohka</b> </font>
+<font size="+2">to shell corn</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/chassi /chiloh-ka<sup>1</sup>]
+ ☞<a href="c.htm#chilohka">chilohka</a>
+<br><font size="+2"><b><a name="chasfilakchi"></a>chasfilakchi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chassifilakchi">chassifilakchi</a>&nbsp;
+<br><font size="+2"><b><a name="chasfosli"></a>chasfosli</b> </font>
+<font size="+2">to strip corn husks, shuck corn</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/chassi /fos-li]
+ ☞<a href="f.htm#fosli">fosli</a>
+<br><font size="+2"><b><a name="chashalokpa"></a>chashalokpa</b> </font>
+<font size="+2">old type of corn with stickers in it that is difficult to shuck </font>
+&nbsp;<font color="#080000">Cul:  VC used to see it when he was a boy, but it is not seen today.</font>&nbsp;
+&nbsp; [/chassi /halokpa]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chashissi"></a>chashissi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chassihissi">chassihissi</a>&nbsp;
+<br><font size="+2"><b><a name="chaskowaski"></a>chaskowaski</b> </font>
+<font size="+2">corn, Indian corn</font>
+&nbsp;<font color="#080000">Cul:  Usual corn for making sofkey, it is spotted blue, black, etc.</font>&nbsp;
+&nbsp; [/chassi /?]
+<br><font size="+2"><b><a name="chassaabotòoli"></a>chassaabotòoli</b> </font>
+<font size="+2">corn mill, grist mill</font>
+&nbsp; [/chassi aa- /botoo-li]
+<br><font size="+2"><b><a name="chassaachikìika"></a>chassaachikìika</b> </font>
+<font size="+2">corn crib</font>
+&nbsp; [/chassi aa- /chikìi-ka<sup>1</sup>]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="chassachihka"></a>chassachihka</b> </font>
+<font size="+2">field of corn </font>
+&nbsp; [/chassi /achih-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chassaffakchi"></a>chassaffakchi</b> </font>
+<font size="+2">corn husks, corn shucks</font>
+&nbsp; [/chassi /affakchi]
+<br><font size="+2"><b><a name="chassapayka"></a>chassapayka</b> </font>
+<font size="+2">parched corn</font>
+&nbsp; [/chassi /apay-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="chassapayka hoɬka"></a>chassapayka hoɬka</b> </font>
+<font size="+2">roasted corn sofkey</font>
+&nbsp; [/chassi /apay-ka<sup>1</sup> /hoɬka]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chassapayka hoɬka toba"></a>chassapayka hoɬka toba</b> </font>
+<font size="+2">roasted corn used to make sofkey</font>
+&nbsp; [/chassi /apay-ka<sup>1</sup> /hoɬka /toba]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chassapayli"></a>chassapayli</b> </font>
+<font size="+2">to parch corn, roast corn</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/chassi /apay-li]
+ ☞<a href="a.htm#apayli">apayli</a>
+<br><font size="+2"><b><a name="chassapi"></a>chassapi</b> </font>
+<font size="+2">corncob</font>
+&nbsp; [/chassi /api]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chassapihchi"></a>chassapihchi</b> </font>
+<font size="+2">corncob; corn stalk</font>
+&nbsp; [/chassi /apihchi]
+<br><font size="+2"><b><a name="chassi"></a>chassi</b> </font>
+<font size="+2">corn; corn kernel</font>
+<br><font size="+2"><b><a name="chassibitka"></a>chassibitka</b> </font>
+<font size="+2">corn dance</font>
+&nbsp; [/chassi /bit-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chassichoba hoɬka"></a>chassichoba hoɬka</b> </font>
+<font size="+2">sofkey made from whole corn kernels</font>
+&nbsp; [/chassi /choba /hoɬka]
+<br><font size="+2"><b><a name="chassichokhiska"></a>chassichokhiska</b> </font>
+<font size="+2">corn silk; corn tassel</font>
+&nbsp;<font size="0">(VC)</font>
+&nbsp; [/chassi /ichokhiska]
+<br><font size="+2"><b><a name="chassifilakchi"></a>chassifilakchi</b> </font>
+<font size="+2">roasting ears, boiled corn</font>
+&nbsp; [/chassi /filakchi]
+ <i>Var: chasfilakchi</i>
+<br><font size="+2"><b><a name="chassihissi"></a>chassihissi</b> </font>
+<font size="+2">corn shucks, husks, corn leaves</font>
+&nbsp; [/chassi /hissi]
+ <i>Var: chashissi</i>
+<br><font size="+2"><b><a name="chassimiisa"></a>chassimiisa</b> </font>
+<font size="+2">corncrib, barn</font>
+&nbsp; [/chassi im- /iisa]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chassimpallíkchi"></a>chassimpallíkchi</b> </font>
+<font size="+2">corn chaff, corn hull</font>
+&nbsp; [/chassi im- /pallìkchi]
+<br><font size="+2"><b><a name="chassipokta"></a>chassipokta</b> </font>
+<font size="+2">double or twin ear of corn</font>
+&nbsp;<font color="#080000">Cul:  It is said that young girls should avoid eating double ears of corn or they will produce twins when they grow up.</font>&nbsp;
+&nbsp; [/chassi /pokta]
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="chassisokha"></a>chassisokha</b> </font>
+<font size="+2">corn, white corn, a very white Indian corn </font>
+ (variety not seen today)
+&nbsp;<font color="#080000">Cul:  Kind of corn to make hominy from.</font>&nbsp;
+&nbsp; [/chassi /sokha]
+<br><font size="+2"><b><a name="chassisolotka"></a>chassisolotka</b> </font>
+<font size="+2">corn chip</font>
+&nbsp; [/chassi /solot-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="chassitiɬkachi"></a>chassitiɬkachi</b> </font>
+<font size="+2">creamed corn; green corn, fresh corn</font>
+&nbsp; [/chassi /tiɬ-ka<sup>1</sup>-chi<sup>2</sup>]
+ <i>Var: chastiɬkachi</i>
+<br><font size="+2"><b><a name="chassitokàali"></a>chassitokàali</b> </font>
+<font size="+2">popcorn </font>
+&nbsp; [/chassi /toka&lt;h&gt;f-li]
+ [<i>fgr</i>]
+ <i>Var: chastokàali</i>
+ <i>Var: chastokahli</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chassiwwoksi"></a>chassiwwoksi</b> </font>
+<font size="+2">corn silk</font>
+&nbsp; [/chassi im- /woksi]
+<br><font size="+2"><b><a name="chassokcháako"></a>chassokcháako</b> </font>
+<font size="+2">green corn</font>
+&nbsp; [/chassi /okcháako]
+<br><font size="+2"><b><a name="chassokcháako bitka"></a>chassokcháako bitka</b> </font>
+<font size="+2">green corn dance</font>
+&nbsp; [/chassi /okcháako /bit-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chassokcháako paspa"></a>chassokcháako paspa</b> </font>
+<font size="+2">green corn cornbread</font>
+&nbsp; [/chassi /okcháako /paspa]
+<br><font size="+2"><b><a name="chassolbi"></a>chassolbi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chassoolbi">chassoolbi</a>&nbsp;
+<br><font size="+2"><b><a name="chassoochiika"></a>chassoochiika</b> </font>
+<font size="+2">corncake</font>
+&nbsp; [/chassi oo- /chii-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="chassoolbi"></a>chassoolbi</b> </font>
+<font size="+2">hominy </font>
+&nbsp; [/chassi /oolbi]
+ <i>Var: chassolbi</i>
+<br><font size="+2"><b><a name="chastiɬkachi"></a>chastiɬkachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chassitiɬkachi">chassitiɬkachi</a>&nbsp;
+<br><font size="+2"><b><a name="chastokàali"></a>chastokàali</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chassitokàali">chassitokàali</a>&nbsp;
+<br><font size="+2"><b><a name="chastokaffakchi hómma"></a>chastokaffakchi hómma</b> </font>
+<font size="+2">purple hull peas </font>
+&nbsp; [/chastoki /affakchi /homma]
+<br><font size="+2"><b><a name="chastokaffakchi locha"></a>chastokaffakchi locha</b> </font>
+<font size="+2">purple hull peas; black beans</font>
+&nbsp; [/chastoki /affakchi /locha]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chastokalbiɬa"></a>chastokalbiɬa</b> </font>
+<font size="+2">pole beans, green beans</font>
+&nbsp; [/chastoki /a&lt;l&gt;biɬ-a]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chastokchoba"></a>chastokchoba</b> </font>
+<font size="+2">crowder peas </font>
+&nbsp; [/chastoki /choba]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chastokhátkasi"></a>chastokhátkasi</b> </font>
+<font size="+2">navy beans; cream peas </font>
+&nbsp; [/chastoki /hat-ka<sup>1</sup>-osi]
+<br><font size="+2"><b><a name="chastokhobaski"></a>chastokhobaski</b> </font>
+<font size="+2">long peas </font>
+ (has pods about two feet long)
+&nbsp; [/chastoki ho- /baski]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chastokholísso"></a>chastokholísso</b> </font>
+<font size="+2">speckled peas, field peas </font>
+&nbsp; [/chastoki /ho&lt;li&gt;sso]
+ <i>Var: chastokholìsso</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="chastokhómma"></a>chastokhómma</b> </font>
+<font size="+2">pinto beans; red beans, kidney beans</font>
+&nbsp; [/chastoki /homma]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chastokhopàtha"></a>chastokhopàtha</b> </font>
+<font size="+2">butter beans; lima beans</font>
+&nbsp; [/chastoki ho- /patha]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: chastokpàtha</i>
+&nbsp;<font size="0">(DB)</font>
+ <i>Var: chastokhopátha</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chastokhopáthachoba"></a>chastokhopáthachoba</b> </font>
+<font size="+2">large lima beans</font>
+&nbsp; [/chastoki ho- /patha /choba]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chastokhopátha hàtka"></a>chastokhopátha hàtka</b> </font>
+<font size="+2">white butter beans; baby lima beans</font>
+&nbsp; [/chastoki ho- /patha /hat-ka<sup>1</sup>]
+ <i>Var: chastokhopàtha hàtka</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chastokhopátha holìsso"></a>chastokhopátha holìsso</b> </font>
+<font size="+2">speckled butter beans; striped lima beans</font>
+&nbsp; [/chastoki ho- /patha]
+ <i>Var: chastokhopàtha holìsso</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chastokhopáthasi"></a>chastokhopáthasi</b> </font>
+<font size="+2">baby lima beans</font>
+&nbsp; [/chastoki ho- /patha-osi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chastoki"></a>chastoki</b> </font>
+<font size="+2">beans, peas </font>
+<br><font size="+2"><b><a name="chastokibitka"></a>chastokibitka</b> </font>
+<font size="+2">bean dance</font>
+&nbsp; [/chastoki /bit-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chastoki inchokbilocha"></a>chastoki inchokbilocha</b> </font>
+<font size="+2">black-eyed peas, cowpea </font>
+&nbsp; [/chastoki im- /chokbi /locha]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chastoki ischokòoli"></a>chastoki ischokòoli</b> </font>
+<font size="+2">bush beans</font>
+&nbsp; [/chastoki ist- /chokoo-li]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: chastokissokoli</i>
+ <i>Var: issokoli</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="chastokissokoli"></a>chastokissokoli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chastoki ischokòoli">chastoki ischokòoli</a>&nbsp;
+<br><font size="+2"><b><a name="chastokistabiɬilka"></a>chastokistabiɬilka</b> </font>
+<font size="+2">bean pole</font>
+&nbsp; [/chastoki ist- /abiɬi&lt;il&gt;ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chastokittiɬlocha"></a>chastokittiɬlocha</b> </font>
+<font size="+2">black-eyed peas, cowpea </font>
+&nbsp; [/chastoki /ittiɬi /locha]
+<br><font size="+2"><b><a name="chastokkotáaka"></a>chastokkotáaka</b> </font>
+<font size="+2">snap beans</font>
+&nbsp; [/chastoki /kota(f)-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chastokɬolotli"></a>chastokɬolotli</b> </font>
+<font size="+2">string beans</font>
+&nbsp; [/chastoki /ɬolot-li]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chastokokcháako"></a>chastokokcháako</b> </font>
+<font size="+2">green peas </font>
+&nbsp; [/chastoki /okcháako]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chastokokchi"></a>chastokokchi</b> </font>
+<font size="+2">bean juice</font>
+<br><font size="+2"><b><a name="chastokolfa"></a>chastokolfa</b> </font>
+<font size="+2">bean sprout</font>
+<br><font size="+2"><b><a name="chastokpàtha"></a>chastokpàtha</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chastokhopàtha">chastokhopàtha</a>&nbsp;
+<br><font size="+2"><b><a name="chayaali"></a>chayaali</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chiyahli">chiyahli</a>&nbsp;
+<br><font size="+2"><b><a name="chayahli"></a>chayahli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chiyahli">chiyahli</a>&nbsp;
+<br><font size="+2"><b><a name="cháyyàali"></a>cháyyàali</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chíyyàali">chíyyàali</a>&nbsp;
+<br><font size="+2"><b><a name="chekka"></a>chekka</b> </font>
+<font size="+2">check</font>
+ {&nbsp;English}
+<br><font size="+2"><b><a name="chichoba"></a>chichoba</b> </font>
+<font size="+2">horse; sawhorse </font>
+&nbsp;<font face="Arial">«</font>Chichobok walíikaasin.
+ <i>The horse is trotting.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chichoba bàki istiⁿhalàilka"></a>chichoba bàki istiⁿhalàilka</b> </font>
+<font size="+2">buggy tracks</font>
+&nbsp; [/chichoba /baki ist-im- /hala&lt;h&gt;t&lt;il&gt;-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chichobabitka"></a>chichobabitka</b> </font>
+<font size="+2">horse dance</font>
+&nbsp; [/chichoba /bit-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="chichobabitka talilwa"></a>chichobabitka talilwa</b> </font>
+<font size="+2">horse dance song</font>
+&nbsp; [/chichoba /bit-ka<sup>1</sup> /ta&lt;li&gt;lwa]
+<br><font size="+2"><b><a name="chichobahissi"></a>chichobahissi</b> </font>
+<font size="+2">horse's mane</font>
+&nbsp; [/chichoba /hissi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chichoba ichoohokfa"></a>chichoba ichoohokfa</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chichobichoohokfa">chichobichoohokfa</a>&nbsp;
+<br><font size="+2"><b><a name="chichoba ichookfa"></a>chichoba ichookfa</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chichobichoohokfa">chichobichoohokfa</a>&nbsp;
+<br><font size="+2"><b><a name="chichoba imaayilpa"></a>chichoba imaayilpa</b> </font>
+<font size="+2">horse feed trough</font>
+&nbsp; [/chichoba im-aa-il- /ipa]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chichoba imaayisilka"></a>chichoba imaayisilka</b> </font>
+<font size="+2">horse water trough</font>
+&nbsp; [/chichoba im-aa- /isko-ilka]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chichoba imaayittimaliyya"></a>chichoba imaayittimaliyya</b> </font>
+<font size="+2">horserace track</font>
+&nbsp; [/chichoba im-aa-itti- /ima&lt;li&gt;yya]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chichoba imaayoolimpa"></a>chichoba imaayoolimpa</b> </font>
+<font size="+2">pasture, meadow</font>
+&nbsp; [/chichoba im-aa- /oo&lt;li&gt;mpa]
+<br><font size="+2"><b><a name="chichoba imiisa"></a>chichoba imiisa</b> </font>
+<font size="+2">shade shelter for horses</font>
+&nbsp; [/chichoba im- /iisa]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="Chichoba Imoola"></a>Chichoba Imoola</b> </font>
+<font size="+2">Horse Pen Creek </font>
+&nbsp;<font color="#080000">Cul:  Old settlement near Woodville.</font>&nbsp;
+&nbsp; [/chichoba im- /oola]
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="chichoba iⁿholihta"></a>chichoba iⁿholihta</b> </font>
+<font size="+2">horse corral</font>
+&nbsp; [/chichoba im- /holihta]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chichoba ischifilka"></a>chichoba ischifilka</b> </font>
+<font size="+2">spurs</font>
+&nbsp; [/chichoba ist- /chif&lt;il&gt;-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chichoba istimmánkasi"></a>chichoba istimmánkasi</b> </font>
+<font size="+2">shetland pony </font>
+&nbsp; [/chichoba ist-im- /mami-ka<sup>1</sup>-osi]
+<br><font size="+2"><b><a name="chichoba istiⁿhalailka"></a>chichoba istiⁿhalailka</b> </font>
+<font size="+2">reins, tethers</font>
+&nbsp; [/chichoba ist-im- /hala&lt;h&gt;t&lt;il&gt;-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chichoba istiⁿhalatilka"></a>chichoba istiⁿhalatilka</b> </font>
+<font size="+2">rein, tether</font>
+&nbsp; [/chichoba ist-im- /halat&lt;il&gt;-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="chichoba istiⁿwwaatali"></a>chichoba istiⁿwwaatali</b> </font>
+<font size="+2">harness</font>
+&nbsp; [/chichoba ist-im- /wata(a)-li]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chichoba iyyaksi"></a>chichoba iyyaksi</b> </font>
+<font size="+2">horse hoof and shoes</font>
+&nbsp; [/chichoba /iyyaksi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chichoba kachàali"></a>chichoba kachàali</b> </font>
+<font size="+2">horsefly </font>
+&nbsp; [/chichoba /kacha(ɬ)-li]
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="chichobalamlaki"></a>chichobalamlaki</b> </font>
+<font size="+2">zebra </font>
+&nbsp; [/chichoba /lamlaki]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chichobaɬahkachi"></a>chichobaɬahkachi</b> </font>
+<font size="+2">zebra </font>
+&nbsp; [/chichoba /ɬah-ka<sup>1</sup>-chi<sup>2</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chichobamaɬàtli"></a>chichobamaɬàtli</b> </font>
+<font size="+2">mustang, wild horse</font>
+&nbsp; [/chichoba /maɬat-li]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chichoba oki imaayisilka"></a>chichoba oki imaayisilka</b> </font>
+<font size="+2">horse water trough</font>
+&nbsp; [/chichoba /oki im-aa- /isko-ilka]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chichobapaapoksi"></a>chichobapaapoksi</b> </font>
+<font size="+2">camel </font>
+&nbsp; [/chichoba paa- /poksi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chichobasi"></a>chichobasi</b> </font>
+<font size="+2">colt, pony; small sawhorse </font>
+&nbsp;<font size="0">(IB)</font>
+&nbsp; [/chichoba-osi]
+<br><font size="+2"><b><a name="chichobichoohokfa"></a>chichobichoohokfa</b> </font>
+<font size="+2">horse bridle, bit and headstall</font>
+&nbsp; [/chichoba ichoo- /hokfa]
+ <i>Var: chichoba ichoohokfa</i>
+ <i>Var: chichoba ichookfa</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chichobimilpa"></a>chichobimilpa</b> </font>
+<font size="+2">horse feed; hay, fodder </font>
+&nbsp; [/chichoba im-il- /(i)pa]
+<br><font size="+2"><b><a name="chichobimilpaɬka"></a>chichobimilpaɬka</b> </font>
+<font size="+2">feed bag</font>
+&nbsp; [/chichoba im-il- /(i)pa /aɬi-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chichobiⁿwwatàaka"></a>chichobiⁿwwatàaka</b> </font>
+<font size="+2">harness</font>
+&nbsp; [/chichoba im- /wata-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chichobittimayya"></a>chichobittimayya</b> </font>
+<font size="+2">horserace</font>
+&nbsp; [/chichoba itti- /imayya]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chichobiwwilo"></a>chichobiwwilo</b> </font>
+<font size="+2">horseshoe</font>
+&nbsp; [/chichoba im- /wilo]
+<br><font size="+2"><b><a name="chifíkko"></a>chifíkko</b> </font>
+ Neg.
+ ☞<a href="c.htm#chifka">chifka</a>
+<br><font size="+2"><b><a name="chifipíkko"></a>chifipíkko</b> </font>
+ Neg.
+ ☞<a href="c.htm#chifipka">chifipka</a>
+<br><font size="+2"><b><a name="chifipka"></a>chifipka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to poke, hit, kick (for instance, to see if something is dead) (once/one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>chifipiska, chifipilka, chifipaska</i>)
+&nbsp; [/chifip-ka<sup>1</sup>]
+&nbsp;2.&nbsp;
+<font size="+2">to trip; to be tripped by an object</font>
+&nbsp;<font color="#800080" size="+1">CHA-; 3/CHA-</font>
+&nbsp;<font face="Arial">«</font>Chachifipko.
+ <i>I tripped.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ittassikchik chachifipko.
+ <i>The root tripped me.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasok chachifípkan chatammo.
+ <i>Something tripped me and I fell down.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chifipíkko">chifipíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inkowàasan ischifipka">inkowàasan ischifipka</a></i>
+&nbsp;to jab with the elbow (once)
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istiliichifipka">istiliichifipka</a></i>
+&nbsp;to trip over (once)
+<br>&nbsp;&nbsp;<i><a href="c.htm#chifka">chifka</a></i>
+&nbsp;to trip, poke (pl. obj. or rep.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chifíkko">chifíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ischifilka">ischifilka</a></i>
+&nbsp;spurs; glass slivers
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istinchifka">istinchifka</a></i>
+&nbsp;to poke (someone) with
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#itachifka">itachifka</a></i>
+&nbsp;to poke (a fire) repeatedly
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#itachifoka">itachifoka</a></i>
+ Imp.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istitachifka">istitachifka</a></i>
+&nbsp;to poke (a fire) with repeatedly
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istitachifilka">istitachifilka</a></i>
+&nbsp;fire poker
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istitachifkachi">istitachifkachi</a></i>
+&nbsp;fire poker
+<br><font size="+2"><b><a name="chifka"></a>chifka</b> </font>
+<font size="+2">to poke, hit, kick (plural objects or repeatedly); to give friendly nudges in the ribs</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>chifiska, chifilka, chifaska</i>)
+&nbsp; [/chif(ip)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ <i>Neg: </i>chifíkko
+ ☞<a href="c.htm#chifipka">chifipka</a>
+<br><font size="+2"><b><a name="chihbi"></a>chihbi</b> </font>
+<font size="+2">to be thick, dense, deep; to be calloused</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chikíhbo">chikíhbo</a></i>
+ Neg.
+&nbsp;to be thin
+<br>&nbsp;&nbsp;<i><a href="c.htm#chíhbi">chíhbi</a></i>
+&nbsp;to be thicker
+<br>&nbsp;&nbsp;<i><a href="c.htm#chihbichi">chihbichi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to thicken
+&nbsp;2.&nbsp;
+&nbsp;to lie thick
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istoochihbichi">istoochihbichi</a></i>
+&nbsp;to thicken with
+<br>&nbsp;&nbsp;<i><a href="c.htm#chihbiliichi">chihbiliichi</a></i>
+&nbsp;to be getting thicker
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istoochihbi">istoochihbi</a></i>
+&nbsp;a type of thick stew
+<br><font size="+2"><b><a name="chíhbi"></a>chíhbi</b> </font>
+<font size="+2">to be thicker</font>
+&nbsp; [/chihbi]
+ [<i>hgr</i>]
+ ☞<a href="c.htm#chihbi">chihbi</a>
+<br><font size="+2"><b><a name="chihbichi"></a>chihbichi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to thicken, make thicker</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>chihbichiska, chihbichilka, chihbichaska</i>)
+&nbsp;(<i>chihbichitiska, chihbichitilka, chihbichitaska</i>)
+&nbsp; [/chihbi-chi<sup>1</sup>]
+&nbsp;2.&nbsp;
+<font size="+2">to lie thick (of snow), be a heavy snowfall</font>
+&nbsp;<font face="Arial">«</font>Hipliiyok chihbicho.
+ <i>The snow is getting thicker.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chihbi">chihbi</a>
+<br><font size="+2"><b><a name="chihbiliichi"></a>chihbiliichi</b> </font>
+<font size="+2">to be getting thicker and thicker (esp. of snow)</font>
+&nbsp; [/chihbi-(lii)-chi<sup>1</sup> (?)]
+ [<i>the -lii- is not a regular formative</i>]
+&nbsp;<font face="Arial">«</font>Chihbiliicho.
+ <i>It (the snow) is getting thicker and thicker.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Anchihbiliichi.
+ <i>Mine (my yard with leaves and trash, my hair, etc.) is getting thicker and thicker.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chihbi">chihbi</a>
+<br><font size="+2"><b><a name="chihkafo"></a>chihkafo</b> </font>
+<font size="+2">common sassafras </font>
+&nbsp;<font color="#080000">Cul:  Sassafras root is boiled to make a sweet-tasting tea that is said to be good for the blood. The root can be boiled with the head-bones of a hog to make yakchi.</font>&nbsp;
+ <i>Var: chíhkafo</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="chii-"></a>chii-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chiili">chiili</a></i>
+&nbsp;to set down
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chìiko">chìiko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ilchiili">ilchiili</a></i>
+&nbsp;to resettle someone
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittapaachiili">ittapaachiili</a></i>
+&nbsp;to pile up
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittapaachiika">ittapaachiika</a></i>
+&nbsp;to be piled up
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#oochiili">oochiili</a></i>
+&nbsp;to put (pl. obj.) down in something
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#oochiika">oochiika</a></i>
+&nbsp;to have been put down in liquid
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chiika">chiika</a></i>
+&nbsp;foundation blocks
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ischíika">ischíika</a></i>
+&nbsp;planted row
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iisa inchiili">iisa inchiili</a></i>
+&nbsp;to lay a foundation for
+<br>&nbsp;&nbsp;<i><a href="c.htm#chiika">chiika</a></i>
+&nbsp;to take a seat (pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chìika">chìika</a></i>
+&nbsp;to be sitting (pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chiíkko">chiíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chiihoka">chiihoka</a></i>
+ Imp.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ilchiika">ilchiika</a></i>
+&nbsp;to emigrate
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#oochiika">oochiika</a></i>
+&nbsp;to sit down in something
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paachìika">paachìika</a></i>
+&nbsp;to sit on top of
+<br><font size="+2"><b><a name="chíi"></a>chíi</b> </font>
+<font size="+2">look!</font>
+ <i>Var: chíiⁿ</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="chiichi"></a>chiichi</b> </font>
+<font size="+2">penis </font>
+ <i>Usage: </i>Euphemism, nursery word.
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+<br><font size="+2"><b><a name="chiihoka"></a>chiihoka</b> </font>
+ Imp.
+ ☞<a href="c.htm#chiika2">chiika<sup>2</sup></a>
+<br><font size="+2"><b><a name="chiika"></a>chiika</b><sup>1</sup> </font>
+<font size="+2">foundation blocks</font>
+&nbsp; [/chii-ka<sup>1</sup>]
+ ☞<a href="c.htm#chiili1">chiili<sup>1</sup></a>
+<br><font size="+2"><b><a name="chiika"></a>chiika</b><sup>2</sup> </font>
+<font size="+2">to sit, take a seat, settle down (of several)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, chiihilka, chiihaska</i>)
+&nbsp; [/chii-ka<sup>1</sup>]
+ [<i>Irr: </i>SgStem=chokòoli; PclStem=chikìika]
+ <i>Neg: </i>chiíkko
+&nbsp;<font face="Arial">«</font>Chiikat àayataka nákson iishachinkáanoomok.
+ <i>Have a seat, anywhere you want.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chii-">chii-</a>
+<br><font size="+2"><b><a name="chìika"></a>chìika</b> </font>
+<font size="+2">the letter `Ch'</font>
+&nbsp; [/chii-ka<sup>3</sup>]
+<br><font size="+2"><b><a name="chìika"></a>chìika</b><sup>1</sup> </font>
+<font size="+2">to be sitting, seated, settled (of several)</font>
+ <i>Usage: </i>For some, no distinction made among the nonsingular forms.
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, chìihilka, chìihaska</i>)
+&nbsp; [/chii-ka<sup>1</sup>]
+ [<i>fgr</i>]
+ [<i>Irr: </i>SgStem=chókkòoli; PclStem=chíkkìika]
+ ☞<a href="c.htm#chiika2">chiika<sup>2</sup></a>
+<br><font size="+2"><b><a name="chiíkko"></a>chiíkko</b> </font>
+ Neg.
+ ☞<a href="c.htm#chiika2">chiika<sup>2</sup></a>
+<br><font size="+2"><b><a name="chìiko"></a>chìiko</b> </font>
+ Neg.
+ ☞<a href="c.htm#chiili1">chiili<sup>1</sup></a>
+<br><font size="+2"><b><a name="chiili"></a>chiili</b><sup>1</sup> </font>
+<font size="+2">to set down, seat, lay down, put down (plural objects); to park (cars)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>chiichi, chiihili, chiihachi</i>)
+&nbsp; [/chii-li]
+ [<i>Irr: </i>SgStem=chokòoli; PclStem=chikìili]
+ <i>Neg: </i>chìiko
+&nbsp;<font face="Arial">«</font>Naho ifan píila sáhtik oiⁿɬàakohchon chofkonin kanòochit oinchiilihchootoha homankan háalolihchootook onkalo.
+ <i>And they don't throw them down to the dogs just any old way, but would lay the bones down carefully they said, that's what I've heard.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hochiili.
+ <i>They park cars (have valet parking).</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chii-">chii-</a>
+<br><font size="+2"><b><a name="chiili"></a>chiili</b><sup>2</sup> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chili">chili</a>&nbsp;
+<br><font size="+2"><b><a name="chíiⁿ"></a>chíiⁿ</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chíi">chíi</a>&nbsp;
+<br><font size="+2"><b><a name="chìiska"></a>chìiska</b> </font>
+<font size="+2">cheese</font>
+ {&nbsp;English}
+&nbsp; [/chìis-ka<sup>3</sup>]
+<br><font size="+2"><b><a name="chíiskokko"></a>chíiskokko</b> </font>
+<font size="+2">robin </font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chíiskokoko">chíiskokoko</a></i>
+&nbsp;sound of a robin
+<br><font size="+2"><b><a name="chíiskokoko"></a>chíiskokoko</b> </font>
+<font size="+2">the sound a robin makes</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="c.htm#chíiskokko">chíiskokko</a>
+<br><font size="+2"><b><a name="chíka"></a>chíka</b> </font>
+<font size="+2">first born son; older brother</font>
+ <i>Usage: </i>Hypocoristic nickname.
+&nbsp;<font face="Arial">«</font>`Chíka' homankatok onáahchi, Fulti.
+ <i>They still call Fulton (Battise) `Chíka'</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mikkoya ifonooskihamok `Chìka' homankahchi.
+ <i>The chief's sisters call him `Chika'</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Anchíka.
+ <i>My older brother.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chíkasi">chíkasi</a></i>
+&nbsp;first born baby son
+<br><font size="+2"><b><a name="chíkasi"></a>chíkasi</b> </font>
+<font size="+2">first born baby son </font>
+&nbsp; [/chíka-osi]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="c.htm#chíka">chíka</a>
+<br><font size="+2"><b><a name="chikhito"></a>chikhito</b> </font>
+<font size="+2">type of small rattlesnake, about 12 inches long with spots on its back </font>
+&nbsp;<font color="#080000">Cul:  Also called `rattlesnake's nephew'</font>&nbsp;
+ <i>Var: chikhitosi</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="chikíhbo"></a>chikíhbo</b> </font>
+ Neg.
+<font size="+2">to be thin, watery, not thick</font>
+ ☞<a href="c.htm#chihbi">chihbi</a>
+<br><font size="+2"><b><a name="chikìi-"></a>chikìi-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chikìili">chikìili</a></i>
+&nbsp;to settle, put away
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chikìiko">chikìiko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iisinchiika inchikìili">iisinchiika inchikìili</a></i>
+&nbsp;to lay foundations
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paachikìili">paachikìili</a></i>
+&nbsp;to lay down (pl. obj.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chíkkìili">chíkkìili</a></i>
+&nbsp;to have something in the care of someone
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#aachikìika">aachikìika</a></i>
+&nbsp;to be put in a specific location
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chíkkìika">chíkkìika</a></i>
+&nbsp;to be put away (of a few)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ischíkkìika">ischíkkìika</a></i>
+&nbsp;to be planted in rows
+<br>&nbsp;&nbsp;<i><a href="c.htm#chikìika">chikìika</a></i>
+&nbsp;to sit down
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chikiíkko">chikiíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#aachikìika">aachikìika</a></i>
+&nbsp;to settle in a certain location
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paachikìika">paachikìika</a></i>
+&nbsp;to sit on top of
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paachíkkìika">paachíkkìika</a></i>
+&nbsp;to settle (dl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chíkkìika">chíkkìika</a></i>
+&nbsp;to be seated
+<br><font size="+2"><b><a name="chikìika"></a>chikìika</b> </font>
+<font size="+2">to sit down, settle, roost (of a few)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, chikìihilka, chikìihaska</i>)
+&nbsp; [/chikìi-ka<sup>1</sup>]
+ [<i>Irr: </i>SgStem=chokòoli; PlStem=chiika]
+ <i>Neg: </i>chikiíkko
+&nbsp;<font face="Arial">«</font>Ya paabókkòosifaayon chikìikaamon, antaatootoha, intaatootoomok anchókkòotooliisan híichalihchoolikha.
+ <i>They settled over here up on that little hill, my father's father used to live there and I used to see that.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="c.htm#chikìi-">chikìi-</a>
+<br><font size="+2"><b><a name="chikiíkko"></a>chikiíkko</b> </font>
+ Neg.
+ ☞<a href="c.htm#chikìika">chikìika</a>
+<br><font size="+2"><b><a name="chikìiko"></a>chikìiko</b> </font>
+ Neg.
+ ☞<a href="c.htm#chikìili">chikìili</a>
+<br><font size="+2"><b><a name="chikìili"></a>chikìili</b> </font>
+<font size="+2">to produce a litter, drop a litter, lay eggs, to have babies (of animals); to install (two) in office, seat (two) in office; to settle, set down, put away (a few)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>chikìichi, chikìihili, chikìihachi</i>)
+&nbsp; [/chikìi-li]
+ [<i>Irr: </i>SgStem=chokòoli; PlStem=chiili]
+ <i>Neg: </i>chikìiko
+&nbsp;<font face="Arial">«</font>Mooton akkok illifòokan Kòopayon Fulti ittàasan hochikìihch ommikha.
+ <i>Then when he (Chief Charlie Thompson) died, they installed Cooper and Fulton together in office.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+ ☞<a href="c.htm#chikìi-">chikìi-</a>
+<br><font size="+2"><b><a name="chíkkìika"></a>chíkkìika</b><sup>1</sup> </font>
+<font size="+2">to be put away, be parked (of a few)</font>
+&nbsp; [/chikìi-ka<sup>1</sup>]
+ [<i>ggr</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="c.htm#chikìili">chikìili</a>
+<br><font size="+2"><b><a name="chíkkìika"></a>chíkkìika</b><sup>2</sup> </font>
+<font size="+2">to be seated, settled, sitting, living (of a few) </font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, chíkkìihilka, chíkkìihaska</i>)
+&nbsp; [/chikìi-ka<sup>1</sup>]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Geman Sally ittàasaaya aalokòolik óoɬàasin chíkkìikahchi.
+ <i>Gemar and Sally live a little ways past the church.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chikìika">chikìika</a>
+<br><font size="+2"><b><a name="chíkkìili"></a>chíkkìili</b> </font>
+<font size="+2">to have a litter or nest (of offspring), to be nesting; to have (a few) stored up, have saved; to have a few things in one's care (as caring for someone's children, livestock, pets, library books, etc.)</font>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font color="#800080" size="+1">3/3; -LI/CHA-</font>
+&nbsp;(<i>chíkkìichi, chíkkìihili, chíkkìihachi</i>)
+&nbsp; [/chikìi-li]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Foosok ochoskon ittofon paachíkkìilit...
+ <i>The bird had a nest of babies up in the tree...</i> <font size="0">(MKF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàason hochóopok hochíkkìilitoholin...
+ <i>They had bought some things and had them stored there.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Toknaawan chíkkìililo.
+ <i>I'm saving my money.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tóklon chíkkìili.
+ <i>He's got two.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chikìili">chikìili</a>
+<br><font size="+2"><b><a name="chíkmàa"></a>chíkmàa</b> </font>
+<font size="+2">hello, how are you?</font>
+ <i>Usage: </i>Greeting, older word but still used.
+&nbsp;<font size="0">(JS)</font>
+ {&nbsp;Mobilian?}
+<br><font size="+2"><b><a name="chikoffi"></a>chikoffi</b> </font>
+<font size="+2">to cut a piece (of meat), slice a piece (of meat)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>chikofchi, chikofhili, chikofhachi</i>)
+&nbsp; [/chikof-li$]
+<br>&nbsp;&nbsp;<i><a href="c.htm#chikófko">chikófko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="c.htm#chikòoli">chikòoli</a></i>
+&nbsp;to cut meat
+<br><font size="+2"><b><a name="chikófko"></a>chikófko</b> </font>
+ Neg.
+ ☞<a href="c.htm#chikoffi">chikoffi</a>
+<br><font size="+2"><b><a name="chikòoli"></a>chikòoli</b> </font>
+<font size="+2">to cut meat, slice meat, butcher (plural objects)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>chikòochi, chikòohili, chikòohachi</i>)
+&nbsp; [/chiko(f)-li$]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="c.htm#chikoffi">chikoffi</a>
+<br><font size="+2"><b><a name="chikpi"></a>chikpi</b> </font>
+<font size="+2">chest (body part)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;(<i>chatchikpi, chitchikpi, potchikpi, hachitchikpi</i>)
+<br><font size="+2"><b><a name="chikpihoopa"></a>chikpihoopa</b> </font>
+<font size="+2">chest pain, angina </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/chikpi /hoopa]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Chatchikpi aⁿhoopa.
+ <i>I have chest pain.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="chíkpo"></a>chíkpo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chíppo">chíppo</a>&nbsp;
+<br><font size="+2"><b><a name="chíkpochòoba"></a>chíkpochòoba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chíppochòoba">chíppochòoba</a>&nbsp;
+<br><font size="+2"><b><a name="chikpóoɬa"></a>chikpóoɬa</b> </font>
+<font size="+2">overalls, coveralls </font>
+&nbsp; [/chikpi /oɬa]
+ [<i>lgr</i>]
+<br><font size="+2"><b><a name="chilaaka"></a>chilaaka</b> </font>
+<font size="+2">blackjack oak </font>
+ <i>(Quercus marilandica)</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chilapli"></a>chilapli</b> </font>
+<font size="+2">to have drop off and scatter (esp. petals), shed (petals)</font>
+&nbsp; [/chilap-li]
+<br>&nbsp;&nbsp;<i><a href="c.htm#chilaplichi">chilaplichi</a></i>
+&nbsp;to scatter (something)
+<br><font size="+2"><b><a name="chilaplichi"></a>chilaplichi</b> </font>
+<font size="+2">to scatter (something) (e.g. petals), shake off (several)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>chilapchichi, chilaphilichi, chilaphachichi</i>)
+&nbsp; [/chilap-li-chi<sup>1</sup>]
+ ☞<a href="c.htm#chilapli">chilapli</a>
+<br><font size="+2"><b><a name="chili"></a>chili</b> </font>
+<font size="+2">to be a member of a class, belong to a class (of the hearer)</font>
+&nbsp; [chi- -(li)]
+ [<i>This is the second person form used in a construction that identifies an individual as a member of the class described by the noun. The verb consists of the noncontrol pronouns prefixed to a formative -li. With nominal subjects, the predicate is the class noun followed by ooli</i>]
+ <i>Var: chiili</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Alikchok chilihchommi?
+ <i>Are you a doctor?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasok chili ayiksamoⁿ?
+ <i>What's your clan?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasok chili chimayiksamoⁿ?
+ <i>What's your clan?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Náksok chili?
+ <i>Who are you?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasok chiili?
+ <i>What kind of person are you?/what business are you in?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasi ayiksok chili?
+ <i>What's your clan?</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chílko">chílko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="chiliita"></a>chiliita</b> </font>
+<font size="+2">to want to go, beg to go</font>
+&nbsp;<font color="#800080" size="+1">-LI; CHA-</font>
+&nbsp;(<i>chiliitatiska, chiliitatilka, chiliitataska</i>)
+&nbsp;<font face="Arial">«</font>Chinchiliitalo aɬchiyaamon.
+ <i>I'm begging to go when you get ready.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ayhilaahak aahompankafan aɬɬasbannayok chiliitahchonko..
+ <i>The little boy is begging to go to the gym.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chiliitatíkko">chiliitatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inchiliita">inchiliita</a></i>
+&nbsp;to want to go with
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ischiliita">ischiliita</a></i>
+&nbsp;to encourage to go
+<br><font size="+2"><b><a name="chiliitatíkko"></a>chiliitatíkko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Anchiliitatíkkobi.
+ <i>I don't want to go (don't care either way).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chiliitatákkobi.
+ <i>I want not to go.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chiliita">chiliita</a>
+<br><font size="+2"><b><a name="chílko"></a>chílko</b> </font>
+ Neg.
+ ☞<a href="c.htm#chili">chili</a>
+<br><font size="+2"><b><a name="chilli"></a>chilli</b> </font>
+<font size="+2">to fall out, fall off, break off (of more than one)</font>
+&nbsp; [/chil(of)-li]
+ [<i>dsfx1</i>]
+ ☞<a href="c.htm#chiloffi">chiloffi</a>
+<br><font size="+2"><b><a name="chillichi"></a>chillichi</b> </font>
+<font size="+2">to molt (of birds), shed (horns or antlers); to make fall</font>
+&nbsp; [/chil(of)-li-chi<sup>1</sup>]
+ [<i>dsfx1</i>]
+&nbsp;<font face="Arial">«</font>Ichok illapihchin chillichi.
+ <i>The deer sheds his antlers.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chilli">chilli</a>
+<br><font size="+2"><b><a name="chiloffi"></a>chiloffi</b> </font>
+<font size="+2">to fall out, fall off (of one); to be broken off at a joint (like steel at a welded joint or cane at a joint); to break off (of one)</font>
+&nbsp; [/chilof-li]
+<br>&nbsp;&nbsp;<i><a href="c.htm#chilòfko">chilòfko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inchiloffi">inchiloffi</a></i>
+&nbsp;to lose one's tooth
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inchiloffichi">inchiloffichi</a></i>
+&nbsp;to let loose from
+<br>&nbsp;&nbsp;<i><a href="c.htm#chilli">chilli</a></i>
+&nbsp;to fall out (pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#inchilli">inchilli</a></i>
+&nbsp;to lose one's teeth
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chillichi">chillichi</a></i>
+&nbsp;to shed
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#inchíllichi">inchíllichi</a></i>
+&nbsp;to let loose from
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chilòoli">chilòoli</a></i>
+&nbsp;to be loose and wobbling
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#inchilòolichi">inchilòolichi</a></i>
+&nbsp;to loosen up from
+<br><font size="+2"><b><a name="chilòfko"></a>chilòfko</b> </font>
+ Neg.
+ ☞<a href="c.htm#chiloffi">chiloffi</a>
+<br><font size="+2"><b><a name="chilohka"></a>chilohka</b> </font>
+<font size="+2">to shell (as corn)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>chilohiska, chilohilka, chilohaska</i>)
+<br>&nbsp;&nbsp;<i><a href="c.htm#chaschilohka">chaschilohka</a></i>
+&nbsp;to shell corn
+<br><font size="+2"><b><a name="chilòoli"></a>chilòoli</b> </font>
+<font size="+2">to be loose, be wiggling, wobble (as a tooth or wheel on a wagon or car about to fall out or fall off)</font>
+&nbsp; [/chil(of)&lt;oo&gt;-li]
+ [<i>fgr</i>]
+ ☞<a href="c.htm#chilli">chilli</a>
+<br><font size="+2"><b><a name="chilòyha"></a>chilòyha</b> </font>
+<font size="+2">house wren </font>
+<br><font size="+2"><b><a name="chilòyha chàmchakosi"></a>chilòyha chàmchakosi</b> </font>
+<font size="+2">unidentified bird species, speckled wren?</font>
+&nbsp; [/chilòyha /chamchakosi]
+<br><font size="+2"><b><a name="chiɬaɬo"></a>chiɬaɬo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chiɬɬoɬo">chiɬɬoɬo</a>&nbsp;
+<br><font size="+2"><b><a name="chiɬiɬihkachi"></a>chiɬiɬihkachi</b> </font>
+<font size="+2">to rattle, make a rattling noise </font>
+&nbsp; [/chiɬiɬih-ka<sup>1</sup>-chi<sup>2</sup>]
+<br><font size="+2"><b><a name="chiɬkìicho"></a>chiɬkìicho</b> </font>
+ Neg.
+ ☞<a href="c.htm#chiɬɬichi">chiɬɬichi</a>
+<br><font size="+2"><b><a name="chiɬɬichi"></a>chiɬɬichi</b> </font>
+<font size="+2">to chip, flake (with a tool)</font>
+ <i>Usage: </i>Older word.
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>chiɬchichi, chiɬhilichi chiɬɬhachichi</i>)
+&nbsp; [/chiɬ-li-chi<sup>2</sup>]
+ {poss. &nbsp;chiɬof-li}
+&nbsp;<font face="Arial">«</font>Chiɬhachichiti.
+ <i>You all chipped it.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chiɬkìicho">chiɬkìicho</a></i>
+ Neg.
+<br><font size="+2"><b><a name="chiɬɬoɬo"></a>chiɬɬoɬo</b> </font>
+<font size="+2">little red bird similar to a mockingbird, smaller than a cardinal</font>
+&nbsp;<font size="0">(IB)</font>
+; <font size="+2">type of red-breasted songbird</font>
+&nbsp;<font size="0">(DB)</font>
+; <font size="+2">a little red or black bird with white stripes on its neck that catches flies in the air and sits on stumps</font>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: chiɬaɬo</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: chiɬoɬo</i>
+&nbsp;<font size="0">(DB, IB)</font>
+<br><font size="+2"><b><a name="chiɬokko"></a>chiɬokko</b> </font>
+<font size="+2">bird species</font>
+ (poss. variant of chiɬɬoɬo)
+<br><font size="+2"><b><a name="chiɬoɬo"></a>chiɬoɬo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chiɬɬoɬo">chiɬɬoɬo</a>&nbsp;
+<br><font size="+2"><b><a name="chiniifa"></a>chiniifa</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chinoofa">chinoofa</a>&nbsp;
+<br><font size="+2"><b><a name="chiníifàasi"></a>chiníifàasi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chinóofàasi">chinóofàasi</a>&nbsp;
+<br><font size="+2"><b><a name="chiniika"></a>chiniika</b> </font>
+<font size="+2">to be carried </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/chinii-ka<sup>1</sup>]
+ ☞<a href="c.htm#chiniili">chiniili</a>
+<br><font size="+2"><b><a name="chinìiko"></a>chinìiko</b> </font>
+ Neg.
+ ☞<a href="c.htm#chiniili">chiniili</a>
+<br><font size="+2"><b><a name="chiniili"></a>chiniili</b> </font>
+<font size="+2">to carry on the lower back, carry (a heavy load)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>chiniichi, chiniihili, chiniihachi</i>)
+&nbsp; [/chinii-li]
+&nbsp;<font face="Arial">«</font>Sallik holisson chiniilok imiisafan istaɬɬati.
+ <i>Sally took the books to her house.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ichóot ommiima ibi hopáhkitík ibìimok chinìilit albinafan stilachiifòokok sooplit, oaboslit, akkáamit ittanówwat nihtállo cháffàakahchóot ittanówwat ɬoyohkat ilachihchootoolo.
+ <i>If it was a deer, even though they killed it far away, when they killed it, they carried it on their backs and when they got it to their camp, they skinned it and barbecued it, that's the way they would go and would usually be gone for a week and then they would turn around and go back.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chinìiko">chinìiko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="c.htm#chínnìili">chínnìili</a></i>
+&nbsp;to be carrying something on the back
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ilbinchínnìili">ilbinchínnìili</a></i>
+&nbsp;to have the hands behind the back
+<br>&nbsp;&nbsp;<i><a href="c.htm#chiniika">chiniika</a></i>
+&nbsp;to be carried
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ischinìika">ischinìika</a></i>
+&nbsp;backpack
+<br><font size="+2"><b><a name="chínnìili"></a>chínnìili</b> </font>
+<font size="+2">to be carrying around on the back, be hauling, be loaded down with</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>chínnìichi, chínnìihili, chínnìihachi</i>)
+&nbsp; [/chinii-li]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Nàason chínnìilit istàayati.
+ <i>He's carrying something around.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chiniili">chiniili</a>
+<br><font size="+2"><b><a name="chinoffi"></a>chinoffi</b> </font>
+<font size="+2">to pinch (once or one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>chinofchi, chinofhili, chinofhachi</i>)
+&nbsp; [/chinof-li]
+<br>&nbsp;&nbsp;<i><a href="c.htm#chinofka">chinofka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;pinch
+&nbsp;2.&nbsp;
+&nbsp;to get pinched
+<br>&nbsp;&nbsp;<i><a href="c.htm#chinòoli">chinòoli</a></i>
+&nbsp;to pinch rep
+<br><font size="+2"><b><a name="chinofka"></a>chinofka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">a pinch (unit of measure)</font>
+&nbsp; [/chinof-ka<sup>1</sup>]
+&nbsp;2.&nbsp;
+<font size="+2">to get pinched once</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ ☞<a href="c.htm#chinoffi">chinoffi</a>
+<br><font size="+2"><b><a name="chinoofa"></a>chinoofa</b> </font>
+<font size="+2">to be small </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ <i>Var: chanóofa</i>
+&nbsp;<font size="0">(DB)</font>
+ <i>Var: chiniifa</i>
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font face="Arial">«</font>Chiniifahchoolo.
+ <i>It's too small.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chinóofàasi">chinóofàasi</a></i>
+&nbsp;to be small
+<br>&nbsp;&nbsp;<i><a href="c.htm#chinóofàschi">chinóofàschi</a></i>
+&nbsp;to be small
+<br><font size="+2"><b><a name="chinóofàasi"></a>chinóofàasi</b> </font>
+<font size="+2">to be small </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/chinoofa-osi]
+ [<i>fgr</i>]
+ <i>Var: chiníifàasi</i>
+&nbsp;<font face="Arial">«</font>Chachinóofàasit wíikalin...
+ <i>I lived there when I was little...</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chichiníifàasi.
+ <i>You're little bitty.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chinoofa">chinoofa</a>
+<br><font size="+2"><b><a name="chinóofàschi"></a>chinóofàschi</b> </font>
+<font size="+2">to be little bitty, tiny</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/chinoofa-osi-hchi]
+ [<i>fgr?</i>]
+ <i>Var: chiníifàssi</i>
+&nbsp;<font size="0">(WP)</font>
+&nbsp;<font face="Arial">«</font>Nàasi chiníifàsson istilatákkàalit istàayati.
+ <i>He was carrying a small bundle on his back.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chinoofássòolo.
+ <i>It's real little.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chinoofa">chinoofa</a>
+<br><font size="+2"><b><a name="chinòoli"></a>chinòoli</b> </font>
+<font size="+2">to pinch (more than once)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>chinòochi, chinòohili, chinòohachi</i>)
+&nbsp; [/chino(f)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="c.htm#chinoffi">chinoffi</a>
+<br><font size="+2"><b><a name="chinto"></a>chinto</b> </font>
+<font size="+2">snake </font>
+<br><font size="+2"><b><a name="chintobitka"></a>chintobitka</b> </font>
+<font size="+2">snake dance</font>
+&nbsp; [/chinto /bit-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chintochoba"></a>chintochoba</b> </font>
+<font size="+2">rattlesnake </font>
+&nbsp; [/chinto /choba]
+<br><font size="+2"><b><a name="chintochoba iⁿsabàyyi"></a>chintochoba iⁿsabàyyi</b> </font>
+<font size="+2">type of small rattlesnake, about twelve inches long with spots on its back </font>
+ <i>Lit: </i>rattlesnake's nephew, a respectful name for chikhitosi
+&nbsp; [/chinto /choba im- /sabàyyi]
+<br><font size="+2"><b><a name="chintohòllo"></a>chintohòllo</b> </font>
+<font size="+2">unseen evil snake</font>
+&nbsp;<font color="#080000">Cul:  Some say this evil snake is what lives in okihòllo and lures creatures into the water to their death.</font>&nbsp;
+&nbsp;<font size="0">(DB)</font>
+&nbsp; [/chinto /hollo]
+<br><font size="+2"><b><a name="chinto isbakpàtha"></a>chinto isbakpàtha</b> </font>
+<font size="+2">gopher snake, cobra, hognose snake?, `spreading adder' </font>
+&nbsp; [/chinto /isbakko /patha]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chintokachaɬɬi aissi"></a>chintokachaɬɬi aissi</b> </font>
+<font size="+2">snake bite medicine</font>
+&nbsp; [/chinto /kachaɬ-li /aissi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chintokànko"></a>chintokànko</b> </font>
+<font size="+2">poisonous snake </font>
+&nbsp; [/chinto /kano-ki-o<sup>2</sup>]
+<br><font size="+2"><b><a name="chintokàwkachi"></a>chintokàwkachi</b> </font>
+<font size="+2">supernatural snake that breaks into many pieces when hit, poss. similar to Creek tie-snake</font>
+&nbsp; [/chinto /kaw-ka<sup>1</sup>-chi<sup>2</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chintokchákkosi"></a>chintokchákkosi</b> </font>
+<font size="+2">garter snake; green snake (a small snake that climbs trees) </font>
+&nbsp; [/chinto /okchakko-osi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chintoɬaɬo"></a>chintoɬaɬo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chintooɬaɬo">chintooɬaɬo</a>&nbsp;
+<br><font size="+2"><b><a name="chintooɬaɬo"></a>chintooɬaɬo</b> </font>
+<font size="+2">eel; octopus </font>
+&nbsp; [/chinto /ɬaɬo]
+ <i>Var: chintoɬaɬo</i>
+<br><font size="+2"><b><a name="chintoosakcho"></a>chintoosakcho</b> </font>
+<font size="+2">snake-crawfish; octopus </font>
+&nbsp;<font color="#080000">Cul:  Supernatural creature that lives in a hole and if someone sees one they'll die; has eyes like flashlights.</font>&nbsp;
+&nbsp;<font size="0">(IB)</font>
+&nbsp; [/chinto /sakcho]
+ <i>Var: chintosakcho</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="chintopalki"></a>chintopalki</b> </font>
+<font size="+2">chicken snake</font>
+ <i>Usage: </i>Newer word.
+&nbsp; [/chinto /palki]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chintopatha"></a>chintopatha</b> </font>
+<font size="+2">gopher snake, cobra</font>
+&nbsp;<font color="#080000">Cul:  Reputed to fly around at night.</font>&nbsp;
+&nbsp; [/chinto /patha]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chintosakcho"></a>chintosakcho</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chintoosakcho">chintoosakcho</a>&nbsp;
+<br><font size="+2"><b><a name="chipíila"></a>chipíila</b> </font>
+<font size="+2">to be still small (of one)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/chipila]
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Chipíilastok onáahchi.
+ <i>It's always going to be small.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chipila">chipila</a>
+<br><font size="+2"><b><a name="chipíilàasi"></a>chipíilàasi</b> </font>
+<font size="+2">to be tiny, very small (of one)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/chipila-osi]
+ [<i>fgr</i>]
+ ☞<a href="c.htm#chipila">chipila</a>
+<br><font size="+2"><b><a name="chipíilaschi"></a>chipíilaschi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chipíilàssi">chipíilàssi</a>&nbsp;
+<br><font size="+2"><b><a name="chipíilàssi"></a>chipíilàssi</b> </font>
+<font size="+2">to be small (of one)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/chipila-osi-hchi]
+ [<i>fgr</i>]
+ <i>Var: chipilássi</i>
+ <i>Var: chipíilaschi</i>
+&nbsp;<font size="0">(WP)</font>
+&nbsp;<font face="Arial">«</font>Ammobìlkaya chipíilàssi.
+ <i>My car is small.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chipila">chipila</a>
+<br><font size="+2"><b><a name="chipila"></a>chipila</b> </font>
+<font size="+2">to be small (of one)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chipilahchoolo.
+ <i>It used to be small.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Wilok chipilat tobàaso.
+ <i>The shoes apparently shrank.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chipíila">chipíila</a></i>
+&nbsp;to be small
+<br>&nbsp;&nbsp;<i><a href="c.htm#chíppìila">chíppìila</a></i>
+&nbsp;to get smaller
+<br>&nbsp;&nbsp;<i><a href="c.htm#chipilàasi">chipilàasi</a></i>
+&nbsp;to be small
+<br>&nbsp;&nbsp;<i><a href="c.htm#chipíilàssi">chipíilàssi</a></i>
+&nbsp;to be small
+<br>&nbsp;&nbsp;<i><a href="c.htm#chipíilàasi">chipíilàasi</a></i>
+&nbsp;to be tiny
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istinchipila">istinchipila</a></i>
+&nbsp;to have something be too small for one
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ischipìila">ischipìila</a></i>
+&nbsp;small child
+<br><font size="+2"><b><a name="chipilàasi"></a>chipilàasi</b> </font>
+<font size="+2">to be small (of one)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/chipila-osi]
+ [<i>fgr</i>]
+ ☞<a href="c.htm#chipila">chipila</a>
+<br><font size="+2"><b><a name="chipilássi"></a>chipilássi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chipíilàssi">chipíilàssi</a>&nbsp;
+<br><font size="+2"><b><a name="chíppìila"></a>chíppìila</b> </font>
+<font size="+2">to get smaller (of one)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/chipila]
+ [<i>ggr</i>]
+ ☞<a href="c.htm#chipila">chipila</a>
+<br><font size="+2"><b><a name="chíppo"></a>chíppo</b> </font>
+<font size="+2">aunt, father's sister; grandmother </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+ <i>Var: chíkpo</i>
+ <i>Var: chìkpo</i>
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font face="Arial">«</font>Ana chíppolaaho.
+ <i>I'm going to be a grandmother.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yaafaya anchíppo.
+ <i>That one (in the photograph) is my grandmother.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chíppochòoba">chíppochòoba</a></i>
+&nbsp;greatgrandmother
+<br><font size="+2"><b><a name="chíppochòoba"></a>chíppochòoba</b> </font>
+<font size="+2">greatgrandmother </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+&nbsp; [/chíppo /achòoba]
+ <i>Var: chíkpochòoba</i>
+ ☞<a href="c.htm#chíppo">chíppo</a>
+<br><font size="+2"><b><a name="chipsi"></a>chipsi</b> </font>
+<font size="+2">Gypsy</font>
+ {&nbsp;English}
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chisa"></a>chisa</b> </font>
+<font size="+2">post oak; swamp chesnut oak; black gum </font>
+ <i>(Quercus stellata; Quercus michauxii; Nyssa sylvatica)</i>
+<br><font size="+2"><b><a name="chisáhmíⁿ"></a>chisáhmíⁿ</b> </font>
+<font size="+2">hello, how are you?</font>
+ <i>Usage: </i>Greeting.
+&nbsp; [chi- /sáhmi-ⁿ]
+&nbsp;<font face="Arial">«</font>Chisáhmina, isnàa?
+ <i>And how are you?</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sáhmi">sáhmi</a>
+<br><font size="+2"><b><a name="chisakko"></a>chisakko</b> </font>
+<font size="+2">to be disheveled, messed up (of hair)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font size="0">(IB)</font>
+ <i>Var: chisakki</i>
+&nbsp;<font face="Arial">«</font>Chahissik chisakkoomoolo.
+ <i>My hair is messed up.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chichisakkoomoolo.
+ <i>Your hair is messed up.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chachisakkoⁿ?
+ <i>Is my hair messed up?</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chisakkotíkko">chisakkotíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="c.htm#chisakkochi">chisakkochi</a></i>
+&nbsp;to mess up (the hair)
+<br><font size="+2"><b><a name="chisakkochi"></a>chisakkochi</b> </font>
+<font size="+2">to mess up (the hair)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>chisakkochitiska, chisakkochitilka, chisakkochitaska</i>)
+&nbsp; [/chisakko-chi<sup>1</sup>]
+&nbsp;<font size="0">(DB)</font>
+ ☞<a href="c.htm#chisakko">chisakko</a>
+<br><font size="+2"><b><a name="chisakkotíkko"></a>chisakkotíkko</b> </font>
+ Neg.
+ <i>Var: chisakkitíkko</i>
+ ☞<a href="c.htm#chisakko">chisakko</a>
+<br><font size="+2"><b><a name="chiska"></a>chiska</b> </font>
+<font size="+2">little boy's penis</font>
+ <i>Usage: </i>Nursery word.
+ <i>Var: chiskasi</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="chisnooli"></a>chisnooli</b> </font>
+<font size="+2">yours, your</font>
+&nbsp; [chi- /isna-ooli-o<sup>3</sup>]
+&nbsp;<font face="Arial">«</font>Chisnòoli?
+ <i>Is it yours?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mobìlkak chisnoolo.
+ <i>The car is mine.</i><font face="Arial">»</font>
+ ☞<a href="i2.htm#isna">isna</a>
+<br><font size="+2"><b><a name="chissi"></a>chissi</b> </font>
+<font size="+2">mouse, rat </font>
+<br><font size="+2"><b><a name="chissichoba"></a>chissichoba</b> </font>
+<font size="+2">muskrat</font>
+&nbsp; [/chissi /choba]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chissi impatàaka"></a>chissi impatàaka</b> </font>
+<font size="+2">mouse trap</font>
+&nbsp; [/chissi im- /pataa-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="chitiika"></a>chitiika</b> </font>
+<font size="+2">to take hold of in the hand, grasp, wrestle</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>chitiihiska, chitiihilka, chitiihaska</i>)
+&nbsp; [/chitii-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Akkon yamíhchit chitiikok ichaffakchikon ittofayon sahlìichok hacháalìichok ommitok aɬipìilok yamíhchit...
+ <i>This is the way you hold it to start scraping the deer skin on the stick that is standing there with the skin draped over it like this.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chíttìika">chíttìika</a></i>
+&nbsp;to hold
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittichitiika">ittichitiika</a></i>
+&nbsp;to fight hand-to-hand
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittichitiihilka">ittichitiihilka</a></i>
+&nbsp;wrestling
+<br><font size="+2"><b><a name="chíttìika"></a>chíttìika</b> </font>
+<font size="+2">to hold in the hand</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>chíttìihiska, chíttìihilka, chíttìihaska</i>)
+&nbsp; [/chitii-ka<sup>1</sup>]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Chíttìikaha yon tammínná!
+ <i>Hold on to this so it doesn't fall!</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chitiika">chitiika</a>
+<br><font size="+2"><b><a name="chittiɬhòmma"></a>chittiɬhòmma</b> </font>
+<font size="+2">red haw, turkey hawthorn, little hip hawthorn </font>
+ <i>(Crataegus induta, C. spathulata)</i>
+&nbsp; [prob. chi- /ittiɬi /homma]
+&nbsp;<font size="0">(DB)</font>
+ <i>Var: chittiɬómma</i>
+&nbsp;<font size="0">(IB)</font>
+ <i>Var: chittiɬhómma</i>
+&nbsp;<font size="0">(DB)</font>
+ <i>Var: chittiɬhómma sàwwa</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="chittiɬhómmachoba"></a>chittiɬhómmachoba</b> </font>
+<font size="+2">red haw, turkey hawthorn </font>
+ <i>(Crataegus induta)</i>
+&nbsp; [/chittiɬhomma /choba]
+ <i>Var: ittiɬhómmachoba</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chittiɬómma"></a>chittiɬómma</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chittiɬhòmma">chittiɬhòmma</a>&nbsp;
+<br><font size="+2"><b><a name="chiyaali"></a>chiyaali</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chiyahli">chiyahli</a>&nbsp;
+<br><font size="+2"><b><a name="chiyahka"></a>chiyahka</b> </font>
+<font size="+2">walk, walking</font>
+&nbsp; [/chiyah-ka<sup>1</sup>]
+ ☞<a href="c.htm#chiyahli">chiyahli</a>
+<br><font size="+2"><b><a name="chiyáhko"></a>chiyáhko</b> </font>
+ Neg.
+<font size="+2">to be crippled</font>
+&nbsp;<font face="Arial">«</font>Káanon chiyáhkohchi.
+ <i>He can't walk right.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chiyahli">chiyahli</a>
+<br><font size="+2"><b><a name="chiyahli"></a>chiyahli</b> </font>
+<font size="+2">to walk</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>chiyahchi, chiyahhili, chiyahhachi</i>)
+&nbsp; [/chiyah-li]
+ <i>Var: chiyaali</i>
+ <i>Var: chayahli</i>
+&nbsp;<font size="0">(DB)</font>
+ <i>Var: chayaali</i>
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font face="Arial">«</font>Amifan ittàasat chayahhilao.
+ <i>I'm going to take my dog for a walk.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chiyáhko">chiyáhko</a></i>
+ Neg.
+&nbsp;to be crippled
+<br>&nbsp;&nbsp;<i><a href="c.htm#chiyahlitíkko">chiyahlitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="c.htm#chíyyàali">chíyyàali</a></i>
+&nbsp;to keep walking
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ibaachiyahli">ibaachiyahli</a></i>
+&nbsp;to walk with
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittibaachiyahli">ittibaachiyahli</a></i>
+&nbsp;to go for a walk together
+<br>&nbsp;&nbsp;<i><a href="c.htm#chiyahlichi">chiyahlichi</a></i>
+&nbsp;to take for a walk
+<br>&nbsp;&nbsp;<i><a href="c.htm#chiyahka">chiyahka</a></i>
+&nbsp;walk, walking
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ischiyahka">ischiyahka</a></i>
+&nbsp;crutches
+<br><font size="+2"><b><a name="chiyahlichi"></a>chiyahlichi</b> </font>
+<font size="+2">to walk (e.g. a dog), take for a walk</font>
+ <i>Usage: </i>Some speakers find this word unacceptable unless it is meant that one physically picks it up and walks it.
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>chiyahchichi, chiyahhilichi, chiyahhachichi</i>)
+&nbsp; [/chiyah-li-chi<sup>1</sup>]
+ ☞<a href="c.htm#chiyahli">chiyahli</a>
+<br><font size="+2"><b><a name="chiyahlitíkko"></a>chiyahlitíkko</b> </font>
+ Neg.
+ ☞<a href="c.htm#chiyahli">chiyahli</a>
+<br><font size="+2"><b><a name="chíyyàali"></a>chíyyàali</b> </font>
+<font size="+2">to keep walking</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>chíyyàachi, chíyyàahili, chíyyàahachi</i>)
+&nbsp; [/chiyah-li]
+ [<i>ggr</i>]
+ <i>Var: cháyyàali</i>
+ ☞<a href="c.htm#chiyahli">chiyahli</a>
+<br><font size="+2"><b><a name="choba"></a>choba</b> </font>
+<font size="+2">to be big, large</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chobataɬɬa.
+ <i>To grow up; to gain growth; to gain weight; to get fat; to grow in business sales.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ya chobahchoolo.
+ <i>This is a big one.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chokìibo">chokìibo</a></i>
+ Neg.
+&nbsp;to be small
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chokíibosi">chokíibosi</a></i>
+ Neg.
+&nbsp;to be very small
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chokíibossi">chokíibossi</a></i>
+ Neg.
+&nbsp;to be short
+<br>&nbsp;&nbsp;<i><a href="c.htm#chobasi">chobasi</a></i>
+&nbsp;to be chubby
+<br>&nbsp;&nbsp;<i><a href="c.htm#chóhba">chóhba</a></i>
+&nbsp;to be bigger, biggest
+<br>&nbsp;&nbsp;<i><a href="c.htm#chóoba">chóoba</a></i>
+&nbsp;to grow bigger
+<br>&nbsp;&nbsp;<i><a href="c.htm#chóoⁿbàasi">chóoⁿbàasi</a></i>
+&nbsp;to be very big
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inchóoba">inchóoba</a></i>
+&nbsp;chairperson
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istiliichoba">istiliichoba</a></i>
+&nbsp;to be stubborn
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istinchóoba">istinchóoba</a></i>
+&nbsp;head of a department
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istinchóobaha">istinchóobaha</a></i>
+&nbsp;staff of a department
+<br>&nbsp;&nbsp;<i><a href="c.htm#chobachi">chobachi</a></i>
+&nbsp;to rear a child; to enlarge
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maachóhbachòosi">maachóhbachòosi</a></i>
+&nbsp;to enlarge
+<br><font size="+2"><b><a name="chobachi"></a>chobachi</b> </font>
+<font size="+2">to raise, rear a child, bring up; to enlarge, make bigger, let out (a garment)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>chobachiska, chobachilka, chobachaska</i>)
+&nbsp;(<i>chobatiska, chobatilka, chobataska</i>)
+&nbsp; [/choba-chi<sup>1</sup>]
+ [<i>the short vowel before -chi in this word is unusual and varies with the expected long vowel</i>]
+ <i>Var: chobaachi</i>
+&nbsp;<font face="Arial">«</font>Chimilokfan chobachitiskaⁿ?
+ <i>Are you going to let out your dress?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Aatosin chobaachitiskalaⁿ?
+ <i>Are you going to raise the child?</i><font face="Arial">»</font>
+ ☞<a href="c.htm#choba">choba</a>
+<br><font size="+2"><b><a name="chobasi"></a>chobasi</b> </font>
+<font size="+2">chubby one, little fatty (of a boy or girl)</font>
+ <i>Usage: </i>Teasing word to a child.
+&nbsp; [/choba-osi]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="c.htm#choba">choba</a>
+<br><font size="+2"><b><a name="chobat aɬɬa"></a>chobat aɬɬa</b> </font>
+<font size="+2">to grow up, gain growth; to gain weight, get fat; to grow in business sales</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/choba-t /aɬɬa]
+ ☞<a href="a.htm#aɬɬa">aɬɬa</a>
+<br><font size="+2"><b><a name="chocho"></a>chocho</b> </font>
+<font size="+2">vagina </font>
+ <i>Usage: </i>Euphemism, nursery word.
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+ <i>Var: choocho</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chofa"></a>chofa</b> </font>
+<font size="+2">pin, needle</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chofasi">chofasi</a></i>
+&nbsp;decorative pin
+<br><font size="+2"><b><a name="chofaabonotka"></a>chofaabonotka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chofibiibonotka">chofibiibonotka</a>&nbsp;
+<br><font size="+2"><b><a name="chofachoska"></a>chofachoska</b> </font>
+<font size="+2">pin cushion</font>
+&nbsp; [/chofa /achos(òo)-ka1]
+<br><font size="+2"><b><a name="chofa ilachosòoka"></a>chofa ilachosòoka</b> </font>
+<font size="+2">badge (sheriff's, etc.), brooch, pin (women's jewelry)</font>
+&nbsp; [/chofa ili- /achosòo-ka1]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chofa isɬopotli"></a>chofa isɬopotli</b> </font>
+<font size="+2">(one) sewing needle</font>
+&nbsp; [/chofa ist- /ɬopot-li]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chofa poɬonka"></a>chofa poɬonka</b> </font>
+<font size="+2">safety pin</font>
+&nbsp; [/chofa /poɬom-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="chofasi"></a>chofasi</b> </font>
+<font size="+2">decorative pin, brooch, badge, little pin</font>
+&nbsp; [/chofa-osi]
+ ☞<a href="c.htm#chofa">chofa</a>
+<br><font size="+2"><b><a name="chofastachosòoka"></a>chofastachosòoka</b> </font>
+<font size="+2">safety pin</font>
+&nbsp; [/chofa ist- /achosòo-ka<sup>1</sup>]
+ [<i>fgr</i>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chofastiiɬka"></a>chofastiiɬka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chofistiɬka">chofistiɬka</a>&nbsp;
+<br><font size="+2"><b><a name="chofastilpa"></a>chofastilpa</b> </font>
+<font size="+2">fork</font>
+&nbsp; [/chofa ist-il- /(i)pa]
+ <i>Var: chofistilpa</i>
+&nbsp;<font size="0">(CS)</font>
+<br><font size="+2"><b><a name="chofastoolimpa"></a>chofastoolimpa</b> </font>
+<font size="+2">fork</font>
+&nbsp; [/chofa ist- /oo&lt;li&gt;mpa]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chofattiɬi"></a>chofattiɬi</b> </font>
+<font size="+2">needle eye</font>
+&nbsp; [/chofa /ittiɬi]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: chofittiɬi</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="choffi"></a>choffi</b> </font>
+<font size="+2">to jump, hop up and down (repeatedly); to flop around; to have an epileptic seizure</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>chofchi, chofhili, chofhachi</i>)
+&nbsp; [/chof(ot)-li]
+ [<i>dsfx1</i>]
+ ☞<a href="c.htm#chofotli">chofotli</a>
+<br><font size="+2"><b><a name="chofibiibonotka"></a>chofibiibonotka</b> </font>
+<font size="+2">straight pin</font>
+&nbsp; [/chofa ibii- /bonot-ka<sup>1</sup>]
+ <i>Var: chofaabonotka</i>
+<br><font size="+2"><b><a name="chofisɬopòoli"></a>chofisɬopòoli</b> </font>
+<font size="+2">sewing needle</font>
+&nbsp; [/chofa ist- /ɬopo(t)-li]
+ <i>Var: chofisɬopòtli</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="chofisɬopòoli iⁿɬobafka"></a>chofisɬopòoli iⁿɬobafka</b> </font>
+<font size="+2">eye of a needle</font>
+&nbsp; [/chofa ist- /ɬopo(t)-li im- /ɬobaf-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="chofistilpa"></a>chofistilpa</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chofastilpa">chofastilpa</a>&nbsp;
+<br><font size="+2"><b><a name="chofistiɬka"></a>chofistiɬka</b> </font>
+<font size="+2">thimble</font>
+ <i>Lit: </i>push it through
+&nbsp; [/chofa ist- /tiiɬi-ka<sup>1</sup>]
+ <i>Var: chofastiiɬka</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chofistoolfa"></a>chofistoolfa</b> </font>
+<font size="+2">sewing needle</font>
+&nbsp; [/chofa ist- /oo&lt;l&gt;fa]
+<br><font size="+2"><b><a name="chofkoni"></a>chofkoni</b> </font>
+<font size="+2">bone; fins and bones (of fish)</font>
+&nbsp;<font color="#800080" size="+1">CHA-; AM-p</font>
+&nbsp;<font face="Arial">«</font>Chachofkoni chahoopahchi.
+ <i>I have arthritis.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="chofkoni imaalokha"></a>chofkoni imaalokha</b> </font>
+<font size="+2">bone marrow </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+&nbsp; [/chofkoni im- /aalokha]
+<br><font size="+2"><b><a name="chofotli"></a>chofotli</b> </font>
+<font size="+2">to jerk, jump, start up</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>chofotchi, chofothili, chofothachi</i>)
+&nbsp; [/chofot-li]
+&nbsp;<font face="Arial">«</font>Chofotchínná!
+ <i>Don't jump!</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="m.htm#maachofotli">maachofotli</a></i>
+&nbsp;to jump off into
+<br>&nbsp;&nbsp;<i><a href="o.htm#oochofotli">oochofotli</a></i>
+&nbsp;to jump into water
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maatoochofotli">maatoochofotli</a></i>
+&nbsp;to dive
+<br>&nbsp;&nbsp;<i><a href="c.htm#choffi">choffi</a></i>
+&nbsp;to jump up and down (rep.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maachoffi">maachoffi</a></i>
+&nbsp;to jump down from
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#oochoffi">oochoffi</a></i>
+&nbsp;to flop around (in water)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maatoochoffi">maatoochoffi</a></i>
+&nbsp;to jump into water from a height
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#inchoffichi">inchoffichi</a></i>
+&nbsp;to have a pulse
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#nokchoffichi">nokchoffichi</a></i>
+&nbsp;to throb (in the neck)
+<br>&nbsp;&nbsp;<i><a href="c.htm#chofottabanatli">chofottabanatli</a></i>
+&nbsp;to jump over one thing (sg.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#choftabánni">choftabánni</a></i>
+&nbsp;to jump over (pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chofottabànni">chofottabànni</a></i>
+&nbsp;to jump over (pl. obj.)
+<br>&nbsp;&nbsp;<i><a href="c.htm#chootli">chootli</a></i>
+&nbsp;to hop once
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chootlit abanatli">chootlit abanatli</a></i>
+&nbsp;to jump over one thing (sg.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#oochootli">oochootli</a></i>
+&nbsp;to jump down into the water
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paachootli">paachootli</a></i>
+&nbsp;to jump on
+<br><font size="+2"><b><a name="chofotlischáffàaka"></a>chofotlischáffàaka</b> </font>
+<font size="+2">one minute </font>
+&nbsp; [/chofot-li ist- /cháffàa-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chofotlit abanatli"></a>chofotlit abanatli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chofottabanatli">chofottabanatli</a>&nbsp;
+<br><font size="+2"><b><a name="chofottabanatli"></a>chofottabanatli</b> </font>
+<font size="+2">to jump over (one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>chofottabanatchi, chofottabanathili, chofottabanathachi</i>)
+&nbsp; [/chofot-li-t /abanat-li]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: chofotlit abanatli</i>
+ ☞<a href="c.htm#chofotli">chofotli</a>
+<br><font size="+2"><b><a name="chofottabànni"></a>chofottabànni</b> </font>
+<font size="+2">to jump over (plural objects)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>chofottabànchi, chofottabànhili, chofottabànhachi</i>)
+&nbsp; [/chofot-li-t /aban(at)-li]
+ ☞<a href="c.htm#chofottabanatli">chofottabanatli</a>
+<br><font size="+2"><b><a name="choftabànni"></a>choftabànni</b> </font>
+<font size="+2">to jump over (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>-, choftabànhili, choftabànhachi</i>)
+&nbsp; [/chof(ot)-li-t /aban(at)-li]
+ [<i>dsfx1</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="c.htm#chofottabanatli">chofottabanatli</a>
+<br><font size="+2"><b><a name="chóhba"></a>chóhba</b> </font>
+<font size="+2">to be bigger, biggest</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/choba]
+ [<i>hgr</i>]
+&nbsp;<font face="Arial">«</font>Chóhbaya Timkoolo.
+ <i>The biggest one is Tim.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#choba">choba</a>
+<br><font size="+2"><b><a name="chokàkka"></a>chokàkka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chokàⁿhka">chokàⁿhka</a>&nbsp;
+<br><font size="+2"><b><a name="chokàⁿhka"></a>chokàⁿhka</b> </font>
+<font size="+2">guinea fowl </font>
+ <i>Var: chokàkka</i>
+&nbsp;<font size="0">(DB)</font>
+ <i>Var: chokàⁿkka</i>
+&nbsp;<font size="0">(VC)</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chookachookachooka">chookachookachooka</a></i>
+&nbsp;to cluck
+<br><font size="+2"><b><a name="chokàⁿkka"></a>chokàⁿkka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chokàⁿhka">chokàⁿhka</a>&nbsp;
+<br><font size="+2"><b><a name="chokàⁿkkatàyyi"></a>chokàⁿkkatàyyi</b> </font>
+<font size="+2">guinea hen</font>
+&nbsp; [/chokaⁿhka /tayyi]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: chokàⁿkkatayyi</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chokano"></a>chokano</b> </font>
+<font size="+2">fly (insect) </font>
+<br><font size="+2"><b><a name="chokanochòosi"></a>chokanochòosi</b> </font>
+<font size="+2">maggot </font>
+&nbsp; [/chokano /ochòosi]
+<br><font size="+2"><b><a name="chokanochoski"></a>chokanochoski</b> </font>
+<font size="+2">maggots</font>
+&nbsp; [/chokano /ochoski]
+<br><font size="+2"><b><a name="chokano istilbi"></a>chokano istilbi</b> </font>
+<font size="+2">fly swatter</font>
+&nbsp; [/chokano ist-il- /(i)bi]
+<br><font size="+2"><b><a name="chokbahta"></a>chokbahta</b> </font>
+<font size="+2">gopher </font>
+ <i>Var: chokbàhta</i>
+&nbsp;<font size="0">(VC, IB)</font>
+<br><font size="+2"><b><a name="chokbahta iⁿhini"></a>chokbahta iⁿhini</b> </font>
+<font size="+2">gopher hill, gopher den</font>
+&nbsp; [/chokbahta im- /hini]
+<br><font size="+2"><b><a name="chokbi"></a>chokbi</b> </font>
+<font size="+2">navel, bellybutton </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+<br><font size="+2"><b><a name="chokbilàkbila"></a>chokbilàkbila</b> </font>
+<font size="+2">whippoorwill; the sound of the whippoorwill</font>
+<br><font size="+2"><b><a name="chokchoki"></a>chokchoki</b> </font>
+<font size="+2">to be spotted, freckled, polka dotted; to be tattooed</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ <i>Var: chakchaki</i>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chokchokitíkko">chokchokitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ibichokchoki">ibichokchoki</a></i>
+&nbsp;to have a spotted face
+<br><font size="+2"><b><a name="chokchokitíkko"></a>chokchokitíkko</b> </font>
+ Neg.
+ ☞<a href="c.htm#chokchoki">chokchoki</a>
+<br><font size="+2"><b><a name="chokchòosi"></a>chokchòosi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="i1.htm#ichosi chokchòokosi">ichosi chokchòokosi</a>&nbsp;
+<br><font size="+2"><b><a name="chokfalpooba"></a>chokfalpooba</b> </font>
+<font size="+2">sheep </font>
+&nbsp; [/chokfi /a&lt;l&gt;pooba]
+ <i>Var: chokfalpoyba</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chokfalpooba ahicha"></a>chokfalpooba ahicha</b> </font>
+<font size="+2">shepherd</font>
+&nbsp; [/chokfi /a&lt;l&gt;pooba a- /hicha]
+<br><font size="+2"><b><a name="chokfalpooba ahìicha"></a>chokfalpooba ahìicha</b> </font>
+<font size="+2">shepherd</font>
+&nbsp; [/chokfi /a&lt;l&gt;poyba a- /hicha]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: chokfalpoyba ahìicha</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chokfalpoyba"></a>chokfalpoyba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chokfalpooba">chokfalpooba</a>&nbsp;
+<br><font size="+2"><b><a name="chokfalpoyba hissi"></a>chokfalpoyba hissi</b> </font>
+<font size="+2">wool</font>
+&nbsp; [/chokfi /a&lt;l&gt;poyba /hissi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chokfalpoyba iⁿholihta"></a>chokfalpoyba iⁿholihta</b> </font>
+<font size="+2">sheep pasture</font>
+&nbsp; [/chokfi /a&lt;l&gt;poyba im- /holihta]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chokfi"></a>chokfi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">rabbit </font>
+&nbsp;2.&nbsp;
+<font size="+2">to kid, joke, lie, play a trick on</font>
+&nbsp;<font color="#080000">Cul:  Rabbit is a well-known trickster in southeast folklore.</font>&nbsp;
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>chokfitiska, chokfitilka, chokfitaska</i>)
+&nbsp;<font face="Arial">«</font>Chokfitiskaayok chimponnahchi.
+ <i>You know how to tell stories, play tricks (like rabbit).</i><font face="Arial">»</font>
+&nbsp;3.&nbsp;
+<font size="+2">to be a joker, trickster, liar</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chokfiya chokfi.
+ <i>Rabbit is a rabbit. (A saying meaning something like `you can trust Rabbit to be a trickster; you can't expect better of him').</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="chokfibáana"></a>chokfibáana</b> </font>
+<font size="+2">wool coat; one hundred percent wool; lots of rabbits</font>
+&nbsp; [/chokfi /báana]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chokfibitka"></a>chokfibitka</b> </font>
+<font size="+2">rabbit dance</font>
+&nbsp; [/chokfi /bit-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="chokfibitka talilwa"></a>chokfibitka talilwa</b> </font>
+<font size="+2">rabbit dance song</font>
+&nbsp; [/chokfi /bit-ka<sup>1</sup> /ta&lt;li&gt;lwa]
+<br><font size="+2"><b><a name="chokfichoba"></a>chokfichoba</b> </font>
+<font size="+2">liar, someone who tells lies or tales all the time</font>
+ <i>Usage: </i>Teasing name for someone who tells tales.
+&nbsp; [/chokfi /choba]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: chokfichòoba</i>
+<br><font size="+2"><b><a name="chokfifatka"></a>chokfifatka</b> </font>
+<font size="+2">rabbit story</font>
+&nbsp;<font color="#080000">Cul:  Southeastern trickster folktales.</font>&nbsp;
+&nbsp; [/chokfi /fat-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="chokfihissi"></a>chokfihissi</b> </font>
+<font size="+2">wool; rabbit fur</font>
+&nbsp; [/chokfi /hissi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chokfimiisa"></a>chokfimiisa</b> </font>
+<font size="+2">rabbit cage, hutch</font>
+&nbsp; [/chokfi im- /iisa]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chokfinaaɬìika"></a>chokfinaaɬìika</b> </font>
+<font size="+2">teller of tall tales</font>
+&nbsp; [/chokfi /naaɬii-ka<sup>1</sup>]
+ [<i>fgr</i>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chokfinaaɬiilka"></a>chokfinaaɬiilka</b> </font>
+<font size="+2">rabbit story, folktale</font>
+&nbsp;<font color="#080000">Cul:  The rabbit is the traditional southeastern trickster figure in tales.</font>&nbsp;
+&nbsp; [/chokfi /naaɬii&lt;il&gt;-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chokfinaaɬiilkon fatlilihchi.
+ <i>I told a rabbit story.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="chokfistimalbacha"></a>chokfistimalbacha</b> </font>
+<font size="+2">wisteria </font>
+&nbsp; [/chokfi ist-im- /a&lt;l&gt;bacha]
+<br><font size="+2"><b><a name="chokìibo"></a>chokìibo</b> </font>
+ Neg.
+<font size="+2">to be small</font>
+ (referring to something that one would expect to be big or should be big but is not (e.g. a midget))
+ [<i>fgr</i>]
+ ☞<a href="c.htm#choba">choba</a>
+<br><font size="+2"><b><a name="chokíibòschi"></a>chokíibòschi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chokíibòssi">chokíibòssi</a>&nbsp;
+<br><font size="+2"><b><a name="chokíibosi"></a>chokíibosi</b> </font>
+ Neg.
+<font size="+2">to be very small</font>
+&nbsp; [/chokíibo-osi]
+ <i>Var: chokíiⁿbosi</i>
+&nbsp;<font face="Arial">«</font>Aatihifóoska chokíibosi.
+ <i>That creature has always been very small (like a dwarf).</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chokìibo">chokìibo</a>
+<br><font size="+2"><b><a name="chokíibossi"></a>chokíibossi</b> </font>
+ Neg.
+<font size="+2">to be short in height, little bitty, narrow, small, thin in diameter (as a small tree, broom handle, etc.)</font>
+&nbsp; [/chokíibo-osi-hchi]
+ <i>Var: chokíiⁿbossi</i>
+&nbsp;<font size="0">(DB)</font>
+ <i>Var: chokíibòschi</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: chokíiⁿbòschi</i>
+&nbsp;<font face="Arial">«</font>Chichobasiya chokíibòssi.
+ <i>The pony is real little.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chokìibo">chokìibo</a>
+<br><font size="+2"><b><a name="chokìipo"></a>chokìipo</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Chochikìipoti.
+ <i>You didn't buy it.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#choopa">choopa</a>
+<br><font size="+2"><b><a name="chokka"></a>chokka</b> </font>
+<font size="+2">house</font>
+ <i>Usage: </i>Archaic.
+ {&nbsp;Mobilian?}
+&nbsp;<font size="0">(JS)</font>
+<br><font size="+2"><b><a name="chokkaahíkko"></a>chokkaahíkko</b> </font>
+ Neg.
+ ☞<a href="c.htm#chokkàaka">chokkàaka</a>
+<br><font size="+2"><b><a name="chokkaahilka"></a>chokkaahilka</b> </font>
+<font size="+2">entrance</font>
+&nbsp; [/chokkaa&lt;hil&gt;-ka<sup>1</sup>]
+ ☞<a href="c.htm#chokkàaka">chokkàaka</a>
+<br><font size="+2"><b><a name="chokkàaka"></a>chokkàaka</b> </font>
+<font size="+2">to go into, enter (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, chokkàahilka, chokkàahaska</i>)
+&nbsp; [/chokka(li)-ka<sup>1</sup>]
+ [<i>Irr: </i>PclStem=chokkahka]
+ [<i>dsfx1</i>]
+ [<i>fgr</i>]
+ <i>Neg: </i>chokkaahíkko
+ ☞<a href="c.htm#chokkaliika">chokkaliika</a>
+<br><font size="+2"><b><a name="chokkahka"></a>chokkahka</b> </font>
+<font size="+2">to go into, enter (of a few)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>-, chokkahilka, chokkahaska</i>)
+&nbsp; [/chokka(li)&lt;h&gt;-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="c.htm#chokkàaka">chokkàaka</a>
+<br><font size="+2"><b><a name="chokkaliichi"></a>chokkaliichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chokkaliilichi">chokkaliilichi</a>&nbsp;
+<br><font size="+2"><b><a name="chokkaliika"></a>chokkaliika</b> </font>
+<font size="+2">to go into, enter (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>chokkaliihiska, -, -</i>)
+&nbsp; [/chokkali-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Iisan chokkaliika.
+ <i>Go into the house.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Iyaani oobok chokkállìika.
+ <i>There's a hole going into the tunnel.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chokkaliíkko">chokkaliíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="c.htm#chokkaliilka">chokkaliilka</a></i>
+&nbsp;entrance
+<br>&nbsp;&nbsp;<i><a href="c.htm#chokkaliilichi">chokkaliilichi</a></i>
+&nbsp;to make enter
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chokkaliikíicho">chokkaliikíicho</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="c.htm#chokkàaka">chokkàaka</a></i>
+&nbsp;to enter
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chokkaahilka">chokkaahilka</a></i>
+&nbsp;entrance
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chokkaahíkko">chokkaahíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chokkahka">chokkahka</a></i>
+&nbsp;to enter
+<br><font size="+2"><b><a name="chokkaliikìicho"></a>chokkaliikìicho</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Hochachókkaliikìichoti.
+ <i>They won't let me in.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chokkaliilichi">chokkaliilichi</a>
+<br><font size="+2"><b><a name="chokkaliíkko"></a>chokkaliíkko</b> </font>
+ Neg.
+ ☞<a href="c.htm#chokkaliika">chokkaliika</a>
+<br><font size="+2"><b><a name="chokkaliilichi"></a>chokkaliilichi</b> </font>
+<font size="+2">to make enter, let in, retract (one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>chokkaliichichi, chokkaliihilichi, chokkaliihachichi</i>)
+&nbsp; [/chokkali-li-chi<sup>1</sup>]
+ <i>Neg: </i>chokkaliikìicho
+ <i>Var: chokkaliichi</i>
+&nbsp;<font face="Arial">«</font>Sattak isbakkon chokkaliicho.
+ <i>The turtle pulled in its head.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chokkaliika">chokkaliika</a>
+<br><font size="+2"><b><a name="chokkaliilka"></a>chokkaliilka</b> </font>
+<font size="+2">entrance</font>
+&nbsp; [/chokkali&lt;il&gt;-ka<sup>1</sup>]
+ ☞<a href="c.htm#chokkaliika">chokkaliika</a>
+<br><font size="+2"><b><a name="chokkapihchi"></a>chokkapihchi</b> </font>
+<font size="+2">muscadine vine</font>
+ <i>(Vitis rotundifolia)</i>
+&nbsp; [/chokko /apihchi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chokkilissa"></a>chokkilissa</b> </font>
+<font size="+2">to be quiet, still, desolate (of a location)</font>
+&nbsp;<font face="Arial">«</font>Ya iishayyok chokkilissaamoolo.
+ <i>This room is real quiet.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Library-faya chokkilíssahchooti.
+ <i>It's real quiet in the library.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chokkilissatilka">chokkilissatilka</a></i>
+&nbsp;loneliness
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inchokkilissa">inchokkilissa</a></i>
+&nbsp;to be alone
+<br><font size="+2"><b><a name="chokkilissatilka"></a>chokkilissatilka</b> </font>
+<font size="+2">loneliness</font>
+&nbsp; [/chokkilissa-tilka]
+ ☞<a href="c.htm#chokkilissa">chokkilissa</a>
+<br><font size="+2"><b><a name="chokko"></a>chokko</b> </font>
+<font size="+2">muscadine </font>
+ <i>(Vitis rotundifolia)</i>
+&nbsp;<font color="#080000">Cul:  The grapes are sour but can be used to make jelly.</font>&nbsp;
+ <i>Usage: </i>Older word.
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="chókkolìichi"></a>chókkolìichi</b> </font>
+<font size="+2">to put down, set down (one object) and leave; to park (a car)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>chókkochìichi, chókkohilìichi, chókkohachìichi</i>)
+&nbsp; [/chokoo-li-chi<sup>1</sup>]
+ [<i>ggr</i>]
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font face="Arial">«</font>Chókkolìichi akkon.
+ <i>Put it down right there.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Waakisbakkomon hayíimossobaafon ohochókkolìichiisan híichalin.
+ <i>I found the bull's head in the big swamp where they had put it.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+ ☞<a href="c.htm#chokoolichi">chokoolichi</a>
+<br><font size="+2"><b><a name="chókkòoli"></a>chókkòoli</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be sitting down, seated (of one); to live at or in a place (of one); to be out and visible (of a heavenly body)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>chókkòochi, -, -</i>)
+&nbsp; [/chokoo-li]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Ya paabókkòosifaayon chikìikaamon, antaatootoha, intaatootoomok anchókkòotooliisan híichalihchoolikha.
+ <i>They settled over here up on that little hill, my father's father used to live there and I used to see that.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">residence</font>
+&nbsp;<font face="Arial">«</font>Dorcaska chókkòolifa.
+ <i>That's where Dorcas lives.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chokòoli">chokòoli</a>
+<br><font size="+2"><b><a name="chókkòolit tosbi"></a>chókkòolit tosbi</b> </font>
+<font size="+2">just sit there and rot! </font>
+ <i>Usage: </i>Idiom.
+&nbsp;<font color="#080000">Cul:  Expression used by players in a children's game like tag, said to the player sitting in the middle who is `It'. The players sit in a circle with one in the middle. They hold on to a piece of that person's hair and say `just sit there and rot'. Then the one who is `It' jumps up and chases them and the first one caught then has to be `It'.</font>&nbsp;
+&nbsp; [/chókkòo-li-t /tosbi]
+ ☞<a href="t.htm#tosbi">tosbi</a>
+<br><font size="+2"><b><a name="choklahpa"></a>choklahpa</b> </font>
+<font size="+2">winged ant, termite? </font>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="chokɬipa"></a>chokɬipa</b> </font>
+<font size="+2">salt lick (naturally occurring)</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chokɬipasi">chokɬipasi</a></i>
+&nbsp;salt lick
+<br><font size="+2"><b><a name="chokɬipasi"></a>chokɬipasi</b> </font>
+<font size="+2">salt lick (naturally occurring)</font>
+&nbsp; [/chokɬipa-osi]
+ ☞<a href="c.htm#chokɬipa">chokɬipa</a>
+<br><font size="+2"><b><a name="chokoochi"></a>chokoochi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chokoolichi">chokoolichi</a>&nbsp;
+<br><font size="+2"><b><a name="chokòoli"></a>chokòoli</b> </font>
+<font size="+2">to sit down, assume a sitting position (of one); to squat, crouch down, hunker down (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>chokòochi, -, -</i>)
+ [<i>fgr</i>]
+&nbsp; [/chokoo-li]
+ [<i>Irr: </i>PclStem=chikìika; PlStem=chiika]
+&nbsp;<font face="Arial">«</font>Yok chinchokòokamoolo yon chokòoli.
+ <i>Sit here, this is your place.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Clemkak chokòolimoolo.
+ <i>Clem just sat.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Jimkak chokòolo.
+ <i>Jim is sitting.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chókkòoli">chókkòoli</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be seated
+&nbsp;2.&nbsp;
+&nbsp;residence
+<br>&nbsp;&nbsp;<i><a href="c.htm#chokóoli">chokóoli</a></i>
+&nbsp;to be still living
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inchokòoli">inchokòoli</a></i>
+&nbsp;base
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inchokòoka">inchokòoka</a></i>
+&nbsp;residence
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inchokóoⁿli">inchokóoⁿli</a></i>
+&nbsp;to represent a constituency
+<br>&nbsp;&nbsp;<i><a href="h.htm#hasifan inchokóoⁿli">hasifan inchokóoⁿli</a></i>
+&nbsp;to sunbathe
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ispaachokòoli">ispaachokòoli</a></i>
+&nbsp;foundation
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istinchokòoka">istinchokòoka</a></i>
+&nbsp;base something sits on
+<br>&nbsp;&nbsp;<i><a href="i2.htm#itachokòoli">itachokòoli</a></i>
+&nbsp;to sit on the ground
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#itachokoolichi">itachokoolichi</a></i>
+&nbsp;to put down (on the ground)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istitachókkòolichi">istitachókkòolichi</a></i>
+&nbsp;to have put down (something in a container) and left sitting
+<br>&nbsp;&nbsp;<i><a href="m.htm#maachokòoli">maachokòoli</a></i>
+&nbsp;to appear in the sky
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maachókkòoli">maachókkòoli</a></i>
+&nbsp;to be out and visible
+<br>&nbsp;&nbsp;<i><a href="o.htm#onachokòoli">onachokòoli</a></i>
+&nbsp;to sit down beside
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#onachókkòoli">onachókkòoli</a></i>
+&nbsp;to sit up with
+<br>&nbsp;&nbsp;<i><a href="o.htm#oochokòoli">oochokòoli</a></i>
+&nbsp;to sit in
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#oochókkòoli">oochókkòoli</a></i>
+&nbsp;to be sitting in
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imoochokòoli">imoochokòoli</a></i>
+&nbsp;to have something get stuck in (mud)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imoochókkòoli">imoochókkòoli</a></i>
+&nbsp;to have something stuck in (mud)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#oochokoolichi">oochokoolichi</a></i>
+&nbsp;to put down in (water) to soak
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#oochókkolìichi">oochókkolìichi</a></i>
+&nbsp;to have put down in water to soak
+<br>&nbsp;&nbsp;<i><a href="o.htm#oschókkòoli">oschókkòoli</a></i>
+&nbsp;to move away and settle down
+<br>&nbsp;&nbsp;<i><a href="p.htm#paachokòoli">paachokòoli</a></i>
+&nbsp;to sit on top of something (sg.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paachókkòoli">paachókkòoli</a></i>
+&nbsp;to sit on top of
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paachokoolichi">paachokoolichi</a></i>
+&nbsp;to put on top (sg.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paachókkolìichi">paachókkolìichi</a></i>
+&nbsp;to have left (something) sitting out on
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ispaachokoolichi">ispaachokoolichi</a></i>
+&nbsp;to put on top of
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paachokòoka">paachokòoka</a></i>
+&nbsp;chair
+<br>&nbsp;&nbsp;<i><a href="c.htm#chokoolichi">chokoolichi</a></i>
+&nbsp;to establish
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chókkolìichi">chókkolìichi</a></i>
+&nbsp;to set down and leave
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iisinchiika inchokoolichi">iisinchiika inchokoolichi</a></i>
+&nbsp;to lay a foundation
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ischokoolichi">ischokoolichi</a></i>
+&nbsp;to put inside of (a container)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ischókkolìichi">ischókkolìichi</a></i>
+&nbsp;to have sitting in (a container)
+<br><font size="+2"><b><a name="chokóoli"></a>chokóoli</b> </font>
+<font size="+2">to be still sitting, still living </font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>chokóochi, -, -</i>)
+&nbsp; [/chokoo-li]
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Chokóochìⁿ?
+ <i>Are you still sitting?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chokóoli!
+ <i>Sit already! (said to someone who keeps standing or pacing around).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ampíchootoomok antaatootoomok nakaaɬafòokon akkok chokóolifòokama ihton hotalàalimok holihtan hopaɬɬista.
+ <i>My late mother and father are gone now, but when they were still living there, when they would lay out a field, they would make split-rail fences.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="c.htm#chokòoli">chokòoli</a>
+<br><font size="+2"><b><a name="chokoolichi"></a>chokoolichi</b> </font>
+<font size="+2">to set down, put away, put down (one object); to establish, set up; to park (a car); to let settle on one's land; to sit (someone) down, seat</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>chokoochichi, chokoohilichi, chokoohachichi</i>)
+&nbsp; [/chokoo-li-chi<sup>1</sup>]
+ <i>Var: chokoochi</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Mobìlkan chokoolichilo.
+ <i>I parked the car.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mobìlka imiisahayon mobìlkan chokoolichi.
+ <i>Put the car in the garage.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mobìlka imiisahayon mobìlkan chokoochi.
+ <i>Put the car in the garage.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chokòoli">chokòoli</a>
+<br><font size="+2"><b><a name="choksanìipa"></a>choksanìipa</b> </font>
+<font size="+2">mole (of the skin), wart, pimple </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+&nbsp; [/choksi -/anìipa]
+&nbsp;<font face="Arial">«</font>Choksanìipak chabiiyíisooti.
+ <i>I have moles all over my face.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#choksi">choksi</a>
+<br><font size="+2"><b><a name="choksanìipasi"></a>choksanìipasi</b> </font>
+<font size="+2">freckle</font>
+&nbsp; [/choksi -/anìipa-osi]
+<br><font size="+2"><b><a name="choksi"></a>choksi</b> </font>
+<font size="+2">squash (generic), esp. winter squash, pumpkin</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#choksanìipa">choksanìipa</a></i>
+&nbsp;mole, wart, pimple
+<br><font size="+2"><b><a name="choksichàakka"></a>choksichàakka</b> </font>
+<font size="+2">cushaw, a large, long-necked, green-striped squash</font>
+&nbsp; [/choksi /(?)]
+ <i>Var: choksichákka</i>
+&nbsp;<font size="0">(DB)</font>
+ <i>Var: choksichakka</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="choksichakka"></a>choksichakka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#choksichàakka">choksichàakka</a>&nbsp;
+<br><font size="+2"><b><a name="choksichákka"></a>choksichákka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#choksichàakka">choksichàakka</a>&nbsp;
+<br><font size="+2"><b><a name="choksilaana"></a>choksilaana</b> </font>
+<font size="+2">any yellow colored squash, esp. pumpkin </font>
+&nbsp; [/choksi /laana]
+ <i>Var: choksilàana</i>
+<br><font size="+2"><b><a name="choksiɬaakachi"></a>choksiɬaakachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#choksiɬahkachi">choksiɬahkachi</a>&nbsp;
+<br><font size="+2"><b><a name="choksiɬahkachi"></a>choksiɬahkachi</b> </font>
+<font size="+2">striped squash, cushaw </font>
+&nbsp; [/choksi /ɬah-ka<sup>1</sup>-chi<sup>2</sup>]
+ <i>Var: choksiɬaakachi</i>
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="choksipaspa"></a>choksipaspa</b> </font>
+<font size="+2">pumpkin bread</font>
+&nbsp; [/choksi /paspa]
+<br><font size="+2"><b><a name="choksitáyyi"></a>choksitáyyi</b> </font>
+<font size="+2">any winter squash, esp. acorn squash, pumpkin </font>
+&nbsp; [/choksi /tayyi]
+<br><font size="+2"><b><a name="chokyohkachi"></a>chokyohkachi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be wrinkled up</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/chokyoh-ka<sup>1</sup>-chi<sup>2</sup>]
+&nbsp;2.&nbsp;
+<font size="+2">wrinkles</font>
+ ☞<a href="c.htm#chokyohlichi">chokyohlichi</a>
+<br><font size="+2"><b><a name="chokyohkachíkko"></a>chokyohkachíkko</b> </font>
+ Neg.
+ ☞<a href="c.htm#chokyohkachi">chokyohkachi</a>
+<br><font size="+2"><b><a name="chokyohkìicho"></a>chokyohkìicho</b> </font>
+ Neg.
+ ☞<a href="c.htm#chokyohlichi">chokyohlichi</a>
+<br><font size="+2"><b><a name="chokyohlichi"></a>chokyohlichi</b> </font>
+<font size="+2">to wrinkle, rumple, crumple</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>chokyohchichi, chokyohhilichi, chokyohhachichi</i>)
+&nbsp; [/chokyoh-li-chi<sup>2</sup>]
+<br>&nbsp;&nbsp;<i><a href="c.htm#chokyohkìicho">chokyohkìicho</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="c.htm#chokyohkachi">chokyohkachi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be wrinkled
+&nbsp;2.&nbsp;
+&nbsp;wrinkles
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chokyohkachíkko">chokyohkachíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ibiichokyohkachi">ibiichokyohkachi</a></i>
+&nbsp;to have a wrinkled face
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ilibiichokyohlichi">ilibiichokyohlichi</a></i>
+&nbsp;to wrinkle the face
+<br><font size="+2"><b><a name="chola"></a>chola</b> </font>
+<font size="+2">fox </font>
+<br><font size="+2"><b><a name="choɬaffi"></a>choɬaffi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chaɬaffi">chaɬaffi</a>&nbsp;
+<br><font size="+2"><b><a name="choɬɬi"></a>choɬɬi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chaɬɬi">chaɬɬi</a>&nbsp;
+<br><font size="+2"><b><a name="chommi"></a>chommi</b> </font>
+<font size="+2">anus </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+<br><font size="+2"><b><a name="chommihòopa"></a>chommihòopa</b> </font>
+<font size="+2">bird species</font>
+ <i>Lit: </i>has a sore anus
+ (little birds that fly together in large flocks like wrens or snowbirds and are known for their screaming or squealing, hence the name)
+&nbsp; [/chommi /hoopa]
+<br><font size="+2"><b><a name="chommilòmhi"></a>chommilòmhi</b> </font>
+<font size="+2">May haw </font>
+ <i>Lit: </i>hidden anus
+ <i>(Crataegus aestivalis)</i>
+&nbsp;<font color="#080000">Cul:  The fruit is used in making a gold-colored jelly. The tree grows in swampy places and the fruit is usually scooped out of water with a net. The name refers to the dimple on one end of the fruit.</font>&nbsp;
+ <i>Usage: </i>Older word.
+&nbsp; [/chommi /lomhi]
+ <i>Var: chommilòmmi</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="chommi ɬobafka"></a>chommi ɬobafka</b> </font>
+<font size="+2">anal opening </font>
+&nbsp; [/chommi /ɬobaf-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="chónnotli"></a>chónnotli</b> </font>
+<font size="+2">to be bent, hunchbacked </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>ggr</i>]
+ ☞<a href="c.htm#chonotli">chonotli</a>
+<br><font size="+2"><b><a name="chonóotlòosi"></a>chonóotlòosi</b> </font>
+<font size="+2">to be humped over, hunched over</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>chonóotlòostiska, chonóotlòostilka, chonóotlòostaska</i>)
+&nbsp; [/chonot-li-osi]
+ [<i>fgr</i>]
+ ☞<a href="c.htm#chonotli">chonotli</a>
+<br><font size="+2"><b><a name="chonoska"></a>chonoska</b> </font>
+<font size="+2">heart; heart wood, the hard core of a tree used in making tools</font>
+&nbsp;<font color="#800080" size="+1">CHA-; AM-p</font>
+&nbsp;(<i>1sg chatchonoska or chachonoska, 1pl potchonoska or pochonoska, 2pl hachitchonoska or hachichonoska</i>)
+ [<i>variants with -t- are older pronunciations</i>]
+&nbsp;<font face="Arial">«</font>Chonoskak ilkowátko.
+ <i>He had heart failure; his heart quit beating.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="chonoska hifóska"></a>chonoska hifóska</b> </font>
+<font size="+2">heartbeat</font>
+&nbsp; [/chonoska /hifos-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chonoskaholpa"></a>chonoskaholpa</b> </font>
+<font size="+2">heart trouble, heart disease</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/chonoska /hoo&lt;l&gt;pa]
+<br><font size="+2"><b><a name="chonoska hoopa"></a>chonoska hoopa</b> </font>
+<font size="+2">to have heart disease, heart trouble </font>
+&nbsp;<font color="#800080" size="+1">3; 3/AM-</font>
+&nbsp; [/chonoska /hoopa]
+&nbsp;<font face="Arial">«</font>Chatchonoskak aⁿhoopahchi.
+ <i>I have heart trouble.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chatchonoska hoopahchi.
+ <i>I have heart trouble.</i><font face="Arial">»</font>
+ ☞<a href="h.htm#hoopa">hoopa</a>
+<br><font size="+2"><b><a name="chonoska ilkowàali"></a>chonoska ilkowàali</b> </font>
+<font size="+2">heartbeat, movement of the heart</font>
+&nbsp; [/chonoska /ilkowàa-li]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chonoska kolboshayòoki"></a>chonoska kolboshayòoki</b> </font>
+<font size="+2">heart basket</font>
+&nbsp;<font color="#080000">Cul:  Heart-shaped basket, one of the traditional basket weaving shapes.</font>&nbsp;
+&nbsp; [/chonoska /kolbi-osi /hayooki]
+<br><font size="+2"><b><a name="chonotli"></a>chonotli</b> </font>
+<font size="+2">to bend over from the shoulders, stoop down, be hunched over</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>chonotchi, chonothili, chonothachi</i>)
+&nbsp; [/chonot-li]
+&nbsp;<font face="Arial">«</font>Chonotlit chókkòolihchi.
+ <i>He's bending over sitting down.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chonóotlilok aayoolìmpan ittakonotliliti.
+ <i>I stooped over and went under the table.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chónnotli">chónnotli</a></i>
+&nbsp;to be hunchbacked
+<br>&nbsp;&nbsp;<i><a href="c.htm#chonóotlòosi">chonóotlòosi</a></i>
+&nbsp;to be hunched over
+<br>&nbsp;&nbsp;<i><a href="i2.htm#itachonotli">itachonotli</a></i>
+&nbsp;to stoop to go under
+<br><font size="+2"><b><a name="chóoba"></a>chóoba</b> </font>
+<font size="+2">to grow bigger</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/choba]
+ [<i>lgr</i>]
+ ☞<a href="c.htm#choba">choba</a>
+<br><font size="+2"><b><a name="chóobintabi"></a>chóobintabi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="a.htm#atchòobittabi">atchòobittabi</a>&nbsp;
+<br><font size="+2"><b><a name="choocho"></a>choocho</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chocho">chocho</a>&nbsp;
+<br><font size="+2"><b><a name="choochohissi"></a>choochohissi</b> </font>
+<font size="+2">woman's pubic hair</font>
+&nbsp; [/choocho /hissi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chookachookachooka"></a>chookachookachooka</b> </font>
+<font size="+2">to cluck as a guinea fowl </font>
+ {onomatopoeic}
+ <i>Var: chokáⁿchokáⁿchokáⁿ</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="c.htm#chokàⁿhka">chokàⁿhka</a>
+<br><font size="+2"><b><a name="chookma"></a>chookma</b> </font>
+<font size="+2">to be good</font>
+ <i>Usage: </i>Older word.
+ {&nbsp;Mobilian?}
+&nbsp;<font size="0">(JS)</font>
+<br><font size="+2"><b><a name="choolpa"></a>choolpa</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">sale</font>
+&nbsp; [/choo&lt;l&gt;pa]
+&nbsp;2.&nbsp;
+<font size="+2">to have been bought, purchased </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ ☞<a href="c.htm#choopa">choopa</a>
+<br><font size="+2"><b><a name="chóoⁿbàasi"></a>chóoⁿbàasi</b> </font>
+<font size="+2">to be very big</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/choba-osi]
+ [<i>fgr</i>]
+ ☞<a href="c.htm#choba">choba</a>
+<br><font size="+2"><b><a name="choopa"></a>choopa</b> </font>
+<font size="+2">to buy</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>choospa, choolpa, choohaspa</i>)
+&nbsp;<font face="Arial">«</font>Choospati.
+ <i>You bought it.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>óo náksonchoospaⁿ?
+ <i>Oh, where did you buy it?</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#choolpa">choolpa</a></i>
+&nbsp;1.&nbsp;
+&nbsp;sale
+&nbsp;2.&nbsp;
+&nbsp;to have been bought
+<br>&nbsp;&nbsp;<i><a href="c.htm#chokìipo">chokìipo</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="c.htm#choopatíkko">choopatíkko</a></i>
+ Neg.
+&nbsp;1.&nbsp;
+&nbsp;to not be able to buy
+&nbsp;2.&nbsp;
+&nbsp;to not be supposed to buy
+<br>&nbsp;&nbsp;<i><a href="c.htm#chòopa">chòopa</a></i>
+&nbsp;buyer, shopper
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inchoopa">inchoopa</a></i>
+&nbsp;to buy for, buy from
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ischoopa">ischoopa</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to sell
+&nbsp;2.&nbsp;
+&nbsp;store
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ischoopasi">ischoopasi</a></i>
+&nbsp;country store
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istinchoopa">istinchoopa</a></i>
+&nbsp;to sell (something) to or for
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ischokìipo">ischokìipo</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ischoolpa">ischoolpa</a></i>
+&nbsp;to be for sale, be sold
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ischoolpókko">ischoolpókko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="chòopa"></a>chòopa</b> </font>
+<font size="+2">buyer, shopper</font>
+ ☞<a href="c.htm#choopa">choopa</a>
+<br><font size="+2"><b><a name="choopatíkko"></a>choopatíkko</b> </font>
+ Neg.
+&nbsp;1.&nbsp;
+<font size="+2">to not be able to buy</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;<font face="Arial">«</font>Choopatchíkkoolo.
+ <i>You can't buy it.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to not be supposed to buy</font>
+&nbsp;<font face="Arial">«</font>Choospatíkkoolo.
+ <i>You shouldn't buy it.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#choopa">choopa</a>
+<br><font size="+2"><b><a name="chòosi"></a>chòosi</b> </font>
+<font size="+2">any daughter after the first born daughter </font>
+ <i>Usage: </i>Hypocoristic nickname.
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+&nbsp;<font size="0">(VC)</font>
+<br>&nbsp;&nbsp;<i><a href="c.htm#chóososi">chóososi</a></i>
+&nbsp;baby daughter
+<br><font size="+2"><b><a name="chooskani"></a>chooskani</b> </font>
+<font size="+2">duck </font>
+ <i>Var: choskani</i>
+<br><font size="+2"><b><a name="chooskanibitka"></a>chooskanibitka</b> </font>
+<font size="+2">duck dance</font>
+&nbsp; [/chooskani /bit-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="chooskanibitka talilwa"></a>chooskanibitka talilwa</b> </font>
+<font size="+2">duck dance song</font>
+&nbsp; [/chooskani /bit-ka<sup>1</sup> /ta&lt;li&gt;lwa]
+<br><font size="+2"><b><a name="chooskani ichiksa okchakko"></a>chooskani ichiksa okchakko</b> </font>
+<font size="+2">mallard </font>
+&nbsp; [/chooskani /ichiksa /okchakko]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chóososi"></a>chóososi</b> </font>
+<font size="+2">any baby daughter after the first born daughter </font>
+ <i>Usage: </i>Hypocoristic nickname.
+&nbsp; [/chóosi-osi]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="c.htm#chòosi">chòosi</a>
+<br><font size="+2"><b><a name="Chòotka"></a>Chòotka</b> </font>
+<font size="+2">name of Chief B.C. Sylestine's mule</font>
+ {poss. &nbsp;/chootli, lit. `Jumper'}
+<br><font size="+2"><b><a name="chootli"></a>chootli</b> </font>
+<font size="+2">to jump once, hop once; to start (be startled) (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>chootchi, choothili, choothachi</i>)
+&nbsp; [(/choot)-li]
+ {prob. short for chofotli}
+&nbsp;<font size="0">(WP)</font>
+ ☞<a href="c.htm#chofotli">chofotli</a>
+<br><font size="+2"><b><a name="chootlit abanatli"></a>chootlit abanatli</b> </font>
+<font size="+2">to jump over (one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp; [/choot-li-t /abanat-li]
+ ☞<a href="c.htm#chootli">chootli</a>
+<br><font size="+2"><b><a name="chòoto"></a>chòoto</b> </font>
+<font size="+2">frog </font>
+<br><font size="+2"><b><a name="chòotochokchoki"></a>chòotochokchoki</b> </font>
+<font size="+2">type of spotted frog </font>
+&nbsp; [/chòoto /chokchoki]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chòotochoski"></a>chòotochoski</b> </font>
+<font size="+2">frog eggs</font>
+&nbsp; [/chòoto /ochoski]
+<br><font size="+2"><b><a name="choskani"></a>choskani</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chooskani">chooskani</a>&nbsp;
+<br><font size="+2"><b><a name="choskaniholba"></a>choskaniholba</b> </font>
+<font size="+2">duck decoy</font>
+&nbsp; [/choskani /holba]
+&nbsp;<font size="0">(IB, VC)</font>
+<br><font size="+2"><b><a name="chowaala"></a>chowaala</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chowwaala">chowwaala</a>&nbsp;
+<br><font size="+2"><b><a name="chowaata"></a>chowaata</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chowwaata">chowwaata</a>&nbsp;
+<br><font size="+2"><b><a name="chowahla"></a>chowahla</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#chowwaala">chowwaala</a>&nbsp;
+<br><font size="+2"><b><a name="chowwaala"></a>chowwaala</b> </font>
+<font size="+2">cedar, eastern redcedar </font>
+ <i>(Juniperus virginiana)</i>
+ <i>Var: chowahla</i>
+&nbsp;<font size="0">(IB)</font>
+ <i>Var: chowaala</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="chowwaata"></a>chowwaata</b> </font>
+<font size="+2">goat </font>
+ <i>Var: chowaata</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="choyyaffakchi"></a>choyyaffakchi</b> </font>
+<font size="+2">pine bark</font>
+&nbsp; [/choyyi /affakchi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="choyyaɬi"></a>choyyaɬi</b> </font>
+<font size="+2">pinecone</font>
+&nbsp; [/choyyi /aɬi]
+<br><font size="+2"><b><a name="choyyapala"></a>choyyapala</b> </font>
+<font size="+2">pitch torch</font>
+&nbsp; [/choyyi /apala]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="choyyaposa"></a>choyyaposa</b> </font>
+<font size="+2">pinegrove</font>
+&nbsp; [/choyyi /aposa]
+<br><font size="+2"><b><a name="choyyassikchi"></a>choyyassikchi</b> </font>
+<font size="+2">pine roots</font>
+&nbsp; [/choyyi /assikchi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="choyyi"></a>choyyi</b> </font>
+<font size="+2">pine tree </font>
+ <i>(Pinus spp. esp. P. taeda)</i>
+<br><font size="+2"><b><a name="choyyihissi"></a>choyyihissi</b> </font>
+<font size="+2">pine needle</font>
+&nbsp; [/choyyi /hissi]
+ <i>Var: choyyissi</i>
+<br><font size="+2"><b><a name="choyyihissi hobaski"></a>choyyihissi hobaski</b> </font>
+<font size="+2">longleaf pine </font>
+ <i>(Pinus palustris)</i>
+&nbsp; [/choyyi /hissi ho- /baski]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="choyyihissi kobayli"></a>choyyihissi kobayli</b> </font>
+<font size="+2">shortleaf pine </font>
+ <i>(Pinus echinata)</i>
+&nbsp; [/choyyi /hissi /kobay-li]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="choyyihoba"></a>choyyihoba</b> </font>
+<font size="+2">loblolly pine </font>
+ <i>(Pinus taeda)</i>
+&nbsp; [/choyyi /hoba]
+<br><font size="+2"><b><a name="choyyikolòofa"></a>choyyikolòofa</b> </font>
+<font size="+2">pine stump</font>
+&nbsp; [/choyyi /kolof-a]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="choyyinaani"></a>choyyinaani</b> </font>
+<font size="+2">longleaf pine </font>
+&nbsp; [/choyyi /naani]
+<br><font size="+2"><b><a name="choyyiniha"></a>choyyiniha</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#choyyiniya">choyyiniya</a>&nbsp;
+<br><font size="+2"><b><a name="choyyinihaachi"></a>choyyinihaachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#choyyiniyaachi">choyyiniyaachi</a>&nbsp;
+<br><font size="+2"><b><a name="choyyiniya"></a>choyyiniya</b> </font>
+<font size="+2">pine resin, turpentine, pine sap, very rich pine pitch</font>
+&nbsp;<font color="#080000">Cul:  Makes good tea; good for colds when rubbed on the throat.</font>&nbsp;
+&nbsp; [/choyyi /niya]
+ <i>Var: choyyiniha</i>
+<br><font size="+2"><b><a name="choyyiniyaachi"></a>choyyiniyaachi</b> </font>
+<font size="+2">wax myrtle </font>
+ <i>(Myrica cerifera)</i>
+&nbsp;<font color="#080000">Cul:  Juice from berries can be used as waterproofing on wood or bowstrings; a tea made from the roots is a good cure for diarrhea; the twigs can be broken off and chewed as a cure for diarrhea.</font>&nbsp;
+&nbsp; [/choyyi /niha-chi<sup>1</sup>]
+ <i>Var: choyyinihaachi</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="choyyi okchi"></a>choyyi okchi</b> </font>
+<font size="+2">pine sap</font>
+&nbsp; [/choyyi /okchi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="choyyipokta"></a>choyyipokta</b> </font>
+<font size="+2">rich pine limbs, peat, pine knot used for torch</font>
+&nbsp; [/choyyi /pokta]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="choyyiskilaaya"></a>choyyiskilaaya</b> </font>
+<font size="+2">pine kindling wood, pine tinder; pine splinters</font>
+&nbsp; [/choyyi ist- /kilay-a]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="choyyissi"></a>choyyissi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="c.htm#choyyihissi">choyyihissi</a>&nbsp;
+<br><font size="+2"><b><a name="choyyissikolbi"></a>choyyissikolbi</b> </font>
+<font size="+2">pine needle basket</font>
+&nbsp; [/choyyi /hissi /kolbi]
+<br><font size="+2"><b><a name="choyyitayyi"></a>choyyitayyi</b> </font>
+<font size="+2">short leaf pine </font>
+&nbsp; [/choyyi /tayyi]
+<br><font size="+2"><b><a name="choyyiyikchi"></a>choyyiyikchi</b> </font>
+<font size="+2">pine base or root</font>
+&nbsp; [/choyyi /yíkchi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="chsss"></a>chsss</b> </font>
+<font size="+2">the sound a rattlesnake makes</font>
+&nbsp;<font size="0">(VC)</font>
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

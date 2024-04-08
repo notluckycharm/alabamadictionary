@@ -1,0 +1,2296 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">M</font></center><br>
+<br><font size="+2"><b><a name="ma"></a>ma</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">that way; that one (distal; previously mentioned)</font>
+ (known, reintroduced?)
+&nbsp;<font face="Arial">«</font>Mìntok hokfahchon mon hobannaakát honaaɬiikaton mon ɬóok fáthilin.
+ <i>There was another one in there and they talked about wanting that one too and again we told about it.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Maakaⁿ?
+ <i>Where is it?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Blackie màapo?
+ <i>Where's Blackie?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mootok maastóobàapok...
+ <i>Well, it has been that way for a long time.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mafíhna?
+ <i>Is that right, is that so?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máffìinaamon onkalo.
+ <i>I'm saying it's about that time.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Maha.
+ <i>That one.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">that</font>
+<br>&nbsp;&nbsp;<i><a href="m.htm#màafa">màafa</a></i>
+&nbsp;over there
+<br>&nbsp;&nbsp;<i><a href="m.htm#máhháasi">máhháasi</a></i>
+&nbsp;to be earlier
+<br>&nbsp;&nbsp;<i><a href="m.htm#máɬɬi">máɬɬi</a></i>
+&nbsp;only (that) one
+<br>&nbsp;&nbsp;<i><a href="m.htm#mok">mok</a></i>
+&nbsp;also
+<br>&nbsp;&nbsp;<i><a href="m.htm#mókko">mókko</a></i>
+&nbsp;no
+<br>&nbsp;&nbsp;<i><a href="m.htm#má! má!">má! má!</a></i>
+&nbsp;look out!
+<br><font size="+2"><b><a name="maabàali"></a>maabàali</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#maabahàali">maabahàali</a>&nbsp;
+<br><font size="+2"><b><a name="maabàalka"></a>maabàalka</b> </font>
+<font size="+2">to be lying at a distance (of more than one) </font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>maabàalhilka, maabàalhaska</i>)
+&nbsp; [maat- /bal(aa)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ [<i>fgr</i>]
+ ☞<a href="b.htm#balka">balka</a>
+<br><font size="+2"><b><a name="maabahàali"></a>maabahàali</b> </font>
+<font size="+2">to push (plural objects) away or toward</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maabahàachi, maabahàahili, maabahàahachi</i>)
+&nbsp; [maat- /baha(f)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ <i>Var: maabàali</i>
+&nbsp;<font face="Arial">«</font>Tàalon maabahàali.
+ <i>Push it this way.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tókpon maabahàaloko.
+ <i>Push it away.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#bahàali">bahàali</a>
+<br><font size="+2"><b><a name="maabállàaka"></a>maabállàaka</b> </font>
+<font size="+2">to be lying at a distance (of one) </font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>maabállàahiska, -, -</i>)
+&nbsp; [maat- /balaa-ka<sup>1</sup>]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Waakak apàhchaafan maabállàakati.
+ <i>The cow is over lying in the shade.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#balàaka">balàaka</a>
+<br><font size="+2"><b><a name="maabatli"></a>maabatli</b> </font>
+<font size="+2">to knock (more than once) at the door</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maabatchi, maabathili, maabathachi</i>)
+&nbsp; [maat- /bat(at)-li]
+ [<i>dsfx1</i>]
+&nbsp;<font face="Arial">«</font>Okhichafan maabatlo.
+ <i>Someone is knocking on the door.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#batli">batli</a>
+<br><font size="+2"><b><a name="maabinafka"></a>maabinafka</b> </font>
+<font size="+2">to erode and collapse</font>
+&nbsp; [maat- /binaf-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="b.htm#binafka">binafka</a>
+<br><font size="+2"><b><a name="maachi"></a>maachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#maalichi">maalichi</a>&nbsp;
+<br><font size="+2"><b><a name="maachoffi"></a>maachoffi</b> </font>
+<font size="+2">to jump down from (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, maachofhili, maachofhachi</i>)
+&nbsp; [maat- /chof(ot)-li]
+ [<i>dsfx1</i>]
+&nbsp;<font size="0">(IB)</font>
+ ☞<a href="c.htm#choffi">choffi</a>
+<br><font size="+2"><b><a name="maachofotli"></a>maachofotli</b> </font>
+<font size="+2">to jump off into, jump down from (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>maachofotchi, -, -</i>)
+&nbsp; [maat- /chofot-li]
+ ☞<a href="c.htm#chofotli">chofotli</a>
+<br><font size="+2"><b><a name="maachóhbachòosi"></a>maachóhbachòosi</b> </font>
+<font size="+2">to enlarge, make bigger</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>maachóhbachòostiska, maachóhbachòostilka, maachóhbachòostaska</i>)
+&nbsp; [maat- /cho&lt;h&gt;ba-chi<sup>1</sup>-osi]
+ [<i>hgr, fgr</i>]
+ ☞<a href="c.htm#choobachi">choobachi</a>
+<br><font size="+2"><b><a name="maachókkòoli"></a>maachókkòoli</b> </font>
+<font size="+2">to be out and visible (of a heavenly body)</font>
+&nbsp; [maat- /chokoo-li]
+ [<i>ggr</i>]
+ ☞<a href="m.htm#maachokòoli">maachokòoli</a>
+<br><font size="+2"><b><a name="maachokòoli"></a>maachokòoli</b> </font>
+<font size="+2">to appear in the sky, come out (of a heavenly body)</font>
+&nbsp; [maat- /chokoo-li]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Tankahasiháhpak maachokòotonko oybo.
+ <i>They say when there's a new moon it rains.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chokòoli">chokòoli</a>
+<br><font size="+2"><b><a name="màafa"></a>màafa</b> </font>
+<font size="+2">over there, that way, towards</font>
+&nbsp; [/ma-fa]
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font face="Arial">«</font>Máskat áppìilakáhchoolikha màafon.
+ <i>He was kind of leaning towards favoring them.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Màafonìi?
+ <i>Towards them?/That way?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+ ☞<a href="m.htm#ma">ma</a>
+<br><font size="+2"><b><a name="maafahli"></a>maafahli</b> </font>
+<font size="+2">to flag down with, wave (something) at (someone in the distance)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-/3</font>
+&nbsp;(<i>maafahchi, maafahhili, maafahhachi</i>)
+&nbsp; [maat- /fah-li]
+&nbsp;<font face="Arial">«</font>Saphan maafahli.
+ <i>Wave the flag.</i><font face="Arial">»</font>
+ ☞<a href="f.htm#fahli">fahli</a>
+<br><font size="+2"><b><a name="maafalammi"></a>maafalammi</b> </font>
+<font size="+2">north wind</font>
+&nbsp; [maat- /falammi]
+ <i>Var: maafalámmi</i>
+&nbsp;<font face="Arial">«</font>Maafalammiima kasatkalaan ommihchi.
+ <i>If the wind comes from the north, it's going to be cold.</i><font face="Arial">»</font>
+ ☞<a href="f.htm#falammi">falammi</a>
+<br><font size="+2"><b><a name="maafalammi hasi maatassaliika iⁿhókkìita"></a>maafalammi hasi maatassaliika iⁿhókkìita</b> </font>
+<font size="+2">northeast</font>
+ <i>Lit: </i>half-way (between) north and east
+&nbsp; [maat- /falammi /hasi maat- /assalii-ka<sup>1</sup> im- /hókkìita]
+<br><font size="+2"><b><a name="maafalámmi hochiiɬi"></a>maafalámmi hochiiɬi</b> </font>
+<font size="+2">Polaris, North Star </font>
+&nbsp; [maat- /falam-li /hochiiɬi]
+<br><font size="+2"><b><a name="maafatli"></a>maafatli</b> </font>
+<font size="+2">to announce publically</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>maafatchi, maafathili, maafathachi</i>)
+&nbsp; [maat- /fat-li]
+ ☞<a href="f.htm#fatli">fatli</a>
+<br><font size="+2"><b><a name="máafìiko"></a>máafìiko</b> </font>
+<font size="+2">to be many</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, máafìilko, máafìasko</i>)
+&nbsp; [poss. maa- /fih-ka<sup>1</sup>]
+ [<i>lgr?</i>]
+&nbsp;<font face="Arial">«</font>Máafìiko.
+ <i>There are many.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máafìilko.
+ <i>There are many of us.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="maafilanka"></a>maafilanka</b> </font>
+<font size="+2">to be passing by and get off at an exit or turn-off (of one) (as driving down Hwy. 190 and taking the turn-off at the reservation headquarters)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>maafilaⁿiska, -, -</i>)
+&nbsp; [maat- /filam-ka<sup>1</sup>]
+ ☞<a href="f.htm#filanka2">filanka<sup>2</sup></a>
+<br><font size="+2"><b><a name="maafoopachi"></a>maafoopachi</b> </font>
+<font size="+2">to make a noise as of rain coming from a distance</font>
+&nbsp; [maat- /foopa-chi<sup>2</sup>]
+ ☞<a href="f.htm#foopachi">foopachi</a>
+<br><font size="+2"><b><a name="maahalahka"></a>maahalahka</b> </font>
+<font size="+2">to draw a line by reaching, reach for to pull (as for clothes in the back of a closet) (plural objects or repeatedly)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>maahalahiska, maahalahilka, maahalahaska</i>)
+&nbsp; [maat- /hala&lt;h&gt;t-ka<sup>1</sup>]
+ ☞<a href="h.htm#halahka">halahka</a>
+<br><font size="+2"><b><a name="maahaɬapilka cháffàaka"></a>maahaɬapilka cháffàaka</b> </font>
+<font size="+2">one measured pace, the length of one step</font>
+&nbsp; [maat- /haɬap&lt;il&gt;-ka<sup>1</sup> /cháffàa-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="maahaɬka"></a>maahaɬka</b> </font>
+<font size="+2">to go walking, step out</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>maahaɬiska, maahaɬilka, maahaɬaska</i>)
+&nbsp; [maat- /haɬ(ap)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="h.htm#haɬka">haɬka</a>
+<br><font size="+2"><b><a name="maahátchàali"></a>maahátchàali</b> </font>
+<font size="+2">to appear, be out and visible (of a rainbow)</font>
+&nbsp; [maat- /hachaa-li]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Hanaabotóofolak maahátchàalo.
+ <i>A rainbow is out.</i><font face="Arial">»</font>
+ ☞<a href="h.htm#hachàali">hachàali</a>
+<br><font size="+2"><b><a name="maahicha"></a>maahicha</b> </font>
+<font size="+2">to look out at, open the eyes</font>
+&nbsp;<font color="#080000">Cul:  From an old story of the sun (or God) checking on his people when he comes out after a long rain. If the people acted too happy, it would continue raining; if they were sad, the rain would stop. In the fall when it rains often, people tell each other `don't be too happy'.</font>&nbsp;
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maatishicha, maatilhicha, maatashicha</i>)
+&nbsp; [maat- /hicha]
+&nbsp;<font face="Arial">«</font>Máafaya maatishichánnàa.
+ <i>Don't look over there.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hasik maahichatoha.
+ <i>The sun looked out at them (his children).</i><font face="Arial">»</font>
+ ☞<a href="h.htm#hicha">hicha</a>
+<br><font size="+2"><b><a name="maahíicha"></a>maahíicha</b> </font>
+<font size="+2">to look over in a certain direction, look off in the distance</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maatishíicha, maatilhíicha, maatashíicha</i>)
+&nbsp; [maat- /hicha]
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Chaposkòosihak sáhmit ìistònka maahíichalini.
+ <i>I'm peeking out to see how my children are doing (what the sun says after a long rain).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Oɬachiifòokayok oolakanota oolakanotohat maatilhíichaskooko homankok.
+ <i>Having arrived there, they said, `Since there is peace, let's go see them.'</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+ ☞<a href="m.htm#maahicha">maahicha</a>
+<br><font size="+2"><b><a name="maahobaski"></a>maahobaski</b> </font>
+<font size="+2">to grow out (of hair or grass)</font>
+&nbsp; [maat-ho- /baski]
+ ☞<a href="b.htm#baski">baski</a>
+<br><font size="+2"><b><a name="maahòmma"></a>maahòmma</b> </font>
+<font size="+2">to glow from a distance</font>
+&nbsp; [maat- /homma]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Tikbok maahóomòo.
+ <i>There's a fire burning in the distance.</i><font face="Arial">»</font>
+ ☞<a href="h.htm#homma">homma</a>
+<br><font size="+2"><b><a name="maahopáhki"></a>maahopáhki</b> </font>
+<font size="+2">far</font>
+&nbsp; [maat- /hopa&lt;h&gt;ki]
+&nbsp;<font face="Arial">«</font>Wìiskaafan maahopáhkin wìikalo.
+ <i>I live far away from where you live.</i><font face="Arial">»</font>
+ ☞<a href="h.htm#hopaaki">hopaaki</a>
+<br><font size="+2"><b><a name="maahoyoopa"></a>maahoyoopa</b> </font>
+<font size="+2">to stand up to, retaliate, fight back when provoked, be testy, touchy</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>maahoyoopatiska, maahoyoopatilka, maahoyoopataska</i>)
+&nbsp;(<i>maahoyoospa, maahoyoolpa, maahoyooaspa</i>)
+&nbsp; [maat- /hoyoopa]
+&nbsp;<font face="Arial">«</font>Nitaya maahoyoopahchootoha.
+ <i>A bear used to fight back.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Isilkan íiskoma aatihifóoskayok maahoyoopa.
+ <i>People get touchy when they drink.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Maahoyoospánnàa.
+ <i>Don't fight back.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Maahoyoopatisko.
+ <i>You fought back.</i><font face="Arial">»</font>
+ ☞<a href="h.htm#hoyoopa">hoyoopa</a>
+<br><font size="+2"><b><a name="maahoyya"></a>maahoyya</b> </font>
+<font size="+2">to leak (of a house or roof)</font>
+&nbsp; [maat- /hoyya]
+ ☞<a href="h.htm#hoyya">hoyya</a>
+<br><font size="+2"><b><a name="maaka"></a>maaka</b> </font>
+<font size="+2">to be taut, be pulled tight, be stretched tight (of more than one)</font>
+&nbsp; [/maa(p)-ka<sup>1</sup>]
+ [<i>dsfx2</i>]
+ ☞<a href="m.htm#maapka">maapka</a>
+<br><font size="+2"><b><a name="máaka"></a>máaka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="h.htm#himàaka">himàaka</a>&nbsp;
+<br><font size="+2"><b><a name="maakaali"></a>maakaali</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#maakahli">maakahli</a>&nbsp;
+<br><font size="+2"><b><a name="maakachi"></a>maakachi</b> </font>
+<font size="+2">to be thrown away, divorced, abandoned (of one) </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/maa-ka<sup>1</sup>-chi<sup>1</sup>]
+ ☞<a href="m.htm#maalichi">maalichi</a>
+<br><font size="+2"><b><a name="maakahholi"></a>maakahholi</b> </font>
+ Imp.
+ ☞<a href="m.htm#maakahli">maakahli</a>
+<br><font size="+2"><b><a name="maakahli"></a>maakahli</b> </font>
+<font size="+2">to leave, abandon, throw away (plural objects)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maakahchi, maakahhili, maakahhachi</i>)
+&nbsp; [/maakah-li]
+ [<i>Irr: </i>SgStem=maalichi]
+ <i>Var: maakaali</i>
+&nbsp;<font face="Arial">«</font>Maakaaliliti chabànkók.
+ <i>I threw away what I didn't want.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#maalichi">maalichi</a>
+<br><font size="+2"><b><a name="maakalli"></a>maakalli</b> </font>
+<font size="+2">to write</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>maakalchi, maakalhili, maakalhachi</i>)
+&nbsp; [maat- /kal(af)-li]
+ [<i>dsfx1</i>]
+ ☞<a href="k.htm#kalaffi">kalaffi</a>
+<br><font size="+2"><b><a name="maakaɬàaha"></a>maakaɬàaha</b> </font>
+<font size="+2">to make a rattling noise in the distance </font>
+&nbsp; [maat- /kaɬàaha]
+&nbsp;<font face="Arial">«</font>Nàasok maakaɬàaho.
+ <i>Something rattling is coming.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kaɬàaha1">kaɬàaha<sup>1</sup></a>
+<br><font size="+2"><b><a name="maakobòolichi"></a>maakobòolichi</b> </font>
+<font size="+2">to knock or rap (at the door)</font>
+; <font size="+2">to make a banging noise with the feet </font>
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>maakobòochichi, maakobòohilichi, maakobòohachichi</i>)
+&nbsp; [maat- /kobòo-li-chi<sup>2</sup>]
+&nbsp;<font face="Arial">«</font>Maakobóolìicho.
+ <i>Somebody is knocking at the door.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kobòolichi">kobòolichi</a>
+<br><font size="+2"><b><a name="maakoɬaama"></a>maakoɬaama</b> </font>
+<font size="+2">to be on beyond</font>
+&nbsp; [maat- /koɬa-ma]
+&nbsp;<font face="Arial">«</font>Brookshire Yosti maakoɬaama.
+ <i>Brookshire is on beyond Houston.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kalwestiya Yosti maakoɬa.
+ ☞<a href="k.htm#koɬaama">koɬaama</a>
+<br><font size="+2"><b><a name="maalamatkíichi"></a>maalamatkíichi</b> </font>
+<font size="+2">to be the most direct way, shortest route, straightest path</font>
+&nbsp; [maat- /lamatki-chi<sup>1</sup>]
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Maalamatkíichit aɬɬaliti.
+ <i>I went the most direct way.</i><font face="Arial">»</font>
+ ☞<a href="l.htm#lamatkichi">lamatkichi</a>
+<br><font size="+2"><b><a name="maalatka"></a>maalatka</b> </font>
+<font size="+2">to take steps forward</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>maalatiska, maalatilka, maalataska</i>)
+&nbsp; [maat- /lat(as)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="l.htm#latka">latka</a>
+<br><font size="+2"><b><a name="maalawàasi"></a>maalawàasi</b> </font>
+<font size="+2">to be increasing, getting to be more </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [maat- /lawa-osi]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Aatiyok maalàawasóot poskoohak hofantit maalàawat anookatáskan.
+ <i>Because there are more people, more children being born, there's getting to be a lot more now.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Maapolàawastaɬíinahchommo.
+ <i>As time goes on there's going to be more of us.</i><font face="Arial">»</font>
+ ☞<a href="l.htm#lawa">lawa</a>
+<br><font size="+2"><b><a name="máali"></a>máali</b><sup>1</sup> </font>
+<font size="+2">to be the same, identical</font>
+&nbsp;<font face="Arial">«</font>Ya máalibíikahchoolo.
+ <i>They are the same.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máalolo.
+ <i>It's the same.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máali icho sokhimaalokhóot ichimaalokha máalóot akkáhmin.
+ <i>Again, deer or hog's brains, it's all the same, using deer brains is all right.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="m.htm#máaloolo">máaloolo</a></i>
+&nbsp;to do or be also
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ismáaloolo">ismáaloolo</a></i>
+&nbsp;to look like something
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittimáali">ittimáali</a></i>
+&nbsp;to resemble each other
+<br><font size="+2"><b><a name="máali"></a>máali</b><sup>2</sup> </font>
+<font size="+2">to be right, okay, correct, perfect, righteous (of a situation or thing)</font>
+&nbsp;<font face="Arial">«</font>Máalihchi.
+ <i>It's perfectly right.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Dictionaryk máalot onkaalolok hichalihchi.
+ <i>I'm checking the dictionary to see if it's correct.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Naaɬiilkak máaloolo aschìilo?
+ <i>Do you think the report is correct?</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="m.htm#máalitíkko">máalitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#máalitíkkokáhmi">máalitíkkokáhmi</a></i>
+ Neg.
+&nbsp;to be not exactly right
+<br>&nbsp;&nbsp;<i><a href="i1.htm#immáali">immáali</a></i>
+&nbsp;to be proper
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#immáalitíkko">immáalitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istimmáalo">istimmáalo</a></i>
+&nbsp;to be right about
+<br>&nbsp;&nbsp;<i><a href="m.htm#máalìichi">máalìichi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to do something right
+&nbsp;2.&nbsp;
+&nbsp;to do something right for somebody
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#máalìichitíkko">máalìichitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#máalìichitíkkokáhchi">máalìichitíkkokáhchi</a></i>
+&nbsp;one who doesn't do right
+<br><font size="+2"><b><a name="maalichi"></a>maalichi</b> </font>
+<font size="+2">to leave, abandon (physically), divorce; to throw off, throw away, drop, discard (one object); to impeach, throw out of office (one person)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maachichi, maahilichi, maahachichi</i>)
+&nbsp; [/maa-li-chi<sup>1</sup>]
+ [<i>Irr: </i>PlStem=maakahli]
+ {poss. related to /ma}
+ <i>Var: maachi</i>
+&nbsp;<font face="Arial">«</font>Akkon maahiliichok isnok ishachàachiimon kanohchoolo, mankok.
+ <i>He said, `We'll throw that one out and if you would take over it would be good.'</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ismaalichi">ismaalichi</a></i>
+&nbsp;to throw away (something in container)
+<br>&nbsp;&nbsp;<i><a href="i2.htm#itamaalichi">itamaalichi</a></i>
+&nbsp;to drop to the ground
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#itamaalìichòosi">itamaalìichòosi</a></i>
+&nbsp;to lower a little
+<br>&nbsp;&nbsp;<i><a href="m.htm#maamaalichi">maamaalichi</a></i>
+&nbsp;to throw down
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#nokhíɬkan maamaalichi">nokhíɬkan maamaalichi</a></i>
+&nbsp;to spit out phlegm
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maatimmaalichi">maatimmaalichi</a></i>
+&nbsp;to throw to
+<br>&nbsp;&nbsp;<i><a href="o.htm#oomaalichi">oomaalichi</a></i>
+&nbsp;to throw into water (one thing)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maatoomaalichi">maatoomaalichi</a></i>
+&nbsp;to lower, throw in
+<br>&nbsp;&nbsp;<i><a href="p.htm#paamaalichi">paamaalichi</a></i>
+&nbsp;to throw down
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ilapaamaalichi">ilapaamaalichi</a></i>
+&nbsp;to drop (something) on oneself
+<br>&nbsp;&nbsp;<i><a href="m.htm#maakachi">maakachi</a></i>
+&nbsp;to be thrown away
+<br>&nbsp;&nbsp;<i><a href="m.htm#maakahli">maakahli</a></i>
+&nbsp;to leave (pl. obj.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maakahholi">maakahholi</a></i>
+ Imp.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#immaakahli">immaakahli</a></i>
+&nbsp;to throw away for
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#immaakàali">immaakàali</a></i>
+&nbsp;pitcher
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#oomaakàali">oomaakàali</a></i>
+&nbsp;to throw into water
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maastimoomaakàali">maastimoomaakàali</a></i>
+&nbsp;to cast (a line) out for
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#oomaakàaka">oomaakàaka</a></i>
+&nbsp;to be thrown on the water
+<br><font size="+2"><b><a name="máalìichi"></a>máalìichi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to do something right, do correctly</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>máalichìichi, máalihilìichi, máalihachìichi</i>)
+&nbsp; [/maali-chi<sup>1</sup>]
+ <i>Neg: </i>máalìichitíkko
+&nbsp;<font face="Arial">«</font>Naaɬiilka chiⁿfatliliikok máalìichilisti.
+ <i>The report that I gave you I was right about.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máalìichitommiha.
+ <i>Do it right!</i><font face="Arial">»</font>
+ ☞<a href="m.htm#máali2">máali<sup>2</sup></a>
+<br><font size="+2"><b><a name="máalìichitíkko"></a>máalìichitíkko</b> </font>
+ Neg.
+ ☞<a href="m.htm#máalìichi">máalìichi</a>
+<br><font size="+2"><b><a name="máalìichitíkkokáhchi"></a>máalìichitíkkokáhchi</b> </font>
+<font size="+2">one who doesn't do right, wrong-doer</font>
+&nbsp; [/máali-chi<sup>1</sup>-tikko-ka<sup>1</sup>-hchi]
+ ☞<a href="m.htm#máalìichitíkko">máalìichitíkko</a>
+<br><font size="+2"><b><a name="maalimihkáachi"></a>maalimihkáachi</b> </font>
+<font size="+2">to be shimmering (off in the distance)</font>
+&nbsp; [maat- /limih-ka<sup>1</sup>-chi<sup>2</sup>]
+ [<i>lgr</i>]
+ ☞<a href="l.htm#limìhkachi">limìhkachi</a>
+<br><font size="+2"><b><a name="máalitíkko"></a>máalitíkko</b> </font>
+ Neg.
+ ☞<a href="m.htm#máali2">máali<sup>2</sup></a>
+<br><font size="+2"><b><a name="máalitíkkokáhmi"></a>máalitíkkokáhmi</b> </font>
+ Neg.
+<font size="+2">to be not exactly right</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/máali-tíkko-káhmi]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="m.htm#máalitíkko">máalitíkko</a>
+<br><font size="+2"><b><a name="maalokbáachi"></a>maalokbáachi</b> </font>
+<font size="+2">to be heating up (of the air temperature) because the sun is shining </font>
+&nbsp; [maat- /lokba-chi<sup>1</sup>]
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Maalokbáacho.
+ <i>It's getting hot (the sun has been shining).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hasik maalokbáacho.
+ <i>The sun is shining.</i><font face="Arial">»</font>
+ ☞<a href="l.htm#lokbachi">lokbachi</a>
+<br><font size="+2"><b><a name="máaloolo"></a>máaloolo</b> </font>
+<font size="+2">to do or be as well, also, too</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/máali-ooli-o<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chamáaloolo.
+ <i>Me too.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#máali1">máali<sup>1</sup></a>
+<br><font size="+2"><b><a name="maaɬakkila"></a>maaɬakkila</b> </font>
+<font size="+2">to guide, lead somewhere</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>maaɬakkisla, maaɬakkilatilka, maaɬakkilataska</i>)
+&nbsp; [prob. maat- (/ɬakki) /(i)la]
+&nbsp;<font face="Arial">«</font>Maaɬakkislao.
+ <i>You will lead.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="maaɬohli"></a>maaɬohli</b> </font>
+<font size="+2">to go after (someone at a distance), chase after</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maaɬohchi, maaɬohhili, maaɬohhachi</i>)
+&nbsp; [maat- /ɬoh-li]
+ <i>Var: maaɬooli</i>
+&nbsp;<font face="Arial">«</font>Ontichitok piɬɬakon ostáɬkok ohamaakaton paanok tàamin amàakastóobàapin `maahopoɬoolilaatoolo' homankok.
+ <i>So they left and went back and got in the boat and left; there was a creek lying there and they must have been going for a while when they said `they might follow after us'.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬohli">ɬohli</a>
+<br><font size="+2"><b><a name="maaɬooli"></a>maaɬooli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#maaɬohli">maaɬohli</a>&nbsp;
+<br><font size="+2"><b><a name="maama"></a>maama</b> </font>
+<font size="+2">mother, mama </font>
+ <i>Usage: </i>Used mainly by younger speakers or as a form of address.
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+ {&nbsp;English}
+<br><font size="+2"><b><a name="maamaachi"></a>maamaachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#maamaalichi">maamaalichi</a>&nbsp;
+<br><font size="+2"><b><a name="maamaalichi"></a>maamaalichi</b> </font>
+<font size="+2">to throw down, throw (one object) to the ground</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maamaachichi, maamaahilichi, maamaahachichi</i>)
+&nbsp; [maat- /maa-li-chi<sup>1</sup>]
+ <i>Var: maamaachi</i>
+ ☞<a href="m.htm#maalichi">maalichi</a>
+<br><font size="+2"><b><a name="maamahli"></a>maamahli</b> </font>
+<font size="+2">to blow from</font>
+&nbsp; [maat- /mah-li]
+ ☞<a href="m.htm#mahli">mahli</a>
+<br><font size="+2"><b><a name="màami"></a>màami</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#máhmi">máhmi</a>&nbsp;
+<br><font size="+2"><b><a name="máamiima"></a>máamiima</b> </font>
+<font size="+2">maybe, if, perhaps</font>
+&nbsp; [/má&lt;h&gt;mi-ma]
+ ☞<a href="m.htm#máhmi">máhmi</a>
+<br><font size="+2"><b><a name="máamiimok"></a>máamiimok</b> </font>
+<font size="+2">moreover</font>
+&nbsp; [/má&lt;h&gt;mi-ma-o<sup>1</sup>-k]
+ ☞<a href="m.htm#máamiima">máamiima</a>
+<br><font size="+2"><b><a name="máamiimon"></a>máamiimon</b> </font>
+<font size="+2">however</font>
+&nbsp; [/má&lt;h&gt;mi-ma-o<sup>1</sup>-n]
+ ☞<a href="m.htm#máamiima">máamiima</a>
+<br><font size="+2"><b><a name="màamin"></a>màamin</b> </font>
+<font size="+2">but, on the other hand, however</font>
+&nbsp; [/má&lt;h&gt;mi-n]
+&nbsp;<font face="Arial">«</font>Cháⁿhkàssok annàahobi; màamin chimpaɬatlaaho.
+ <i>I only have the one but I'll split it with you.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hakchomman sònkalihchoolikha; màamin máakaya ínkohchi.
+ <i>I used to smoke but now I don't.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#máhmi">máhmi</a>
+<br><font size="+2"><b><a name="maamisli"></a>maamisli</b> </font>
+<font size="+2">to flash (of lightning)</font>
+&nbsp; [maat- /mis(ii)-li]
+ [<i>dsfx1</i>]
+ ☞<a href="m.htm#misli">misli</a>
+<br><font size="+2"><b><a name="maamismihli"></a>maamismihli</b> </font>
+<font size="+2">to flash, blink like lightning</font>
+&nbsp; [maat- /mis(ìi)&lt;mih&gt;-li; poss. reduplicated form]
+ ☞<a href="m.htm#mismihli">mismihli</a>
+<br><font size="+2"><b><a name="máamòosi"></a>máamòosi</b> </font>
+<font size="+2">then, next, and then, so</font>
+&nbsp; [/má&lt;h&gt;mi-osi]
+ [<i>fgr</i>]
+ ☞<a href="m.htm#máhmi">máhmi</a>
+<br><font size="+2"><b><a name="maamóttàaki"></a>maamóttàaki</b> </font>
+<font size="+2">to be visible from a distance</font>
+&nbsp; [maat- /mottaki]
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Okiya hóppàhkitík maamóttàakit ispaachókkòoti.
+ <i>Even though the water tower is far away it's still visible.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#móttàaki">móttàaki</a>
+<br><font size="+2"><b><a name="maanaaɬihilka"></a>maanaaɬihilka</b> </font>
+<font size="+2">telephone, microphone</font>
+&nbsp; [maat- /naaɬii&lt;hil&gt;-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: maanaaɬiilka</i>
+ <i>Var: maanaaɬiihilka</i>
+ ☞<a href="m.htm#maanaaɬiika">maanaaɬiika</a>
+<br><font size="+2"><b><a name="maanaaɬiihilka"></a>maanaaɬiihilka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#maanaaɬihilka">maanaaɬihilka</a>&nbsp;
+<br><font size="+2"><b><a name="maanaaɬiika"></a>maanaaɬiika</b> </font>
+<font size="+2">to talk into a microphone, talk on the telephone</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maanaaɬiihiska, maanaaɬiihilka, maanaaɬiihaska</i>)
+&nbsp; [maat- /naaɬii-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Maanaaɬiikalo.
+ <i>I talked on the telephone/microphone.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#naaɬiika">naaɬiika</a>
+<br><font size="+2"><b><a name="maanaaɬiilka"></a>maanaaɬiilka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#maanaaɬihilka">maanaaɬihilka</a>&nbsp;
+<br><font size="+2"><b><a name="maanoopihli"></a>maanoopihli</b> </font>
+<font size="+2">to take out the tonsils; to remove (objects) from the throat of a choking victim </font>
+ (maa- implies they are out of reach, which is appropriate if one uses an instrument)
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>maanoopihchi, maanoopihhili, maanoopihhachi</i>)
+&nbsp; [maat-noo- /pih-li]
+ ☞<a href="n.htm#noopihli">noopihli</a>
+<br><font size="+2"><b><a name="maanootaɬafka"></a>maanootaɬafka</b> </font>
+<font size="+2">to take out of the throat (one object); to perform a tonsilectomy on</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maanootaɬafiska, maanootaɬafilka, maanootaɬafaska</i>)
+&nbsp; [maat-noo- /taɬaf-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="n.htm#nootaɬafka">nootaɬafka</a>
+<br><font size="+2"><b><a name="maapaahòkfayok lawahchi"></a>maapaahòkfayok lawahchi</b> </font>
+<font size="+2">to add to, increase, multiply</font>
+&nbsp; [maat-paa- /hokfa-ya-o<sup>3</sup>-k /lawa-hchi]
+ ☞<a href="h.htm#hokfa">hokfa</a>
+<br><font size="+2"><b><a name="maapáanàasi"></a>maapáanàasi</b> </font>
+<font size="+2">to be higher up, above some reference point</font>
+&nbsp; [maat- /páana-osi]
+&nbsp;<font face="Arial">«</font>Maapáanàasi.
+ <i>It's higher up. (on the higher shelf).</i><font face="Arial">»</font>
+ ☞<a href="p.htm#páana">páana</a>
+<br><font size="+2"><b><a name="maapaatohno"></a>maapaatohno</b> </font>
+<font size="+2">to send (someone) as a messenger to</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-/CHA-; -LI/CHA-/3</font>
+&nbsp;(<i>maapaatochihno, maapaatolihno, maapaatohachihno</i>)
+&nbsp; [maat-paa- -/tohno]
+&nbsp;<font face="Arial">«</font>Koorak maachichapaatóhnon ommo.
+ <i>Cora sent me to you.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Koorak isnon maachapaatóhnon ommo.
+ <i>Cora sent me to you.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#paatohno">paatohno</a>
+<br><font size="+2"><b><a name="maapáthàasi"></a>maapáthàasi</b> </font>
+<font size="+2">to be wider</font>
+&nbsp; [maat- /patha-osi]
+ [<i>hgr</i>]
+ ☞<a href="p.htm#patha">patha</a>
+<br><font size="+2"><b><a name="maapiɬka"></a>maapiɬka</b> </font>
+<font size="+2">to throw down, knock down (one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maapiɬiska, maapiɬilka, maapiɬaska</i>)
+&nbsp; [maat- /piɬ-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Nákson hachàatok batlit batatlit maapíɬkat sokáffit iswaliikahchootoha.
+ <i>Then, someone would be standing there and would hit him repeatedly and knock him down, scalp him, and run away with it.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+ ☞<a href="p.htm#piɬka">piɬka</a>
+<br><font size="+2"><b><a name="maapínha"></a>maapínha</b> </font>
+<font size="+2">a ways over there</font>
+&nbsp; [maat- /pínha]
+&nbsp;<font face="Arial">«</font>Maapínhakáhchon amaakák nitóot hoɬoolit ifan ifa stittanowwásta ifan hoɬoolichiifòokok nákson oimatàakat ìisatoofòokok iⁿɬopotliifòokon oibihchootoolo.
+ <i>They went somewhere off over that way and chased bears and they took dogs with them when they used dogs to chase bears and they would stay somewhere and head it off and when it came past them they used to kill it.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+ ☞<a href="p.htm#pínha">pínha</a>
+<br><font size="+2"><b><a name="maapka"></a>maapka</b> </font>
+<font size="+2">to be taut, be pulled tight, be stretched tight (of one)</font>
+&nbsp; [/maap-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Ochana isholìhtan ismaapilkaton maapkaamooti.
+ <i>We stretched the wire fence and it's real tight.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ismaapka">ismaapka</a></i>
+&nbsp;to stretch taut (one thing); anything stretched tight
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ismaapilka">ismaapilka</a></i>
+&nbsp;wire stretcher
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istimmaapilka">istimmaapilka</a></i>
+&nbsp;tent guides
+<br>&nbsp;&nbsp;<i><a href="m.htm#maaka">maaka</a></i>
+&nbsp;to be stretched tight
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ismaaka">ismaaka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to stretch taut (pl. or rep.)
+&nbsp;2.&nbsp;
+&nbsp;tool to stretch out fencing
+<br><font size="+2"><b><a name="maapoyatli"></a>maapoyatli</b> </font>
+<font size="+2">to bubble out, well up</font>
+&nbsp; [maat- /poyat-li]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Maapoyatlihchoolo.
+ <i>(The little spring) is bubbling out of the ground.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#poyatli">poyatli</a>
+<br><font size="+2"><b><a name="maapska"></a>maapska</b> </font>
+<font size="+2">mumps </font>
+ {&nbsp;English}
+&nbsp; [/maaps-ka<sup>3</sup>]
+<br><font size="+2"><b><a name="maashalahka"></a>maashalahka</b> </font>
+<font size="+2">to pull up or draw something in a container</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>maashalahiska, maashalahilka, maashalahaska</i>)
+&nbsp; [maast- /hala&lt;h&gt;t-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Okin maatokoochiliimok maashalàakalihchooti okishachàalifan.
+ <i>I used to fetch water by drawing it up out of the well.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#maahalahka">maahalahka</a>
+<br><font size="+2"><b><a name="maasobòotli"></a>maasobòotli</b> </font>
+<font size="+2">to be giving off smoke in the distance</font>
+&nbsp; [maat- /sobot-li]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Maasobòotliti.
+ <i>It was smoking over there.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sobotli">sobotli</a>
+<br><font size="+2"><b><a name="maasofka"></a>maasofka</b> </font>
+<font size="+2">to fall at a distance (of more than one), gush out, fall out, overflow, spill over, pour out</font>
+&nbsp; [maat- /sofi-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Oki maasofka.
+ <i>Waterfall.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Alotkat maasofkahchi.
+ <i>It's full to overflowing.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sofka">sofka</a>
+<br><font size="+2"><b><a name="maasofóolìichi"></a>maasofóolìichi</b> </font>
+<font size="+2">to come making a rustling or shuffling noise </font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>maasofóochìichi, maasofóohilìichi, maasofóohachìichi</i>)
+&nbsp; [maat- /sofòo-li-chi<sup>2</sup>]
+ ☞<a href="s.htm#sofòolichi">sofòolichi</a>
+<br><font size="+2"><b><a name="maasóobi"></a>maasóobi</b> </font>
+<font size="+2">to bend over at the waist</font>
+ <i>Usage: </i>One might say this to be funny if one saw someone bent over picking cotton. Implies the rear end is sticking up.
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>maasóobitiska, maasóobitilka, maasóobitaska</i>)
+&nbsp;(<i>maasóomchi, maasóomhili, maasóomhachi</i>)
+&nbsp; [poss. maat- /sobi]
+ <i>Var: maasòobi</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="s.htm#soobi">soobi</a>
+<br><font size="+2"><b><a name="maasoobìichi"></a>maasoobìichi</b> </font>
+<font size="+2">to bend (someone) over, have (someone) bend over at the waist</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maasoobìichitiska, maasoobìichitilka, maasoobìichitaska</i>)
+&nbsp; [maat- /soobi-chi<sup>1</sup>]
+ [<i>fgr</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="m.htm#maasóobi">maasóobi</a>
+<br><font size="+2"><b><a name="maasoofi"></a>maasoofi</b> </font>
+<font size="+2">to throw out (a liquid, such as dishwater)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>maasoofchi, maasoofhili, maasoofhachi</i>)
+&nbsp; [prob. maat- /sofi]
+ ☞<a href="s.htm#soofi">soofi</a>
+<br><font size="+2"><b><a name="maastakinitka"></a>maastakinitka</b> </font>
+<font size="+2">to peek out of something at, peer out at, peep out at (one object) </font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maastakinitiska, maastakinitilka, maastakinitaska</i>)
+&nbsp; [maast- /akinit-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Ayyanchahkafóot maastakinítkook aatimmaatiyyowwahchi.
+ <i>He would stick his head out the window and call out for someone.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+ ☞<a href="a.htm#akinitka">akinitka</a>
+<br><font size="+2"><b><a name="maastalàali"></a>maastalàali</b> </font>
+<font size="+2">to set out, put (one object) out </font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maastalàachi, maastalàahili, maastalàahachi</i>)
+&nbsp; [maast- /talàa-li]
+ <i>Pl: </i>maastalli
+&nbsp;<font face="Arial">«</font>Hoɬkan maastalàali ilpaski.
+ <i>Put out the sofkey and we'll eat it.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#talàali">talàali</a>
+<br><font size="+2"><b><a name="maastalli"></a>maastalli</b> </font>
+<font size="+2">to set out, put (things) out</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maastalchi, maastalhili, maastalhachi</i>)
+&nbsp; [maast- /tal(àa)-li]
+ ☞<a href="t.htm#talli">talli</a>
+<br><font size="+2"><b><a name="maastimbakahli"></a>maastimbakahli</b> </font>
+<font size="+2">to throw to (someone at a distance)</font>
+&nbsp;<font color="#800080" size="+1">-LI/AM-/3</font>
+&nbsp;(<i>maastimbakahchi, maastimbakahhili, maastimbakahhachi</i>)
+&nbsp; [maast-im- /bakah-li]
+ ☞<a href="b.htm#bakahli">bakahli</a>
+<br><font size="+2"><b><a name="maastimoomaakàali"></a>maastimoomaakàali</b> </font>
+<font size="+2">to cast (a line) out for (plural objects)</font>
+&nbsp;<font color="#800080" size="+1">-LI/AM-</font>
+&nbsp;(<i>maastimoomaakàachi, maastimoomaakàahili, maastimoomaakàahachi</i>)
+&nbsp; [maat-ist-im-oo- /maakàa-li]
+&nbsp;<font face="Arial">«</font>∥aɬon maastimoomaakàaliliti.
+ <i>I cast a line out for fish.</i><font face="Arial">»</font>
+ ☞<a href="o.htm#oomaakàali">oomaakàali</a>
+<br><font size="+2"><b><a name="maastìnka"></a>maastìnka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to pass (food) to (at the table)</font>
+&nbsp;<font color="#800080" size="+1">-LI/AM-/3</font>
+&nbsp;(<i>maastìmiska, maastìmilka, maastìmaska</i>)
+&nbsp; [maast-im- -/ka]
+&nbsp;<font face="Arial">«</font>Hapi mastànka.
+ <i>Pass me the salt.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">red railroad box car that brought food and supplies to the reservation</font>
+ <i>Usage: </i>Older word.
+ ☞<a href="i1.htm#inka">inka</a>
+<br><font size="+2"><b><a name="maastinnaaɬìika"></a>maastinnaaɬìika</b> </font>
+<font size="+2">minister, preacher, pastor; messenger; interpreter</font>
+&nbsp; [maast-im- /naaɬii-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: mastinnaaɬìika</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="n.htm#naaɬiika">naaɬiika</a>
+<br><font size="+2"><b><a name="maastinnaaɬìika imiisa"></a>maastinnaaɬìika imiisa</b> </font>
+<font size="+2">parsonage, manse</font>
+&nbsp; [maast-im- /naaɬii-ka<sup>1</sup> im- /iisa]
+<br><font size="+2"><b><a name="maastinnaaɬìika impaahachàaka"></a>maastinnaaɬìika impaahachàaka</b> </font>
+<font size="+2">pulpit</font>
+&nbsp; [maast-im- /naaɬii-ka<sup>1</sup> im-paa- /hachaa-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="maastinnaaɬìika iwwìilka"></a>maastinnaaɬìika iwwìilka</b> </font>
+<font size="+2">parsonage, manse</font>
+&nbsp; [maast-im- /naaɬii-ka<sup>1</sup> im- /wìi&lt;il&gt;-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="maastintohno"></a>maastintohno</b> </font>
+<font size="+2">to send (something in a container, such as mail) to</font>
+&nbsp;<font color="#800080" size="+1">-LI/AM-/3</font>
+&nbsp;(<i>maastintochihno, maastintolihno, maastintohachihno</i>)
+&nbsp; [maat-ist-im- -/tohno]
+ ☞<a href="m.htm#maastohno">maastohno</a>
+<br><font size="+2"><b><a name="maastisi"></a>maastisi</b> </font>
+<font size="+2">to reach for, take away, go get, go after (one object in a container)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maastissi, maastishili, maastishachi</i>)
+&nbsp; [maat-ist- /isi]
+ ☞<a href="m.htm#maatisi">maatisi</a>
+<br><font size="+2"><b><a name="maastohno"></a>maastohno</b> </font>
+<font size="+2">to send (something in a container, such as mail)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>maastochihno, maastolihno, maastohachihno</i>)
+&nbsp; [maat-ist- -/tohno]
+ <i>Var: mastoono</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="m.htm#maatohno">maatohno</a>
+<br><font size="+2"><b><a name="maastolihna"></a>maastolihna</b> </font>
+<font size="+2">mail; postage stamp</font>
+&nbsp; [mast- /to&lt;li&gt;hno-a]
+ <i>Var: mastolihna</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: mastoliina</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: mastoliino</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="maastonkaffichi"></a>maastonkaffichi</b> </font>
+<font size="+2">to go along covering with dirt (of more than one) </font>
+&nbsp;<font color="#080000">Cul:  Refers to a traditional method of planting.</font>&nbsp;
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>maastonkafchichi, maastonkafhilichi, maastonkafhachichi</i>)
+&nbsp; [maat-ist-ona- -/kaf-li-chi<sup>2</sup>]
+ ☞<a href="o.htm#onkaffichi">onkaffichi</a>
+<br><font size="+2"><b><a name="maataalka"></a>maataalka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#maatahalka">maatahalka</a>&nbsp;
+<br><font size="+2"><b><a name="maataalo"></a>maataalo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#maatahaalo">maatahaalo</a>&nbsp;
+<br><font size="+2"><b><a name="maataaɬoyhilka"></a>maataaɬoyhilka</b> </font>
+<font size="+2">bathroom, toilet</font>
+ <i>Usage: </i>Polite idiom.
+&nbsp; [maat-aa- /ɬoy&lt;hil&gt;-ka<sup>1</sup>]
+ ☞<a href="ll.htm#ɬoyka">ɬoyka</a>
+<br><font size="+2"><b><a name="maatàami"></a>maatàami</b> </font>
+<font size="+2">to be lying at a distance, be located (lying) there (of a long object)</font>
+&nbsp; [maat- /tàami; poss. maat- /tami]
+&nbsp;<font face="Arial">«</font>Hinootok hayiimo báanat maatàantoolo.
+ <i>The road was all muddy and there it lay.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ittok támmiisok maatàamo.
+ <i>The tree fell (I guess) and there it lies.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Waakaka apàhchaafan maatàamo.
+ <i>The cow is lying over there in the shade.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tàami">tàami</a>
+<br><font size="+2"><b><a name="maatàasàasi"></a>maatàasàasi</b> </font>
+<font size="+2">to be a little more</font>
+&nbsp; [maat- /asa-osi]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Maatàasàasin amaltobaachiiha.
+ <i>Pay me a little more.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Maatàasàasin amaɬi.
+ <i>Serve me a little more.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#maatàasasi">maatàasasi</a>
+<br><font size="+2"><b><a name="maatàasasi"></a>maatàasasi</b> </font>
+<font size="+2">to be more</font>
+&nbsp; [maat- /asa-osi]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Posno ìistilkaya maatàasast aɬɬahchommo.
+ <i>Our people are multiplying.</i><font face="Arial">»</font>
+ ☞<a href="a.htm#àasa">àasa</a>
+<br><font size="+2"><b><a name="maatàaya"></a>maatàaya</b> </font>
+<font size="+2">to go to the bathroom (of one or two)</font>
+ <i>Usage: </i>Polite older expression.
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>maatachìiya, maatalìiya, maataachìiya</i>)
+&nbsp; [maat- /aya]
+ [<i>fgr</i>]
+ ☞<a href="a.htm#àaya">àaya</a>
+<br><font size="+2"><b><a name="maatabalàaka"></a>maatabalàaka</b> </font>
+<font size="+2">to camp out, sleep away from home</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>maatabalàahiska, maatabalàahilka, maatabalàahaska</i>)
+&nbsp; [maat-a- /balaa-ka<sup>1</sup>]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Naho maatibit maatabaláakat amaakaláa...
+ <i>Well, they're going hunting and they're going to camp out.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkàamiya maatabalàakat amaakat námpotík aati námpotík ittillokòolimok amaakáaⁿ hopahkin oɬachiifòokok tikba ostootifòokak akkat albiná hokatoolo.
+ <i>That's what happened, they'd go and camp out, there would be several people, several of them would get together and they'd go a long way, and when they got there they would build a fire and that's what they'd call camp.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+ ☞<a href="b.htm#balàaka">balàaka</a>
+<br><font size="+2"><b><a name="maatahaalo"></a>maatahaalo</b> </font>
+<font size="+2">to order (something)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>maatahalchi, maatahalhili, maatahalhachi</i>)
+&nbsp; [maat- /ahalo]
+ <i>Var: maataalo</i>
+&nbsp;<font face="Arial">«</font>Jimkak oolimpan maatahaaloti.
+ <i>Jim asked me to bring food.</i><font face="Arial">»</font>
+ ☞<a href="a.htm#ahaalo">ahaalo</a>
+<br><font size="+2"><b><a name="maatahalka"></a>maatahalka</b> </font>
+<font size="+2">to be ordered</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [maat- /ahalo-ka<sup>1</sup>]
+ <i>Var: maataalka</i>
+ ☞<a href="m.htm#maatahaalo">maatahaalo</a>
+<br><font size="+2"><b><a name="maatakanahli"></a>maatakanahli</b> </font>
+<font size="+2">to move over to a place (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>maatakanahchi, maatakanahhili, maatakanahhachi</i>)
+&nbsp; [maat-a- /kana&lt;h&gt;t-li]
+ ☞<a href="k.htm#kanahli">kanahli</a>
+<br><font size="+2"><b><a name="maatakinìika"></a>maatakinìika</b> </font>
+<font size="+2">to lift the head and look out, peek at, peer at, peep at (plural objects) </font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maatakinìihiska, maatakinìihilka, maatakinìihaska</i>)
+&nbsp; [maat- /akini(t)-ka<sup>1</sup>]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="a.htm#akinìika">akinìika</a>
+<br><font size="+2"><b><a name="maatakinitka"></a>maatakinitka</b> </font>
+<font size="+2">to peek at, peer at from a distance, peep at (one object) </font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maatakinitiska, maatakinitilka, maatakinitaska</i>)
+&nbsp; [maat- /akinit-ka<sup>1</sup>]
+ ☞<a href="a.htm#akinitka">akinitka</a>
+<br><font size="+2"><b><a name="maatalbitìili"></a>maatalbitìili</b> </font>
+<font size="+2">to go put another blanket on (as in cold weather) </font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maatalbitìichi, maatalbitìihili, maatalbitìihachi</i>)
+&nbsp; [maat- /albitìi-li]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="a.htm#albitìili">albitìili</a>
+<br><font size="+2"><b><a name="maataɬaplichi"></a>maataɬaplichi</b> </font>
+<font size="+2">to reflect off, shine off of (something at a distance)</font>
+&nbsp; [maat- /aɬap-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Mobìlkak maataɬaplicho.
+ <i>The car was reflecting light.</i><font face="Arial">»</font>
+ ☞<a href="a.htm#aɬaplichi">aɬaplichi</a>
+<br><font size="+2"><b><a name="maatámbàalòosi"></a>maatámbàalòosi</b> </font>
+<font size="+2">to be a little higher</font>
+&nbsp; [maat- /abaa-li-osi]
+ [<i>ggr</i>]
+ ☞<a href="a.htm#abahli">abahli</a>
+<br><font size="+2"><b><a name="maatanahli"></a>maatanahli</b> </font>
+<font size="+2">to go down (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, maatanahhili, maatanahhachi</i>)
+&nbsp; [maat- /tana&lt;h&gt;t-li]
+ ☞<a href="t.htm#tanahli">tanahli</a>
+<br><font size="+2"><b><a name="maatanatli"></a>maatanatli</b> </font>
+<font size="+2">to go down, climb down from, get down from (of one), land (as an airplane)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>maatanatchi, -, -</i>)
+&nbsp; [maat- /tanat-li]
+ <i>Pl: </i>maatanahli
+ ☞<a href="t.htm#tanatli">tanatli</a>
+<br><font size="+2"><b><a name="maatasaachi"></a>maatasaachi</b> </font>
+<font size="+2">to add on to</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>maatasaatiska, maatasaatilka, maatasaataska</i>)
+&nbsp; [maat- /asa-chi<sup>1</sup>]
+ ☞<a href="a.htm#asaachi">asaachi</a>
+<br><font size="+2"><b><a name="maatassaliika"></a>maatassaliika</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to rise (of the sun) </font>
+&nbsp; [maat- /assalii-ka<sup>1</sup>]
+&nbsp;2.&nbsp;
+<font size="+2">to come out from behind, come out into the open (of one) (e.g. an animal coming into a clearing)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>maatassaliihiska, -, -</i>)
+ ☞<a href="a.htm#assaliika">assaliika</a>
+<br><font size="+2"><b><a name="maatatanatka"></a>maatatanatka</b> </font>
+<font size="+2">to go around once, circle around once, encircle, surround</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maatatanatiska, maatatanatilka, maatatanataska</i>)
+&nbsp; [maat- /atanat-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Mootok akkamíhchit akkáamin hoɬoolistóobaasin aboolin maatatanátkat ohittimataplichistóobastík.
+ <i>Well, they did that, so when it happened that way they (the Choctaws) chased after them, but the Alabamas turned off into the woods when they tried to head them off.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+ ☞<a href="a.htm#atanatka2">atanatka<sup>2</sup></a>
+<br><font size="+2"><b><a name="maatáyyákhàachi"></a>maatáyyákhàachi</b> </font>
+<font size="+2">to be at a distance getting nearer, as in nearing the destination of a trip</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maatáyyákhàachitiska, maatáyyákhàachitilka, maatáyyákhàachitaska</i>)
+&nbsp; [maat- /ayákha-chi<sup>1</sup>]
+ [<i>ggr</i>]
+ <i>Var: maatáyyákhàachòosi</i>
+ ☞<a href="a.htm#ayákha">ayákha</a>
+<br><font size="+2"><b><a name="maatáyyákhàachòosi"></a>maatáyyákhàachòosi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#maatáyyákhàachi">maatáyyákhàachi</a>&nbsp;
+<br><font size="+2"><b><a name="maatibi"></a>maatibi</b> </font>
+<font size="+2">to hunt</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maatisbi, maatilbi, maathasbi</i>)
+&nbsp; [maat- /ibi]
+ ☞<a href="i1.htm#ibi">ibi</a>
+<br><font size="+2"><b><a name="maatilba"></a>maatilba</b> </font>
+<font size="+2">hunting season (esp. deer season)</font>
+&nbsp; [maat-il- /ibi-a]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Maatilba óoɬàhchi.
+ <i>Hunting season has arrived.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="maatimaabachi"></a>maatimaabachi</b> </font>
+<font size="+2">to show (someone) how, show the way to </font>
+&nbsp;<font color="#800080" size="+1">-LI/AM-/3</font>
+&nbsp;(<i>maatimaabachiska, maatimaabachilka, maatimaabachaska</i>)
+&nbsp;(<i>maatimaabachitiska, maatimaabachitilka, maatimaabachitaska</i>)
+&nbsp; [maat-im- /aabachi]
+&nbsp;<font face="Arial">«</font>Maachimaabachaalo Yostifan aɬchiyáimon.
+ <i>I'll show you how to get to Houston.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hiniyon maatimaabáachin aɬɬatook lokòolifan ooɬafòokan...
+ <i>He showed him how to get to the meeting...</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+ ☞<a href="i1.htm#imaabachi">imaabachi</a>
+<br><font size="+2"><b><a name="maatimàasa"></a>maatimàasa</b> </font>
+<font size="+2">to gain weight</font>
+&nbsp;<font color="#800080" size="+1">3/AM-</font>
+&nbsp; [maat-im- /asa]
+ [<i>fgr</i>]
+ ☞<a href="a.htm#àasa">àasa</a>
+<br><font size="+2"><b><a name="maatimáasàasi"></a>maatimáasàasi</b> </font>
+<font size="+2">to gain a little (weight) </font>
+&nbsp;<font color="#800080" size="+1">3/AM-</font>
+&nbsp; [maat-im- /asa-osi]
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Chabaybaayok maatamáasàasiiso.
+ <i>I've gained a little weight.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#maatimàasa">maatimàasa</a>
+<br><font size="+2"><b><a name="maatimahaalo"></a>maatimahaalo</b> </font>
+<font size="+2">to ask (someone) to bring (something) (e.g. mail order or deliver)</font>
+&nbsp;<font color="#800080" size="+1">-LI/AM-/3</font>
+&nbsp;(<i>maatimahalchi, maatimahalhili, maatimahalhachi</i>)
+&nbsp; [maat-im- /ahalo]
+&nbsp;<font face="Arial">«</font>Oolimpan maachimahaaloliti.
+ <i>I asked you to bring me food.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#maatahaalo">maatahaalo</a>
+<br><font size="+2"><b><a name="maatimapiila"></a>maatimapiila</b> </font>
+<font size="+2">to bring aid to, come with help</font>
+&nbsp;<font color="#800080" size="+1">-LI/AM-/3</font>
+&nbsp;(<i>maatimapilchi, maatimapilhili, maatimapilhachi</i>)
+&nbsp; [maat-im- /apila]
+&nbsp;<font face="Arial">«</font>Akkok Federalkayok aidkon ɬóokat maatimapiilafòokayon...
+ <i>When those Federals came again to help them with aid...</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+ ☞<a href="i1.htm#imapiila">imapiila</a>
+<br><font size="+2"><b><a name="maatimassaliika"></a>maatimassaliika</b> </font>
+<font size="+2">to come out into the open to (e.g. an animal appearing to a hunter); to meet coming from another direction to the side (not head on) (of one); to bring a secret or an opinion out into the open to</font>
+&nbsp;<font color="#800080" size="+1">-LI/AM-</font>
+&nbsp;(<i>maatimassaliihiska, -, -</i>)
+&nbsp; [maat-im- /assalii-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Ichok maatimassalíikan ibiti.
+ <i>He killed the deer when it came out into the open.</i><font face="Arial">»</font>
+ ☞<a href="a.htm#assaliika">assaliika</a>
+<br><font size="+2"><b><a name="maatimassaliilichi"></a>maatimassaliilichi</b> </font>
+<font size="+2">to make come out into the open for, flush an animal while hunting</font>
+&nbsp;<font color="#800080" size="+1">-LI/AM-</font>
+&nbsp;(<i>maatimassaliichichi, maatimassaliihilichi, maatimassaliihachichi</i>)
+&nbsp; [maat-im- /assalii-li-chi<sup>2</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="m.htm#maatimassaliika">maatimassaliika</a>
+<br><font size="+2"><b><a name="maatimbiɬìili"></a>maatimbiɬìili</b> </font>
+<font size="+2">to point out the way to, show the way</font>
+&nbsp;<font color="#800080" size="+1">-LI/AM-/3</font>
+&nbsp;(<i>maatimbiɬìichi, maatimbiɬìihili, maatimbiɬìihachi</i>)
+&nbsp; [maat-im- /biɬii-li]
+ [<i>fgr</i>]
+ ☞<a href="i1.htm#imbiɬìili">imbiɬìili</a>
+<br><font size="+2"><b><a name="maatimibachasàaka"></a>maatimibachasàaka</b> </font>
+<font size="+2">to have something extended for one, especially have a time period extended, get an extension</font>
+&nbsp;<font color="#800080" size="+1">3/AM-</font>
+&nbsp; [maat-im- /ibachasaa-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Nakaaɬalaotón maatamibachássàakaasaaho.
+ <i>I was going to be gone but my time was extended so I'll be here awhile.</i><font face="Arial">»</font>
+ ☞<a href="i1.htm#ibachasàaka">ibachasàaka</a>
+<br><font size="+2"><b><a name="maatimiikáachi"></a>maatimiikáachi</b> </font>
+<font size="+2">for there to be thunder or a rumbling noise in the distance </font>
+&nbsp; [maat-im- /timii-ka<sup>1</sup>-chi<sup>2</sup>]
+ [<i>lgr</i>]
+ ☞<a href="t.htm#timìikachi">timìikachi</a>
+<br><font size="+2"><b><a name="maatimimihkáachi"></a>maatimimihkáachi</b> </font>
+<font size="+2">for there to be thunder or a rumbling noise in the distance </font>
+&nbsp; [maat- /timi&lt;mih&gt;-ka<sup>1</sup>-chi<sup>2</sup>; reduplicated form]
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Hasokmállit maatimimihkáachitok ilahchommiti.
+ <i>There was lightning and noise coming (what they said when a tornado came through).</i><font face="Arial">»</font>
+ ☞<a href="t.htm#timìikachi">timìikachi</a>
+<br><font size="+2"><b><a name="maatimmaachi"></a>maatimmaachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#maatimmaalichi">maatimmaalichi</a>&nbsp;
+<br><font size="+2"><b><a name="maatimmaalichi"></a>maatimmaalichi</b> </font>
+<font size="+2">to throw to (one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/AM-/3</font>
+&nbsp;(<i>maatimmaachichi, maatimmaahilichi, maatimmaahachichi</i>)
+&nbsp; [maat-im- /maa-li-chi<sup>1</sup>]
+ <i>Var: maatimmaachi</i>
+ ☞<a href="m.htm#maamaalichi">maamaalichi</a>
+<br><font size="+2"><b><a name="maatimmisli"></a>maatimmisli</b> </font>
+<font size="+2">to give someone a funny look, look askance at</font>
+ <i>Usage: </i>To indicate dislike or disapproval.
+&nbsp;<font color="#800080" size="+1">-LI/AM-</font>
+&nbsp;(<i>maatimmissi, maatimmishili, maatimmishachi</i>)
+&nbsp; [maat-im- /mis(ii)-li]
+ [<i>dsfx1</i>]
+ ☞<a href="i1.htm#immisli">immisli</a>
+<br><font size="+2"><b><a name="maatiⁿháalo"></a>maatiⁿháalo</b> </font>
+<font size="+2">to hear from</font>
+&nbsp;<font color="#800080" size="+1">-LI/AM-</font>
+&nbsp;(<i>maatimisháalo, maatimilháalo, maatimhasháalo</i>)
+&nbsp; [maat-im- /háalo]
+ ☞<a href="h.htm#haalo">haalo</a>
+<br><font size="+2"><b><a name="maatiⁿhosso"></a>maatiⁿhosso</b> </font>
+<font size="+2">to write to (someone at a distance)</font>
+&nbsp;<font color="#800080" size="+1">-LI/AM-</font>
+&nbsp;(<i>maatiⁿhochisso, maatiⁿholisso, maatiⁿhohachisso</i>)
+&nbsp; [maat-im- /hosso]
+ ☞<a href="h.htm#hosso">hosso</a>
+<br><font size="+2"><b><a name="maatiⁿhoyoopa"></a>maatiⁿhoyoopa</b> </font>
+<font size="+2">to turn on and fight, get after when provoked (as an animal when cornered), retaliate against</font>
+&nbsp;<font color="#800080" size="+1">-LI/AM-</font>
+&nbsp;(<i>maatiⁿhoyoopatiska, maatiⁿhoyoopatilka, maatiⁿhoyoopataska</i>)
+&nbsp;(<i>maatiⁿhoyoospa, maatiⁿhoyoolpa, maatiⁿhoyoaspa</i>)
+&nbsp; [maat-im- /hoyoopa]
+ ☞<a href="m.htm#maahoyoopa">maahoyoopa</a>
+<br><font size="+2"><b><a name="maatinkalli"></a>maatinkalli</b> </font>
+<font size="+2">to write (something) to</font>
+&nbsp;<font color="#800080" size="+1">-LI/AM-/3</font>
+&nbsp;(<i>maatinkalchi, maatinkalhili, maatinkalhachi</i>)
+&nbsp; [maat-im- /kal(af)-li]
+ [<i>dsfx1</i>]
+ ☞<a href="m.htm#maakalli">maakalli</a>
+<br><font size="+2"><b><a name="maatinkootka"></a>maatinkootka</b> </font>
+<font size="+2">to whistle to, whistle at</font>
+&nbsp;<font color="#800080" size="+1">-LI/AM-</font>
+&nbsp;(<i>maatinkootiska, maatinkootilka, maatinkootaska</i>)
+&nbsp; [maat-im- /koot-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Maachinkootkalihchi.
+ <i>I whistled at you.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Maatankootiskahchi.
+ <i>You whistled at me.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Maatinkootkahchi.
+ <i>He whistled at him.</i><font face="Arial">»</font>
+ ☞<a href="i1.htm#inkootka">inkootka</a>
+<br><font size="+2"><b><a name="maatinnaaɬiika"></a>maatinnaaɬiika</b> </font>
+<font size="+2">to talk to (on the telephone), telephone; to answer the telephone</font>
+&nbsp;<font color="#800080" size="+1">-LI/AM-</font>
+&nbsp;(<i>maatinnaaɬiihiska, maatinnaaɬiihilka, maatinnaaɬiihaska</i>)
+&nbsp; [maat-im- /naaɬii-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="m.htm#maanaaɬiika">maanaaɬiika</a>
+<br><font size="+2"><b><a name="maatintohno"></a>maatintohno</b> </font>
+<font size="+2">to send (something) to</font>
+&nbsp;<font color="#800080" size="+1">-LI/AM-/3</font>
+&nbsp;(<i>maatintochihno, maatintolihno, maatintohachihno</i>)
+&nbsp; [maat-im- -/tohno]
+&nbsp;<font face="Arial">«</font>Philipkan maachintohnoliti.
+ <i>I sent Philip to you.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#maatohno">maatohno</a>
+<br><font size="+2"><b><a name="maatisi"></a>maatisi</b> </font>
+<font size="+2">to reach for; to go get, go after (one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maatissi, maatishili, maatishachi</i>)
+&nbsp; [maat- /isi]
+ ☞<a href="i2.htm#isi">isi</a>
+<br><font size="+2"><b><a name="maatittapaanaɬka"></a>maatittapaanaɬka</b> </font>
+<font size="+2">to multiply, increase (of one group)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, maatittapaanaɬilka, maatittapaanaɬaska</i>)
+&nbsp; [maat-itta- /paanaɬ(i)-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Posno ìistilkaya maatittapaanáɬkat amailkahchommo.
+ <i>Our people living here are multiplying.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#paanaɬi">paanaɬi</a>
+<br><font size="+2"><b><a name="maatittibi"></a>maatittibi</b> </font>
+<font size="+2">to fight back, retaliate</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>maatittisbi, maatittilbi, maatittihasbi</i>)
+&nbsp; [maat-itti- /(i)bi]
+&nbsp;<font face="Arial">«</font>Nitaya maatittibihchootoha.
+ <i>The bears used to fight back at the dogs.</i><font face="Arial">»</font>
+ ☞<a href="i2.htm#ittibi">ittibi</a>
+<br><font size="+2"><b><a name="maatiwwayàali"></a>maatiwwayàali</b> </font>
+<font size="+2">to wave to from a distance</font>
+&nbsp;<font color="#800080" size="+1">-LI/AM-</font>
+&nbsp;(<i>maatiwwayàachi, maatiwwayàahili, maatiwwayàahachi</i>)
+&nbsp; [maat-im- /wayaa-li]
+&nbsp;<font face="Arial">«</font>Maachiwwayàaliliti.
+ <i>I waved at you from far off.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#maawayàali">maawayàali</a>
+<br><font size="+2"><b><a name="maatiyyokíwwo"></a>maatiyyokíwwo</b> </font>
+ Neg.
+ ☞<a href="m.htm#maatiyyowwa">maatiyyowwa</a>
+<br><font size="+2"><b><a name="maatiyyowwa"></a>maatiyyowwa</b> </font>
+<font size="+2">to call (someone) over a distance, call on the telephone</font>
+&nbsp;<font color="#800080" size="+1">-LI/AM-</font>
+&nbsp;(<i>maatiyyochiwwa, maatiyyoliwwa, maatiyyohachiwwa</i>)
+&nbsp; [maat-im- /yowwa]
+ <i>Neg: </i>maatiyyokíwwo
+&nbsp;<font face="Arial">«</font>Naani maatiyyochiwwakok ilo.
+ <i>The man you called is here.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mootok maahopoyyówwan aⁿɬiiyakha.
+ <i>Then they called us and we went.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+ ☞<a href="i2.htm#iyyowwa">iyyowwa</a>
+<br><font size="+2"><b><a name="maatohno"></a>maatohno</b> </font>
+<font size="+2">to send</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maatochihno, maatolihno, maatohachihno</i>)
+&nbsp; [maat- -/tohno]
+&nbsp;<font face="Arial">«</font>Koorak maachatòhnon ommo.
+ <i>Cora sent me.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máamin maskat akkastóobaasàapok ohimálpíistaskat aaticháffàalit oolakanochilao maahotòonon.
+ <i>Well, this went on for a long time and they (the Choctaws) got very tired, so they sent this one person to make peace.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="m.htm#maatolihno">maatolihno</a></i>
+&nbsp;to be sent
+<br>&nbsp;&nbsp;<i><a href="m.htm#maatokíhno">maatokíhno</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="m.htm#maatintohno">maatintohno</a></i>
+&nbsp;to send (something) to
+<br>&nbsp;&nbsp;<i><a href="m.htm#maastohno">maastohno</a></i>
+&nbsp;to send (something in a container)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maastintohno">maastintohno</a></i>
+&nbsp;to send (something in a container) to
+<br><font size="+2"><b><a name="maatokaamaali"></a>maatokaamaali</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#maatokaamahli">maatokaamahli</a>&nbsp;
+<br><font size="+2"><b><a name="maatokaamahli"></a>maatokaamahli</b> </font>
+<font size="+2">south, south wind</font>
+ <i>Lit: </i>where the wind blows from the water
+&nbsp; [maat- /oki aa- /mah-li]
+ <i>Var: maatokaamaali</i>
+ <i>Var: okaamahli</i>
+ ☞<a href="m.htm#maamahli">maamahli</a>
+<br><font size="+2"><b><a name="maatokchákko"></a>maatokchákko</b> </font>
+<font size="+2">to get bluer (as the sky) </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [maat- /okchakko]
+ [<i>lgr</i>]
+ ☞<a href="o.htm#okchakko">okchakko</a>
+<br><font size="+2"><b><a name="maatokíhno"></a>maatokíhno</b> </font>
+ Neg.
+ ☞<a href="m.htm#maatohno">maatohno</a>
+<br><font size="+2"><b><a name="maatokoochi"></a>maatokoochi</b> </font>
+<font size="+2">to draw water from a well</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>maatokootiska, maatokootilka, maatokootaska</i>)
+&nbsp; [maat- /okoochi]
+&nbsp;<font face="Arial">«</font>Okishachàalifan okin maatokoochi.
+ <i>Fetch water from the well.</i><font face="Arial">»</font>
+ ☞<a href="o.htm#okoochi">okoochi</a>
+<br><font size="+2"><b><a name="maatolaachi"></a>maatolaachi</b> </font>
+<font size="+2">to ring (of the telephone)</font>
+&nbsp; [maat- /ola-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="o.htm#olaachi">olaachi</a>
+<br><font size="+2"><b><a name="maatolfa"></a>maatolfa</b> </font>
+<font size="+2">to grow back in (of hair or grass)</font>
+ ☞<a href="o.htm#olfa1">olfa<sup>1</sup></a>
+<br><font size="+2"><b><a name="maatolihno"></a>maatolihno</b> </font>
+<font size="+2">to be sent </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [maat- -/to&lt;li&gt;hno]
+ ☞<a href="m.htm#maatohno">maatohno</a>
+<br><font size="+2"><b><a name="maatonaati"></a>maatonaati</b> </font>
+<font size="+2">to stoke a fire, add wood to a fire</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>maatonaasti, maatonaalti, maatonaahasti</i>)
+&nbsp; [maat- /onaati]
+ ☞<a href="o.htm#onaati">onaati</a>
+<br><font size="+2"><b><a name="maatoochoffi"></a>maatoochoffi</b> </font>
+<font size="+2">to jump into water from a height, high dive (more than once)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>maatoochofchi, maatoochofhili, maatoochofhachi</i>)
+&nbsp; [maat-oo- /chof(ot)-li]
+ [<i>dsfx1</i>]
+ ☞<a href="o.htm#oochoffi">oochoffi</a>
+<br><font size="+2"><b><a name="maatoochofotli"></a>maatoochofotli</b> </font>
+<font size="+2">to jump into water from a height, high dive (once)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>maatoochofotchi, maatoochofothili, maatoochofothachi</i>)
+&nbsp; [maat-oo- /chofot-li]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="o.htm#oochofotli">oochofotli</a>
+<br><font size="+2"><b><a name="maatoomaalichi"></a>maatoomaalichi</b> </font>
+<font size="+2">to lower, throw in (one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maatoomaachichi, maatoomaahilichi, maatoomaahachichi</i>)
+&nbsp; [maat-oo- /maa-li-chi<sup>1</sup>]
+ ☞<a href="o.htm#oomaalichi">oomaalichi</a>
+<br><font size="+2"><b><a name="maatoopiɬka"></a>maatoopiɬka</b> </font>
+<font size="+2">to lower (one object) to the ground</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maatoopiɬiska, maatoopiɬilka, maatoopiɬaska</i>)
+&nbsp; [maat-oo- /piɬ-ka<sup>1</sup>]
+ ☞<a href="o.htm#oopiɬka">oopiɬka</a>
+<br><font size="+2"><b><a name="maawakla"></a>maawakla</b> </font>
+<font size="+2">to have a large enough space between two things that it can be seen through or seen from the outside, such as a chink in the wall </font>
+&nbsp; [maat- /wakla]
+&nbsp;<font face="Arial">«</font>Maawáklaafan maatakinitkalo.
+ <i>I peeped out through the crack.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wakla">wakla</a>
+<br><font size="+2"><b><a name="maawayàali"></a>maawayàali</b> </font>
+<font size="+2">to wave at a distance</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>maawayàachi, maawayàahili, maawayàahachi</i>)
+&nbsp; [maat- /wayàa-li]
+ ☞<a href="w.htm#wayàali">wayàali</a>
+<br><font size="+2"><b><a name="maawàyli"></a>maawàyli</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be sticking out in front, hanging out, hanging down (as a tree branch) </font>
+&nbsp; [poss. maat- /way(àa)-li]
+&nbsp;2.&nbsp;
+<font size="+2">to stick out something</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>maawàychi, maawàyhili, maawàyhachi</i>)
+&nbsp;<font face="Arial">«</font>Chalbin maawàylilo.
+ <i>I stuck out my hand.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wayli">wayli</a>
+<br><font size="+2"><b><a name="maawihli"></a>maawihli</b> </font>
+<font size="+2">to go look for, go search for</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maawihchi, maawihhili, maawihhachi</i>)
+&nbsp; [maat- /wihli]
+ ☞<a href="w.htm#wihli">wihli</a>
+<br><font size="+2"><b><a name="maawininihkáachi"></a>maawininihkáachi</b> </font>
+<font size="+2">to be making a rumbling noise in the distance (as thunder) </font>
+&nbsp; [maat- /wininih-ka$-chi<sup>2</sup>]
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Maawininihkáacho.
+ <i>I hear thunder coming this way.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasok maawininihkáacho.
+ <i>There's a big rumbling noise coming.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wininihlichi">wininihlichi</a>
+<br><font size="+2"><b><a name="maayanatli"></a>maayanatli</b> </font>
+<font size="+2">to ooze out (as of sap)</font>
+&nbsp; [maat- /yanat-li]
+&nbsp;<font face="Arial">«</font>Okchik maayanatli.
+ <i>The sap is oozing out.</i><font face="Arial">»</font>
+ ☞<a href="y.htm#yanatli">yanatli</a>
+<br><font size="+2"><b><a name="macháⁿhkàssi"></a>macháⁿhkàssi</b> </font>
+<font size="+2">to be by himself/herself/itself, single</font>
+&nbsp; [ma- /cháⁿhka-osi-hchi]
+&nbsp;<font face="Arial">«</font>Macháⁿhkàssi imalahkootok íksohchi.
+ <i>He's single, all alone with no relatives.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#cháⁿhkàasi">cháⁿhkàasi</a>
+<br><font size="+2"><b><a name="Màchka"></a>Màchka</b> </font>
+<font size="+2">month of March</font>
+ {&nbsp;English}
+&nbsp; [/mach-ka<sup>3</sup>]
+<br><font size="+2"><b><a name="máffìina"></a>máffìina</b> </font>
+<font size="+2">apparently</font>
+ [<i>ggr</i>]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Máffìinon annakaaɬati ilbihòkfa.
+ <i>Apparently I lost my ring.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#mafíhna">mafíhna</a>
+<br><font size="+2"><b><a name="máffìinaamon"></a>máffìinaamon</b> </font>
+<font size="+2">real</font>
+&nbsp; [/ma-fíhna-ma-o<sup>1</sup>-n]
+ [<i>ggr</i>]
+ ☞<a href="m.htm#mafíinamon">mafíinamon</a>
+<br><font size="+2"><b><a name="mafíhna"></a>mafíhna</b> </font>
+<font size="+2">to be real, true</font>
+&nbsp; [poss. /ma-fíhna]
+ <i>Var: mafíina</i>
+&nbsp;<font face="Arial">«</font>Mafíina?
+ <i>Really? or Is it real (e.g. your diamond)?</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+<br>&nbsp;&nbsp;<i><a href="m.htm#mafíinamon">mafíinamon</a></i>
+&nbsp;to use the right hand
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#máffìinaamon">máffìinaamon</a></i>
+&nbsp;real
+<br>&nbsp;&nbsp;<i><a href="m.htm#máffìina">máffìina</a></i>
+&nbsp;apparently
+<br>&nbsp;&nbsp;<i><a href="m.htm#mafíinàasi">mafíinàasi</a></i>
+&nbsp;truthfully
+<br>&nbsp;&nbsp;<i><a href="n.htm#nàasmafináachòssi">nàasmafináachòssi</a></i>
+&nbsp;to love
+<br><font size="+2"><b><a name="mafíina"></a>mafíina</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#mafíhna">mafíhna</a>&nbsp;
+<br><font size="+2"><b><a name="mafíinàasi"></a>mafíinàasi</b> </font>
+<font size="+2">truthfully, seriously, honestly</font>
+&nbsp; [/ma- /fíhna-osi]
+&nbsp;<font face="Arial">«</font>Mafíinàason onkalo.
+ <i>I'm serious, really mean it.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mafíinàasiimon onkalo.
+ <i>I'm serious, really mean it.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mafíinàason oiⁿska?
+ <i>Are you serious?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mafíinàason akkamíhchihchi.
+ <i>Do it right.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Aⁿfatli mafíinàason.
+ <i>Tell me the truth.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#mafíhna">mafíhna</a>
+<br><font size="+2"><b><a name="mafíinamon"></a>mafíinamon</b> </font>
+<font size="+2">to use the right hand</font>
+&nbsp; [/ma- /fíhna-ma-o<sup>3</sup>-n]
+ ☞<a href="m.htm#mafíhna">mafíhna</a>
+<br><font size="+2"><b><a name="máhchóot ommoolo"></a>máhchóot ommoolo</b> </font>
+<font size="+2">maybe</font>
+&nbsp; [/má&lt;h&gt;mi-hchi-ooli-t /om-li-ooli-o<sup>3</sup>]
+ ☞<a href="m.htm#máhmi">máhmi</a>
+<br><font size="+2"><b><a name="máhhàasi"></a>máhhàasi</b> </font>
+<font size="+2">to be earlier </font>
+&nbsp; [/ma-ha<sup>4</sup>-osi]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Máhhàasikáalon nochit falankaliti.
+ <i>I took my siesta earlier and got up.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#ma">ma</a>
+<br><font size="+2"><b><a name="máhko"></a>máhko</b> </font>
+ Neg.
+ ☞<a href="m.htm#mahli">mahli</a>
+<br><font size="+2"><b><a name="mahli"></a>mahli</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">wind</font>
+&nbsp; [/mah-li]
+ <i>Var: maali</i>
+&nbsp;2.&nbsp;
+<font size="+2">to blow (of wind)</font>
+<br>&nbsp;&nbsp;<i><a href="m.htm#máhko">máhko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="m.htm#mahlitíkko">mahlitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="m.htm#mahlikánko">mahlikánko</a></i>
+&nbsp;bad windstorm
+<br>&nbsp;&nbsp;<i><a href="m.htm#mahlimoolo">mahlimoolo</a></i>
+&nbsp;to be windy
+<br>&nbsp;&nbsp;<i><a href="m.htm#mahlosi">mahlosi</a></i>
+&nbsp;little breeze
+<br>&nbsp;&nbsp;<i><a href="i1.htm#immahli">immahli</a></i>
+&nbsp;winnowing basket
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ismahli">ismahli</a></i>
+&nbsp;for the wind to blow something
+<br>&nbsp;&nbsp;<i><a href="i2.htm#itamahli">itamahli</a></i>
+&nbsp;to be windy
+<br>&nbsp;&nbsp;<i><a href="m.htm#maamahli">maamahli</a></i>
+&nbsp;to blow from
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maatokaamahli">maatokaamahli</a></i>
+&nbsp;south wind
+<br>&nbsp;&nbsp;<i><a href="a.htm#amahlichi">amahlichi</a></i>
+&nbsp;to give air to
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ilamahlichi">ilamahlichi</a></i>
+&nbsp;to fan oneself
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istamahlichi">istamahlichi</a></i>
+&nbsp;to fan someone
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istilamahkachi">istilamahkachi</a></i>
+&nbsp;fan
+<br><font size="+2"><b><a name="mahlikánko"></a>mahlikánko</b> </font>
+<font size="+2">tornado, whirlwind, bad windstorm</font>
+&nbsp; [/mah-li /kano-ki-o<sup>2</sup>]
+ ☞<a href="m.htm#mahli">mahli</a>
+<br><font size="+2"><b><a name="mahlimoolo"></a>mahlimoolo</b> </font>
+<font size="+2">to be windy</font>
+&nbsp; [/mah-li-ma-ooli-o<sup>3</sup>]
+ ☞<a href="m.htm#mahli">mahli</a>
+<br><font size="+2"><b><a name="mahlitíkko"></a>mahlitíkko</b> </font>
+ Neg.
+ ☞<a href="m.htm#mahli">mahli</a>
+<br><font size="+2"><b><a name="mahlosi"></a>mahlosi</b> </font>
+<font size="+2">for there to be a little breeze</font>
+&nbsp; [/mah-li-osi]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="m.htm#mahli">mahli</a>
+<br><font size="+2"><b><a name="máhmi"></a>máhmi</b> </font>
+<font size="+2">to be like, do like, happen that way</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>máhchi, máhhili, máhchi</i>)
+&nbsp; [/ma&lt;h&gt;mi]
+ [<i>hgr</i>]
+ <i>Var: màami</i>
+&nbsp;<font face="Arial">«</font>Máhmilaatoolo áalolo.
+ <i>I hope it will happen (e.g. winning the sweepstakes).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máamìi?
+ <i>Really? She did?/ Yeah, uhhuh?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Màacho?
+ <i>You did?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máhchóok áalolo.
+ <i>I think so; I guess so.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sàamin máhchòmmi?
+ <i>Why did it happen that way?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máhtoot òmmoolo.
+ <i>Maybe it happened.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máamibìntoolo.
+ <i>It could have happened.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkamíhchiyáamok niposoot nàahotooma oipahchóot máhtot onkok chofkanóot hosonkahchootooli, holibatli?
+ <i>So having done all that, if there was some meat they might eat it and if they did there might be some bones and then would they suck on them after they had cooked it?</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="m.htm#mànko">mànko</a></i>
+ Neg.
+&nbsp;it is not the case
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istimmáami">istimmáami</a></i>
+&nbsp;to always be like that
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istimmánkasi">istimmánkasi</a></i>
+&nbsp;to always be a certain way
+<br>&nbsp;&nbsp;<i><a href="m.htm#máamiima">máamiima</a></i>
+&nbsp;perhaps
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#máamiimok">máamiimok</a></i>
+&nbsp;moreover
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#máamiimon">máamiimon</a></i>
+&nbsp;however
+<br>&nbsp;&nbsp;<i><a href="m.htm#máamin">máamin</a></i>
+&nbsp;but
+<br>&nbsp;&nbsp;<i><a href="m.htm#máamòosi">máamòosi</a></i>
+&nbsp;then, next
+<br>&nbsp;&nbsp;<i><a href="m.htm#máhchóot ommoolo">máhchóot ommoolo</a></i>
+&nbsp;maybe
+<br>&nbsp;&nbsp;<i><a href="m.htm#máhtik">máhtik</a></i>
+&nbsp;but, yet
+<br>&nbsp;&nbsp;<i><a href="m.htm#málmáhmi">málmáhmi</a></i>
+&nbsp;to be a certain way
+<br>&nbsp;&nbsp;<i><a href="y.htm#yálmàami">yálmàami</a></i>
+&nbsp;to act like this
+<br>&nbsp;&nbsp;<i><a href="m.htm#mamíhchi">mamíhchi</a></i>
+&nbsp;to do that way (as previously mentioned)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maⁿhholíhchi">maⁿhholíhchi</a></i>
+ Imp.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#mankíhcho">mankíhcho</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#immankíhcho">immankíhcho</a></i>
+ Neg.
+&nbsp;to be disobedient
+<br><font size="+2"><b><a name="máhtik"></a>máhtik</b> </font>
+<font size="+2">but, yet</font>
+&nbsp; [/má&lt;h&gt;mi-tika]
+ ☞<a href="m.htm#máhmi">máhmi</a>
+<br><font size="+2"><b><a name="makàali"></a>makàali</b> </font>
+<font size="+2">to open the eye</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>makàachi, makàahili, makàahachi</i>)
+&nbsp; [/makàa-li]
+ [<i>fgr</i>]
+<br>&nbsp;&nbsp;<i><a href="o.htm#oomakàali">oomakàali</a></i>
+&nbsp;to open and close the eyes
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#oomakàaka">oomakàaka</a></i>
+&nbsp;medicinal eye wash
+<br>&nbsp;&nbsp;<i><a href="m.htm#makasli">makasli</a></i>
+&nbsp;to open the eyes
+<br><font size="+2"><b><a name="makasli"></a>makasli</b> </font>
+<font size="+2">to open the eyes (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, makashili, makashachi</i>)
+&nbsp; [/makàa&lt;s&gt;-li]
+&nbsp;<font face="Arial">«</font>Hakchòmmapalak ittanówwàama nitochoskok makastonko hokahchootoha.
+ <i>When fireflies are out bear cubs are opening their eyes, they say.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#makàali">makàali</a>
+<br><font size="+2"><b><a name="malli"></a>malli</b> </font>
+<font size="+2">to flash, blink, wink (of light)</font>
+<br><font size="+2"><b><a name="malmáami"></a>malmáami</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#málmáhmi">málmáhmi</a>&nbsp;
+<br><font size="+2"><b><a name="málmàhmi"></a>málmàhmi</b> </font>
+<font size="+2">to be a certain way, be like that, be the same way, do the same thing as someone, imitate someone</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>málmàhmitiska, málmàhmitilka, málmàhmitaska</i>)
+&nbsp; [/ma&lt;l&gt; /má&lt;h&gt;mi (?)]
+ <i>Var: máamàami</i>
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font face="Arial">«</font>Chachahmot málmàhmilihchoolo.
+ <i>I'm lazy like him.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ano máamàamilihchoolo.
+ <i>I'm that way too.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Isnok máamàamitisko.
+ <i>You're just like the other one.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#máhmi">máhmi</a>
+<br><font size="+2"><b><a name="maɬaali"></a>maɬaali</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#maɬahli">maɬahli</a>&nbsp;
+<br><font size="+2"><b><a name="maɬahli"></a>maɬahli</b> </font>
+<font size="+2">to be wild, scared (of several)</font>
+ <i>Usage: </i>Some speakers use maɬatli for singular and plural, considering this form to be from Koasatti.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/maɬa&lt;h&gt;t-li]
+&nbsp;<font size="0">(WP)</font>
+ <i>Var: maɬaali</i>
+ ☞<a href="m.htm#maɬatli">maɬatli</a>
+<br><font size="+2"><b><a name="maɬatka"></a>maɬatka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">danger</font>
+&nbsp; [/maɬat-ka<sup>1</sup>]
+&nbsp;2.&nbsp;
+<font size="+2">to be scary</font>
+&nbsp;<font color="#800080" size="+1">AM-</font>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Chimmaɬatkamoolo.
+ <i>You're scary.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nitachobak immaɬatkamoolo.
+ <i>The Big Bear (Forest Service costume) is scary.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#maɬatli">maɬatli</a>
+<br><font size="+2"><b><a name="maɬátko"></a>maɬátko</b> </font>
+ Neg.
+<font size="+2">to be unafraid</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="m.htm#maɬatli">maɬatli</a>
+<br><font size="+2"><b><a name="maɬátkotilka"></a>maɬátkotilka</b> </font>
+<font size="+2">fearlessness</font>
+&nbsp; [/maɬat-ki-o<sup>2</sup>-tilka]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="m.htm#maɬátko">maɬátko</a>
+<br><font size="+2"><b><a name="maɬatli"></a>maɬatli</b> </font>
+<font size="+2">to be wild; to be scared </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/maɬat-li]
+&nbsp;<font face="Arial">«</font>Nàasmaɬatli.
+ <i>Wild animal.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkon iisan àɬkat homaɬatliista sàhkofòokayok askaíkkostáskat iisahayomáalotik ohitahoppolat anoostoolo.
+ <i>There they were inside the house and they must have been afraid since they couldn't do anything or get outside, but could only stay inside the house, so they apparently had to defecate on the floor.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="m.htm#maɬátko">maɬátko</a></i>
+ Neg.
+&nbsp;to be unafraid
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maɬátkotilka">maɬátkotilka</a></i>
+&nbsp;fearlessness
+<br>&nbsp;&nbsp;<i><a href="i1.htm#immaɬatli">immaɬatli</a></i>
+&nbsp;to afraid of
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#immaɬatka">immaɬatka</a></i>
+&nbsp;scary place
+<br>&nbsp;&nbsp;<i><a href="a.htm#aatimaɬatli">aatimaɬatli</a></i>
+&nbsp;timid person
+<br>&nbsp;&nbsp;<i><a href="m.htm#maɬatlichi">maɬatlichi</a></i>
+&nbsp;to frighten
+<br>&nbsp;&nbsp;<i><a href="m.htm#maɬatka">maɬatka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;danger
+&nbsp;2.&nbsp;
+&nbsp;to be scary
+<br>&nbsp;&nbsp;<i><a href="m.htm#maɬahli">maɬahli</a></i>
+&nbsp;to be wild, scared (of several)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#immaɬahli">immaɬahli</a></i>
+&nbsp;to be afraid of
+<br><font size="+2"><b><a name="maɬatlichi"></a>maɬatlichi</b> </font>
+<font size="+2">to scare, frighten, startle</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>maɬatchichi, maɬathilichi, maɬathachichi</i>)
+&nbsp; [/maɬat-li-chi<sup>1</sup>]
+ ☞<a href="m.htm#maɬatli">maɬatli</a>
+<br><font size="+2"><b><a name="máɬɬi"></a>máɬɬi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">only that one</font>
+&nbsp; [/ma-áɬɬi]
+&nbsp;<font face="Arial">«</font>Máɬɬok aɬɬo.
+ <i>Only that one went.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máɬɬiiya sobáaykàasan ohisikha, tatka yáalok.
+ <i>That was the one that it was known who it belonged to, so the whites got it.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">only</font>
+&nbsp;<font face="Arial">«</font>Eulamáɬɬok Oklahomafan aɬɬàimpati.
+ <i>Only Eula is going to Oklahoma.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#ma">ma</a>
+<br><font size="+2"><b><a name="má! má!"></a>má! má!</b> </font>
+<font size="+2">look out!, watch out, hey!, wait! there!</font>
+ <i>Usage: </i>To draw someone's attention to.
+ ☞<a href="m.htm#ma">ma</a>
+<br><font size="+2"><b><a name="mamíhchi"></a>mamíhchi</b> </font>
+<font size="+2">to do that way (as previously mentioned), do as indicated, do as expected, succeed at</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>manchíhchi, maⁿhilíhchi, maⁿhachíhchi</i>)
+&nbsp; [/mami&lt;h&gt;-chi<sup>1</sup>]
+ [<i>hgr</i>]
+ <i>Neg: </i>mankíhcho
+&nbsp;<font face="Arial">«</font>Mamíhchiliti.
+ <i>I did it.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mamíhchitonko kafíiloosta.
+ <i>They did it because they tried hard.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#máhmi">máhmi</a>
+<br><font size="+2"><b><a name="maⁿhholíhchi"></a>maⁿhholíhchi</b> </font>
+ Imp.
+ ☞<a href="m.htm#mamíhchi">mamíhchi</a>
+<br><font size="+2"><b><a name="maⁿhoka"></a>maⁿhoka</b> </font>
+ Imp.
+ ☞<a href="m.htm#manka">manka</a>
+<br><font size="+2"><b><a name="maⁿíkko"></a>maⁿíkko</b> </font>
+ Neg.
+ ☞<a href="m.htm#manka">manka</a>
+<br><font size="+2"><b><a name="manka"></a>manka</b> </font>
+<font size="+2">to say, ask</font>
+ <i>Usage: </i>Also for direct quotation.
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>maiⁿska, maiⁿlka, maaⁿska</i>)
+&nbsp; [prob. /mam-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Nàason maiⁿska?
+ <i>What did you say?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Achichakkilaho' mankalihchonkalo.
+ <i>I said, `I want to go with you.'</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Hasnok ommoolo. Oshichatokáhaba', mankaton ostilhíichan ommikha.
+ <i>`Y'all are the ones. Go look after it', he said, so we went to see about it.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ya akki intoliinok nàahoomon naho yakchik nàahoyáɬɬihchoot ommifòokan; intoliinon homankafòokan iyyamiitaasiikat aamaamàakahchoolakha.
+ <i>Whenever that kind of work was available, they would always have the corn and meat stew; and whenever they said there was work they got excited about going there.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="m.htm#maⁿíkko">maⁿíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="m.htm#maⁿhoka">maⁿhoka</a></i>
+ Imp.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#immanka">immanka</a></i>
+&nbsp;to say to
+<br><font size="+2"><b><a name="mankíhcho"></a>mankíhcho</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Mantakíhchobi.
+ <i>I didn't do it.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#mamíhchi">mamíhchi</a>
+<br><font size="+2"><b><a name="mànko"></a>mànko</b> </font>
+ Neg.
+<font size="+2">no, not so, it is not the case, it didn't happen like that, it was nothing</font>
+&nbsp;<font face="Arial">«</font>Mànkobi!
+ <i>No!</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mànkobi!
+ <i>Nothing happened.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mootooskán mànkohchommihchi himáakayáamiya.
+ <i>So then it's not being done that way anymore these days.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+ ☞<a href="m.htm#máhmi">máhmi</a>
+<br><font size="+2"><b><a name="màpka"></a>màpka</b> </font>
+<font size="+2">mop</font>
+ {&nbsp;English}
+&nbsp; [/map-ka<sup>3</sup>]
+<br><font size="+2"><b><a name="Maskooki"></a>Maskooki</b> </font>
+<font size="+2">Muskogee (Creek) Indian</font>
+<br><font size="+2"><b><a name="masnaaɬiilka"></a>masnaaɬiilka</b> </font>
+<font size="+2">microphone, telephone</font>
+&nbsp; [maast- /naaɬii&lt;il&gt;-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="n.htm#naaɬiika">naaɬiika</a>
+<br><font size="+2"><b><a name="masta"></a>masta</b> </font>
+<font size="+2">mustard</font>
+ {&nbsp;English}
+<br><font size="+2"><b><a name="mastinnaaɬìika"></a>mastinnaaɬìika</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#maastinnaaɬìika">maastinnaaɬìika</a>&nbsp;
+<br><font size="+2"><b><a name="mastinnaaɬìika impaawìilka"></a>mastinnaaɬìika impaawìilka</b> </font>
+<font size="+2">pulpit</font>
+ <i>Usage: </i>Older word.
+&nbsp; [maast-im- /naaɬii-ka<sup>1</sup> im-paa- /wìi&lt;il&gt;-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="mastolihna"></a>mastolihna</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#maastolihna">maastolihna</a>&nbsp;
+<br><font size="+2"><b><a name="mastoliina"></a>mastoliina</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#maastolihna">maastolihna</a>&nbsp;
+<br><font size="+2"><b><a name="mastoliino"></a>mastoliino</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#maastolihna">maastolihna</a>&nbsp;
+<br><font size="+2"><b><a name="mastonkayapka"></a>mastonkayapka</b> </font>
+<font size="+2">to cover up with dirt using the foot, plant by covering seeds using the foot</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>mastonkayapiska, mastonkayapilka, mastonkayapaska</i>)
+&nbsp; [maast- -/onkayap-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Mastonkayápkat stitanowwaamon lawáhchootoolo.
+ <i>A lot of them would go along covering them (seeds) up with their feet.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Achìiliimok iyyiyáalon mastonkayápkat.
+ <i>Whenever they would plant they would only use their feet as they went along covering (the seeds) with dirt.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="o.htm#onkayapka">onkayapka</a>
+<br><font size="+2"><b><a name="mastoono"></a>mastoono</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#maastohno">maastohno</a>&nbsp;
+<br><font size="+2"><b><a name="mattaki"></a>mattaki</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#mottaki">mottaki</a>&nbsp;
+<br><font size="+2"><b><a name="mayóoba"></a>mayóoba</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">luckily, fortunately; to be timely, be in time</font>
+ <i>Var: mayòoba</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Mayóobaamon Roykak Heɬak wíikan ilati.
+ <i>Fortunately, Heather was still here when Roy came.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mayóobaamon Heɬak katskon istooyisiti.
+ <i>Heather luckily caught a catfish.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mayóobaamon ipɬon ibiliti.
+ <i>I was lucky to get a squirrel.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to be lucky, fortunate</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chamayóoba.
+ <i>I'm lucky.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chimayòoba.
+ <i>You're lucky.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="m.htm#mayòobatíkko">mayòobatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="m.htm#mayóobaama">mayóobaama</a></i>
+&nbsp;opportunity
+<br><font size="+2"><b><a name="mayóobaama"></a>mayóobaama</b> </font>
+<font size="+2">opportunity, chance (to get something)</font>
+&nbsp; [/mayóoba-ma]
+&nbsp;<font size="0">(IB)</font>
+ ☞<a href="m.htm#mayóoba">mayóoba</a>
+<br><font size="+2"><b><a name="mayóobatíkko"></a>mayóobatíkko</b> </font>
+ Neg.
+ <i>Var: mayòobatíkko</i>
+&nbsp;<font face="Arial">«</font>Chamayòobatíkko.
+ <i>I was unlucky.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#mayóoba">mayóoba</a>
+<br><font size="+2"><b><a name="Meyka"></a>Meyka</b> </font>
+<font size="+2">month of May</font>
+ {&nbsp;English}
+&nbsp; [/mey-ka<sup>3</sup>]
+<br><font size="+2"><b><a name="michaaya"></a>michaaya</b> </font>
+<font size="+2">far away, beyond</font>
+ <i>Usage: </i>Archaic.
+ {&nbsp;Mobilian?}
+&nbsp;<font size="0">(JS)</font>
+<br><font size="+2"><b><a name="mìisli"></a>mìisli</b> </font>
+<font size="+2">to be blinking off and on repeatedly</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>mìischi, mìishili, mìishachi</i>)
+&nbsp; [/mis(ii)-li]
+ [<i>dsfx1</i>]
+ [<i>fgr</i>]
+ ☞<a href="m.htm#misli">misli</a>
+<br><font size="+2"><b><a name="mikko"></a>mikko</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">chief; queen, king, ruler, president, leader</font>
+&nbsp;<font color="#800080" size="+1">AM-</font>
+&nbsp;<font face="Arial">«</font>Fultiya mikko.
+ <i>Fulton is chief.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mikkon hachàahilicho.
+ <i>We elected a chief.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to be chief</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>mikkotiska, mikkotilka, mikkotaska</i>)
+&nbsp;<font face="Arial">«</font>Mikkaalaan hochabiɬiilichiti.
+ <i>They appointed me chief.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ya Albaamaha ya Kosaatiha aataapihómmayon anok immikkomoolo.
+ <i>These Alabamas and these Coushatta Indians, I am their chief.</i> <font size="0">(SCS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>John Scott-ka homànkatoomok mikkotoolo.
+ <i>John Scott, they said, he was the chief.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="m.htm#mikkotilka">mikkotilka</a></i>
+&nbsp;office of chief
+<br>&nbsp;&nbsp;<i><a href="m.htm#mikkochi">mikkochi</a></i>
+&nbsp;to elect a chief
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#mikkochilka">mikkochilka</a></i>
+&nbsp;selecting a chief
+<br><font size="+2"><b><a name="mikkochi"></a>mikkochi</b> </font>
+<font size="+2">to elect a chief (of a group)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>mikkochiska, mikkochilka, mikkochaska</i>)
+&nbsp;(<i>mikkochitiska, mikkochitilka, mikkochitaska</i>)
+&nbsp; [/mikko-chi<sup>1</sup>]
+ ☞<a href="m.htm#mikko">mikko</a>
+<br><font size="+2"><b><a name="mikkochilka"></a>mikkochilka</b> </font>
+<font size="+2">selecting a chief, vote for chief</font>
+&nbsp; [/mikko-chi<sup>1</sup>-ilka]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="m.htm#mikkochi">mikkochi</a>
+<br><font size="+2"><b><a name="mikko chóhbaama"></a>mikko chóhbaama</b> </font>
+<font size="+2">first chief, chairperson, president, head</font>
+&nbsp; [/mikko /cho&lt;h&gt;ba-ma]
+<br><font size="+2"><b><a name="mikkofíino"></a>mikkofíino</b> </font>
+<font size="+2">first chief, chairperson, president, head</font>
+&nbsp; [/mikko /fíhna-o<sup>1</sup>]
+<br><font size="+2"><b><a name="mikko istatòkla"></a>mikko istatòkla</b> </font>
+<font size="+2">second chief, vice president</font>
+&nbsp; [/mikko ist- /atókla]
+&nbsp;<font face="Arial">«</font>Emmettkaya mikko istatókla.
+ <i>Emmett is second chief.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="mikko istimatòkla"></a>mikko istimatòkla</b> </font>
+<font size="+2">second chief, vice president</font>
+&nbsp; [/mikko ist-im- /atòkla]
+&nbsp;<font face="Arial">«</font>Emmettkaya mikko istimatókla.
+ <i>Emmett is second chief.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Quailkaya mikkochoba Bushkaya istimatòkla.
+ <i>Quail is second in line to President Bush.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="mikkotilka"></a>mikkotilka</b> </font>
+<font size="+2">chieftancy, office of chief</font>
+&nbsp; [/mikko-tilka]
+ ☞<a href="m.htm#mikko">mikko</a>
+<br><font size="+2"><b><a name="miɬihkachi"></a>miɬihkachi</b> </font>
+<font size="+2">to be grated</font>
+&nbsp; [/miɬih-ka<sup>1</sup>-chi<sup>2</sup>]
+ <i>Var: miɬiikachi</i>
+ ☞<a href="m.htm#miɬihlichi">miɬihlichi</a>
+<br><font size="+2"><b><a name="miɬihlichi"></a>miɬihlichi</b> </font>
+<font size="+2">to grate</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>miɬihchichi, miɬihhilichi, miɬihhachichi</i>)
+&nbsp; [/miɬih-li-chi<sup>2</sup>]
+ <i>Var: miɬiilichi</i>
+<br>&nbsp;&nbsp;<i><a href="m.htm#miɬihkachi">miɬihkachi</a></i>
+&nbsp;to be grated
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ismiɬihkachi">ismiɬihkachi</a></i>
+&nbsp;grater
+<br><font size="+2"><b><a name="miɬiikachi"></a>miɬiikachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#miɬihkachi">miɬihkachi</a>&nbsp;
+<br><font size="+2"><b><a name="miɬiilichi"></a>miɬiilichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#miɬihlichi">miɬihlichi</a>&nbsp;
+<br><font size="+2"><b><a name="miɬɬi"></a>miɬɬi</b> </font>
+<font size="+2">to be bruised, scraped, have abrasions</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/miɬ(of)-li]
+ [<i>dsfx1</i>]
+ ☞<a href="m.htm#miɬoffi">miɬoffi</a>
+<br><font size="+2"><b><a name="miɬɬichi"></a>miɬɬichi</b> </font>
+<font size="+2">to scrape, abrade, rub off (plural objects)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>miɬchichi, miɬhilichi, miɬhachichi</i>)
+&nbsp; [/miɬ(of)-li-chi<sup>1</sup>]
+ [<i>dsfx1</i>]
+&nbsp;<font face="Arial">«</font>...miɬɬichiimok miɬɬíiⁿchoosok faytók...
+ <i>..they would rub (the hide) and rub it really well until they quit...</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+ ☞<a href="m.htm#miɬɬi">miɬɬi</a>
+<br><font size="+2"><b><a name="miɬoffi"></a>miɬoffi</b> </font>
+<font size="+2">to be bruised, scraped, have an abrasion (of a body part)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/miɬof-li]
+<br>&nbsp;&nbsp;<i><a href="i1.htm#immiɬoffi">immiɬoffi</a></i>
+&nbsp;to have a bruise
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ismiɬoffi">ismiɬoffi</a></i>
+&nbsp;to scrape the skin off
+<br>&nbsp;&nbsp;<i><a href="m.htm#miɬoffichi">miɬoffichi</a></i>
+&nbsp;to scrape
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#noomiɬoffichi">noomiɬoffichi</a></i>
+&nbsp;to chafe the neck
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iliinoomiɬoffichi">iliinoomiɬoffichi</a></i>
+&nbsp;to chafe one's neck
+<br>&nbsp;&nbsp;<i><a href="m.htm#miɬɬi">miɬɬi</a></i>
+&nbsp;to get a bruise, abrasion
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#miɬɬichi">miɬɬichi</a></i>
+&nbsp;to abrade
+<br><font size="+2"><b><a name="miɬoffichi"></a>miɬoffichi</b> </font>
+<font size="+2">to scrape, abrade, rub off (one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>miɬofchichi, miɬofhilichi, miɬofhachichi</i>)
+&nbsp; [/miɬof-li-chi<sup>1</sup>]
+ <i>Pl: </i>miɬɬichi
+ ☞<a href="m.htm#miɬoffi">miɬoffi</a>
+<br><font size="+2"><b><a name="mìnta"></a>mìnta</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">another, other, else, different one, another one</font>
+&nbsp;<font face="Arial">«</font>Akkok mìntoolo.
+ <i>That's another one.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mootok màakaya nàasi mìntahchon chimaalochilao.
+ <i>So then now I'm going to ask you something different.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Miitamóok [sic] nita hoɬòolit nákson tàalon Bikɬikitkáhokáhchoolo.
+ <i>Some of the others would go after bears, somewhere down this way, somewhere in the Big Thicket.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to be different (from before), be otherwise, be another</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chamìntoolo.
+ <i>I'm different (than before). I'm a different person.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#immìnta">immìnta</a></i>
+&nbsp;to be wrong
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#immìntatíkko">immìntatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istimmìnta">istimmìnta</a></i>
+&nbsp;to be wrong about something
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istimmìntatíkko">istimmìntatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="m.htm#mìntako">mìntako</a></i>
+&nbsp;to be former
+<br>&nbsp;&nbsp;<i><a href="m.htm#mìntama">mìntama</a></i>
+&nbsp;next
+<br><font size="+2"><b><a name="mìntako"></a>mìntako</b> </font>
+<font size="+2">to be last (i.e. previous), former </font>
+&nbsp; [/mìnta-ka<sup>2</sup>-o<sup>3</sup>]
+&nbsp;<font face="Arial">«</font>Hasi mìntako.
+ <i>Last month.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#mìnta">mìnta</a>
+<br><font size="+2"><b><a name="mìntama"></a>mìntama</b> </font>
+<font size="+2">next, subsequent </font>
+&nbsp; [/mìnta-ma]
+&nbsp;<font face="Arial">«</font>Hasi mìntama.
+ <i>Next month.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#mìnta">mìnta</a>
+<br><font size="+2"><b><a name="minti"></a>minti</b> </font>
+<font size="+2">to come</font>
+ <i>Usage: </i>Archaic.
+ {&nbsp;Mobilian?}
+&nbsp;<font size="0">(JS)</font>
+<br><font size="+2"><b><a name="misìili"></a>misìili</b> </font>
+<font size="+2">to blink, wink, close the eyes (once)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>misìichi, misìihili, misìihachi</i>)
+&nbsp; [/misii-li]
+&nbsp;<font face="Arial">«</font>Misìili!
+ <i>Close your eyes!</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="m.htm#misíiⁿlòosi">misíiⁿlòosi</a></i>
+&nbsp;to squint (once)
+<br>&nbsp;&nbsp;<i><a href="i1.htm#immisìili">immisìili</a></i>
+&nbsp;to wink at (once)
+<br>&nbsp;&nbsp;<i><a href="m.htm#míssìili">míssìili</a></i>
+&nbsp;to have the eyes closed
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#míssìiⁿlòosi">míssìiⁿlòosi</a></i>
+&nbsp;to squint
+<br>&nbsp;&nbsp;<i><a href="m.htm#misli">misli</a></i>
+&nbsp;to blink repeatedly
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#immisli">immisli</a></i>
+&nbsp;to wink at (repeatedly)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maatimmisli">maatimmisli</a></i>
+&nbsp;to look askance at
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#mislichi">mislichi</a></i>
+&nbsp;to make someone blink (repeatedly)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#mismihli">mismihli</a></i>
+&nbsp;to blink the eyes; to flash repeatedly (of lightning)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maamismihli">maamismihli</a></i>
+&nbsp;to flash like lightning
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#mìisli">mìisli</a></i>
+&nbsp;to be blinking off and on repeatedly
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maamisli">maamisli</a></i>
+&nbsp;to flash (of lightning)
+<br><font size="+2"><b><a name="misíiⁿlòosi"></a>misíiⁿlòosi</b> </font>
+<font size="+2">to squint, just about close the eyes (once)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>misíiⁿlòostiska, misíiⁿlòostilka, misíiⁿlòostaska</i>)
+&nbsp; [/misii-li-osi]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="m.htm#misìili">misìili</a>
+<br><font size="+2"><b><a name="misli"></a>misli</b> </font>
+<font size="+2">to blink, wink, close the eyes repeatedly</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>missi, mishili, mishachi</i>)
+&nbsp; [/mis(ii)-li]
+ [<i>dsfx1</i>]
+ ☞<a href="m.htm#misìili">misìili</a>
+<br><font size="+2"><b><a name="mislichi"></a>mislichi</b> </font>
+<font size="+2">to make someone blink (repeatedly)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>missichi, mishilichi, mishachichi</i>)
+&nbsp; [/mis(ii)-li-chi<sup>1</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="m.htm#misli">misli</a>
+<br><font size="+2"><b><a name="mismihli"></a>mismihli</b> </font>
+<font size="+2">to blink the eyes, flutter eyelids; to flash repeatedly (of lightning)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>mismihchi, mismihhili, mismihhachi</i>)
+&nbsp; [reduplicated form of /misìi-li (?)]
+&nbsp;<font size="0">(IB, VC)</font>
+ ☞<a href="m.htm#misli">misli</a>
+<br><font size="+2"><b><a name="míssìili"></a>míssìili</b> </font>
+<font size="+2">to have the eyes closed</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>míssìichi, míssìihili, míssìihachi</i>)
+ [<i>ggr</i>]
+ ☞<a href="m.htm#misìili">misìili</a>
+<br><font size="+2"><b><a name="míssìiⁿlòosi"></a>míssìiⁿlòosi</b> </font>
+<font size="+2">to squint, just about close the eyes</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>míssìiⁿlòostiska, míssìiⁿlòostilka, míssìiⁿlòostaska</i>)
+&nbsp; [/misii-li-osi]
+ [<i>ggr</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="m.htm#míssìili">míssìili</a>
+<br><font size="+2"><b><a name="mìyya"></a>mìyya</b> </font>
+<font size="+2">scar </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#immìyya">immìyya</a></i>
+&nbsp;to have a scar (on the body)
+<br><font size="+2"><b><a name="mobìlka"></a>mobìlka</b> </font>
+<font size="+2">car, automobile</font>
+ {&nbsp;English `automobile'}
+&nbsp; [/mobil-ka<sup>3</sup>]
+<br><font size="+2"><b><a name="mobìlka aatalibòoka"></a>mobìlka aatalibòoka</b> </font>
+<font size="+2">garage</font>
+&nbsp; [/mobil-ka<sup>3</sup> aa- /taliboo-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="mobìlka aayittimayya"></a>mobìlka aayittimayya</b> </font>
+<font size="+2">automobile race track, stock car race track, drag strip</font>
+&nbsp; [/mobil-ka<sup>3</sup> aa-itti- im- /mayya]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="mobìlka chokookachi"></a>mobìlka chokookachi</b> </font>
+<font size="+2">parking lot</font>
+&nbsp; [/mobil-ka<sup>3</sup> /chokoo-ka<sup>1</sup>-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="mobìlka imaachiika"></a>mobìlka imaachiika</b> </font>
+<font size="+2">parking lot</font>
+&nbsp; [/mobil-ka<sup>3</sup> im-aa- /chii-ka<sup>1</sup>]
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="mobìlka imiisa"></a>mobìlka imiisa</b> </font>
+<font size="+2">garage</font>
+&nbsp; [/mobil-ka<sup>3</sup> im- /iisa]
+<br><font size="+2"><b><a name="mobìlka impahkachi"></a>mobìlka impahkachi</b> </font>
+<font size="+2">car horn</font>
+&nbsp; [/mobil-ka<sup>3</sup> im- /pah-ka<sup>1</sup>-chi<sup>1</sup>]
+<br><font size="+2"><b><a name="mobìlka iswalìika"></a>mobìlka iswalìika</b> </font>
+<font size="+2">driver</font>
+&nbsp; [/mobil-ka<sup>1</sup> ist- /walii-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="mobìlkamiisa"></a>mobìlkamiisa</b> </font>
+<font size="+2">carport</font>
+&nbsp; [/mobil-ka<sup>3</sup> im- /iisa]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="mobìlka waliilichi"></a>mobìlka waliilichi</b> </font>
+<font size="+2">car motor, automobile engine</font>
+&nbsp; [/mobil-ka<sup>3</sup> /walii-li-chi<sup>1</sup>]
+<br><font size="+2"><b><a name="mobìlka waliilìichi"></a>mobìlka waliilìichi</b> </font>
+<font size="+2">chauffeur, taxi driver</font>
+&nbsp; [/mobil-ka<sup>3</sup> /walii-li-chi<sup>1</sup>]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="mobìlkimapala"></a>mobìlkimapala</b> </font>
+<font size="+2">headlight</font>
+&nbsp; [/mobil-ka<sup>3</sup> im- /apala]
+<br><font size="+2"><b><a name="mobìlkimistika"></a>mobìlkimistika</b> </font>
+<font size="+2">automobile inspection sticker</font>
+&nbsp; [/mobil-ka<sup>3</sup> im- /istika]
+ {&nbsp;English `sticker'}
+<br><font size="+2"><b><a name="mobìlkimokhicha"></a>mobìlkimokhicha</b> </font>
+<font size="+2">car door</font>
+&nbsp; [/mobil-ka<sup>3</sup> im- /okhicha]
+<br><font size="+2"><b><a name="mobìlkintalbòoli"></a>mobìlkintalbòoli</b> </font>
+<font size="+2">auto mechanic</font>
+&nbsp; [/mobil-ka<sup>3</sup> im- /talbòo-li]
+<br><font size="+2"><b><a name="mobìlkintonotli"></a>mobìlkintonotli</b> </font>
+<font size="+2">wheel</font>
+&nbsp; [/mobil-ka<sup>3</sup> im- /tonot-li]
+<br><font size="+2"><b><a name="mobìlkischòopa"></a>mobìlkischòopa</b> </font>
+<font size="+2">car salesperson</font>
+&nbsp; [/mobil-ka<sup>3</sup> ist- /choopa]
+<br><font size="+2"><b><a name="mobìlkiswakayka"></a>mobìlkiswakayka</b> </font>
+<font size="+2">car jack or lift</font>
+&nbsp; [/mobil-ka<sup>3</sup> ist- /wakay-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="mobìlkittimayya"></a>mobìlkittimayya</b> </font>
+<font size="+2">automobile race, stock car race, drag race</font>
+&nbsp; [/mobil-ka<sup>3</sup> itti- im- /mayya]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="mohka"></a>mohka</b> </font>
+<font size="+2">to moo, bellow </font>
+&nbsp; [prob. /moh-ka<sup>1</sup>]
+ <i>Var: moⁿhka</i>
+&nbsp;<font size="0">(VC)</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#immohka">immohka</a></i>
+&nbsp;to moo for
+<br>&nbsp;&nbsp;<i><a href="m.htm#mohooka">mohooka</a></i>
+&nbsp;to moo (off in the distance)
+<br><font size="+2"><b><a name="mohooka"></a>mohooka</b> </font>
+<font size="+2">to moo, bellow (off in the distance)</font>
+&nbsp; [/moh&lt;oo&gt;-ka<sup>1</sup> (?)]
+&nbsp;<font size="0">(IB)</font>
+ ☞<a href="m.htm#mohka">mohka</a>
+<br><font size="+2"><b><a name="mók"></a>mók</b> </font>
+<font size="+2">also, too; that</font>
+&nbsp; [/ma-o<sup>1</sup>-k]
+&nbsp;<font face="Arial">«</font>Mók ommikáhchooti.
+ <i>I believe that is so.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="m.htm#ma">ma</a>
+<br><font size="+2"><b><a name="Mokáhyi"></a>Mokáhyi</b> </font>
+<font size="+2">a hero of 19th C., first English-speaking Alabama, raised by whites </font>
+<br><font size="+2"><b><a name="mókko"></a>mókko</b> </font>
+<font size="+2">No, it is not an X; no, it wasn't X; no, that's not right</font>
+ (contradicts an assertion)
+&nbsp; [/ma-ókko]
+&nbsp;<font face="Arial">«</font>Mókkobi, Maaɬak chabíknoolo.
+ <i>No, Martha is older than me.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#ma">ma</a>
+<br><font size="+2"><b><a name="moⁿhka"></a>moⁿhka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#mohka">mohka</a>&nbsp;
+<br><font size="+2"><b><a name="mooda"></a>mooda</b> </font>
+<font size="+2">motor, engine</font>
+ {&nbsp;English}
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: moota</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="mookichi"></a>mookichi</b> </font>
+<font size="+2">to mortgage, use something as collateral</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>mookichitiska, mookichitilka, mookichitaska</i>)
+ {&nbsp;English}
+&nbsp;<font face="Arial">«</font>Waaka mookichitoha.
+ <i>He put his cows up as collateral.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="mòoko"></a>mòoko</b> </font>
+ Neg.
+ ☞<a href="m.htm#mooli">mooli</a>
+<br><font size="+2"><b><a name="mooli"></a>mooli</b> </font>
+<font size="+2">ready! amen! that's all! the end!</font>
+&nbsp; [prob. /ma-ooli-o<sup>3</sup>]
+<br>&nbsp;&nbsp;<i><a href="m.htm#mòoli">mòoli</a></i>
+&nbsp;enough!; ready? alright? enough?
+<br>&nbsp;&nbsp;<i><a href="m.htm#mòoko">mòoko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="m.htm#mooliiya">mooliiya</a></i>
+&nbsp;now
+<br>&nbsp;&nbsp;<i><a href="i1.htm#immooli">immooli</a></i>
+&nbsp;to be ready; to be correct
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#immookòomobi">immookòomobi</a></i>
+ Neg.
+&nbsp;to be wrong; not ready
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#immoolichi">immoolichi</a></i>
+&nbsp;to get someone ready
+<br>&nbsp;&nbsp;<i><a href="m.htm#móoskat">móoskat</a></i>
+&nbsp;my!
+<br>&nbsp;&nbsp;<i><a href="m.htm#mootik">mootik</a></i>
+&nbsp;but
+<br>&nbsp;&nbsp;<i><a href="m.htm#mooton">mooton</a></i>
+&nbsp;now, and
+<br>&nbsp;&nbsp;<i><a href="m.htm#mootoolín">mootoolín</a></i>
+&nbsp;but, however
+<br><font size="+2"><b><a name="mòoli"></a>mòoli</b> </font>
+<font size="+2">enough!, amen!, that's it, okay!, ready!; ready? alright? enough?</font>
+&nbsp;<font face="Arial">«</font>Mòoli.
+ <i>It's alright; it's ok; are you ready?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mòolo.
+ <i>I'm ready, okay, right.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(IB)</font>
+&nbsp;<font face="Arial">«</font>Chimmòoli?
+ <i>Are you ready?</i><font face="Arial">»</font>
+&nbsp;<font size="0">(IB)</font>
+ ☞<a href="m.htm#mooli">mooli</a>
+<br><font size="+2"><b><a name="mooliiya"></a>mooliiya</b> </font>
+<font size="+2">now, now then </font>
+&nbsp; [/ma-ooli-ya]
+ ☞<a href="m.htm#mooli">mooli</a>
+<br><font size="+2"><b><a name="móosi"></a>móosi</b> </font>
+<font size="+2">maternal uncle, mother's brother </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+<br><font size="+2"><b><a name="móoskat"></a>móoskat</b> </font>
+<font size="+2">my!, gee!, well!</font>
+ (expression of surprise)
+&nbsp; [prob. /mooli-ska-t]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="m.htm#mooli">mooli</a>
+<br><font size="+2"><b><a name="moota"></a>moota</b> </font>
+ <i>Var. of</i>&nbsp;<a href="m.htm#mooda">mooda</a>&nbsp;
+<br><font size="+2"><b><a name="mootik"></a>mootik</b> </font>
+<font size="+2">but, on the other hand</font>
+&nbsp; [/moo(li)-tik]
+&nbsp;<font face="Arial">«</font>Mootik lokíikbomat solóotíkkootoolo.
+ <i>But if it's not hot and sunny, it (the hide) won't get dried like it should.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+ ☞<a href="m.htm#mooli">mooli</a>
+<br><font size="+2"><b><a name="mooton"></a>mooton</b> </font>
+<font size="+2">now, and </font>
+&nbsp; [/moo(li)-t-o<sup>1</sup>-n]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="m.htm#mooli">mooli</a>
+<br><font size="+2"><b><a name="mootoolín"></a>mootoolín</b> </font>
+<font size="+2">but, however</font>
+&nbsp; [/moo(li)-t-ooli-n]
+ ☞<a href="m.htm#mooli">mooli</a>
+<br><font size="+2"><b><a name="móttàaki"></a>móttàaki</b> </font>
+<font size="+2">to be showing, be perceived, be seen, be visible</font>
+&nbsp;<font color="#800080" size="+1">3; AM-</font>
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Móttàaki hopáhkitik.
+ <i>It can be seen even though it's far away.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hóppàakitík móttàako.
+ <i>It can be seen even though it's far away.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Aahaapilkaya móttàako.
+ <i>The swimming pool is visible from here.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chimmóttàako.
+ <i>You're visible now.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#mottaki">mottaki</a>
+<br><font size="+2"><b><a name="mottaíkko"></a>mottaíkko</b> </font>
+ Neg.
+&nbsp;1.&nbsp;
+<font size="+2">to be opaque, illegible, imperceptable, unclear, invisible</font>
+&nbsp;<font face="Arial">«</font>Chimiisaya mottaíkkon òmmin sobaykílkot ɬopohhiliisti.
+ <i>Your house isn't visible so we didn't know about it and passed on by.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Iisaya mottaíkkobi hinifáaliiya.
+ <i>The house isn't visible from the road.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to be not visible to, invisible to</font>
+&nbsp;<font color="#800080" size="+1">CHA-/AM-</font>
+&nbsp;<font face="Arial">«</font>Chimmottaíkkobi.
+ <i>You're not visible.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#mottaki">mottaki</a>
+<br><font size="+2"><b><a name="mottaki"></a>mottaki</b> </font>
+<font size="+2">to be visible, legible, perceivable, perceptible, known</font>
+ <i>Var: mattaki</i>
+&nbsp;<font size="0">(WP)</font>
+&nbsp;<font face="Arial">«</font>Ammobìlkak mottakihchi.
+ <i>My car is visible.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="m.htm#mottaíkko">mottaíkko</a></i>
+ Neg.
+&nbsp;1.&nbsp;
+&nbsp;to be opaque
+&nbsp;2.&nbsp;
+&nbsp;to be not visible to
+<br>&nbsp;&nbsp;<i><a href="m.htm#mottakitíkko">mottakitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#immottaki">immottaki</a></i>
+&nbsp;to find
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#immottaíkko">immottaíkko</a></i>
+ Neg.
+&nbsp;to not be able to find
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#immottáaki">immottáaki</a></i>
+&nbsp;to be able to see
+<br>&nbsp;&nbsp;<i><a href="m.htm#móttàaki">móttàaki</a></i>
+&nbsp;to be perceived
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#immóttàaki">immóttàaki</a></i>
+&nbsp;to be visible to
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maamóttàaki">maamóttàaki</a></i>
+&nbsp;to be visible from a distance
+<br>&nbsp;&nbsp;<i><a href="m.htm#mottakiichi">mottakiichi</a></i>
+&nbsp;to show
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#mottákkìichi">mottákkìichi</a></i>
+&nbsp;to make an audible noise at a distance
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#immottakiichi">immottakiichi</a></i>
+&nbsp;to show to, show for
+<br><font size="+2"><b><a name="mottakiichi"></a>mottakiichi</b> </font>
+<font size="+2">to show, reveal, make known, discover, find, uncover</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>mottakiitiska, mottakiitilka, mottakiitaska</i>)
+&nbsp; [/mottaki-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Naaɬiilkan mottakitáskaafòokon oaachikíiloⁿ?
+ <i>When y'all made the report, revealed the news, they didn't like you?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Oompat náasootík mottakiichiimok oompat íistook...
+ <i>They have to find things to eat so they get it to eat.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+ ☞<a href="m.htm#mottaki">mottaki</a>
+<br><font size="+2"><b><a name="mottakitíkko"></a>mottakitíkko</b> </font>
+ Neg.
+ ☞<a href="m.htm#mottaki">mottaki</a>
+<br><font size="+2"><b><a name="mottákkìichi"></a>mottákkìichi</b> </font>
+<font size="+2">to make an audible noise at a distance, be audible </font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>mottákkìitiska, mottákkìitilka, mottákkìitaska</i>)
+&nbsp; [/mottaki-chi<sup>1</sup>]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Hopáhtík mottákkìichi.
+ <i>Even though it's far away it can be heard.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mobìlkak mottákkìicho.
+ <i>The car is audible.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Posnok aksobaatilkaayok mottákkìitilkoolo.
+ <i>We're making noise and being audible.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Oolaatilkaya mottákkìichitok onáamin níhtaoⁿsikha.
+ <i>The music was audible practically all night long (from the neighbors).</i><font face="Arial">»</font>
+ ☞<a href="m.htm#mottakiichi">mottakiichi</a>
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

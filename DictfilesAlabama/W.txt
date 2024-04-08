@@ -1,0 +1,1519 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">W</font></center><br>
+<br><font size="+2"><b><a name="waaka"></a>waaka</b> </font>
+<font size="+2">cow </font>
+ {&nbsp;Spanish `vaca'}
+<br>&nbsp;&nbsp;<i><a href="w.htm#waakasi">waakasi</a></i>
+&nbsp;calf
+<br><font size="+2"><b><a name="waakaayòoli"></a>waakaayòoli</b> </font>
+<font size="+2">to lift up, hoist (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>-, waakaayòohili, waakaayòohachi</i>)
+&nbsp; [/waakaayòo-li]
+ [<i>Irr: </i>SgStem=wakayli]
+ <i>Var: wakaayòoli</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>...waakaayòolit stamaakahchoolikha.
+ <i>They used to lift (a log) and go off with it.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Itto akàamiyon waakaayòolit hokanàalichihch ommihchootoska?
+ <i>Did they use to lift the logs so they could move them?</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Oiyyamíitaason ònkatok aatik páhkabáanat aayintolíhnafa amàakaayok pahkabáanat, aamaamàakat, ittimapiilat itto howakaykóot ommiimon itto yaabanàakoot ommiimon howaakaayòolit yaabanàalit ispaaɬopotlit. [nwk].
+ <i>They would get very excited and everyone would whoop; when they were on their way to their place of work, they whooped; they whooped along the way there. They helped one another, when there were logs to lift and carry, they lifted and carried and lay them down across it (the creek)...</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="w.htm#wakayli">wakayli</a>
+<br><font size="+2"><b><a name="waakaboska"></a>waakaboska</b> </font>
+<font size="+2">barbecued beef</font>
+&nbsp; [/waaka /abos-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="waaka illapihchi hobaski"></a>waaka illapihchi hobaski</b> </font>
+<font size="+2">longhorn cattle </font>
+&nbsp; [/waaka im- /lapihchi ho- /baski]
+<br><font size="+2"><b><a name="waaka inkamàaya"></a>waaka inkamàaya</b> </font>
+<font size="+2">cowbell</font>
+&nbsp; [/waaka im- /kamàaya]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="waaka isholisso"></a>waaka isholisso</b> </font>
+<font size="+2">cattle brand, branding iron </font>
+&nbsp; [/waaka ist- /ho&lt;li&gt;sso]
+<br><font size="+2"><b><a name="waaka iwwataaka"></a>waaka iwwataaka</b> </font>
+<font size="+2">yoke or tether (for a cow that gets into the garden)</font>
+&nbsp; [/waaka im- /wataa-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="waakanaani"></a>waakanaani</b> </font>
+<font size="+2">bull </font>
+&nbsp; [/waaka /naani]
+<br><font size="+2"><b><a name="waakanipo"></a>waakanipo</b> </font>
+<font size="+2">beef</font>
+&nbsp; [/waaka /nipo]
+<br><font size="+2"><b><a name="waakanipo solotka"></a>waakanipo solotka</b> </font>
+<font size="+2">dried beef jerky</font>
+&nbsp; [/waaka /nipo /solot-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="waakapaapoksi"></a>waakapaapoksi</b> </font>
+<font size="+2">Brahma bull </font>
+&nbsp; [/waaka paa- /poksi]
+<br><font size="+2"><b><a name="waakasbatka"></a>waakasbatka</b> </font>
+<font size="+2">bull whip, horse whip, buggy whip</font>
+&nbsp; [/waaka ist- /bat(at)-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="waakasi"></a>waakasi</b> </font>
+<font size="+2">calf</font>
+&nbsp; [/waaka-osi]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="w.htm#waaka">waaka</a>
+<br><font size="+2"><b><a name="waakatayyi"></a>waakatayyi</b> </font>
+<font size="+2">heifer </font>
+&nbsp; [/waaka /tayyi]
+<br><font size="+2"><b><a name="waakhoba iⁿwataaka"></a>waakhoba iⁿwataaka</b> </font>
+<font size="+2">ox yoke</font>
+&nbsp; [/waaka /hoba im- /wataa-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="waakhòoba"></a>waakhòoba</b> </font>
+<font size="+2">cattle rustler </font>
+&nbsp; [/waaka /hòoba]
+<br><font size="+2"><b><a name="waakimaayilpa"></a>waakimaayilpa</b> </font>
+<font size="+2">meadow, pasture</font>
+&nbsp; [/waaka im-aa-il- /(i)pa]
+<br><font size="+2"><b><a name="waakimanihtasi"></a>waakimanihtasi</b> </font>
+<font size="+2">cow not fully grown, yearling</font>
+&nbsp; [/waaka im-a- /nihta-osi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="waakimpíchi"></a>waakimpíchi</b> </font>
+<font size="+2">mother cow </font>
+&nbsp; [/waaka im- /píchi]
+<br><font size="+2"><b><a name="waakimpisháhpa"></a>waakimpisháhpa</b> </font>
+<font size="+2">fresh milk</font>
+&nbsp; [/waaka im- /pisi /hahpa]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="waakimpisi"></a>waakimpisi</b> </font>
+<font size="+2">cow's milk, udder, cow's teat</font>
+&nbsp; [/waaka im- /pisi]
+<br><font size="+2"><b><a name="waakimpisi aayokbòokachi"></a>waakimpisi aayokbòokachi</b> </font>
+<font size="+2">butter churn</font>
+&nbsp; [/waaka im- /pisi aa- /okboo-ka<sup>1</sup>-chi<sup>2</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="waakimpisi champolit chihbi"></a>waakimpisi champolit chihbi</b> </font>
+<font size="+2">condensed milk</font>
+&nbsp; [/waaka im- /pisi /champoli-t /chihbi]
+&nbsp;<font face="Arial">«</font>Waakimpisi champolit chihbihchi.
+ <i>It's condensed milk.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="waakimpisi imokpalàali"></a>waakimpisi imokpalàali</b> </font>
+<font size="+2">risen cream</font>
+&nbsp; [/waaka im- /pisi im- /okpalàa-li]
+ <i>Var: impisi okpalàali</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="waakimpisi ishachàali"></a>waakimpisi ishachàali</b> </font>
+<font size="+2">milk pitcher</font>
+&nbsp; [/waaka im- /pisi ist- /hachaa-li]
+<br><font size="+2"><b><a name="waakimpisi okbòokachi"></a>waakimpisi okbòokachi</b> </font>
+<font size="+2">buttermilk</font>
+&nbsp; [/waaka im- /pisi /okbòo-ka<sup>1</sup>-chi<sup>2</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="waakimpisipóosi"></a>waakimpisipóosi</b> </font>
+<font size="+2">powdered milk</font>
+&nbsp; [/waaka im- /pisi /póosi]
+ <i>Var: waakimpispóosi</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="waakimpisisolotka"></a>waakimpisisolotka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#waakimpissolótka">waakimpissolótka</a>&nbsp;
+<br><font size="+2"><b><a name="waakimpisniya"></a>waakimpisniya</b> </font>
+<font size="+2">butter, cheese</font>
+&nbsp; [/waaka im- /pisi /niya]
+<br><font size="+2"><b><a name="waakimpisniya okchi"></a>waakimpisniya okchi</b> </font>
+<font size="+2">buttermilk</font>
+&nbsp; [/waaka im- /pisi /niya /okchi]
+<br><font size="+2"><b><a name="waakimpispóosi"></a>waakimpispóosi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#waakimpisipóosi">waakimpisipóosi</a>&nbsp;
+<br><font size="+2"><b><a name="waakimpissolótka"></a>waakimpissolótka</b> </font>
+<font size="+2">powdered milk</font>
+&nbsp; [/waaka im- /pisi /solot-ka<sup>1</sup>]
+ <i>Var: waakimpisisolotka</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="waakimpiswilohka"></a>waakimpiswilohka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#waakimpiswolohki">waakimpiswolohki</a>&nbsp;
+<br><font size="+2"><b><a name="waakimpiswolohki"></a>waakimpiswolohki</b> </font>
+<font size="+2">clabbered milk; cottage cheese</font>
+&nbsp; [/waaka im- /pisi /wolohki]
+ <i>Var: waakimpiswilohka</i>
+&nbsp;<font size="0">(WP)</font>
+<br><font size="+2"><b><a name="waakinchoswa"></a>waakinchoswa</b> </font>
+<font size="+2">gut string</font>
+&nbsp;<font color="#080000">Cul:  Used in making kapachi (stickball racquet).</font>&nbsp;
+&nbsp; [/waaka im- /choswa]
+<br><font size="+2"><b><a name="waakiⁿholihta"></a>waakiⁿholihta</b> </font>
+<font size="+2">cow pasture</font>
+&nbsp; [/waaka im- /holihta]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="waakintakba"></a>waakintakba</b> </font>
+<font size="+2">cow tripe</font>
+&nbsp; [/waaka im- /takba]
+<br><font size="+2"><b><a name="waakisbatka"></a>waakisbatka</b> </font>
+<font size="+2">bullwhip </font>
+&nbsp; [/waaka ist- /bat(at)-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="waakistimataakachi"></a>waakistimataakachi</b> </font>
+<font size="+2">cattle guard, grate across road preventing entry of cattle</font>
+&nbsp; [/waaka ist-im- /ataa-ka<sup>1</sup>-chi<sup>2</sup>]
+<br><font size="+2"><b><a name="waakníiya apala"></a>waakníiya apala</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#waakniya apala">waakniya apala</a>&nbsp;
+<br><font size="+2"><b><a name="waaknipo aboska"></a>waaknipo aboska</b> </font>
+<font size="+2">barbecue</font>
+&nbsp; [/waaka /nipo /abos-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="waakniya"></a>waakniya</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#wakniya">wakniya</a>&nbsp;
+<br><font size="+2"><b><a name="waakniya apala"></a>waakniya apala</b> </font>
+<font size="+2">candle</font>
+&nbsp; [/waaka /niya /apala]
+ <i>Var: waakníiya apala</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="waakossiki"></a>waakossiki</b> </font>
+<font size="+2">breed cow</font>
+&nbsp; [/waaka /ossiki]
+<br><font size="+2"><b><a name="waamaapa"></a>waamaapa</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#woomaapa">woomaapa</a>&nbsp;
+<br><font size="+2"><b><a name="waaya"></a>waaya</b> </font>
+<font size="+2">to be ripe, mature, mellow (e.g. of fruit), ready to harvest</font>
+ (may refer metaphorically to people)
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+<br>&nbsp;&nbsp;<i><a href="w.htm#wakìiyo">wakìiyo</a></i>
+ Neg.
+&nbsp;immature
+<br>&nbsp;&nbsp;<i><a href="w.htm#waayatilka">waayatilka</a></i>
+&nbsp;growth
+<br>&nbsp;&nbsp;<i><a href="w.htm#waayachi">waayachi</a></i>
+&nbsp;to grow something
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#waayàachi">waayàachi</a></i>
+&nbsp;grower
+<br><font size="+2"><b><a name="waayàachi"></a>waayàachi</b> </font>
+<font size="+2">grower </font>
+&nbsp; [/waaya-chi<sup>1</sup>]
+ [<i>fgr</i>]
+ ☞<a href="w.htm#waayachi">waayachi</a>
+<br><font size="+2"><b><a name="waayachi"></a>waayachi</b> </font>
+<font size="+2">to grow (something) to maturity; to raise</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>waayachitiska, waayachitilka, waayachitaska</i>)
+&nbsp;(<i>waayachiska, waayachilka, waayachaska</i>)
+&nbsp; [/waaya-chi<sup>1</sup>]
+ ☞<a href="w.htm#waaya">waaya</a>
+<br><font size="+2"><b><a name="waayatilka"></a>waayatilka</b> </font>
+<font size="+2">growth</font>
+&nbsp; [/waaya-tilka]
+ ☞<a href="w.htm#waaya">waaya</a>
+<br><font size="+2"><b><a name="waayoh-"></a>waayoh-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="w.htm#waayohli">waayohli</a></i>
+&nbsp;to make fly off (pl. obj.)
+<br>&nbsp;&nbsp;<i><a href="w.htm#waayohlichi">waayohlichi</a></i>
+&nbsp;to make fly (pl.)
+<br>&nbsp;&nbsp;<i><a href="w.htm#waayohka">waayohka</a></i>
+&nbsp;to fly (of a few)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#waayòoka">waayòoka</a></i>
+&nbsp;to fly (of several)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#waayoíkko">waayoíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="waayohka"></a>waayohka</b> </font>
+<font size="+2">to fly (of a few)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, waayohilka, waayohaska</i>)
+&nbsp; [/waayoh-ka<sup>1</sup>]
+ [<i>Irr: </i>SgStem=wakayka; PlStem=waayòoka]
+ <i>Var: waayòoka</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="w.htm#waayohli">waayohli</a>
+<br><font size="+2"><b><a name="waayohli"></a>waayohli</b> </font>
+<font size="+2">to make or let fly off (plural objects)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>waayohchi, waayohhili, waayohhachi</i>)
+&nbsp; [/waayoh-li]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="w.htm#waayoh-">waayoh-</a>
+<br><font size="+2"><b><a name="waayohlichi"></a>waayohlichi</b> </font>
+<font size="+2">to make or let fly (plural objects) (e.g. kites)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>waayohchichi, waayohhilichi, waayohhachichi</i>)
+&nbsp; [/waayoh-li-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Foosi impíchik ochoskin waayohlichihchi.
+ <i>The mother bird made her babies fly.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#waayohli">waayohli</a>
+<br><font size="+2"><b><a name="waayoíkko"></a>waayoíkko</b> </font>
+ Neg.
+ ☞<a href="w.htm#waayòoka">waayòoka</a>
+<br><font size="+2"><b><a name="waayòoka"></a>waayòoka</b> </font>
+<font size="+2">to fly (of several), swarm</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>waayòohilka, waayòohaska</i>)
+&nbsp; [/waayo(h)-ka<sup>1</sup>]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ [<i>Irr: </i>SgStem=wakayka; DlStem=waayohka or wakaayohka; PlStem=wakaayòoka]
+ <i>Neg: </i>waayoíkko
+&nbsp;<font face="Arial">«</font>Choklahpa waayòokaama fohok waayòokatonko hokahchoolikha.
+ <i>When the winged ants fly the bees are going to swarm, they used to say.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chooskanik waayòokat ɬopohlo.
+ <i>Ducks are flying by.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#waayohka">waayohka</a>
+<br><font size="+2"><b><a name="wachàakachi"></a>wachàakachi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">squeaking, creaking, cracking, popping sound</font>
+&nbsp; [/wachaa-ka<sup>1</sup>-chi<sup>2</sup>]
+ [<i>fgr</i>]
+&nbsp;2.&nbsp;
+<font size="+2">to squeak, creak, pop, make a cracking sound</font>
+&nbsp;<font face="Arial">«</font>Ittok wachàakachin háalolo.
+ <i>I hear the trees creaking.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Okhichak wachàakachi.
+ <i>The door is squeaking.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wachàalichi">wachàalichi</a>
+<br><font size="+2"><b><a name="wachàalichi"></a>wachàalichi</b> </font>
+<font size="+2">to squeak, creak, screech, crackle or groan (e.g. of trees in a wind) </font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>wachàachichi, wachàahilichi, wachàahachichi</i>)
+&nbsp; [/wachaa-li-chi<sup>2</sup>]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Awwilok wacháalichimoolo.
+ <i>My shoes are squeaking.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="w.htm#wachàakachi">wachàakachi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;cracking sound
+&nbsp;2.&nbsp;
+&nbsp;to creak
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#wachachahkachi">wachachahkachi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;cracking sound
+&nbsp;2.&nbsp;
+&nbsp;to creak
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iswachàalichi">iswachàalichi</a></i>
+&nbsp;to make squeak
+<br><font size="+2"><b><a name="wachachahka"></a>wachachahka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#wachachahkachi">wachachahkachi</a>&nbsp;
+<br><font size="+2"><b><a name="wachachahkachi"></a>wachachahkachi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">squeaking, creaking, cracking, popping sound</font>
+&nbsp; [/wachachah-ka<sup>1</sup>-chi<sup>2</sup>]
+ {poss. reduplicated form of wachàakachi}
+ <i>Var: wachachahka</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;2.&nbsp;
+<font size="+2">to squeak, snap, creak, pop, make a cracking sound</font>
+&nbsp;<font face="Arial">«</font>Okhichak wachachahkachi.
+ <i>The door is creaking.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wachàakachi">wachàakachi</a>
+<br><font size="+2"><b><a name="wachikka"></a>wachikka</b> </font>
+<font size="+2">tickle, a tickling feeling</font>
+&nbsp; [/wachik-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Aⁿwwachikka.
+ <i>My tickle, the tickle that I feel.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="w.htm#wachikli">wachikli</a>
+<br><font size="+2"><b><a name="wachikkachi"></a>wachikkachi</b> </font>
+<font size="+2">to be tickled</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/wachik-ka<sup>1</sup>-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chawachikkachi.
+ <i>I've been tickled.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wachiklichi">wachiklichi</a>
+<br><font size="+2"><b><a name="wachikkìicho"></a>wachikkìicho</b> </font>
+ Neg.
+ ☞<a href="w.htm#wachiklichi">wachiklichi</a>
+<br><font size="+2"><b><a name="wachíkko"></a>wachíkko</b> </font>
+ Neg.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ ☞<a href="w.htm#wachikli">wachikli</a>
+<br><font size="+2"><b><a name="wachikli"></a>wachikli</b> </font>
+<font size="+2">to be ticklish</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/wachik-li]
+ {prob. a doublet with wasihli from a root */wach-}
+&nbsp;<font face="Arial">«</font>Chawachiklihchi.
+ <i>I'm ticklish.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+<br>&nbsp;&nbsp;<i><a href="w.htm#wachíkko">wachíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iwwachikli">iwwachikli</a></i>
+&nbsp;to feel a tickle
+<br>&nbsp;&nbsp;<i><a href="w.htm#wachikka">wachikka</a></i>
+&nbsp;tickle
+<br>&nbsp;&nbsp;<i><a href="w.htm#wachiklichi">wachiklichi</a></i>
+&nbsp;to tickle
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#wachikkìicho">wachikkìicho</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#iwwachiklichi">iwwachiklichi</a></i>
+&nbsp;to tickle for
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#wachikkachi">wachikkachi</a></i>
+&nbsp;to be tickled
+<br><font size="+2"><b><a name="wachiklichi"></a>wachiklichi</b> </font>
+<font size="+2">to tickle</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>wachikchichi, wachikhilichi, wachikhachichi</i>)
+&nbsp; [/wachik-li-chi<sup>1</sup>]
+ <i>Neg: </i>wachikkìicho
+&nbsp;<font face="Arial">«</font>Chawachikchichínnà!
+ <i>Don't tickle me!</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chiwachiklichili.
+ <i>I tickle you.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wachikli">wachikli</a>
+<br><font size="+2"><b><a name="wachina"></a>wachina</b> </font>
+<font size="+2">to speak English</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>wachinatiska, wachinatilka, wachinataska</i>)
+ {&nbsp;English `Virginia'}
+<br>&nbsp;&nbsp;<i><a href="w.htm#wachinatíkko">wachinatíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="wachinatíkko"></a>wachinatíkko</b> </font>
+ Neg.
+ ☞<a href="w.htm#wachina">wachina</a>
+<br><font size="+2"><b><a name="wahaako"></a>wahaako</b> </font>
+<font size="+2">to open branch stores or banks; to spread (as a family or group); to spread out, branch out (as horns, limbs, any sturdy thing)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>wahaakotiska, wahaakotilka, wahaakotaska</i>)
+&nbsp;<font face="Arial">«</font>Presbyteriankaya wahaako.
+ <i>The Presbyterian church is branching out.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Wahaakotilkaski.
+ <i>We are branching out.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="w.htm#wahaakochi">wahaakochi</a></i>
+&nbsp;to cause to spread out
+<br><font size="+2"><b><a name="wahaakochi"></a>wahaakochi</b> </font>
+<font size="+2">to cause to spread or branch out</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>wahaakochitiska, wahaakochitilka, wahaakochitaska</i>)
+&nbsp; [/wahaako-chi<sup>1</sup>]
+ ☞<a href="w.htm#wahaako">wahaako</a>
+<br><font size="+2"><b><a name="wahkacháaha"></a>wahkacháaha</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#wakhachàaha">wakhachàaha</a>&nbsp;
+<br><font size="+2"><b><a name="wakaayohka"></a>wakaayohka</b> </font>
+<font size="+2">to fly (of two)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, wakaayohhilka, waakohhaska</i>)
+&nbsp; [/wakaayoh-ka<sup>1</sup>]
+ [<i>Irr: </i>SgStem=wakayka; PlStem=waayòoka or wakaayòoka]
+ ☞<a href="w.htm#wakayka">wakayka</a>
+<br><font size="+2"><b><a name="wakaayòoka"></a>wakaayòoka</b> </font>
+<font size="+2">to fly (of more than two)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, wakaayòohilka, waakòohaska</i>)
+&nbsp; [/wakaayo(h)-ka<sup>1</sup>]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ [<i>Irr: </i>SgStem=wakayka; DlStem=wakaayohka]
+ ☞<a href="w.htm#wakaayohka">wakaayohka</a>
+<br><font size="+2"><b><a name="wakaayòoli"></a>wakaayòoli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#waakaayòoli">waakaayòoli</a>&nbsp;
+<br><font size="+2"><b><a name="wakaskila"></a>wakaskila</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#wakaskola">wakaskola</a>&nbsp;
+<br><font size="+2"><b><a name="wakaskola"></a>wakaskola</b> </font>
+<font size="+2">wooden or river cane flute </font>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: wakaskila</i>
+&nbsp;<font size="0">(VC)</font>
+<br>&nbsp;&nbsp;<i><a href="w.htm#waskachi">waskachi</a></i>
+&nbsp;flute
+<br>&nbsp;&nbsp;<i><a href="w.htm#waskola">waskola</a></i>
+&nbsp;whistle
+<br><font size="+2"><b><a name="wakay-"></a>wakay-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="w.htm#wakayli">wakayli</a></i>
+&nbsp;to lift up
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#iswakayka">iswakayka</a></i>
+&nbsp;jack; to fly in an airplane
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#waakaayòoli">waakaayòoli</a></i>
+&nbsp;to lift up
+<br>&nbsp;&nbsp;<i><a href="w.htm#wakayka">wakayka</a></i>
+&nbsp;to fly (sg.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#wakayíkko">wakayíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#wakaylichi">wakaylichi</a></i>
+&nbsp;to fly (a kite)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#wakaykachi">wakaykachi</a></i>
+&nbsp;flight
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#wakaayohka">wakaayohka</a></i>
+&nbsp;to fly (dl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#wakaayòoka">wakaayòoka</a></i>
+&nbsp;to fly (pl.)
+<br><font size="+2"><b><a name="wakayíkko"></a>wakayíkko</b> </font>
+ Neg.
+ ☞<a href="w.htm#wakayka">wakayka</a>
+<br><font size="+2"><b><a name="wakayka"></a>wakayka</b> </font>
+<font size="+2">to fly (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>wakayiska, -, -</i>)
+&nbsp; [/wakay-ka<sup>1</sup>]
+ [<i>Irr: </i>DlStem=waayohka, wakaayohka; PlStem=waayòoka, wakaayòoka]
+ <i>Neg: </i>wakayíkko
+&nbsp;<font face="Arial">«</font>Foosik wakayko.
+ <i>A bird just flew by.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wakay-">wakay-</a>
+<br><font size="+2"><b><a name="wakaykachi"></a>wakaykachi</b> </font>
+<font size="+2">flying, flight</font>
+&nbsp; [/wakay-ka<sup>1</sup>-chi<sup>1</sup>]
+ ☞<a href="w.htm#wakaylichi">wakaylichi</a>
+<br><font size="+2"><b><a name="wakayli"></a>wakayli</b> </font>
+<font size="+2">to lift up, hoist (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>wakaychi, -, -</i>)
+&nbsp; [/wakay-li]
+ [<i>Irr: </i>PlStem=waakaayòoli]
+&nbsp;<font face="Arial">«</font>Oiyyamíitaason ònkatok aatik páhkabáanat aayintolíhnafa amàakaayok pahkabáanat, aamaamàakat, ittimapiilat itto howakaykóot ommiimon itto yaabanàakoot ommiimon howaakaayòolit yaabanàalit ispaaɬopotlit.
+ <i>They would get very excited and everyone would whoop; when they were on their way to their place of work, they whooped; they whooped along the way there. They helped one another, when there were logs to lift and carry, they lifted and carried and lay them down across it (the creek)...</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="w.htm#wakay-">wakay-</a>
+<br><font size="+2"><b><a name="wakaylichi"></a>wakaylichi</b> </font>
+<font size="+2">to make fly (as a kite)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>wakaychichi, wakayhilichi, wakayhachichi</i>)
+&nbsp; [/wakay-li-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Kàytka wakaylichi.
+ <i>Go fly a kite.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wakayka">wakayka</a>
+<br><font size="+2"><b><a name="wakchakaalichi"></a>wakchakaalichi</b> </font>
+<font size="+2">to spread the legs of (esp. a baby)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>wakchakaachichi, wakchakaahilichi, wakchakaahachichi</i>)
+&nbsp; [/wakchakaa-li-chi<sup>1</sup>]
+<br>&nbsp;&nbsp;<i><a href="w.htm#wakchakaalichitíkko">wakchakaalichitíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="wakchakaalichitíkko"></a>wakchakaalichitíkko</b> </font>
+ Neg.
+ ☞<a href="w.htm#wakchakaalichi">wakchakaalichi</a>
+<br><font size="+2"><b><a name="wakchalaali"></a>wakchalaali</b> </font>
+<font size="+2">to stand with the feet apart, stand with the legs spread, spread the legs, stand astraddle</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>wakchalaachi, wakchalaahili, wakchalaahachi</i>)
+&nbsp; [/wakchalaa-li]
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ilawakchalaalichi">ilawakchalaalichi</a></i>
+&nbsp;to spread the legs of
+<br><font size="+2"><b><a name="wakchaɬaalichi"></a>wakchaɬaalichi</b> </font>
+<font size="+2">to spread apart, pull apart, open up (two things together, such as the prongs of a bobby pin separated so it will catch in an opening)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>wakchaɬaachichi, wakchaɬaahilichi, wakchaɬaahachichi</i>)
+&nbsp; [/wakchaɬaa-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Wakchaɬaalìichoko.
+ <i>Spread them apart.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="wakha"></a>wakha</b> </font>
+<font size="+2">lower back </font>
+&nbsp;<font size="0">(VC)</font>
+; <font size="+2">backbone</font>
+&nbsp;<font size="0">(IB)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ <i>Var: wakka</i>
+&nbsp;<font size="0">(WP)</font>
+<br>&nbsp;&nbsp;<i><a href="w.htm#wakhachàaha">wakhachàaha</a></i>
+&nbsp;long legged bird
+<br><font size="+2"><b><a name="wakhachàaha"></a>wakhachàaha</b> </font>
+<font size="+2">great blue heron, crane, any long legged bird</font>
+ <i>Usage: </i>Older people use wahkacháaha; younger people use wakhachàaha.
+&nbsp; [/wakha /chaaha]
+ <i>Var: wahkacháaha</i>
+&nbsp;<font size="0">(IB)</font>
+ ☞<a href="w.htm#wakha">wakha</a>
+<br><font size="+2"><b><a name="wakha chanahki"></a>wakha chanahki</b> </font>
+<font size="+2">vertebra, backbone </font>
+&nbsp; [/wakha /chanahki]
+<br><font size="+2"><b><a name="wakha chofkoni"></a>wakha chofkoni</b> </font>
+<font size="+2">collar bone </font>
+&nbsp; [/wakha /chofkoni]
+<br><font size="+2"><b><a name="wakhoba"></a>wakhoba</b> </font>
+<font size="+2">steer, ox </font>
+&nbsp; [/waaka /hoba]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="wakìiyo"></a>wakìiyo</b> </font>
+ Neg.
+<font size="+2">green, immature, unripe</font>
+ ☞<a href="w.htm#waaya">waaya</a>
+<br><font size="+2"><b><a name="wakínho"></a>wakínho</b> </font>
+ Neg.
+<font size="+2">to be soft, limber, flexible</font>
+ ☞<a href="w.htm#wanha">wanha</a>
+<br><font size="+2"><b><a name="wakka"></a>wakka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#wakha">wakha</a>&nbsp;
+<br><font size="+2"><b><a name="wakkachi"></a>wakkachi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">dance rattle</font>
+&nbsp; [poss. /wakka-chi<sup>2</sup>]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Aⁿwakkachi.
+ <i>My rattle.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to shake (a rattle)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>wakkachiska, wakkachilka, wakkachaska</i>)
+&nbsp;(<i>wakkachitiska, wakkachitilka, wakkachitaska</i>)
+<br><font size="+2"><b><a name="wakla"></a>wakla</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to have a crack, chink, narrow opening, or space between two things</font>
+ (refers to a separation between two things that should be flush together or sealed but have warped, shrunk, or caved in)
+&nbsp;2.&nbsp;
+<font size="+2">crack, opening, long narrow space between two things not fitting flush</font>
+<br>&nbsp;&nbsp;<i><a href="m.htm#maawakla">maawakla</a></i>
+&nbsp;to have a space between two things
+<br><font size="+2"><b><a name="wakniya"></a>wakniya</b> </font>
+<font size="+2">tallow</font>
+&nbsp; [/waaka /niya]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: waakniya</i>
+<br><font size="+2"><b><a name="wakohka"></a>wakohka</b> </font>
+<font size="+2">to have lots of cracks, be cracked in several places, break into pieces; to erode, break and chip off</font>
+&nbsp; [/wako&lt;h&gt;s-ka<sup>1</sup>]
+ <i>Var: wakòoka</i>
+ <i>Var: wakooka</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Okchaakok wakòokaaso.
+ <i>The watermelons got cracked.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wakohli">wakohli</a>
+<br><font size="+2"><b><a name="wakohli"></a>wakohli</b> </font>
+<font size="+2">to crack (part way) more than one</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>wakohchi, wakohhili, wakohhachi</i>)
+&nbsp; [/wako&lt;h&gt;s-li]
+ <i>Var: wakòoli</i>
+ <i>Var: wakooli</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="w.htm#wakosli">wakosli</a>
+<br><font size="+2"><b><a name="wakòoka"></a>wakòoka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#wakohka">wakohka</a>&nbsp;
+<br><font size="+2"><b><a name="wakòoli"></a>wakòoli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#wakohli">wakohli</a>&nbsp;
+<br><font size="+2"><b><a name="wakosíkko"></a>wakosíkko</b> </font>
+ Neg.
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="w.htm#wakoska">wakoska</a>
+<br><font size="+2"><b><a name="wakoska"></a>wakoska</b> </font>
+<font size="+2">to be cracked (but not all the way through); to have a piece broken or chipped off (e.g. of sheet rock, watermelon, etc.)</font>
+&nbsp; [/wakos-ka<sup>1</sup>]
+ <i>Pl: </i>wakohka
+ <i>Neg: </i>wakosíkko
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Okchaakok wakoskaaso.
+ <i>Oh, the watermelon got cracked.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wakosli">wakosli</a>
+<br><font size="+2"><b><a name="wakosli"></a>wakosli</b> </font>
+<font size="+2">to crack part way (one object), chip off, put a break in</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>wakoschi, wakoshili, wakoshachi</i>)
+&nbsp; [/wakos-li]
+&nbsp;<font face="Arial">«</font>Okchaakon wakoslilo malìichilok.
+ <i>I dropped the watermelon and cracked it.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="w.htm#wakoska">wakoska</a></i>
+&nbsp;to be cracked
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#wakosíkko">wakosíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="w.htm#wakohli">wakohli</a></i>
+&nbsp;to crack (pl. obj.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#wakohka">wakohka</a></i>
+&nbsp;to have lots of cracks
+<br><font size="+2"><b><a name="waliichi"></a>waliichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#waliilichi">waliilichi</a>&nbsp;
+<br><font size="+2"><b><a name="waliihíkko"></a>waliihíkko</b> </font>
+ Neg.
+ ☞<a href="w.htm#waliika">waliika</a>
+<br><font size="+2"><b><a name="waliika"></a>waliika</b> </font>
+<font size="+2">to run away, run (of one); to operate, function, start up (of a machine)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>waliihiska, -, -</i>)
+&nbsp; [/walii-ka<sup>1</sup>]
+ [<i>Irr: </i>DlStem=tooɬka; PlStem=tooɬooka]
+&nbsp;<font face="Arial">«</font>Yanasa walíikon híichaliti.
+ <i>I saw a running buffalo.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yanasa walìika híichaliti.
+ <i>I saw a runaway buffalo.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Waliika!
+ <i>Run! (the bull is right there).</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="w.htm#waliihíkko">waliihíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="w.htm#wállìika">wállìika</a></i>
+&nbsp;to be running
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#iwwállìika">iwwállìika</a></i>
+&nbsp;to avoid
+<br>&nbsp;&nbsp;<i><a href="w.htm#waliilichi">waliilichi</a></i>
+&nbsp;to make run
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#okiwaliilichi">okiwaliilichi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to drain a lake
+&nbsp;2.&nbsp;
+&nbsp;water pump
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#waliikìicho">waliikìicho</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#wállìilichi">wállìilichi</a></i>
+&nbsp;to operate (something) on a regular basis
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#iswaliikachi">iswaliikachi</a></i>
+&nbsp;paddle
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#iwwaliilichi">iwwaliilichi</a></i>
+&nbsp;to drive for
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#waliilìichi">waliilìichi</a></i>
+&nbsp;driver
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#waliikachi">waliikachi</a></i>
+&nbsp;driving
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iswaliika">iswaliika</a></i>
+&nbsp;to run away with
+<br>&nbsp;&nbsp;<i><a href="o.htm#onawaliika">onawaliika</a></i>
+&nbsp;to run towards
+<br>&nbsp;&nbsp;<i><a href="o.htm#oowaliika">oowaliika</a></i>
+&nbsp;to run downward
+<br><font size="+2"><b><a name="waliikachi"></a>waliikachi</b> </font>
+<font size="+2">driving </font>
+&nbsp; [/walii-ka<sup>1</sup>-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>íiskot waliikachiya kánkooma.
+ <i>Drunk driving is bad.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#waliilichi">waliilichi</a>
+<br><font size="+2"><b><a name="waliikìicho"></a>waliikìicho</b> </font>
+ Neg.
+ ☞<a href="w.htm#waliilichi">waliilichi</a>
+<br><font size="+2"><b><a name="waliilichi"></a>waliilichi</b> </font>
+<font size="+2">to drive (a car), run, operate, turn on or start (a vehicle or machine), fly (an airplane); to run someone off </font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>waliichichi, waliihilichi, waliihachichi</i>)
+&nbsp; [/walii-li-chi<sup>1</sup>]
+ <i>Var: waliichi</i>
+&nbsp;<font size="0">(IB)</font>
+&nbsp;<font face="Arial">«</font>Istilamahkachin waliichi.
+ <i>Turn on the fan.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#waliika">waliika</a>
+<br><font size="+2"><b><a name="waliilìichi"></a>waliilìichi</b> </font>
+<font size="+2">driver</font>
+&nbsp; [/walii-li-chi<sup>1</sup>]
+ [<i>fgr</i>]
+ ☞<a href="w.htm#waliilichi">waliilichi</a>
+<br><font size="+2"><b><a name="wállìika"></a>wállìika</b> </font>
+<font size="+2">to be running</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>wállìihiska, wállìihilka, wállìihaska</i>)
+&nbsp;<font face="Arial">«</font>Yanasa wállìika híichalo.
+ <i>I saw a buffalo's tracks.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yanasa wállìikon híichalo.
+ <i>I saw the tracks of a runaway buffalo.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Wállìika!
+ <i>Run, get out of its way! (the bull is a little farther away than if one said `waliika').</i><font face="Arial">»</font>
+ ☞<a href="w.htm#waliika">waliika</a>
+<br><font size="+2"><b><a name="wállìilichi"></a>wállìilichi</b> </font>
+<font size="+2">to manage, run, drive or operate (something) on a regular basis (as a branch business)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>wállìichichi, wállìihilichi, wállìihachichi</i>)
+&nbsp;<font face="Arial">«</font>Wállìilichilihchi.
+ <i>I'm manager (VC puns: It's my Wal-mart).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Wállìilìichi.
+ <i>You drive!</i><font face="Arial">»</font>
+ ☞<a href="w.htm#waliilichi">waliilichi</a>
+<br><font size="+2"><b><a name="walohli"></a>walohli</b> </font>
+<font size="+2">to be fresh (of vegetables)</font>
+&nbsp; [/waloh-li]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="walwáaki"></a>walwáaki</b> </font>
+<font size="+2">to be very ripe, fully mature, still very tender (of vegetation)</font>
+ [<i>lgr</i>]
+ ☞<a href="w.htm#walwaki">walwaki</a>
+<br><font size="+2"><b><a name="walwáakòosi"></a>walwáakòosi</b> </font>
+<font size="+2">to be tender (as young animals or vegetation), almost ripe</font>
+&nbsp; [/walwaki-osi]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Walwáakòosiima.
+ <i>It's almost mature.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#walwáaki">walwáaki</a>
+<br><font size="+2"><b><a name="walwaki"></a>walwaki</b> </font>
+<font size="+2">to be tender (as of ripe fruit, young shoots or young animals)</font>
+ <i>Usage: </i>Older word.
+<br>&nbsp;&nbsp;<i><a href="w.htm#walwakitíkko">walwakitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="w.htm#walwáaki">walwáaki</a></i>
+&nbsp;to be fully mature
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#walwáakòosi">walwáakòosi</a></i>
+&nbsp;to be almost ripe
+<br><font size="+2"><b><a name="walwakitíkko"></a>walwakitíkko</b> </font>
+ Neg.
+ ☞<a href="w.htm#walwaki">walwaki</a>
+<br><font size="+2"><b><a name="wananaalichi"></a>wananaalichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#wananahlichi">wananahlichi</a>&nbsp;
+<br><font size="+2"><b><a name="wananahkachi"></a>wananahkachi</b> </font>
+<font size="+2">to shake, quiver (esp. as leaves on a tree)</font>
+&nbsp; [/wananah-ka<sup>1</sup>-chi<sup>2</sup>]
+ ☞<a href="w.htm#wananahlichi">wananahlichi</a>
+<br><font size="+2"><b><a name="wananahlichi"></a>wananahlichi</b> </font>
+<font size="+2">to shiver all over, shake with cold</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/wananah-li-chi<sup>2</sup>]
+&nbsp;<font size="0">(IB)</font>
+ <i>Var: wananaalichi</i>
+ <i>Var: wananatlichi</i>
+&nbsp;<font size="0">(VC, IB)</font>
+<br>&nbsp;&nbsp;<i><a href="w.htm#wananahkachi">wananahkachi</a></i>
+&nbsp;to shake
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iswananaalichi">iswananaalichi</a></i>
+&nbsp;to shake (something)
+<br><font size="+2"><b><a name="wananatlichi"></a>wananatlichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#wananahlichi">wananahlichi</a>&nbsp;
+<br><font size="+2"><b><a name="wancholàski"></a>wancholàski</b> </font>
+<font size="+2">chiggers, red bugs </font>
+<br><font size="+2"><b><a name="wanha"></a>wanha</b> </font>
+<font size="+2">to be hard (the opposite of soft), tough; to be frozen solid</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Wanhat challilahoolikàhmo.
+ <i>I'm freezing to death.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="w.htm#wakínho">wakínho</a></i>
+ Neg.
+&nbsp;to be soft
+<br>&nbsp;&nbsp;<i><a href="w.htm#wánhàasi">wánhàasi</a></i>
+&nbsp;to remain hard
+<br>&nbsp;&nbsp;<i><a href="i2.htm#isbakwanha">isbakwanha</a></i>
+&nbsp;to be hard to get along with
+<br>&nbsp;&nbsp;<i><a href="a.htm#awanha">awanha</a></i>
+&nbsp;to have something too tight to get into
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imawanha">imawanha</a></i>
+&nbsp;to be constipated
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoowanha">ichoowanha</a></i>
+&nbsp;1.&nbsp;
+&nbsp;nightmare
+&nbsp;2.&nbsp;
+&nbsp;to have a nightmare
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istiⁿwwanha">istiⁿwwanha</a></i>
+&nbsp;to have an erection
+<br>&nbsp;&nbsp;<i><a href="n.htm#noowanha">noowanha</a></i>
+&nbsp;to have a stiff neck
+<br>&nbsp;&nbsp;<i><a href="w.htm#wanhachi">wanhachi</a></i>
+&nbsp;to make tough
+<br>&nbsp;&nbsp;<i><a href="o.htm#onawanhachi">onawanhachi</a></i>
+&nbsp;to tighten
+<br><font size="+2"><b><a name="wánhàasi"></a>wánhàasi</b> </font>
+<font size="+2">to remain hard</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/wanha-osi]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Wánhàastok onáamo.
+ <i>It's still hard.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wanha">wanha</a>
+<br><font size="+2"><b><a name="wanhachi"></a>wanhachi</b> </font>
+<font size="+2">to make tough, overcook, cause to harden</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>wanhachitiska, wanhachitilka, wanhachitaska</i>)
+&nbsp;(<i>wanhachiska, wanhachilka, wanhachaska</i>)
+&nbsp; [/wanha-chi<sup>1</sup>]
+ ☞<a href="w.htm#wanha">wanha</a>
+<br><font size="+2"><b><a name="wasaatíkko"></a>wasaatíkko</b> </font>
+ Neg.
+ ☞<a href="w.htm#wasatka">wasatka</a>
+<br><font size="+2"><b><a name="wasaawòoka"></a>wasaawòoka</b> </font>
+<font size="+2">to be gone (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, wasaawòohilka, wasaawòohaska</i>)
+&nbsp; [poss. /wasa&lt;h&gt;t-oo-ka<sup>1</sup>]
+ [<i>fgr</i>]
+ [<i>Irr: </i>SgStem=nakaaɬa]
+&nbsp;<font face="Arial">«</font>Wasaawòokatilko.
+ <i>We are gone.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wasatka">wasatka</a>
+<br><font size="+2"><b><a name="wasahka"></a>wasahka</b> </font>
+<font size="+2">to go, leave, disappear (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, wasahhilka, wasahhaska</i>)
+&nbsp; [/wasa&lt;h&gt;t-ka<sup>1</sup>]
+ [<i>Irr: </i>SgStem=nakaaɬa]
+&nbsp;<font face="Arial">«</font>Istafinapkon wasahliisok onko.
+ <i>The keys have disappeared.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Finsi ittàashiliiya wasaahilkào.
+ <i>Vincent and I are going to be gone.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...isfilkohkat stootalàakafòokan ontìichit onkok aksobáachitók ɬopòolit wasahkatóóóón...
+ <i>They took the fork and were floating (in the boat on it) when they (the Choctaws) were apparently coming making noise, and they passed on by and were long gone...</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ilkókkot naho sisisi-ka islokòolok stamaakafòokan; naho nàasin oachìhkookat stamàakat iswasahkatok ommi?
+ <i>But wasn't it when they brought in and started to organize the C.C.C. here, so they didn't plant anything along the way and so they just left it off all together?</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="w.htm#wasatka">wasatka</a>
+<br><font size="+2"><b><a name="wasahli"></a>wasahli</b> </font>
+<font size="+2">to get rid of (plural objects)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>wasahchi, wasahhili, wasahhachi</i>)
+&nbsp; [/wasah-li]
+&nbsp;<font face="Arial">«</font>(God-kayok) wasahtoolín mìnton altobat maatoonon aɬíinat aɬíinat.
+ <i>He (God) would get rid of them and then send another one to take their place and this went on and on.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+ ☞<a href="w.htm#wasatli">wasatli</a>
+<br><font size="+2"><b><a name="wasakohchi"></a>wasakohchi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="o.htm#osakohchi">osakohchi</a>&nbsp;
+<br><font size="+2"><b><a name="wasasàalichi"></a>wasasàalichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#wasasahlichi">wasasahlichi</a>&nbsp;
+<br><font size="+2"><b><a name="wasasahkìicho"></a>wasasahkìicho</b> </font>
+ Neg.
+ ☞<a href="w.htm#wasasahlichi">wasasahlichi</a>
+<br><font size="+2"><b><a name="wasasahlichi"></a>wasasahlichi</b> </font>
+<font size="+2">to make a crunching noise, crunch </font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>wasasaachichi, wasasaahilichi, wasasaahachichi</i>)
+&nbsp; [prob. /wasasah-li-chi<sup>2</sup>]
+ <i>Var: wasasàalichi</i>
+<br>&nbsp;&nbsp;<i><a href="w.htm#wasasahkìicho">wasasahkìicho</a></i>
+ Neg.
+<br><font size="+2"><b><a name="wasat-"></a>wasat-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="w.htm#wasatli">wasatli</a></i>
+&nbsp;to get rid of (sg. obj.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#wasàtko">wasàtko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#wasahli">wasahli</a></i>
+&nbsp;to get rid of (pl. obj.)
+<br>&nbsp;&nbsp;<i><a href="w.htm#wasatka">wasatka</a></i>
+&nbsp;to leave
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#wasaatíkko">wasaatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#wássatka">wássatka</a></i>
+&nbsp;to leave and not come back
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#iwwasatka">iwwasatka</a></i>
+&nbsp;to have (pl.) get lost
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#wasahka">wasahka</a></i>
+&nbsp;to leave
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#wasaawòoka">wasaawòoka</a></i>
+&nbsp;to be gone
+<br><font size="+2"><b><a name="wasatka"></a>wasatka</b> </font>
+<font size="+2">to go, leave, disappear, be gone (of two)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, wasatilka, wasataska</i>)
+&nbsp; [/wasat-ka<sup>1</sup>]
+ [<i>Irr: </i>SgStem=nakaaɬa]
+ <i>Pl: </i>wasahka
+ <i>Neg: </i>wasaatíkko
+&nbsp;<font face="Arial">«</font>Aatitòklot wasatka.
+ <i>The two of them are gone.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wasat-">wasat-</a>
+<br><font size="+2"><b><a name="wasàtko"></a>wasàtko</b> </font>
+ Neg.
+ ☞<a href="w.htm#wasatli">wasatli</a>
+<br><font size="+2"><b><a name="wasatli"></a>wasatli</b> </font>
+<font size="+2">to get rid of, lose (one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>wasatchi, wasathili, wasathachi</i>)
+&nbsp; [/wasat-li]
+ <i>Pl: </i>wasahli
+ <i>Neg: </i>wasátko
+&nbsp;<font face="Arial">«</font>Istafinapkon wasatliisok onko.
+ <i>The keys have disappeared.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wasat-">wasat-</a>
+<br><font size="+2"><b><a name="wasihka"></a>wasihka</b> </font>
+<font size="+2">itch, raw spot</font>
+&nbsp; [/wasih-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Wasihkok annàahobi.
+ <i>I have an itch.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wasihli">wasihli</a>
+<br><font size="+2"><b><a name="wasihko"></a>wasihko</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to have chapped, dried out skin, mange </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Wasiikohchoota.
+ <i>It used to be mangy.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">itch, tickle</font>
+ <i>Var: wasiiko</i>
+&nbsp;<font size="0">(WP)</font>
+&nbsp;<font face="Arial">«</font>Wasihkok annàahobi.
+ <i>I have an itch.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ibiiwasihko">ibiiwasihko</a></i>
+&nbsp;to have chilblains
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoowasihko">ichoowasihko</a></i>
+&nbsp;to have chapped lips
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ichoowasihkotíkko">ichoowasihkotíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="w.htm#wasko">wasko</a></i>
+&nbsp;to have mange
+<br><font size="+2"><b><a name="wasìhko"></a>wasìhko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Chalbiya wasíhko.
+ <i>My hand doesn't itch.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wasihli">wasihli</a>
+<br><font size="+2"><b><a name="wasihli"></a>wasihli</b> </font>
+<font size="+2">to be ticklish; to itch, have a rash, have eczema </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/wasih-li]
+&nbsp;<font face="Arial">«</font>Wasihliiyok aⁿhoopahchommo.
+ <i>My rash is hurting me.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chawasihlo.
+ <i>I feel itchy.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chawasihlihchi.
+ <i>I'm ticklish.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="w.htm#wasìhko">wasìhko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoowasihli">ichoowasihli</a></i>
+&nbsp;to have chapped lips
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ichoowasìhko">ichoowasìhko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iwwasihli">iwwasihli</a></i>
+&nbsp;to have an itch
+<br>&nbsp;&nbsp;<i><a href="n.htm#noowasihli">noowasihli</a></i>
+&nbsp;to have a tickle in the throat
+<br>&nbsp;&nbsp;<i><a href="w.htm#wasihka">wasihka</a></i>
+&nbsp;itch
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ibiiwasihli">ibiiwasihli</a></i>
+&nbsp;to have a wind-chapped face
+<br>&nbsp;&nbsp;<i><a href="w.htm#wasihlichi">wasihlichi</a></i>
+&nbsp;to tickle
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#waslichi">waslichi</a></i>
+&nbsp;to tickle (pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iliwaslichi">iliwaslichi</a></i>
+&nbsp;to scratch oneself
+<br><font size="+2"><b><a name="wasihlichi"></a>wasihlichi</b> </font>
+<font size="+2">to tickle (one), make itch, scratch an itch</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>wasihchichi, wasihhilichi, wasihhachichi</i>)
+&nbsp; [/wasih-li-chi<sup>1</sup>]
+ <i>Pl: </i>waslichi
+ ☞<a href="w.htm#wasihli">wasihli</a>
+<br><font size="+2"><b><a name="wasiiko"></a>wasiiko</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#wasihko">wasihko</a>&nbsp;
+<br><font size="+2"><b><a name="waskachi"></a>waskachi</b> </font>
+<font size="+2">flute; a buffalo tail used to make rain with, bullroarer?</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="w.htm#wakaskola">wakaskola</a>
+<br><font size="+2"><b><a name="waskila"></a>waskila</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#waskola">waskola</a>&nbsp;
+<br><font size="+2"><b><a name="wasko"></a>wasko</b> </font>
+<font size="+2">to have mange, be mangy </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/was(ih)-ko]
+ [<i>dsfx1</i>]
+ ☞<a href="w.htm#wasihko">wasihko</a>
+<br><font size="+2"><b><a name="waskola"></a>waskola</b> </font>
+<font size="+2">whistle; any flute, esp. cane flute</font>
+&nbsp; [/wask-? /ola]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: waskila</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="w.htm#wakaskola">wakaskola</a>
+<br><font size="+2"><b><a name="waslichi"></a>waslichi</b> </font>
+<font size="+2">to tickle (plural objects); to scratch an itch, rub, scrape</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>waschichi, washilichi, washachichi</i>)
+&nbsp; [/was(ih)-li-chi<sup>1</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="w.htm#wasihlichi">wasihlichi</a>
+<br><font size="+2"><b><a name="waso"></a>waso</b> </font>
+<font size="+2">wolf, coyote </font>
+<br><font size="+2"><b><a name="wasobitka"></a>wasobitka</b> </font>
+<font size="+2">wolf dance</font>
+&nbsp; [/waso /bit-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="waso iⁿhapanchokko"></a>waso iⁿhapanchokko</b> </font>
+<font size="+2">unidentified plant species </font>
+ (a low plant with half-inch yellow berries with green stripes and many small seeds; leaves have small thorns on underside)
+ <i>Lit: </i>wolf's tomato
+&nbsp; [/waso im- /hapanchokko]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: wasontometo</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="wasontometo"></a>wasontometo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#waso iⁿhapanchokko">waso iⁿhapanchokko</a>&nbsp;
+<br><font size="+2"><b><a name="wassalakchi"></a>wassalakchi</b> </font>
+<font size="+2">limb, branch (of tree or creek), antlers</font>
+<br><font size="+2"><b><a name="wássatka"></a>wássatka</b> </font>
+<font size="+2">to leave and not come back (of two); to be (still) gone (of two)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, wássatilka, wássataska</i>)
+ [<i>ggr</i>]
+ ☞<a href="w.htm#wasatka">wasatka</a>
+<br><font size="+2"><b><a name="wataaka"></a>wataaka</b> </font>
+<font size="+2">anything worn around the neck </font>
+ (may refer to necklace, necktie, bowtie, string tie)
+&nbsp; [/wataa-ka<sup>1</sup>]
+ <i>Var: wataka</i>
+ <i>Var: watàaka</i>
+&nbsp;<font face="Arial">«</font>Aⁿwwataka.
+ <i>My necktie.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wataali">wataali</a>
+<br><font size="+2"><b><a name="wataali"></a>wataali</b> </font>
+<font size="+2">to put around the neck, put on (a tie), wear (a harness)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>wataachi, wataahili, wataahachi</i>)
+&nbsp; [/wataa-li]
+<br>&nbsp;&nbsp;<i><a href="w.htm#wataalichi">wataalichi</a></i>
+&nbsp;to put a tie on (someone) (sg.)
+<br>&nbsp;&nbsp;<i><a href="w.htm#wáttàali">wáttàali</a></i>
+&nbsp;to wear around the neck
+<br>&nbsp;&nbsp;<i><a href="w.htm#wataaka">wataaka</a></i>
+&nbsp;anything worn around the neck
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ilbiswaatali">ilbiswaatali</a></i>
+&nbsp;to wear the arm in a sling
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iswaatali">iswaatali</a></i>
+&nbsp;harness
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iswataali">iswataali</a></i>
+&nbsp;to hang around the neck
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#iswataaka">iswataaka</a></i>
+&nbsp;sling
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#iswáttàali">iswáttàali</a></i>
+&nbsp;to wear (arm) in a sling
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#iswataalichi">iswataalichi</a></i>
+&nbsp;to hook up a harness
+<br>&nbsp;&nbsp;<i><a href="w.htm#watasli">watasli</a></i>
+&nbsp;to put on a necktie (pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#wataslichi">wataslichi</a></i>
+&nbsp;to put a harness on (a team of horses)
+<br><font size="+2"><b><a name="wataalichi"></a>wataalichi</b> </font>
+<font size="+2">to put a tie on (someone), put a harness on (a horse) (one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>wataachichi, wataahilichi, wataahachichi</i>)
+&nbsp; [/wataa-li-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Chiwataalichilo.
+ <i>I put a tie on you.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chawataachicho.
+ <i>You put the tie on me.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wataali">wataali</a>
+<br><font size="+2"><b><a name="wataka"></a>wataka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#wataaka">wataaka</a>&nbsp;
+<br><font size="+2"><b><a name="watasli"></a>watasli</b> </font>
+<font size="+2">to put on a tie, wear a necktie, wear a harness (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, watashili, watashachi</i>)
+&nbsp; [/wata&lt;s&gt;-li]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="w.htm#wataali">wataali</a>
+<br><font size="+2"><b><a name="wataslichi"></a>wataslichi</b> </font>
+<font size="+2">to put harnesses on (a team of horses)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>wataschichi, watashilichi, watashachichi</i>)
+&nbsp; [/wata&lt;s&gt;-li-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="w.htm#watasli">watasli</a>
+<br><font size="+2"><b><a name="watola"></a>watola</b> </font>
+<font size="+2">type of powerful bird of prey; eagle</font>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="wáttàali"></a>wáttàali</b> </font>
+<font size="+2">to wear around the neck (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>wáttàachi, -, -</i>)
+ [<i>ggr</i>]
+ ☞<a href="w.htm#wataali">wataali</a>
+<br><font size="+2"><b><a name="wayàali"></a>wayàali</b> </font>
+<font size="+2">to wave</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>wayàachi, wayàahili, wayàahachi</i>)
+&nbsp; [/wayàa-li]
+ <i>Var: wiyaali</i>
+&nbsp;<font face="Arial">«</font>Ilbin wayàalit ittabóoton wayàalihchi.
+ <i>He waves his arms and legs.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iwwayàali">iwwayàali</a></i>
+&nbsp;to wave at
+<br>&nbsp;&nbsp;<i><a href="m.htm#maawayàali">maawayàali</a></i>
+&nbsp;to wave at a distance
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maatiwwayàali">maatiwwayàali</a></i>
+&nbsp;to wave to from a distance
+<br>&nbsp;&nbsp;<i><a href="w.htm#wayli">wayli</a></i>
+&nbsp;to raise (the hand)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maawàyli">maawàyli</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be sticking out in front
+&nbsp;2.&nbsp;
+&nbsp;to stick out
+<br><font size="+2"><b><a name="wàyka"></a>wàyka</b> </font>
+<font size="+2">the letter `Y'</font>
+&nbsp; [/wày-ka<sup>3</sup>]
+<br><font size="+2"><b><a name="wayli"></a>wayli</b> </font>
+<font size="+2">to raise (the hand)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>waychi, wayhili, wayhachi</i>)
+&nbsp; [/way-li]
+&nbsp;<font face="Arial">«</font>Chilbin wayli.
+ <i>Raise your hands.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wayàali">wayàali</a>
+<br><font size="+2"><b><a name="wihaachi"></a>wihaachi</b> </font>
+<font size="+2">to haul, carry (a load)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>wihaatiska, wihaatilka, wihaataska</i>)
+&nbsp; [-/wiha-chi<sup>1</sup>]
+ <i>Var: wiyaachi</i>
+ ☞<a href="i2.htm#iswiha">iswiha</a>
+<br><font size="+2"><b><a name="wihilka"></a>wihilka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="i2.htm#iwwìilka">iwwìilka</a>&nbsp;
+<br><font size="+2"><b><a name="wíhko"></a>wíhko</b> </font>
+ Neg.
+ ☞<a href="w.htm#wihli">wihli</a>
+<br><font size="+2"><b><a name="wihli"></a>wihli</b> </font>
+<font size="+2">to look for, hunt for, search for, seek; to collect, gather, pick (things that have to be looked for such as pine needles, berries, mayhaws)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>wihchi, wihhili, wihhachi</i>)
+&nbsp; [/wih-li]
+ <i>Var: wiili</i>
+&nbsp;<font face="Arial">«</font>Choyyissi wiilaalàa.
+ <i>I'm going to collect pine needles.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="w.htm#wíhko">wíhko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="a.htm#aawihli">aawihli</a></i>
+&nbsp;to investigate
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ilwihli">ilwihli</a></i>
+&nbsp;to come for
+<br>&nbsp;&nbsp;<i><a href="m.htm#maawihli">maawihli</a></i>
+&nbsp;to go search for
+<br>&nbsp;&nbsp;<i><a href="n.htm#naaɬiika kanotíkko wihli">naaɬiika kanotíkko wihli</a></i>
+&nbsp;to be looking for something bad to say about someone
+<br>&nbsp;&nbsp;<i><a href="o.htm#oswihli">oswihli</a></i>
+&nbsp;to go pick up something and bring back
+<br><font size="+2"><b><a name="wihlichi"></a>wihlichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#wiilichi">wiilichi</a>&nbsp;
+<br><font size="+2"><b><a name="wíiha"></a>wíiha</b> </font>
+ <i>Var. of</i>&nbsp;<a href="o.htm#óyha">óyha</a>&nbsp;
+<br><font size="+2"><b><a name="wìihíkko"></a>wìihíkko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Ana yáaliiya wìiyákkohchi.
+ <i>I don't live here.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wìika">wìika</a>
+<br><font size="+2"><b><a name="wìika"></a>wìika</b> </font>
+<font size="+2">to live somewhere, stay at a place, be located, hang around (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>wìihiska, -, -</i>)
+&nbsp; [/wii-ka<sup>1</sup>]
+ [<i>fgr</i>]
+ [<i>Irr: </i>DlStem=àswa; PlStem=ìisa; 3Pl=wìikachi]
+&nbsp;<font face="Arial">«</font>San Antonio-fa wìikalikítto.
+ <i>I used to live in San Antonio.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yostifan wìikalo.
+ <i>I live in Houston.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="w.htm#wìihíkko">wìihíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iwwìilka">iwwìilka</a></i>
+&nbsp;dwelling
+<br>&nbsp;&nbsp;<i><a href="w.htm#wíika">wíika</a></i>
+&nbsp;to keep on doing
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iswìika">iswìika</a></i>
+&nbsp;to still be doing
+<br>&nbsp;&nbsp;<i><a href="o.htm#oswìika">oswìika</a></i>
+&nbsp;to live away
+<br>&nbsp;&nbsp;<i><a href="a.htm#aatosi iwwìika">aatosi iwwìika</a></i>
+&nbsp;to be pregnant
+<br>&nbsp;&nbsp;<i><a href="w.htm#wiikàachi">wiikàachi</a></i>
+&nbsp;to live somewhere
+<br><font size="+2"><b><a name="wíika"></a>wíika</b> </font>
+<font size="+2">to keep on doing; to still be living (of one)</font>
+ [<i>lgr</i>]
+ [<i>Irr: </i>PlStem=íisa]
+&nbsp;<font face="Arial">«</font>Aati boykahchok wíikaton chokfok ilatoolimpati.
+ <i>There once was a man who was hoeing when a rabbit came by, it seems.</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...intokíinot píila wíiⁿkat sáhtik níhta íisifòokamon.
+ <i>...he was not working at all, he just kept hanging around, yet he got credit for a day's work.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Wíikoolo.
+ <i>He's still living.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wìika">wìika</a>
+<br><font size="+2"><b><a name="wiikàachi"></a>wiikàachi</b> </font>
+<font size="+2">to live somewhere, stay at a place, be located, hang around (of two)</font>
+&nbsp; [/wii-ka<sup>1</sup>-chi<sup>2</sup>]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Heɬan Donka ittàasaayok Dentonkafan wiikàachihchi.
+ <i>Heather and Don live together in Denton.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wìika">wìika</a>
+<br><font size="+2"><b><a name="wiili"></a>wiili</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#wihli">wihli</a>&nbsp;
+<br><font size="+2"><b><a name="wiilichi"></a>wiilichi</b> </font>
+<font size="+2">to shake (something) (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>wiichichi, -, -</i>)
+&nbsp; [prob. /wii-li-chi<sup>2</sup>]
+ <i>Var: wihlichi</i>
+&nbsp;<font size="0">(WP)</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iliiwilihkachi">iliiwilihkachi</a></i>
+&nbsp;to shake oneself
+<br><font size="+2"><b><a name="wilichoolaksi"></a>wilichoolaksi</b> </font>
+<font size="+2">tongue of a shoe </font>
+&nbsp; [/wilo /ichoolaksi]
+<br><font size="+2"><b><a name="wiliksi"></a>wiliksi</b> </font>
+<font size="+2">to be gathered (of fabric)</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoowiliksi">ichoowiliksi</a></i>
+&nbsp;lips
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istiwwiliksi">istiwwiliksi</a></i>
+&nbsp;gathers
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istiwwiliksichi">istiwwiliksichi</a></i>
+&nbsp;to put gathers in
+<br><font size="+2"><b><a name="wilintalka"></a>wilintalka</b> </font>
+<font size="+2">heel (of a shoe) </font>
+&nbsp; [/wilo im- /tal(àa)-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="wilintalka hochaaha"></a>wilintalka hochaaha</b> </font>
+<font size="+2">high heel shoes</font>
+&nbsp; [/wilo im- /tal(àa)-ka<sup>1</sup> ho- /chaaha]
+<br><font size="+2"><b><a name="wilistiyyòoka"></a>wilistiyyòoka</b> </font>
+<font size="+2">shoe lace, lace </font>
+&nbsp; [/wilo ist-im- /yòo-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="wilitapatkáachi"></a>wilitapatkáachi</b> </font>
+<font size="+2"> flat heeled shoes, tennis shoes</font>
+&nbsp; [/wilo ita- /pat(àa)-ka<sup>1</sup>-chi<sup>1</sup>]
+ [<i>lgr</i>]
+<br><font size="+2"><b><a name="wilo"></a>wilo</b> </font>
+<font size="+2">shoe </font>
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iwwilíkso">iwwilíkso</a></i>
+&nbsp;to go barefooted
+<br><font size="+2"><b><a name="wilohakcho ishobaski"></a>wilohakcho ishobaski</b> </font>
+<font size="+2">pair of boots </font>
+&nbsp; [/wilo /hakcho ist-ho- /baski]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="wilo iⁿhakchíisa"></a>wilo iⁿhakchíisa</b> </font>
+<font size="+2">boot; high top shoes</font>
+ <i>Lit: </i>shoe that has ears
+ <i>Usage: </i>Older meaning `high top shoes'
+&nbsp; [/wilo im- /hakcho /(i)sa]
+&nbsp;<font face="Arial">«</font>Wilo iⁿhakchíisan háaɬoko.
+ <i>Put on your boots.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="wilo iⁿhakcho"></a>wilo iⁿhakcho</b> </font>
+<font size="+2">top of the shoe </font>
+&nbsp; [/wilo im- /hakcho]
+<br><font size="+2"><b><a name="wilo paahaɬka"></a>wilo paahaɬka</b> </font>
+<font size="+2">overshoes</font>
+&nbsp; [/wilo paa- /haɬi-ka<sup>1</sup>]
+ <i>Var: wilospaahaɬka</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="wiloshamohka"></a>wiloshamohka</b> </font>
+<font size="+2">shoe polish</font>
+&nbsp; [/wilo ist- /hamoh-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="wilospaahaɬka"></a>wilospaahaɬka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#wilo paahaɬka">wilo paahaɬka</a>&nbsp;
+<br><font size="+2"><b><a name="wilostalpasoilka"></a>wilostalpasoilka</b> </font>
+<font size="+2">shoe polish</font>
+&nbsp; [/wilo ist- /a&lt;l&gt;posoh&lt;il&gt;-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="wilostalpasooha"></a>wilostalpasooha</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#wilostaposooha">wilostaposooha</a>&nbsp;
+<br><font size="+2"><b><a name="wilostalposooha"></a>wilostalposooha</b> </font>
+<font size="+2">shoe polish</font>
+&nbsp; [/wilo ist- /a&lt;l&gt;posoh-a]
+ <i>Var: wilostalpasooha</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="winàali"></a>winàali</b> </font>
+<font size="+2">to swing; to flutter, jiggle</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>winàachi, winàahili, winàahachi</i>)
+&nbsp; [/winàa-li]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Winàaliikát aɬɬo chobaayók.
+ <i>He's so big he jiggles as he goes.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="a.htm#aawinàaka">aawinàaka</a></i>
+&nbsp;swing
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#poskòosi imaawinàaka">poskòosi imaawinàaka</a></i>
+&nbsp;sling for a baby
+<br>&nbsp;&nbsp;<i><a href="w.htm#winàalichi">winàalichi</a></i>
+&nbsp;to swing (someone or thing) (rep.)
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iswinàali">iswinàali</a></i>
+&nbsp;to swing (on something)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#iswinàalichi">iswinàalichi</a></i>
+&nbsp;to swing (somebody)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#iswinàaka">iswinàaka</a></i>
+&nbsp;seesaw
+<br><font size="+2"><b><a name="winàalichi"></a>winàalichi</b> </font>
+<font size="+2">to shake, jiggle, or swing (someone or thing) (repeatedly)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>winàachichi, winàahilichi, winàahachichi</i>)
+&nbsp; [/winàa-li-chi<sup>1</sup>]
+ ☞<a href="w.htm#winàali">winàali</a>
+<br><font size="+2"><b><a name="wininìhka"></a>wininìhka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#wininihkachi">wininihkachi</a>&nbsp;
+<br><font size="+2"><b><a name="wininihkachi"></a>wininihkachi</b> </font>
+<font size="+2">rumble, rumbling noise (e.g. thunder)</font>
+&nbsp; [/wininih-ka<sup>1</sup>-chi<sup>2</sup>]
+ <i>Var: wininìhka</i>
+ ☞<a href="w.htm#wininihlichi">wininihlichi</a>
+<br><font size="+2"><b><a name="wininihlichi"></a>wininihlichi</b> </font>
+<font size="+2">to make a rumbling noise, rumble </font>
+&nbsp; [/wininih-li-chi<sup>2</sup>]
+<br>&nbsp;&nbsp;<i><a href="w.htm#wininihkachi">wininihkachi</a></i>
+&nbsp;rumbling noise
+<br>&nbsp;&nbsp;<i><a href="m.htm#maawininihkáachi">maawininihkáachi</a></i>
+&nbsp;to be making a rumbling noise in the distance
+<br><font size="+2"><b><a name="wininiilichi"></a>wininiilichi</b> </font>
+<font size="+2">to shiver, shake all over</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>wininiichichi, wininiihilichi, wininiihachichi</i>)
+&nbsp; [/wininih-li-chi<sup>2</sup>]
+&nbsp;<font face="Arial">«</font>Heɬak wininiilichiimoolo.
+ <i>Heather's shivering.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="winóhlóosi"></a>winóhlóosi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#winóolòosi">winóolòosi</a>&nbsp;
+<br><font size="+2"><b><a name="winòoli"></a>winòoli</b> </font>
+<font size="+2">to shake oneselves repeatedly, jiggle, swing (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, winòohili, winòohachi</i>)
+&nbsp; [/wino(t)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="w.htm#winotlichi">winotlichi</a>
+<br><font size="+2"><b><a name="winòolichi"></a>winòolichi</b> </font>
+<font size="+2">to shake repeatedly, rock (e.g. a baby)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>winòochichi, winòohilichi, winòohachichi</i>)
+&nbsp; [/wino(t)-li-chi<sup>1</sup>]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="w.htm#winòoli">winòoli</a>
+<br><font size="+2"><b><a name="winóolòosi"></a>winóolòosi</b> </font>
+<font size="+2">to sway (as an old person walking or as a truck under a heavy load), shake under the strain of a load (as a bridge)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>winóolòostiska, winóolòostilka, winóolòostaska</i>)
+&nbsp; [/winoh-li-osi]
+ [<i>lgr</i>]
+ <i>Var: winóhlóosi</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Winóolòosit ispaaɬopotliti.
+ <i>It's swaying as it goes across.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#winòoli">winòoli</a>
+<br><font size="+2"><b><a name="winotlichi"></a>winotlichi</b> </font>
+<font size="+2">to shake (once), jar, jerk, rock (one time)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>winotchichi, winothilichi, winothachichi</i>)
+&nbsp; [/winot-li-chi<sup>1</sup>]
+<br>&nbsp;&nbsp;<i><a href="w.htm#winòoli">winòoli</a></i>
+&nbsp;to shake oneself
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#winóolòosi">winóolòosi</a></i>
+&nbsp;to sway
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="w.htm#winòolichi">winòolichi</a></i>
+&nbsp;to shake (rep.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#iswinòolichi">iswinòolichi</a></i>
+&nbsp;to shake (rep.)
+<br><font size="+2"><b><a name="wisisihka"></a>wisisihka</b> </font>
+<font size="+2">something that will make one nervous</font>
+&nbsp; [/wisisih-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Aⁿwwisisihka.
+ <i>My thing that makes me nervous (e.g. a sailor would say that a storm is his iⁿwwisisihka).</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="w.htm#wisisihlichi">wisisihlichi</a>
+<br><font size="+2"><b><a name="wisisihkachi"></a>wisisihkachi</b> </font>
+<font size="+2">to be nervous</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/wisisih-ka<sup>1</sup>-chi<sup>2</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="w.htm#wisisihlichi">wisisihlichi</a>
+<br><font size="+2"><b><a name="wisisihlichi"></a>wisisihlichi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to shake, shiver, quake, tremble, quiver involuntarily (as with palsy, chills, fever, nervousness)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/wisisih-li-chi<sup>2</sup>]
+ <i>Var: wisisìilichi</i>
+&nbsp;<font size="0">(WP)</font>
+&nbsp;2.&nbsp;
+<font size="+2">to make somebody nervous</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>wisisihchichi, wisisihhilichi, wisisihhachichi</i>)
+&nbsp;<font face="Arial">«</font>Chawisisihlichi.
+ <i>I'm nervous.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="w.htm#wisisihkachi">wisisihkachi</a></i>
+&nbsp;to be nervous
+<br>&nbsp;&nbsp;<i><a href="w.htm#wisisihka">wisisihka</a></i>
+&nbsp;something that will make one nervous
+<br><font size="+2"><b><a name="wisisìilichi"></a>wisisìilichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#wisisihlichi">wisisihlichi</a>&nbsp;
+<br><font size="+2"><b><a name="wiyaachi"></a>wiyaachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#wihaachi">wihaachi</a>&nbsp;
+<br><font size="+2"><b><a name="wiyaali"></a>wiyaali</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#wayàali">wayàali</a>&nbsp;
+<br><font size="+2"><b><a name="Wodba"></a>Wodba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#Wodwiila">Wodwiila</a>&nbsp;
+<br><font size="+2"><b><a name="Wodfiilka"></a>Wodfiilka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#Wodwiila">Wodwiila</a>&nbsp;
+<br><font size="+2"><b><a name="Wodwiila"></a>Wodwiila</b> </font>
+<font size="+2">Woodville, Texas</font>
+ {&nbsp;English}
+ <i>Var: Wodfiilka</i>
+ <i>Var: Wodba</i>
+<br><font size="+2"><b><a name="wohka"></a>wohka</b> </font>
+<font size="+2">to bark</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>wohiska, wohilka, wohaska</i>)
+&nbsp; [/woh-ka<sup>1</sup>]
+ <i>Var: wowohka</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Balaakiya wóohkastíkkohchooti.
+ <i>Blackie never barks.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="w.htm#woíkko">woíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="w.htm#wohlichi">wohlichi</a></i>
+&nbsp;to bark at
+<br><font size="+2"><b><a name="wohlichi"></a>wohlichi</b> </font>
+<font size="+2">to bark at</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>wohchichi, wohhilichi, wohhachichi</i>)
+&nbsp; [/woh-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Amifak ifason howohlichiti.
+ <i>The dogs were barking at the puppies.</i><font face="Arial">»</font>
+ ☞<a href="w.htm#wohka">wohka</a>
+<br><font size="+2"><b><a name="woíkko"></a>woíkko</b> </font>
+ Neg.
+ ☞<a href="w.htm#wohka">wohka</a>
+<br><font size="+2"><b><a name="woksipaali"></a>woksipaali</b> </font>
+<font size="+2">egret, `whooping crane', prob. any large long-legged white bird</font>
+&nbsp;<font size="0">(JS)</font>
+ <i>Var: oksipàali</i>
+&nbsp;<font size="0">(VC, IB)</font>
+<br><font size="+2"><b><a name="wolohíkko"></a>wolohíkko</b> </font>
+ Neg.
+ ☞<a href="w.htm#wolohki">wolohki</a>
+<br><font size="+2"><b><a name="wolohki"></a>wolohki</b> </font>
+<font size="+2">to gel, congeal, turn to jelly, clot (of blood), curdle (of milk), clabber</font>
+<br>&nbsp;&nbsp;<i><a href="w.htm#wolohíkko">wolohíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="wóokìicho"></a>wóokìicho</b> </font>
+ Neg.
+ ☞<a href="w.htm#wòolichi">wòolichi</a>
+<br><font size="+2"><b><a name="wooksi"></a>wooksi</b> </font>
+<font size="+2">to be furry, woolly, bushy; to be mussed, unruly, wild (of hair)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chiwooksikáamo.
+ <i>Your hair is wild (like you just woke up).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ifa wooksok annàahohchooti.
+ <i>I have a furry dog.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoowoksi">ichoowoksi</a></i>
+&nbsp;beard
+<br>&nbsp;&nbsp;<i><a href="p.htm#paawoksi">paawoksi</a></i>
+&nbsp;to have the hair stand up
+<br><font size="+2"><b><a name="wòolichi"></a>wòolichi</b> </font>
+<font size="+2">to root up (e.g. of a hog or armadillo), sniff out (food), root around, dig up (food)</font>
+&nbsp; [/wòo-li-chi<sup>2</sup>]
+<br>&nbsp;&nbsp;<i><a href="w.htm#wóokìicho">wóokìicho</a></i>
+ Neg.
+<br><font size="+2"><b><a name="woomaalpa"></a>woomaalpa</b> </font>
+<font size="+2">deafness</font>
+&nbsp; [/woomaa&lt;l&gt;pa]
+ ☞<a href="w.htm#woomaapa">woomaapa</a>
+<br><font size="+2"><b><a name="woomaapa"></a>woomaapa</b> </font>
+<font size="+2">to be deaf; to be unable to hear because the ears are ringing</font>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ <i>Var: waamaapa</i>
+&nbsp;<font size="0">(DB)</font>
+ <i>Var: oomaapa</i>
+<br>&nbsp;&nbsp;<i><a href="w.htm#woomaapachi">woomaapachi</a></i>
+&nbsp;to make deaf
+<br>&nbsp;&nbsp;<i><a href="w.htm#woomaalpa">woomaalpa</a></i>
+&nbsp;deafness
+<br>&nbsp;&nbsp;<i><a href="w.htm#woomaapatilka">woomaapatilka</a></i>
+&nbsp;deafness
+<br><font size="+2"><b><a name="woomaapachi"></a>woomaapachi</b> </font>
+<font size="+2">to make deaf </font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>woomaapachitiska, woomaapachitilka, woomaapachitaska</i>)
+&nbsp; [/woomaapa-chi<sup>1</sup>]
+ ☞<a href="w.htm#woomaapa">woomaapa</a>
+<br><font size="+2"><b><a name="woomaapatilka"></a>woomaapatilka</b> </font>
+<font size="+2">deafness</font>
+&nbsp; [/woomaapa-tilka]
+ ☞<a href="w.htm#woomaapa">woomaapa</a>
+<br><font size="+2"><b><a name="wotòolichi"></a>wotòolichi</b> </font>
+<font size="+2">to crunch with the teeth; to grind (the teeth); to chew something up into pieces</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>wotòochichi, wotòohilichi, wotòohachichi</i>)
+&nbsp; [/wotòo-li-chi<sup>2</sup>]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Aataksisolotkan wotòolichilo.
+ <i>I'm crunching on potato chips.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="wowohka"></a>wowohka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="w.htm#wohka">wohka</a>&nbsp;
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

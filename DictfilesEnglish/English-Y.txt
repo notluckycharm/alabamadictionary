@@ -1,0 +1,114 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">Y</font></center><br>
+<br><b>Y</b>
+&nbsp;the letter `Y': &nbsp;<i><a href="w.htm#wàyka">wàyka</a></i>.&nbsp;
+<br><b>y'all</b>
+&nbsp;you (of more than one), y'all: &nbsp;<i><a href="h.htm#hasna">hasna</a></i>.&nbsp;
+&nbsp;to be yours, your (of more than one), y'alls: &nbsp;<i><a href="h.htm#hasno">hasno</a></i>.&nbsp;
+<br><b>yankee</b>&nbsp;&nbsp;<i><a href="y.htm#yinki">yinki</a></i>.&nbsp;
+<br><b>yard</b>&nbsp;&nbsp;<i><a href="i2.htm#itaakali">itaakali</a></i>.&nbsp;
+&nbsp;backyard: &nbsp;<i><a href="i2.htm#itaakali oobàali">itaakali oobàali</a></i>.&nbsp;
+<br><b>yardstick</b>&nbsp;&nbsp;<i><a href="i2.htm#istalpisa2">istalpisa<sup>2</sup></a>, <a href="i2.htm#istapiska">istapiska</a></i>.&nbsp;
+<br><b>yaupon</b>&nbsp;&nbsp;<i><a href="i2.htm#ittokchakko">ittokchakko</a>, <a href="a.htm#aatichoosanàyli">aatichoosanàyli</a></i>.&nbsp;
+<br><b>yawn</b>
+&nbsp;to yawn: &nbsp;<i><a href="a.htm#afalohka">afalohka</a></i>.&nbsp;
+<br><b>year</b>&nbsp;&nbsp;<i><a href="l.htm#lokbaha">lokbaha</a></i>.&nbsp;
+&nbsp;last year: &nbsp;<i><a href="l.htm#lokbáahaako">lokbáahaako</a>, <a href="l.htm#lokbahaakítto">lokbahaakítto</a></i>.&nbsp;
+&nbsp;next year: &nbsp;<i><a href="l.htm#lokbáahaama">lokbáahaama</a>, <a href="o.htm#ostillokbaha">ostillokbaha</a></i>.&nbsp;
+<br><b>yearling cow</b>&nbsp;&nbsp;<i><a href="w.htm#waakimanihtasi">waakimanihtasi</a></i>.&nbsp;
+<br><b>yeast</b>&nbsp;&nbsp;<i><a href="i2.htm#issofooli">issofooli</a>, <a href="s.htm#sofohlichi">sofohlichi</a></i>.&nbsp;
+<br><b>yell</b>
+&nbsp;to holler, yell, shout: &nbsp;<i><a href="i2.htm#ispahka">ispahka</a></i>.&nbsp;
+&nbsp;to fuss at, yell at, scold, reproach, dress down: &nbsp;<i><a href="i1.htm#illikitka">illikitka</a></i>.&nbsp;
+&nbsp;to holler at, yell for (someone): &nbsp;<i><a href="i1.htm#imaksobaachi">imaksobaachi</a></i>.&nbsp;
+<br><b>yellow</b>
+&nbsp;to be yellow, orange, brown, gold, beige, pink: &nbsp;<i><a href="l.htm#laana">laana</a></i>.&nbsp;
+&nbsp;to be yellow colored: &nbsp;<i><a href="l.htm#laanat balaanayàhchi">laanat balaanayàhchi</a></i>.&nbsp;
+&nbsp;to be yellower: &nbsp;<i><a href="l.htm#láhna">láhna</a></i>.&nbsp;
+&nbsp;to dye yellow, brown, orange, gold, beige: &nbsp;<i><a href="l.htm#laanachi">laanachi</a></i>.&nbsp;
+<br><b>yellow fever</b>&nbsp;&nbsp;<i><a href="h.htm#holpalàana">holpalàana</a></i>.&nbsp;
+<br><b>yellow horsemint</b>&nbsp;&nbsp;<i><a href="s.htm#snoktaɬaylichoba">snoktaɬaylichoba</a></i>.&nbsp;
+<br><b>yellowjacket</b>&nbsp;&nbsp;<i><a href="f.htm#fofchanassa">fofchanassa</a>, <a href="h.htm#hanifatala">hanifatala</a></i>.&nbsp;
+<br><b>yellow jasmine</b>&nbsp;&nbsp;<i><a href="a.htm#aatyammichi">aatyammichi</a></i>.&nbsp;
+<br><b>yes</b>&nbsp;&nbsp;<i><a href="y.htm#yamá">yamá</a></i>.&nbsp;
+&nbsp;yes, okay: &nbsp;<i><a href="h.htm#how">how</a>, <a href="i1.htm#ìiⁿ">ìiⁿ</a>, <a href="y.htm#yaama">yaama</a></i>.&nbsp;
+<br><b>yesterday</b>&nbsp;&nbsp;<i><a href="p.htm#pihaako">pihaako</a></i>.&nbsp;
+&nbsp;yesterday morning: &nbsp;<i><a href="p.htm#pihaakoniɬálli">pihaakoniɬálli</a></i>.&nbsp;
+&nbsp;yesterday at noon: &nbsp;<i><a href="p.htm#pihaakopontókkòoli">pihaakopontókkòoli</a></i>.&nbsp;
+&nbsp;day before yesterday: &nbsp;<i><a href="p.htm#pihaakokoɬaako">pihaakokoɬaako</a></i>.&nbsp;
+<br><b>yet</b>
+&nbsp;yet, whenever: &nbsp;<i><a href="afx.htm#-mo">-mo</a></i>.&nbsp;
+&nbsp;but, yet: &nbsp;<i><a href="m.htm#máhtik">máhtik</a></i>.&nbsp;
+&nbsp;anyhow, nevertheless, yet, although, despite: &nbsp;<i><a href="s.htm#sáhtík">sáhtík</a></i>.&nbsp;
+&nbsp;to still do, do yet, keep on doing, continue doing: &nbsp;<i><a href="o.htm#onáami">onáami</a></i>.&nbsp;
+<br><b>yoke</b>
+&nbsp;ox yoke: &nbsp;<i><a href="w.htm#waakhoba iⁿwataaka">waakhoba iⁿwataaka</a></i>.&nbsp;
+&nbsp;yoke or tether (for a cow that gets into the garden): &nbsp;<i><a href="w.htm#waaka iwwataaka">waaka iwwataaka</a></i>.&nbsp;
+<br><b>yolk</b>
+&nbsp;chicken egg yolk: &nbsp;<i><a href="a.htm#akaakochòosi illaana">akaakochòosi illaana</a></i>.&nbsp;
+<br><b>yonder</b>
+&nbsp;over yonder, a little ways over there, a little farther away: &nbsp;<i><a href="y.htm#yáafàasi">yáafàasi</a></i>.&nbsp;
+&nbsp;this place here, right over there, that place over yonder: &nbsp;<i><a href="y.htm#yàafa">yàafa</a></i>.&nbsp;
+<br><b>you</b>&nbsp;&nbsp;<i><a href="afx.htm#<as>">&lt;as&gt;</a>, <a href="afx.htm#-chi">-chi<sup>3</sup></a>, <a href="afx.htm#chi-">chi-</a>, <a href="afx.htm#<chi>">&lt;chi&gt;</a>, <a href="afx.htm#is-">is-</a>, <a href="afx.htm#<is>">&lt;is&gt;</a>, <a href="afx.htm#<s2>">&lt;s<sup>2</sup>&gt;</a></i>.&nbsp;
+&nbsp;you, y'all: &nbsp;<i><a href="afx.htm#-hachi">-hachi</a>, <a href="afx.htm#hachi-">hachi-</a>, <a href="afx.htm#<hachi>">&lt;hachi&gt;</a>, <a href="afx.htm#has-">has-</a>, <a href="afx.htm#<has>">&lt;has&gt;</a></i>.&nbsp;
+&nbsp;you (of one): &nbsp;<i><a href="i2.htm#isna">isna</a></i>.&nbsp;
+&nbsp;you (of more than one), y'all: &nbsp;<i><a href="h.htm#hasna">hasna</a></i>.&nbsp;
+&nbsp;just you, your own self: &nbsp;<i><a href="i2.htm#isnaakáali">isnaakáali</a></i>.&nbsp;
+&nbsp;you all, yourselves: &nbsp;<i><a href="h.htm#hasnaakáalo">hasnaakáalo</a></i>.&nbsp;
+&nbsp;you, yours (of one): &nbsp;<i><a href="i2.htm#isno">isno</a></i>.&nbsp;
+<br><b>young</b>
+&nbsp;young person: &nbsp;<i><a href="a.htm#aatimaníhta">aatimaníhta</a></i>.&nbsp;
+&nbsp;to be young: &nbsp;<i><a href="i1.htm#imaníhta">imaníhta</a>, <a href="i1.htm#imaníhtàasi">imaníhtàasi</a></i>.&nbsp;
+&nbsp;to be younger than: &nbsp;<i><a href="i2.htm#istimanihta">istimanihta</a>, <a href="i2.htm#istiⁿsíhnotíkko">istiⁿsíhnotíkko</a>, <a href="o.htm#oobáali">oobáali</a></i>.&nbsp;
+&nbsp;to be younger than someone: &nbsp;<i><a href="i1.htm#ibahlo">ibahlo</a></i>.&nbsp;
+&nbsp;to be younger, to have an older sibling of the opposite sex: &nbsp;<i><a href="b.htm#bíkno">bíkno</a></i>.&nbsp;
+<br><b>younger</b>
+&nbsp;to be younger (of kin): &nbsp;<i><a href="i1.htm#ibahlo">ibahlo</a></i>.&nbsp;
+<br><b>your</b>
+&nbsp;yours, your: &nbsp;<i><a href="c.htm#chisnooli">chisnooli</a></i>.&nbsp;
+&nbsp;yours alone: &nbsp;<i><a href="i2.htm#isnàasáɬɬi">isnàasáɬɬi</a></i>.&nbsp;
+&nbsp;you, yours (of one): &nbsp;<i><a href="i2.htm#isno">isno</a></i>.&nbsp;
+&nbsp;just you, your own self: &nbsp;<i><a href="i2.htm#isnaakáali">isnaakáali</a></i>.&nbsp;
+&nbsp;to be yours, your (of more than one), y'alls: &nbsp;<i><a href="h.htm#hasno">hasno</a></i>.&nbsp;
+<br><b>yourself</b>
+&nbsp;by yourself: &nbsp;<i><a href="i2.htm#isnáɬɬi">isnáɬɬi</a></i>.&nbsp;
+&nbsp;to be by yourselves: &nbsp;<i><a href="h.htm#hasnáɬɬi">hasnáɬɬi</a></i>.&nbsp;
+&nbsp;you all, yourselves: &nbsp;<i><a href="h.htm#hasnaakáalo">hasnaakáalo</a></i>.&nbsp;
+<br><b>yucca</b>&nbsp;&nbsp;<i><a href="t.htm#tosìina istatakka">tosìina istatakka</a></i>.&nbsp;
+<br><b>yuck!</b>&nbsp;&nbsp;<i><a href="h.htm#hmm!">hmm!</a></i>.&nbsp;
+&nbsp;yuck! it's bad!: &nbsp;<i><a href="h.htm#hmm! kánkobi!">hmm! kánkobi!</a></i>.&nbsp;
+<br><b>yum!</b>&nbsp;&nbsp;<i><a href="a.htm#amm!">amm!</a></i>.&nbsp;
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

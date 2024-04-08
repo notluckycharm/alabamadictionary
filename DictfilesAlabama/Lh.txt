@@ -1,0 +1,1486 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">ɬ</font></center><br>
+<br><font size="+2"><b><a name="ɬaafi"></a>ɬaafi</b> </font>
+<font size="+2">to scratch</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬaafchi, ɬaafhili, ɬaafhachi</i>)
+&nbsp; [prob. /ɬafi]
+&nbsp;<font face="Arial">«</font>Nàasok chaɬaafiiso.
+ <i>Something scratched me.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬaafka">ɬaafka</a></i>
+&nbsp;mark in a line
+<br>&nbsp;&nbsp;<i><a href="i2.htm#isɬaaffi">isɬaaffi</a></i>
+&nbsp;to strike a match
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isɬaafka">isɬaafka</a></i>
+&nbsp;match
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬaahka">ɬaahka</a></i>
+&nbsp;to make marks
+<br><font size="+2"><b><a name="ɬaafka"></a>ɬaafka</b> </font>
+<font size="+2">scratch, mark in a line; vapor trail</font>
+&nbsp; [/ɬafi-ka<sup>1</sup>]
+ ☞<a href="ll.htm#ɬaafi">ɬaafi</a>
+<br><font size="+2"><b><a name="ɬáahistimilbacha"></a>ɬáahistimilbacha</b> </font>
+<font size="+2">coral snake </font>
+&nbsp; [prob. /ɬahi ist-im-il- /bachaa-a]
+ <i>Var: ɬáahistimàlbacha</i>
+ <i>Var: ɬahaaya istimilbacha</i>
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="ɬaahka"></a>ɬaahka</b> </font>
+<font size="+2">to make marks, scribble on</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>ɬaahkatiska, ɬaahkatilka, ɬaahkataska</i>)
+&nbsp; [/ɬaa&lt;h&gt;f-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>∥aahkatiskaiⁿ?
+ <i>Are you marking on it?</i><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬaafi">ɬaafi</a>
+<br><font size="+2"><b><a name="ɬàaka"></a>ɬàaka</b> </font>
+<font size="+2">to fall, drop from above (of more than one inanimates)</font>
+&nbsp; [/ɬaa-ka<sup>1</sup>]
+ [<i>fgr</i>]
+ ☞<a href="ll.htm#ɬàali">ɬàali</a>
+<br><font size="+2"><b><a name="ɬàakachi"></a>ɬàakachi</b> </font>
+<font size="+2">to fall, drop from above (of more than one inanimates)</font>
+&nbsp; [/ɬàa-ka<sup>1</sup>-chi<sup>2</sup>]
+&nbsp;<font face="Arial">«</font>Ittohissik ɬàakachi.
+ <i>The leaves are falling.</i><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬàaka">ɬàaka</a>
+<br><font size="+2"><b><a name="ɬàako"></a>ɬàako</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Naho ifan píila sáhtik oiⁿɬàakohchon chofkonin kanòochit oinchiilihchootoha. homankan háalolihchootook onkalo.
+ <i>And they don't throw them down to the dogs just any old way, but would lay the bones down carefully they said, that's what I've heard.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬàali">ɬàali</a>
+<br><font size="+2"><b><a name="ɬàali"></a>ɬàali</b> </font>
+<font size="+2">to throw off or drop (more than one); to lay (workers) off of a job </font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬàachi, ɬàahili, ɬàahachi</i>)
+&nbsp; [/ɬàa-li]
+&nbsp;<font face="Arial">«</font>Toknaawóotík íksooma poɬàaliibíikakha mìntamon.
+ <i>When there was no money they'd lay some of us others off.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬàako">ɬàako</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="n.htm#nokhiɬkan ɬàali">nokhiɬkan ɬàali</a></i>
+&nbsp;to spit out mucous
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬàaka">ɬàaka</a></i>
+&nbsp;to drop from above (of inanimates)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬàakachi">ɬàakachi</a></i>
+&nbsp;to drop from above (of inanimates)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿɬàakachi">iⁿɬàakachi</a></i>
+&nbsp;to have something drop
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ichooɬàakachi">ichooɬàakachi</a></i>
+&nbsp;to have (food) drop
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ilɬaaka">ilɬaaka</a></i>
+&nbsp;to go and fall down
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬaalichi">ɬaalichi</a></i>
+&nbsp;to pull down, throw down
+<br><font size="+2"><b><a name="ɬaalichi"></a>ɬaalichi</b> </font>
+<font size="+2">to pull down, throw down</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬaachichi, ɬaahilichi, ɬaahachichi</i>)
+&nbsp; [/ɬaa-li-chi<sup>1</sup>]
+ ☞<a href="ll.htm#ɬàali">ɬàali</a>
+<br><font size="+2"><b><a name="ɬaana"></a>ɬaana</b> </font>
+<font size="+2">horsefly, fly </font>
+<br><font size="+2"><b><a name="ɬaatka"></a>ɬaatka</b> </font>
+<font size="+2">to snore</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [prob. /ɬaat-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chiɬaatkánna!
+ <i>Don't snore!</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chaɬaatkamoolisti.
+ <i>I guess I snored a lot.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="ɬabaata"></a>ɬabaata</b> </font>
+ <i>Var. of</i>&nbsp;<a href="ll.htm#ɬibaata">ɬibaata</a>&nbsp;
+<br><font size="+2"><b><a name="ɬabahka"></a>ɬabahka</b> </font>
+<font size="+2">to snore</font>
+&nbsp;<font color="#800080" size="+1">-LI; CHA-</font>
+&nbsp;(<i>ɬabahiska, ɬabahilka, ɬabahaska</i>)
+ <i>Var: ɬabakka</i>
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font face="Arial">«</font>Chaɬabahka.
+ <i>I snore.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬabaíkko">ɬabaíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="ɬabaíkko"></a>ɬabaíkko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Chaɬabaíkkohchi.
+ <i>I don't snore.</i><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬabahka">ɬabahka</a>
+<br><font size="+2"><b><a name="ɬacho"></a>ɬacho</b> </font>
+<font size="+2">toothache tree?; tree (species with thorns) </font>
+<br><font size="+2"><b><a name="ɬahaaya istimilbacha"></a>ɬahaaya istimilbacha</b> </font>
+ <i>Var. of</i>&nbsp;<a href="ll.htm#ɬáahistimilbacha">ɬáahistimilbacha</a>&nbsp;
+<br><font size="+2"><b><a name="ɬahi"></a>ɬahi</b> </font>
+<font size="+2">to shoot and hit; to sting (of an insect); to strike (of a snake)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬahitiska, ɬahitilka, ɬahitaska</i>)
+&nbsp;<font face="Arial">«</font>Ipɬon ɬahitiskati.
+ <i>You hit the squirrel.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬahitíkko">ɬahitíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="ɬahitíkko"></a>ɬahitíkko</b> </font>
+ Neg.
+ ☞<a href="ll.htm#ɬahi">ɬahi</a>
+<br><font size="+2"><b><a name="ɬahka"></a>ɬahka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">mark, stripe; tanned, stretched hide, leather thongs</font>
+&nbsp; [/ɬah-ka<sup>1</sup>]
+&nbsp;2.&nbsp;
+<font size="+2">to be cured, tanned (of leather, hide)</font>
+ ☞<a href="ll.htm#ɬahli">ɬahli</a>
+<br><font size="+2"><b><a name="ɬahkachi"></a>ɬahkachi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be striped, lined</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/ɬah-ka<sup>1</sup>-chi<sup>2</sup>]
+&nbsp;<font face="Arial">«</font>∥ahkachihchon hokfalo.
+ <i>I'm dressed in stripes (e.g. a prisoner).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Holissohatkak istiⁿɬahkáachihchi.
+ <i>The paper tablet has lines.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">line on paper</font>
+ ☞<a href="ll.htm#ɬahka">ɬahka</a>
+<br><font size="+2"><b><a name="ɬahkalonka"></a>ɬahkalonka</b> </font>
+<font size="+2">moccasin game</font>
+&nbsp;<font color="#080000">Cul:  Traditional shell game played with four strips of deer hide, no longer known.</font>&nbsp;
+&nbsp; [/ɬah-ka<sup>1</sup> /lomhi-ka<sup>1</sup>]
+ {This is a transliteration of Swanton's ɬakalu'nka `moccasin game'; if it is correct then the Al. is not `hidden bullet', which would be *ɬakilonka, but rather `strips of deer hide hidden'; or Swanton may have meant ɬakaalonka [/ɬaki aa- /lom(hi)-ka<sup>1</sup>] `where the bullet is hidden'. People are no longer familiar with the game but offer the translation ɬakilonka for `hidden bullet' (but compare to ɬahkawilo `moccasin')}
+<br><font size="+2"><b><a name="ɬahkawilo"></a>ɬahkawilo</b> </font>
+<font size="+2">moccasin </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+&nbsp; [/ɬah-ka<sup>1</sup> /wilo]
+<br><font size="+2"><b><a name="ɬahli"></a>ɬahli</b> </font>
+<font size="+2">to stripe, mark with stripes; to tan or cure (leather), scrape or dress (hide); to cut strips off skin</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬahchi, ɬahhili, ɬahhachi</i>)
+&nbsp;<font face="Arial">«</font>Ichok affakchon ɬahchichoolikháamaakhaⁿ?
+ <i>You used to tan deer hide, didn't you?</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>∥ahchaiⁿ?
+ <i>Are you going to mark it?</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿɬahli">iⁿɬahli</a></i>
+&nbsp;to cut stripe marks on
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬahlichi">ɬahlichi</a></i>
+&nbsp;to have (someone) scrape (something)
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬahka">ɬahka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;stripe; tanned hide
+&nbsp;2.&nbsp;
+&nbsp;to be cured (of leather)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isɬahka">isɬahka</a></i>
+&nbsp;tool for scraping hide
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬahkachi">ɬahkachi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be striped
+&nbsp;2.&nbsp;
+&nbsp;line on paper
+<br><font size="+2"><b><a name="ɬahlichi"></a>ɬahlichi</b> </font>
+<font size="+2">to have (someone) scrape (something)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬahchichi, ɬahhilichi, ɬahhachichi</i>)
+&nbsp; [/ɬah-li-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="ll.htm#ɬahli">ɬahli</a>
+<br><font size="+2"><b><a name="ɬakaacha"></a>ɬakaacha</b> </font>
+<font size="+2">blackhaw </font>
+ <i>(Vibunum pruniflorium)</i>
+ <i>Var: ɬakakaacha</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="ɬakakaacha"></a>ɬakakaacha</b> </font>
+ <i>Var. of</i>&nbsp;<a href="ll.htm#ɬakaacha">ɬakaacha</a>&nbsp;
+<br><font size="+2"><b><a name="ɬakcha"></a>ɬakcha</b> </font>
+<font size="+2">to be homesick, lonesome, lonely and sad, pining for friends and relatives</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿɬakcha">iⁿɬakcha</a></i>
+&nbsp;to miss (someone)
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬalikcha">ɬalikcha</a></i>
+&nbsp;homesickness
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬakchatilka">ɬakchatilka</a></i>
+&nbsp;homesickness
+<br><font size="+2"><b><a name="ɬakchatilka"></a>ɬakchatilka</b> </font>
+<font size="+2">homesickness, missing something</font>
+&nbsp; [/ɬakcha-tilka]
+ ☞<a href="ll.htm#ɬakcha">ɬakcha</a>
+<br><font size="+2"><b><a name="ɬakhani"></a>ɬakhani</b> </font>
+<font size="+2">blood </font>
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬakhánko">ɬakhánko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ibiiɬakhani">ibiiɬakhani</a></i>
+&nbsp;to bleed from the face
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichooɬakhani">ichooɬakhani</a></i>
+&nbsp;to bleed from the mouth
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿɬakhani">iⁿɬakhani</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to bleed
+&nbsp;2.&nbsp;
+&nbsp;to bleed from (a body part)
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬakhaniichi">ɬakhaniichi</a></i>
+&nbsp;to make bleed
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isɬakhaniichi">isɬakhaniichi</a></i>
+&nbsp;to get blood on
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#onaɬakhaniichi">onaɬakhaniichi</a></i>
+&nbsp;to make bleed on something
+&nbsp;to get blood on
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬakhanibohki">ɬakhanibohki</a></i>
+&nbsp;to have a bruise
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬakhanibohkitíkko">ɬakhanibohkitíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="ɬakhani assikchi"></a>ɬakhani assikchi</b> </font>
+<font size="+2">blood vessel, vein, artery </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+&nbsp; [/ɬakhani /assikchi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="ɬakhanibohki"></a>ɬakhanibohki</b> </font>
+<font size="+2">to have a bruise on a body part </font>
+&nbsp;<font color="#800080" size="+1">3/AM-</font>
+ <i>Neg: </i>ɬakhanibohkitíkko
+&nbsp;<font face="Arial">«</font>Anɬakhanibohki.
+ <i>I'm bruised.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Chasakbafan aⁿɬakhanibohki.
+ <i>I have a bruise on my hand.</i><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬakhani">ɬakhani</a>
+<br><font size="+2"><b><a name="ɬakhanibohkitíkko"></a>ɬakhanibohkitíkko</b> </font>
+ Neg.
+ ☞<a href="ll.htm#ɬakhanibohki">ɬakhanibohki</a>
+<br><font size="+2"><b><a name="ɬakhaniichi"></a>ɬakhaniichi</b> </font>
+<font size="+2">to make bleed </font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬakhaniitiska, ɬakhaniitilka, ɬakhaniitaska</i>)
+&nbsp;(<i>ɬakhaniichiska, ɬakhaniichilka, ɬakhaniichaska</i>)
+&nbsp; [/ɬakhani-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>∥akhaniitiskaⁿ?
+ <i>Did you make it bleed?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Iliiɬakhaniichiskaⁿ?
+ <i>Did you make yourself bleed?</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="ll.htm#ɬakhani">ɬakhani</a>
+<br><font size="+2"><b><a name="ɬakhaniɬopotli"></a>ɬakhaniɬopotli</b> </font>
+<font size="+2">menstruation, woman's period </font>
+&nbsp;<font color="#080000">Cul:  This used to be considered `hollo'</font>&nbsp;
+&nbsp; [/ɬakhani /ɬopot-li]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="ɬakhani ɬopotlihchi hasicháffàakamon"></a>ɬakhani ɬopotlihchi hasicháffàakamon</b> </font>
+<font size="+2">menstruation </font>
+&nbsp; [/ɬakhani /ɬopot-li-hchi /hasi /cháffàa-fa-ka<sup>1</sup>-ma-o<sup>3</sup>-n]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="ɬakhaniⁿhini"></a>ɬakhaniⁿhini</b> </font>
+<font size="+2">blood vessel </font>
+&nbsp; [/ɬakhani im- /hini]
+<br><font size="+2"><b><a name="ɬakhani sobayli"></a>ɬakhani sobayli</b> </font>
+<font size="+2">to take the blood pressure </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [/ɬakhani /sobay-li]
+ ☞<a href="s.htm#sobàyli">sobàyli</a>
+<br><font size="+2"><b><a name="ɬakhanistalpisa"></a>ɬakhanistalpisa</b> </font>
+<font size="+2">to take the blood pressure </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>ɬakhanistalpischi, ɬakhanistalpishili, ɬakhanistalpishachi</i>)
+&nbsp; [/ɬakhani ist- /a&lt;l&gt;pisa]
+ ☞<a href="i2.htm#istalpisa">istalpisa</a>
+<br><font size="+2"><b><a name="ɬakhaniwwolohki"></a>ɬakhaniwwolohki</b> </font>
+<font size="+2">blood clot </font>
+&nbsp; [/ɬakhani im- /wolohki]
+ <i>Var: ɬakhanwolohki</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="ɬakhánko"></a>ɬakhánko</b> </font>
+ Neg.
+ ☞<a href="ll.htm#ɬakhani">ɬakhani</a>
+<br><font size="+2"><b><a name="ɬaki"></a>ɬaki</b> </font>
+<font size="+2">any ammunition; lead (metal)</font>
+ (may refer to arrow, bullet, shotgun shell, pellet)
+&nbsp;<font size="0">(VC)</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿɬaki">iⁿɬaki</a></i>
+&nbsp;stinger
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#inɬakìisa">inɬakìisa</a></i>
+&nbsp;any stinging arthropod
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬakosi">ɬakosi</a></i>
+&nbsp;BB shot
+<br><font size="+2"><b><a name="ɬakibila"></a>ɬakibila</b> </font>
+<font size="+2">solder</font>
+&nbsp; [/ɬaki /bila]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="ɬakichoba"></a>ɬakichoba</b> </font>
+<font size="+2">artillery shell</font>
+&nbsp; [/ɬaki /choba]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="ɬaki impossi"></a>ɬaki impossi</b> </font>
+<font size="+2">gunpowder</font>
+&nbsp;<font color="#080000">Cul:  In the old days a midwife would sometimes give the mother 1/4 tsp. of gunpowder mixed with herbs to speed up labor.</font>&nbsp;
+&nbsp;<font size="0">(DB)</font>
+&nbsp; [/ɬaki im- /possi]
+<br><font size="+2"><b><a name="ɬakiⁿhalokpa"></a>ɬakiⁿhalokpa</b> </font>
+<font size="+2">arrowhead, arrow point </font>
+&nbsp; [/ɬaki im- /halokpa]
+<br><font size="+2"><b><a name="ɬaki onaɬatoffi"></a>ɬaki onaɬatoffi</b> </font>
+<font size="+2">soldering iron </font>
+&nbsp; [/ɬaki ona- /ɬatof-li]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="-ɬakoffi"></a>-ɬakoffi</b> </font>
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬakòfko">ɬakòfko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿɬakoffi">iⁿɬakoffi</a></i>
+&nbsp;to miss out on
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿɬakòfko">iⁿɬakòfko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿɬakoffichi">iⁿɬakoffichi</a></i>
+&nbsp;to let go of
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istiⁿɬakoffi">istiⁿɬakoffi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be incorrect, miss out on
+&nbsp;2.&nbsp;
+&nbsp;to skip
+&nbsp;3.&nbsp;
+&nbsp;mistake
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬakoffichi">ɬakoffichi</a></i>
+&nbsp;to aim for and miss (something)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬakoofòolichi">ɬakoofòolichi</a></i>
+&nbsp;to keep on missing (a target)
+<br><font size="+2"><b><a name="ɬakoffichi"></a>ɬakoffichi</b> </font>
+<font size="+2">to aim for and miss (a target), try for and miss (a step); to misplace (something)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬakofchichi, ɬakofhilichi, ɬakofhachichi</i>)
+&nbsp; [/ɬakof-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chokfin ɬakoffichilo.
+ <i>I missed the rabbit.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chaɬakofchicho.
+ <i>You missed me.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Haatoliiyafan ɬakoffíichilok ilchatammiti.
+ <i>I missed the steps and fell down.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Lokòokan ɬakoffichilo.
+ <i>I missed the meeting.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kafaasilkan paataláastobaalitok ɬakoffìichilin tàmmok alwahkati.
+ <i>I tried to set the mug on top of the table but I missed completely and it fell and broke.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Maalatkaliiyok ɬakoffìichilok chatàmmok chabiiyokchakkoti.
+ <i>I missed my step and fell down and got a black eye.</i><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬakoffi">ɬakoffi</a>
+<br><font size="+2"><b><a name="ɬakòfko"></a>ɬakòfko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Eh,pontòolihchóot opíiyàasóot ointoonoomok yakchik ɬakófkoyáɬɬit paspoochiikootok.
+ <i>Yes, at noon or in the evening whenever they would work, the corn and meat dish and bluebread dumplings would never be missed.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬakoffi">ɬakoffi</a>
+<br><font size="+2"><b><a name="ɬakoofòolichi"></a>ɬakoofòolichi</b> </font>
+<font size="+2">to keep on missing (a target)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>ɬakoofòochichi, ɬakoofòohilichi, ɬakoofòohachichi</i>)
+&nbsp; [/ɬakof-oo-li-chi<sup>1</sup>]
+ [<i>fgr</i>]
+ ☞<a href="ll.htm#ɬakoffichi">ɬakoffichi</a>
+<br><font size="+2"><b><a name="ɬakooya"></a>ɬakooya</b> </font>
+<font size="+2">to get hit</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ {perhaps related to /ɬahi or /ɬaki}
+&nbsp;<font face="Arial">«</font>∥akooyatoha.
+ <i>Somebody got hit.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="ɬakosi"></a>ɬakosi</b> </font>
+<font size="+2">BB shot</font>
+&nbsp; [/ɬaki-osi]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="ll.htm#ɬaki">ɬaki</a>
+<br><font size="+2"><b><a name="ɬaksawwa"></a>ɬaksawwa</b> </font>
+<font size="+2">squirrel shot, BB shot (#6 or #7 shot); shotgun shell</font>
+&nbsp; [/ɬaki /sawwa]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="ɬaksawwachoba"></a>ɬaksawwachoba</b> </font>
+<font size="+2">buckshot (#1 or double-aught shot)</font>
+&nbsp; [/ɬaki /sawwa /choba]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="ɬalikcha"></a>ɬalikcha</b> </font>
+<font size="+2">homesickness, missing something</font>
+&nbsp; [/ɬa&lt;li&gt;kcha]
+ ☞<a href="ll.htm#ɬakcha">ɬakcha</a>
+<br><font size="+2"><b><a name="ɬaɬisholikbi"></a>ɬaɬisholikbi</b> </font>
+<font size="+2">stringer (for fishing) run through the gills</font>
+&nbsp; [/ɬaɬo ist- /ho&lt;li&gt;kbi]
+ <i>Var: ɬaɬosholikba</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="ɬaɬistimokwayka"></a>ɬaɬistimokwayka</b> </font>
+<font size="+2">fishing pole, rod</font>
+&nbsp; [/ɬaɬo ist- /imokway-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="ɬaɬistokwayka inchofa"></a>ɬaɬistokwayka inchofa</b> </font>
+<font size="+2">fish hook </font>
+&nbsp; [/ɬaɬo ist- /okway-ka<sup>1</sup> im- /chofa]
+<br><font size="+2"><b><a name="ɬaɬlocha"></a>ɬaɬlocha</b> </font>
+<font size="+2">buffalo fish</font>
+&nbsp; [/ɬaɬo /locha]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="ɬaɬo"></a>ɬaɬo</b> </font>
+<font size="+2">any fish</font>
+<br><font size="+2"><b><a name="ɬaɬo affakchi"></a>ɬaɬo affakchi</b> </font>
+<font size="+2">fish scales, fish skin</font>
+&nbsp; [/ɬaɬo /affakchi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="ɬaɬohachi"></a>ɬaɬohachi</b> </font>
+<font size="+2">fish tail</font>
+&nbsp; [/ɬaɬo /hachi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="ɬaɬo ichokhiska"></a>ɬaɬo ichokhiska</b> </font>
+<font size="+2">catfish whiskers </font>
+&nbsp; [/ɬaɬo /ichokhiska]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="ɬaɬo imaissi"></a>ɬaɬo imaissi</b> </font>
+<font size="+2">grass sp. </font>
+&nbsp;<font color="#080000">Cul:  Rub this on bait to attract fish.</font>&nbsp;
+&nbsp; [/ɬaɬo im- /aissi]
+<br><font size="+2"><b><a name="ɬaɬo imilpa"></a>ɬaɬo imilpa</b> </font>
+<font size="+2">bait (for fishing)</font>
+&nbsp; [/ɬaɬo im-il- /(i)pa]
+<br><font size="+2"><b><a name="ɬaɬo imokwàyka iⁿholisso"></a>ɬaɬo imokwàyka iⁿholisso</b> </font>
+<font size="+2">fishing license</font>
+&nbsp; [/ɬaɬo /imokwày-ka<sup>1</sup> im- /ho&lt;li&gt;sso]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="ɬaɬo imokwàyli"></a>ɬaɬo imokwàyli</b> </font>
+<font size="+2">fisherman, angler; fishing pole</font>
+&nbsp;<font size="0">(DB)</font>
+&nbsp; [/ɬaɬo /imokwàyli]
+<br><font size="+2"><b><a name="ɬaɬo iⁿfaskachi"></a>ɬaɬo iⁿfaskachi</b> </font>
+<font size="+2">fish scale</font>
+&nbsp; [/ɬaɬo im- /fas-ka<sup>1</sup>-chi<sup>2</sup>]
+<br><font size="+2"><b><a name="ɬaɬo istabailka"></a>ɬaɬo istabailka</b> </font>
+<font size="+2">stringer (for fish)</font>
+&nbsp; [/ɬaɬo ist- /taba&lt;h&gt;t&lt;il&gt;-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="ɬaɬo istimooyatakka"></a>ɬaɬo istimooyatakka</b> </font>
+<font size="+2">trotline </font>
+&nbsp; [/ɬaɬo ist-im- /oo- /atak(aa)-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="ɬaɬo istokbohòokachi"></a>ɬaɬo istokbohòokachi</b> </font>
+<font size="+2">throw net (for fish)</font>
+&nbsp; [/ɬaɬo ist- /okbohòo-ka<sup>1</sup>-chi<sup>1</sup>]
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="ɬaɬo istokhiɬilka"></a>ɬaɬo istokhiɬilka</b> </font>
+<font size="+2">fish net</font>
+&nbsp; [/ɬaɬo ist- /okhiɬ&lt;il&gt;-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="ɬaɬokwàayli"></a>ɬaɬokwàayli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="ll.htm#ɬaɬokwàyli">ɬaɬokwàyli</a>&nbsp;
+<br><font size="+2"><b><a name="ɬaɬokwàyli"></a>ɬaɬokwàyli</b> </font>
+<font size="+2">fisherman, angler; kingfisher </font>
+&nbsp; [/ɬaɬo /imokway-li]
+ [<i>fgr</i>]
+&nbsp;<font size="0">(CS, IB)</font>
+<br><font size="+2"><b><a name="ɬaɬon oosoofi"></a>ɬaɬon oosoofi</b> </font>
+<font size="+2">to stock (a lake or pond) with fish</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [/ɬaɬo-n oo- /soofi]
+&nbsp;<font face="Arial">«</font>∥aɬon oosoofiliti ayiipifan.
+ <i>I stocked the lake with fish.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#soofi">soofi</a>
+<br><font size="+2"><b><a name="ɬaɬo okbohòolichi"></a>ɬaɬo okbohòolichi</b> </font>
+<font size="+2">to seine with a tow sack (burlap sack), net fish using a tow sack</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [/ɬaɬo /okbohòo-li-chi<sup>1</sup>]
+&nbsp;<font size="0">(IB)</font>
+ <i>Var: ɬaɬo okbòolichi</i>
+ ☞<a href="o.htm#okbohòolichi">okbohòolichi</a>
+<br><font size="+2"><b><a name="ɬaɬo okbòolichi"></a>ɬaɬo okbòolichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="ll.htm#ɬaɬo okbohòolichi">ɬaɬo okbohòolichi</a>&nbsp;
+<br><font size="+2"><b><a name="ɬaɬo ooyilba iⁿholisso"></a>ɬaɬo ooyilba iⁿholisso</b> </font>
+<font size="+2">fishing license</font>
+&nbsp; [/ɬaɬo oo-il- /(i)bi-a im- /ho&lt;li&gt;sso]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="ɬaɬooyìibi"></a>ɬaɬooyìibi</b> </font>
+<font size="+2">kingfisher </font>
+&nbsp; [/ɬaɬo oo- /(i)bi]
+<br><font size="+2"><b><a name="ɬaɬo sahlichi"></a>ɬaɬo sahlichi</b> </font>
+<font size="+2">to scrape scales off fish </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [/ɬaɬo /sah-li-chi<sup>2</sup>]
+ ☞<a href="s.htm#sahlichi">sahlichi</a>
+<br><font size="+2"><b><a name="ɬaɬosholikba"></a>ɬaɬosholikba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="ll.htm#ɬaɬisholikbi">ɬaɬisholikbi</a>&nbsp;
+<br><font size="+2"><b><a name="ɬaɬostimoobalàaka"></a>ɬaɬostimoobalàaka</b> </font>
+<font size="+2">trotline </font>
+&nbsp; [/ɬaɬo ist-im-oo- /balaa-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="ɬamachko"></a>ɬamachko</b> </font>
+ <i>Var. of</i>&nbsp;<a href="ll.htm#ɬimichko">ɬimichko</a>&nbsp;
+<br><font size="+2"><b><a name="ɬamatsko"></a>ɬamatsko</b> </font>
+ <i>Var. of</i>&nbsp;<a href="ll.htm#ɬimichko">ɬimichko</a>&nbsp;
+<br><font size="+2"><b><a name="ɬankochi"></a>ɬankochi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="ll.htm#ɬinkochi">ɬinkochi</a>&nbsp;
+<br><font size="+2"><b><a name="ɬatof-"></a>ɬatof-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬatoffi">ɬatoffi</a></i>
+&nbsp;to burst
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#onaɬatoffi">onaɬatoffi</a></i>
+&nbsp;to smash something
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istonaɬatofka">istonaɬatofka</a></i>
+&nbsp;welding torch
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬatòoli">ɬatòoli</a></i>
+&nbsp;to burst
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬatofka">ɬatofka</a></i>
+&nbsp;to burst open; to ooze (sg.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬatòoka">ɬatòoka</a></i>
+&nbsp;to burst open; to ooze (pl.)
+<br><font size="+2"><b><a name="ɬatoffi"></a>ɬatoffi</b> </font>
+<font size="+2">to squeeze open, break open, burst, pop (a boil, blister, pimple, or sore) </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>ɬatofchi, ɬatofhili, ɬatofhachi</i>)
+&nbsp; [/ɬatof-li]
+ <i>Pl: </i>ɬatòoli
+ ☞<a href="ll.htm#ɬatof-">ɬatof-</a>
+<br><font size="+2"><b><a name="ɬatofka"></a>ɬatofka</b> </font>
+<font size="+2">to burst, break open, ooze pus (of a boil); to be burst and runny (of one)</font>
+&nbsp; [/ɬatof-ka<sup>1</sup>]
+ <i>Pl: </i>ɬatòoka
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="ll.htm#ɬatof-">ɬatof-</a>
+<br><font size="+2"><b><a name="ɬatòoka"></a>ɬatòoka</b> </font>
+<font size="+2">to burst or break open and spew or gush out (as eggs), come to a head and burst (of boils); to ooze pus (of more than one)</font>
+&nbsp; [/ɬato(f)-ka<sup>1</sup>]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="ll.htm#ɬatofka">ɬatofka</a>
+<br><font size="+2"><b><a name="ɬatòoli"></a>ɬatòoli</b> </font>
+<font size="+2">to squeeze open, break open, burst (anything runny such as boils or eggs)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬatòochi, ɬatòohili, ɬatòohachi</i>)
+&nbsp; [/ɬato(f)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="ll.htm#ɬatoffi">ɬatoffi</a>
+<br><font size="+2"><b><a name="ɬibaata"></a>ɬibaata</b> </font>
+<font size="+2">to be narrow, thin</font>
+ <i>Var: ɬabaata</i>
+&nbsp;<font face="Arial">«</font>Hiniɬabaata.
+ <i>Narrow road, alley.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hiniya ɬibaataamoolo.
+ <i>The road is too narrow.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬibáatàssi">ɬibáatàssi</a></i>
+&nbsp;to be narrow
+<br><font size="+2"><b><a name="ɬibáatàssi"></a>ɬibáatàssi</b> </font>
+<font size="+2">to be narrow</font>
+&nbsp; [/ɬibaata-osi-hchi]
+ [<i>fgr</i>]
+ ☞<a href="ll.htm#ɬibaata">ɬibaata</a>
+<br><font size="+2"><b><a name="ɬibihli"></a>ɬibihli</b> </font>
+<font size="+2">to slip in, slip through an opening that is not a regular entrance (e.g. enter through a window), to go through a hole (e.g. in a fence), step into (a hole) (of a few); to drain, strain</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>-, ɬibihhili, ɬibihhachi</i>)
+&nbsp; [/ɬibi&lt;h&gt;t-li]
+ ☞<a href="ll.htm#ɬibitli">ɬibitli</a>
+<br><font size="+2"><b><a name="ɬibìili"></a>ɬibìili</b> </font>
+<font size="+2">to slip in, slip through an opening that is not a regular entrance (e.g. enter through a window), to go through a hole (e.g. in a fence), step into a hole (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, ɬibìihili, ɬibìihachi</i>)
+&nbsp; [/ɬibi(t)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="ll.htm#ɬibitli">ɬibitli</a>
+<br><font size="+2"><b><a name="ɬibítko"></a>ɬibítko</b> </font>
+ Neg.
+ ☞<a href="ll.htm#ɬibitli">ɬibitli</a>
+<br><font size="+2"><b><a name="ɬibitli"></a>ɬibitli</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to slip in, slip through (an opening that is not a regular entrance, such as enter through a window), to go through (a hole as in a fence), step into (a hole) (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>ɬibitchi, -, -</i>)
+&nbsp; [/ɬibit-li]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;2.&nbsp;
+<font size="+2">to step or sink into a hole accidentally</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chaɬibitlo.
+ <i>I stepped into a hole accidentally.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬibítko">ɬibítko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inɬibitli">inɬibitli</a></i>
+&nbsp;to have something drop into a hole
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istooɬibitli">istooɬibitli</a></i>
+&nbsp;to fall through
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬibihli">ɬibihli</a></i>
+&nbsp;to go through a hole (of a few)
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬibìili">ɬibìili</a></i>
+&nbsp;to go through a hole (pl.)
+<br><font size="+2"><b><a name="ɬibòoli"></a>ɬibòoli</b> </font>
+<font size="+2">to repeatedly mash, make mushy, smash, squash, make soft</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>ɬibòochi, ɬibòohili, ɬibòohachi</i>)
+&nbsp; [/ɬibo(s)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="ll.htm#ɬibosli">ɬibosli</a>
+<br><font size="+2"><b><a name="ɬiboska"></a>ɬiboska</b> </font>
+<font size="+2">to be soft (of food), mushy, overripe, overdone, bruised (of fruit)</font>
+&nbsp; [/ɬibos-ka<sup>1</sup>]
+ ☞<a href="ll.htm#ɬibosli">ɬibosli</a>
+<br><font size="+2"><b><a name="ɬibosli"></a>ɬibosli</b> </font>
+<font size="+2">to mash, make mushy, smash, make soft, squash</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>ɬibossi, ɬiboshili, ɬiboshachi</i>)
+&nbsp; [/ɬibos-li]
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬiboska">ɬiboska</a></i>
+&nbsp;to be soft (of food)
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬibòoli">ɬibòoli</a></i>
+&nbsp;to repeatedly mash
+<br><font size="+2"><b><a name="ɬiffi"></a>ɬiffi</b> </font>
+<font size="+2">to strip leaves off a branch (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>ɬifchi, -, -</i>)
+&nbsp; [/ɬif-li]
+<br><font size="+2"><b><a name="ɬihka"></a>ɬihka</b> </font>
+<font size="+2">to comb (the hair)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>ɬihiska, ɬihilka, ɬihaska</i>)
+&nbsp; [/ɬih-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chahissin ɬihkalo.
+ <i>I combed my hair.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬiilka">ɬiilka</a></i>
+&nbsp;to be combed
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿɬihka">iⁿɬihka</a></i>
+&nbsp;to comb (the hair) for
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬihoka">ɬihoka</a></i>
+ Imp.
+<br><font size="+2"><b><a name="ɬihka"></a>ɬihka</b><sup>1</sup> </font>
+<font size="+2">the letter `ɬ' (barred L)</font>
+&nbsp; [/ɬih-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="ɬihlichi"></a>ɬihlichi</b> </font>
+<font size="+2">to shave</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>ɬihchichi, ɬihhilichi, ɬihhachichi</i>)
+&nbsp; [poss. /ɬih-li-chi<sup>1</sup>]
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iliɬihlichi">iliɬihlichi</a></i>
+&nbsp;to shave oneself
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿɬihlichi">iⁿɬihlichi</a></i>
+&nbsp;to shave (someone)
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichooɬihlichi">ichooɬihlichi</a></i>
+&nbsp;to shave the face of
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ilichooɬihlichi">ilichooɬihlichi</a></i>
+&nbsp;to shave the face
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istilichooɬihkachi">istilichooɬihkachi</a></i>
+&nbsp;razor
+<br>&nbsp;&nbsp;<i><a href="i2.htm#isɬihkachi">isɬihkachi</a></i>
+&nbsp;razor
+<br><font size="+2"><b><a name="ɬihoka"></a>ɬihoka</b> </font>
+ Imp.
+ ☞<a href="ll.htm#ɬihka">ɬihka</a>
+<br><font size="+2"><b><a name="ɬiiffi"></a>ɬiiffi</b> </font>
+<font size="+2">to sprain (a muscle), hurt (the back) </font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬiifchi, ɬiifhili, ɬiifhachi</i>)
+&nbsp; [/ɬiif-li]
+&nbsp;<font size="0">(VC)</font>
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬiifka">ɬiifka</a></i>
+&nbsp;to have a sprain
+<br>&nbsp;&nbsp;<i><a href="p.htm#paaɬiifka">paaɬiifka</a></i>
+&nbsp;to strain one's back
+<br><font size="+2"><b><a name="ɬiifka"></a>ɬiifka</b><sup>1</sup> </font>
+<font size="+2">to have a sprain, pulled or strained muscle</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/ɬiif-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chaɬiifka.
+ <i>My lower back hurts.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="ll.htm#ɬiiffi">ɬiiffi</a>
+<br><font size="+2"><b><a name="ɬiifka"></a>ɬiifka</b><sup>2</sup> </font>
+<font size="+2">to strip leaves off a branch (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>ɬiifiska, -, -</i>)
+&nbsp; [/ɬiif-ka<sup>1</sup>]
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="ɬiihka"></a>ɬiihka</b> </font>
+<font size="+2">to pull off, strip off (e.g. leaves from a branch) (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>-, ɬiihilka, ɬiihaska</i>)
+&nbsp; [/ɬiih-ka<sup>1</sup>]
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ibisaanin ɬiihka">ibisaanin ɬiihka</a></i>
+&nbsp;to blow the nose
+<br><font size="+2"><b><a name="ɬiilka"></a>ɬiilka</b> </font>
+<font size="+2">to be combed</font>
+&nbsp; [/ɬih&lt;il&gt;-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chahissiya ɬiilkatoha.
+ <i>My hair is combed.</i><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬihka">ɬihka</a>
+<br><font size="+2"><b><a name="ɬìilka"></a>ɬìilka</b> </font>
+<font size="+2">to have tears in several places</font>
+&nbsp; [/ɬil(af)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ [<i>fgr</i>]
+ ☞<a href="ll.htm#ɬilka">ɬilka</a>
+<br><font size="+2"><b><a name="ɬìipka"></a>ɬìipka</b> </font>
+<font size="+2">to be turned upside down, turned over (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, ɬìpilka, ɬìipaska</i>)
+&nbsp; [/ɬip(ìi)-ka<sup>1</sup>]
+ [<i>fgr</i>]
+ [<i>dsfx1</i>]
+ ☞<a href="ll.htm#ɬipka2">ɬipka<sup>2</sup></a>
+<br><font size="+2"><b><a name="ɬikaaya"></a>ɬikaaya</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be wet, damp, soggy, sweaty</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [prob. /ɬikay-a]
+&nbsp;2.&nbsp;
+<font size="+2">wet place, puddle</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="ll.htm#ɬikayli">ɬikayli</a>
+<br><font size="+2"><b><a name="ɬikáayàssi"></a>ɬikáayàssi</b> </font>
+<font size="+2">to be damp, slightly wet</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/ɬikaaya-osi-hchi]
+ [<i>fgr</i>]
+ ☞<a href="ll.htm#ɬikaaya">ɬikaaya</a>
+<br><font size="+2"><b><a name="ɬikaayatilka"></a>ɬikaayatilka</b> </font>
+<font size="+2">dampness, wetness</font>
+&nbsp; [/ɬikaaya-tilka]
+ ☞<a href="ll.htm#ɬikaaya">ɬikaaya</a>
+<br><font size="+2"><b><a name="ɬikakìiyo"></a>ɬikakìiyo</b> </font>
+ Neg.
+ ☞<a href="ll.htm#ɬikaaya">ɬikaaya</a>
+<br><font size="+2"><b><a name="ɬikaliiya"></a>ɬikaliiya</b> </font>
+<font size="+2">dampness, wetness</font>
+&nbsp; [/ɬika&lt;li&gt;aya]
+&nbsp;<font face="Arial">«</font>∥ikaliiyaya kasatkahchi.
+ <i>The wetness is cold.</i><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬikaaya">ɬikaaya</a>
+<br><font size="+2"><b><a name="ɬikayka"></a>ɬikayka</b> </font>
+<font size="+2">to be wetted, get wet</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/ɬikay-ka<sup>1</sup>]
+ ☞<a href="ll.htm#ɬikayli">ɬikayli</a>
+<br><font size="+2"><b><a name="ɬikáyko"></a>ɬikáyko</b> </font>
+ Neg.
+ ☞<a href="ll.htm#ɬikayli">ɬikayli</a>
+<br><font size="+2"><b><a name="ɬikayli"></a>ɬikayli</b> </font>
+<font size="+2">to make wet</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬikaychi, ɬikayhili, ɬikayhachi</i>)
+&nbsp; [/ɬikay-li]
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬikáyko">ɬikáyko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬikayka">ɬikayka</a></i>
+&nbsp;to get wet
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬikaaya">ɬikaaya</a></i>
+&nbsp;to be wet
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬikakìiyo">ɬikakìiyo</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬikaliiya">ɬikaliiya</a></i>
+&nbsp;wetness
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬikaayatilka">ɬikaayatilka</a></i>
+&nbsp;wetness
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬikáayàssi">ɬikáayàssi</a></i>
+&nbsp;to be damp
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬíkkàaya">ɬíkkàaya</a></i>
+&nbsp;to be wetter
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ibiiɬikaaya">ibiiɬikaaya</a></i>
+&nbsp;to have a sweaty face
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isɬikaaya">isɬikaaya</a></i>
+&nbsp;to sweat
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#illokbat ɬikaaya">illokbat ɬikaaya</a></i>
+&nbsp;to get hot and sweaty
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬikaylichi">ɬikaylichi</a></i>
+&nbsp;to make (someone) wet (something)
+<br><font size="+2"><b><a name="ɬikaylichi"></a>ɬikaylichi</b> </font>
+<font size="+2">to make (someone) wet (something)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-/3</font>
+&nbsp;(<i>ɬikaychichi, ɬikayhilichi, ɬikayhachichi</i>)
+&nbsp; [/ɬikay-li-chi<sup>1</sup>]
+ ☞<a href="ll.htm#ɬikayli">ɬikayli</a>
+<br><font size="+2"><b><a name="ɬikihkachi"></a>ɬikihkachi</b> </font>
+<font size="+2">to wheeze, make a raspy, wheezy or gurgling noise in breathing; to purr (of a cat)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [prob. /ɬikih-ka<sup>1</sup>-chi<sup>2</sup>]
+&nbsp;<font face="Arial">«</font>Chaɬikihkachihchonko.
+ <i>I'm wheezing.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬikihkachitíkko">ɬikihkachitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬikikihkachi">ɬikikihkachi</a></i>
+&nbsp;to produce a death rattle
+<br><font size="+2"><b><a name="ɬikihkachitíkko"></a>ɬikihkachitíkko</b> </font>
+ Neg.
+ ☞<a href="ll.htm#ɬikihkachi">ɬikihkachi</a>
+<br><font size="+2"><b><a name="ɬikikihkachi"></a>ɬikikihkachi</b> </font>
+<font size="+2">to produce a death rattle, make snorting, gurgling noises (of a dying person or animal)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/ɬi&lt;ki&gt;kih-ka<sup>1</sup>-chi<sup>2</sup>; prob. reduplicated form]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="ll.htm#ɬikihkachi">ɬikihkachi</a>
+<br><font size="+2"><b><a name="ɬíkkàaya"></a>ɬíkkàaya</b> </font>
+<font size="+2">to be wetter</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>∥íkkàaya yàaloolo.
+ <i>It's pretty wet.</i><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬikaaya">ɬikaaya</a>
+<br><font size="+2"><b><a name="ɬikònɬa"></a>ɬikònɬa</b> </font>
+<font size="+2">hummingbird</font>
+ <i>Var: ɬikónɬa</i>
+&nbsp;<font size="0">(DB)</font>
+ <i>Var: ɬikónta</i>
+&nbsp;<font size="0">(IB, DB)</font>
+<br><font size="+2"><b><a name="ɬikónta"></a>ɬikónta</b> </font>
+ <i>Var. of</i>&nbsp;<a href="ll.htm#ɬikònɬa">ɬikònɬa</a>&nbsp;
+<br><font size="+2"><b><a name="ɬilaffi"></a>ɬilaffi</b> </font>
+<font size="+2">to tear (something) once</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>ɬilafchi, ɬilafhili, ɬilafhachi</i>)
+&nbsp; [/ɬilaf-li]
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬilafka">ɬilafka</a></i>
+&nbsp;to be torn
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿɬilafka">iⁿɬilafka</a></i>
+&nbsp;to have broken skin
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬíllafka">ɬíllafka</a></i>
+&nbsp;to have a tear, be tearing
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬilli">ɬilli</a></i>
+&nbsp;to tear into pieces
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬilka">ɬilka</a></i>
+&nbsp;to be torn in several places
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬìilka">ɬìilka</a></i>
+&nbsp;to have tears in several places
+<br><font size="+2"><b><a name="ɬilafka"></a>ɬilafka</b> </font>
+<font size="+2">to be torn </font>
+&nbsp; [/ɬilaf-ka<sup>1</sup>]
+ <i>Pl: </i>ɬilka
+ ☞<a href="ll.htm#ɬilaffi">ɬilaffi</a>
+<br><font size="+2"><b><a name="ɬilka"></a>ɬilka</b> </font>
+<font size="+2">to be torn in several places, several torn</font>
+&nbsp; [/ɬil(af)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="ll.htm#ɬilli">ɬilli</a>
+<br><font size="+2"><b><a name="ɬíllafka"></a>ɬíllafka</b> </font>
+<font size="+2">to have a tear, be tearing (of one)</font>
+ [<i>ggr</i>]
+ ☞<a href="ll.htm#ɬilafka">ɬilafka</a>
+<br><font size="+2"><b><a name="ɬilli"></a>ɬilli</b> </font>
+<font size="+2">to tear into pieces; to buy pieces of material</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>ɬilchi, ɬilhili, ɬilhachi</i>)
+&nbsp; [/ɬil(af)-li]
+ [<i>dsfx1</i>]
+ ☞<a href="ll.htm#ɬilaffi">ɬilaffi</a>
+<br><font size="+2"><b><a name="ɬimichko"></a>ɬimichko</b> </font>
+<font size="+2">to be smooth</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ <i>Var: ɬamachko</i>
+ <i>Var: ɬamatsko</i>
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬinko">ɬinko</a></i>
+&nbsp;to be smooth
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paaɬinko">paaɬinko</a></i>
+&nbsp;to have a smooth top
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isɬinko">isɬinko</a></i>
+&nbsp;plane, iron
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬinkochi">ɬinkochi</a></i>
+&nbsp;to smooth out
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬinkochitíkko">ɬinkochitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬimichkochi">ɬimichkochi</a></i>
+&nbsp;to smooth out (sg.)
+<br><font size="+2"><b><a name="ɬimichkochi"></a>ɬimichkochi</b> </font>
+<font size="+2">to make smooth (sg.)</font>
+ (may refer to ironing clothing, sanding lumber, planing wood, shining shoes, etc.)
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬimichkochiska, ɬimichkochilka, ɬimichkochaska</i>)
+&nbsp;(<i>ɬimichkochitiska, ɬimichkochitilka, ɬimichkochitaska</i>)
+&nbsp; [/ɬimichko-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="ll.htm#ɬimichko">ɬimichko</a>
+<br><font size="+2"><b><a name="ɬinìili"></a>ɬinìili</b> </font>
+<font size="+2">to be sore from some trauma, hurt from a hit (in more than one place) </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/ɬini(t)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Itabalàakalitok chaɬinìiliimon nihto.
+ <i>I slept on the floor and have bruises today.</i><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬinitli">ɬinitli</a>
+<br><font size="+2"><b><a name="ɬinitli"></a>ɬinitli</b> </font>
+<font size="+2">to have a sore place or hurt from a hit (but not necessarily bruised) </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/ɬinit-li]
+&nbsp;<font face="Arial">«</font>Ankottìinafan chaɬinitliiso.
+ <i>I'm bruised on my hip.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿɬinitli">iⁿɬinitli</a></i>
+&nbsp;to have a bruise
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬinitlichi">ɬinitlichi</a></i>
+&nbsp;to bruise something
+<br>&nbsp;&nbsp;<i><a href="p.htm#paaɬinitli">paaɬinitli</a></i>
+&nbsp;to bruise the back
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬinìili">ɬinìili</a></i>
+&nbsp;to be sore from some trauma (pl.)
+<br><font size="+2"><b><a name="ɬinitlichi"></a>ɬinitlichi</b> </font>
+<font size="+2">to bruise or make sore (in one place)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬinitchichi, ɬinithilichi, ɬinithachichi</i>)
+&nbsp; [/ɬinit-li-chi<sup>1</sup>]
+ ☞<a href="ll.htm#ɬinitli">ɬinitli</a>
+<br><font size="+2"><b><a name="ɬinko"></a>ɬinko</b> </font>
+<font size="+2">to be smooth (of more than one)</font>
+&nbsp; [/ɬim(ich)ko]
+ [<i>dsfx1</i>]
+ ☞<a href="ll.htm#ɬimichko">ɬimichko</a>
+<br><font size="+2"><b><a name="ɬinkochi"></a>ɬinkochi</b> </font>
+<font size="+2">to make (something) smooth</font>
+ (may refer to ironing clothing, sanding lumber, planing wood, shining shoes, etc.)
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬinkochitilka, ɬinkochitilka, ɬinkochitaska</i>)
+&nbsp;(<i>ɬinkochiska, ɬinkochiilka, ɬinkochaska</i>)
+&nbsp; [/ɬim(ich)ko-chi<sup>1</sup>]
+ [<i>dsfx1</i>]
+ <i>Neg: </i>ɬinkochitíkko
+ <i>Var: ɬankochi</i>
+ ☞<a href="ll.htm#ɬinko">ɬinko</a>
+<br><font size="+2"><b><a name="ɬinkochitíkko"></a>ɬinkochitíkko</b> </font>
+ Neg.
+ ☞<a href="ll.htm#ɬinkochi">ɬinkochi</a>
+<br><font size="+2"><b><a name="ɬipìi-"></a>ɬipìi-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬipìili">ɬipìili</a></i>
+&nbsp;to turn (something) upside down (sg. obj.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬíppìili">ɬíppìili</a></i>
+&nbsp;to have turned upside down
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬíppìika">ɬíppìika</a></i>
+&nbsp;to be turned upside down
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬipli">ɬipli</a></i>
+&nbsp;to turn (something) upside down (pl. obj.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬipka">ɬipka</a></i>
+&nbsp;to be turned upside down
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬìipka">ɬìipka</a></i>
+&nbsp;to be turned upside down
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#aɬipìili">aɬipìili</a></i>
+&nbsp;to cover
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ilaɬipìili">ilaɬipìili</a></i>
+&nbsp;to cover oneself, hide
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#aɬipìika">aɬipìika</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be covered
+&nbsp;2.&nbsp;
+&nbsp;to be closed up
+&nbsp;3.&nbsp;
+&nbsp;cover
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#aɬipli">aɬipli</a></i>
+&nbsp;to cover
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬipìika">ɬipìika</a></i>
+&nbsp;to bow the head
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#itaɬipìika">itaɬipìika</a></i>
+&nbsp;to bow the head
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬipka">ɬipka</a></i>
+&nbsp;to bow down (repeatedly)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#itaɬipka">itaɬipka</a></i>
+&nbsp;to bow down (repeatedly)
+<br>&nbsp;&nbsp;<i><a href="y.htm#yaaɬipìika">yaaɬipìika</a></i>
+&nbsp;to put on (a scarf or mask)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="y.htm#yaaɬipiíkko">yaaɬipiíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isyaaɬipìika">isyaaɬipìika</a></i>
+&nbsp;mask
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="y.htm#yaaɬíppìika">yaaɬíppìika</a></i>
+&nbsp;to wear (a scarf or mask)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istilibiyaaɬipìika">istilibiyaaɬipìika</a></i>
+&nbsp;mask
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="y.htm#yaaɬipìilka">yaaɬipìilka</a></i>
+&nbsp;woman's bonnet
+<br><font size="+2"><b><a name="ɬipìika"></a>ɬipìika</b> </font>
+<font size="+2">to bow the head or at the waist, duck the head, face downward (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>ɬipìihiska, -, -</i>)
+&nbsp; [/ɬipìi-ka<sup>1</sup>]
+ <i>Pl: </i>ɬipka
+ <i>Var: ɬipíika</i>
+&nbsp;<font size="0">(IB)</font>
+ ☞<a href="ll.htm#ɬipìi-">ɬipìi-</a>
+<br><font size="+2"><b><a name="ɬipìili"></a>ɬipìili</b> </font>
+<font size="+2">to turn (one object with a top and bottom) upside down </font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬipìichi, ɬipìihili, ɬipìihachi</i>)
+&nbsp; [/ɬipìi-li]
+ <i>Pl: </i>ɬipli
+ ☞<a href="ll.htm#ɬipìi-">ɬipìi-</a>
+<br><font size="+2"><b><a name="ɬipka"></a>ɬipka</b><sup>1</sup> </font>
+<font size="+2">to be turned upside down, turned over (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/ɬip(ìi)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="ll.htm#ɬipli">ɬipli</a>
+<br><font size="+2"><b><a name="ɬipka"></a>ɬipka</b><sup>2</sup> </font>
+<font size="+2">to bow down (repeatedly or plural)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>ɬipiska, ɬipilka, ɬipaska</i>)
+&nbsp; [/ɬip(ìi)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ [<i>fgr</i>]
+ ☞<a href="ll.htm#ɬipìika">ɬipìika</a>
+<br><font size="+2"><b><a name="ɬipli"></a>ɬipli</b> </font>
+<font size="+2">to turn (plural objects) upside down</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬipchi, ɬiphili, ɬiphachi</i>)
+&nbsp; [/ɬip(ìi)-li]
+ [<i>dsfx1</i>]
+ ☞<a href="ll.htm#ɬipìili">ɬipìili</a>
+<br><font size="+2"><b><a name="ɬíppìika"></a>ɬíppìika</b> </font>
+<font size="+2">to be bent over, have the head bowed, turned upside down, turned over (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>ɬíppìihiska, -, -</i>)
+&nbsp; [/ɬipìi-ka<sup>1</sup>]
+ [<i>ggr</i>]
+ ☞<a href="ll.htm#ɬipìika">ɬipìika</a>
+<br><font size="+2"><b><a name="ɬíppìili"></a>ɬíppìili</b> </font>
+<font size="+2">to have (one object) turned upside down </font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬíppìichi, ɬíppìihili, ɬíppìihachi</i>)
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>∥íppìililo chabannaamo.
+ <i>If you want it, I have it turned over.</i><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬipìili">ɬipìili</a>
+<br><font size="+2"><b><a name="ɬobaffi"></a>ɬobaffi</b> </font>
+<font size="+2">to make a hole through (as with an auger), drill a hole, pierce through once</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>ɬobafchi, ɬobafhili, ɬobafhachi</i>)
+&nbsp; [/ɬobaf-li]
+&nbsp;<font face="Arial">«</font>Chissik chimilokfan ɬobaffiisaaba.
+ <i>The mouse put a hole in your dress.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬómbaffi">ɬómbaffi</a></i>
+&nbsp;to have a hole
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬobafka">ɬobafka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;perforation
+&nbsp;2.&nbsp;
+&nbsp;to have gotten a hole
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬobafíkko">ɬobafíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬómbafka">ɬómbafka</a></i>
+&nbsp;to have a hole through
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿɬómbafka">iⁿɬómbafka</a></i>
+&nbsp;to have a hole through a possession
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istiⁿɬobafka">istiⁿɬobafka</a></i>
+&nbsp;hand drill
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬombi">ɬombi</a></i>
+&nbsp;to make holes
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬomka">ɬomka</a></i>
+&nbsp;perforations
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬòomka">ɬòomka</a></i>
+&nbsp;to have holes
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬomhíkko">ɬomhíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="ɬobafíkko"></a>ɬobafíkko</b> </font>
+ Neg.
+ ☞<a href="ll.htm#ɬobafka">ɬobafka</a>
+<br><font size="+2"><b><a name="ɬobafka"></a>ɬobafka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">hole, perforation (e.g. in a shoe or container); buttonhole </font>
+&nbsp; [/ɬobaf-ka<sup>1</sup>]
+ <i>Pl: </i>ɬomka
+ <i>Neg: </i>ɬobáfíkko
+&nbsp;2.&nbsp;
+<font size="+2">to have gotten a hole</font>
+ ☞<a href="ll.htm#ɬobaffi">ɬobaffi</a>
+<br><font size="+2"><b><a name="ɬohli"></a>ɬohli</b> </font>
+<font size="+2">to chase, run down, run after</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬohchi, ɬohhili, ɬohhachi</i>)
+&nbsp; [/ɬoh-li]
+ <i>Var: ɬooli</i>
+<br>&nbsp;&nbsp;<i><a href="i2.htm#isɬooli">isɬooli</a></i>
+&nbsp;to use dogs to chase down game
+<br>&nbsp;&nbsp;<i><a href="m.htm#maaɬohli">maaɬohli</a></i>
+&nbsp;to chase after
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬohlichi">ɬohlichi</a></i>
+&nbsp;to hunt with dogs
+<br><font size="+2"><b><a name="ɬohlichi"></a>ɬohlichi</b> </font>
+<font size="+2">to run (dogs after game), hunt with dogs</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬohchichi, ɬohhilichi, ɬohhachichi</i>)
+&nbsp; [/ɬoh-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Maapínhakáhchon amaakák nitóot hoɬoolit ifan ifa stittanowwásta ifan hoɬoolichiifòokok nákson oimatàakat ìisatoofòokok iⁿɬopotliifòokon oibihchootoolo.
+ <i>They went somewhere off over that way and chased bears and they took dogs with them when they used dogs to chase bears and they would stay somewhere and head it off and when it came past them they used to kill it.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬohli">ɬohli</a>
+<br><font size="+2"><b><a name="ɬohpo"></a>ɬohpo</b> </font>
+<font size="+2">purple thistle with sharp thorns </font>
+&nbsp;<font color="#080000">Cul:  Used to make blowgun darts.</font>&nbsp;
+&nbsp;<font size="0">(DB)</font>
+; <font size="+2">blowgun dart</font>
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="ɬokkobátko"></a>ɬokkobátko</b> </font>
+ Neg.
+ ☞<a href="ll.htm#ɬokkobatli">ɬokkobatli</a>
+<br><font size="+2"><b><a name="ɬokkobatli"></a>ɬokkobatli</b> </font>
+<font size="+2">to have a blister, swelling (from a bite), welt (as from spanking) on (a part of the body) </font>
+&nbsp;<font color="#800080" size="+1">3/AM-</font>
+&nbsp; [/ɬokkobat-li]
+&nbsp;<font face="Arial">«</font>Chalbipáanak ampaaɬokkobatlo.
+ <i>The top of my hand has a blister on it.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬokkobátko">ɬokkobátko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬokkobatlichi">ɬokkobatlichi</a></i>
+&nbsp;to cause to blister
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿɬokkobatlichi">iⁿɬokkobatlichi</a></i>
+&nbsp;to cause a blister on (a part of the body)
+<br><font size="+2"><b><a name="ɬokkobatlichi"></a>ɬokkobatlichi</b> </font>
+<font size="+2">to cause to blister</font>
+&nbsp;<font color="#800080" size="+1">3/CHA-</font>
+&nbsp; [/ɬokkobat-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Wilok chaɬokkobatlichiiso.
+ <i>The shoes have blistered me.</i><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬokkobatli">ɬokkobatli</a>
+<br><font size="+2"><b><a name="ɬokɬoⁿhka"></a>ɬokɬoⁿhka</b> </font>
+<font size="+2">to snort, oink, grunt </font>
+<br><font size="+2"><b><a name="ɬolohka"></a>ɬolohka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="ll.htm#ɬololohka">ɬololohka</a>&nbsp;
+<br><font size="+2"><b><a name="ɬololohka"></a>ɬololohka</b> </font>
+<font size="+2">to slurp, sip slowly (as when drinking hot coffee), make noise while drinking; to gargle (medicine)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>ɬololohiska, ɬololohilka, ɬololohaska</i>)
+&nbsp; [prob. /ɬo&lt;lo&gt;loh-ka<sup>1</sup>]
+ <i>Var: ɬolopka</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: ɬolohka</i>
+&nbsp;<font size="0">(IB, DB)</font>
+<br>&nbsp;&nbsp;<i><a href="o.htm#okɬolohka">okɬolohka</a></i>
+&nbsp;to slurp; to strain
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istokɬolohka">istokɬolohka</a></i>
+&nbsp;to eat messily
+<br><font size="+2"><b><a name="ɬolopka"></a>ɬolopka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="ll.htm#ɬololohka">ɬololohka</a>&nbsp;
+<br><font size="+2"><b><a name="ɬolotli"></a>ɬolotli</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to creep, run, spread (of a vine), send out runners (of a plant), crawl (of a vine)</font>
+&nbsp;2.&nbsp;
+<font size="+2">vine, runner </font>
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="ɬómbaffi"></a>ɬómbaffi</b> </font>
+<font size="+2">to have made a hole through</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>ɬómbafchi, ɬómbafhili, ɬómbafhachi</i>)
+&nbsp; [/ɬobaf-li]
+ [<i>ggr</i>]
+ ☞<a href="ll.htm#ɬobaffi">ɬobaffi</a>
+<br><font size="+2"><b><a name="ɬómbafka"></a>ɬómbafka</b> </font>
+<font size="+2">to have a hole through</font>
+&nbsp; [/ɬobaf-ka<sup>1</sup>]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Ilokfak ɬómbafko.
+ <i>The dress has a hole through it.</i><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬobafka">ɬobafka</a>
+<br><font size="+2"><b><a name="ɬombi"></a>ɬombi</b> </font>
+<font size="+2">to make holes, drill holes</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>ɬomchi, ɬomhili, ɬomhachi</i>)
+&nbsp; [/ɬob(af)-li]
+ [<i>dsfx1</i>]
+ ☞<a href="ll.htm#ɬobaffi">ɬobaffi</a>
+<br><font size="+2"><b><a name="ɬomhíkko"></a>ɬomhíkko</b> </font>
+ Neg.
+ ☞<a href="ll.htm#ɬòomka">ɬòomka</a>
+<br><font size="+2"><b><a name="ɬomka"></a>ɬomka</b> </font>
+<font size="+2">holes, perforations</font>
+&nbsp; [/ɬob(af)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="ll.htm#ɬombi">ɬombi</a>
+<br><font size="+2"><b><a name="ɬòmka"></a>ɬòmka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="ll.htm#ɬòomka">ɬòomka</a>&nbsp;
+<br><font size="+2"><b><a name="ɬóok"></a>ɬóok</b> </font>
+ <i>Var. of</i>&nbsp;<a href="ll.htm#ɬóoka">ɬóoka</a>&nbsp;
+<br><font size="+2"><b><a name="ɬóokat"></a>ɬóokat</b> </font>
+<font size="+2">again, also</font>
+ [<i>short variant used in fast speech</i>]
+ <i>Var: ɬóok</i>
+&nbsp;<font face="Arial">«</font>∥óokat amila.
+ <i>Come here again.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="ɬooli"></a>ɬooli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="ll.htm#ɬohli">ɬohli</a>&nbsp;
+<br><font size="+2"><b><a name="ɬòomka"></a>ɬòomka</b> </font>
+<font size="+2">to have holes, be holey</font>
+&nbsp; [/ɬob(af)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ [<i>fgr</i>]
+ <i>Var: ɬòmka</i>
+ <i>Neg: </i>ɬòmhíkko
+&nbsp;<font face="Arial">«</font>Ilokfak ɬòmko.
+ <i>The dress has holes in it.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>∥òomkaaso.
+ <i>It got holes in it.</i><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬombi">ɬombi</a>
+<br><font size="+2"><b><a name="ɬopohka"></a>ɬopohka</b> </font>
+<font size="+2">to stab, pierce, prick (repeatedly)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬopohiska, ɬopohilka, ɬopohaska</i>)
+&nbsp; [/ɬopo&lt;h&gt;t-ka<sup>1</sup>]
+ ☞<a href="ll.htm#ɬopotka">ɬopotka</a>
+<br><font size="+2"><b><a name="ɬopòoli"></a>ɬopòoli</b> </font>
+<font size="+2">to pass through or by, cross in front of (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>-, ɬopòohili, ɬopòohachi</i>)
+&nbsp; [/ɬopo(t)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>...isfilkohkat stootalàakafòokan ontìichit onkok aksobáachitók ɬopòolit wasahkatóóóón...
+ <i>They took the fork and were floating (in the boat on it) when they (the Choctaws) were apparently coming making noise, and they passed on by and were long gone...</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬopotli">ɬopotli</a>
+<br><font size="+2"><b><a name="ɬopòolichi"></a>ɬopòolichi</b> </font>
+<font size="+2">to pass (more than one) through, put through; to thread (needles); to cause diarrhea (in more than one person)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-/3</font>
+&nbsp;(<i>ɬopòochichi, ɬopòohilichi, ɬopòohachichi</i>)
+&nbsp; [/ɬopo(t)-li-chi<sup>1</sup>]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="ll.htm#ɬopòoli">ɬopòoli</a>
+<br><font size="+2"><b><a name="ɬopopoíkko"></a>ɬopopoíkko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Hatkàasik ɬopopoíkkobi.
+ <i>The sheets aren't flapping.</i><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬopopòoka">ɬopopòoka</a>
+<br><font size="+2"><b><a name="ɬopopòoka"></a>ɬopopòoka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="ll.htm#ɬopopòoli">ɬopopòoli</a>&nbsp;
+<br><font size="+2"><b><a name="ɬopopòoli"></a>ɬopopòoli</b> </font>
+<font size="+2">to make a flapping, fluttering sound (as of wings or sheets in the breeze)</font>
+&nbsp; [/ɬopopòo-li]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: ɬopopòoka</i>
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font face="Arial">«</font>Hatkàasik ɬopopòoli.
+ <i>The sheets are flapping.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬopopòolichi">ɬopopòolichi</a></i>
+&nbsp;to cause to make a fluttering sound
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬopopoíkko">ɬopopoíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="ɬopopòolichi"></a>ɬopopòolichi</b> </font>
+<font size="+2">to cause to make a flapping, fluttering sound (as of wings)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬopopòochichi, ɬopopòohilichi, ɬopopòohachichi</i>)
+&nbsp; [/ɬopopòo-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Hatkàasin ɬopopòolichilao.
+ <i>I'm going to shake out the sheets.</i><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬopopòoli">ɬopopòoli</a>
+<br><font size="+2"><b><a name="ɬopot-"></a>ɬopot-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬopotli">ɬopotli</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to pass through or by
+&nbsp;2.&nbsp;
+&nbsp;to have a bowel movement
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#assachit ɬopotli">assachit ɬopotli</a></i>
+&nbsp;to have diarrhea
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬóppotli">ɬóppotli</a></i>
+&nbsp;to be passing by; to be past (a time or place)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿɬopotli">iⁿɬopotli</a></i>
+&nbsp;to cross in front of, pass by
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ispaaɬopotli">ispaaɬopotli</a></i>
+&nbsp;to go across on top of
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittaɬopotli">ittaɬopotli</a></i>
+&nbsp;to follow through to the end
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istittaɬopotli">istittaɬopotli</a></i>
+&nbsp;to go through to the end
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#notakɬopotli">notakɬopotli</a></i>
+&nbsp;to cross under
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#okiɬopotli">okiɬopotli</a></i>
+&nbsp;to have watery diarrhea
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#ooɬopotli">ooɬopotli</a></i>
+&nbsp;to ford (a creek or river) (sg.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬopotlichi">ɬopotlichi</a></i>
+&nbsp;to pass (something) through; to cause diarrhea
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬopòoli">ɬopòoli</a></i>
+&nbsp;to pass through or by
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬopòolichi">ɬopòolichi</a></i>
+&nbsp;to pass (more than one) through; to cause diarrhea (in more than one person)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#ooɬopohli">ooɬopohli</a></i>
+&nbsp;to ford (a creek or river) (pl.)
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬopotka">ɬopotka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to pierce (once)
+&nbsp;2.&nbsp;
+&nbsp;to get pierced
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬopotíkko">ɬopotíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isɬopotilka">isɬopotilka</a></i>
+&nbsp;injection
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬopohka">ɬopohka</a></i>
+&nbsp;to pierce (rep.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬóppohka">ɬóppohka</a></i>
+&nbsp;to have been pierced repeatedly
+&nbsp;to have put holes in
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isɬopohka">isɬopohka</a></i>
+&nbsp;to pierce with
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isɬopohilka">isɬopohilka</a></i>
+&nbsp;fork
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istiⁿɬopoilka">istiⁿɬopoilka</a></i>
+&nbsp;awl
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#itaɬóppohka">itaɬóppohka</a></i>
+&nbsp;to have put holes in the ground
+<br><font size="+2"><b><a name="ɬopotíkko"></a>ɬopotíkko</b> </font>
+ Neg.
+ ☞<a href="ll.htm#ɬopotka">ɬopotka</a>
+<br><font size="+2"><b><a name="ɬopotka"></a>ɬopotka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to stab in, pierce, stick in (once)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬopotiska, ɬopotilka, ɬopotaska</i>)
+&nbsp; [/ɬopot-ka<sup>1</sup>]
+ <i>Pl: </i>ɬopohka
+ <i>Neg: </i>ɬopotíkko
+&nbsp;<font face="Arial">«</font>Hassihalokpak chaɬopotka.
+ <i>The grass burrs stuck me.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to get pierced, stuck, or stabbed, get a shot </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>∥opotkaakát aⁿhoopo.
+ <i>I have a piercing pain.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chaɬopotilko.
+ <i>I got a shot.</i><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬopot-">ɬopot-</a>
+<br><font size="+2"><b><a name="ɬopotli"></a>ɬopotli</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to pass through (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬopotchi, -, -</i>)
+&nbsp; [/ɬopot-li]
+ <i>Pl: </i>ɬopòoli
+&nbsp;<font face="Arial">«</font>Nákson oɬaamok yát naaɬiikastóobàapok ɬopotliimok àayastóobàapok haatanatlit oɬaafòokayok.
+ <i>When he would get to each one he would start talking and then go on past each one and he kept going until he turned around and came back.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to have a bowel movement, defecate</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ ☞<a href="ll.htm#ɬopot-">ɬopot-</a>
+<br><font size="+2"><b><a name="ɬopotlichi"></a>ɬopotlichi</b> </font>
+<font size="+2">to pass (something) through, put through; to thread (a needle); to cause diarrhea </font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-/3</font>
+&nbsp;(<i>ɬopotchichi, ɬopothilichi, ɬopothachichi</i>)
+&nbsp; [/ɬopotli-chi<sup>1</sup>]
+ <i>Pl: </i>ɬopòolichi
+&nbsp;<font face="Arial">«</font>Chofisɬopòolin baksaatkan ɬopotlichilao.
+ <i>I'm going to thread the needle.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chaɬopotlichi.
+ <i>Something gave me diarrhea.</i><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬopotli">ɬopotli</a>
+<br><font size="+2"><b><a name="ɬóppohka"></a>ɬóppohka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to have been pierced, poked, stuck, stabbed repeatedly</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/ɬopo&lt;h&gt;t-ka<sup>1</sup>]
+ [<i>ggr</i>]
+&nbsp;2.&nbsp;
+<font size="+2">to have put holes in</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬóppohiska, ɬóppohilka, ɬóppohaska</i>)
+ ☞<a href="ll.htm#ɬopohka">ɬopohka</a>
+<br><font size="+2"><b><a name="ɬóppotli"></a>ɬóppotli</b> </font>
+<font size="+2">to be passing by; to be past (a time or place), be beyond some place (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬóppotchi, ɬóppothili, ɬóppothachi</i>)
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Hasi haatanatlischáffàakan ɬóppotlin ilali.
+ <i>I came after one hour had passed.</i><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬopotli">ɬopotli</a>
+<br><font size="+2"><b><a name="ɬoy-"></a>ɬoy-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬoyli">ɬoyli</a></i>
+&nbsp;to return to normal
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬoyka">ɬoyka</a></i>
+&nbsp;to return
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬoyhíkko">ɬoyhíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#osɬoyka">osɬoyka</a></i>
+&nbsp;to go and come back (sg.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#aaɬoyhilka">aaɬoyhilka</a></i>
+&nbsp;toilet
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maataaɬoyhilka">maataaɬoyhilka</a></i>
+&nbsp;toilet
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬoykat ila">ɬoykat ila</a></i>
+&nbsp;to return here
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬoylichi">ɬoylichi</a></i>
+&nbsp;to return (something)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iliiɬoylichi">iliiɬoylichi</a></i>
+&nbsp;to reduce
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿɬoylichi">iⁿɬoylichi</a></i>
+&nbsp;to receive change
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬoyohka">ɬoyohka</a></i>
+&nbsp;to return (dl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="ll.htm#ɬoyòoka">ɬoyòoka</a></i>
+&nbsp;to return
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#osɬoyòoka">osɬoyòoka</a></i>
+&nbsp;to go and come back (pl.)
+<br><font size="+2"><b><a name="ɬoyhíkko"></a>ɬoyhíkko</b> </font>
+ <i>Var: ɬoyíkko</i>
+ ☞<a href="ll.htm#ɬoyka">ɬoyka</a>
+<br><font size="+2"><b><a name="ɬoyíkko"></a>ɬoyíkko</b> </font>
+ <i>Var. of</i>&nbsp;<a href="ll.htm#ɬoyhíkko">ɬoyhíkko</a>&nbsp;
+<br><font size="+2"><b><a name="ɬoyka"></a>ɬoyka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to return, go back, come back (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>ɬooyiska, ɬooyilka, ɬooyaska</i>)
+&nbsp; [/ɬoy-ka<sup>1</sup>]
+ [<i>Irr: </i>PlStem=ɬoyòoka; DlStem=ɬoyohka]
+ <i>Neg: </i>ɬoyhíkko
+&nbsp;<font face="Arial">«</font>Loosiyaanafáalon ɬooyilkaski.
+ <i>We're going back to Louisiana.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...oolakanochihchóot àayahchommitok ɬoykat ila; ilaskáamok máamòosin nokɬikiichahchootohát illihchóot ommitoolo, máskan akkáhtoha homankahchootoolimpakha.
+ <i>...he had gone around making peace and had returned; he did return, but when he got back he had been so shocked that he died, because of all that had happened, they always used to say.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to have one's weight drop back to normal</font>
+&nbsp;<font color="#800080" size="+1">3/CHA-</font>
+&nbsp;<font face="Arial">«</font>Baybak chaɬoykaaso.
+ <i>My weight has dropped back to normal.</i><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬoy-">ɬoy-</a>
+<br><font size="+2"><b><a name="ɬoykat ila"></a>ɬoykat ila</b> </font>
+<font size="+2">to return here, come back here</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/ɬoy-ka<sup>1</sup>-t /(i)la]
+ ☞<a href="ll.htm#ɬoyka">ɬoyka</a>
+<br><font size="+2"><b><a name="ɬoyli"></a>ɬoyli</b> </font>
+<font size="+2">to recede (of floodwater), return to a normal level from a high (as weight); to remarry (of a couple who separate and come back together)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>ɬoychi, ɬoyhili, ɬoyhachi</i>)
+&nbsp; [/ɬoy-li]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Baybak chaɬoyliiso.
+ <i>My weight has dropped back to normal.</i><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬoy-">ɬoy-</a>
+<br><font size="+2"><b><a name="ɬoylichi"></a>ɬoylichi</b> </font>
+<font size="+2">to return (one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>ɬoychichi, ɬoyhilichi, ɬoyhachichi</i>)
+&nbsp; [/ɬoy-li-chi<sup>1</sup>]
+ ☞<a href="ll.htm#ɬoyka">ɬoyka</a>
+<br><font size="+2"><b><a name="ɬoylíichit istoɬa"></a>ɬoylíichit istoɬa</b> </font>
+<font size="+2">to take back, return (something)</font>
+&nbsp; [/ɬoy-li-chi<sup>1</sup>-t ist- /oɬa]
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+ ☞<a href="i2.htm#istoɬa">istoɬa</a>
+<br><font size="+2"><b><a name="ɬoylíichit piɬka"></a>ɬoylíichit piɬka</b> </font>
+<font size="+2">to put back</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [/ɬoy-li-chi<sup>1</sup>-t /piɬ-ka<sup>1</sup>]
+ ☞<a href="p.htm#piɬka">piɬka</a>
+<br><font size="+2"><b><a name="ɬoyohka"></a>ɬoyohka</b> </font>
+<font size="+2">to return, go back, retreat (of two)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, ɬoyohilka, ɬoyohaska</i>)
+&nbsp; [/ɬoyoh-ka<sup>1</sup>]
+ [<i>Irr: </i>SgStem=ɬoyka; PlStem=ɬoyòoka]
+&nbsp;<font face="Arial">«</font>Ichóot ommiima ibi hopáhkitík ibìimok chinìilit albinafan stilachiifòokok sooplit, oaboslit, akkáamit ittanówwat nihtállo cháffàakahchóot ittanówwat ɬoyohkat ilachihchootoolo.
+ <i>If it was a deer, even though they killed it far away, when they killed it, they carried it on their backs and when they got it to their camp, they skinned it and barbecued it, that's the way they would go and would usually be gone for a week and then they would turn around and go back.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+ ☞<a href="ll.htm#ɬoyka">ɬoyka</a>
+<br><font size="+2"><b><a name="ɬoyòoka"></a>ɬoyòoka</b> </font>
+<font size="+2">to return, go back (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, ɬoyòohilka, ɬoyòohaska</i>)
+&nbsp; [/ɬoyo(h)-ka<sup>1</sup>]
+ [<i>Irr: </i>SgStem=ɬoyka; DlStem=ɬoyohka]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="ll.htm#ɬoyohka">ɬoyohka</a>
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

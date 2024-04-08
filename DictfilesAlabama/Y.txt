@@ -1,0 +1,976 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+
+<title>Alabama Dictionary</title>
+
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">Y</font></center><br>
+<br><font size="+2"><b><a name="ya"></a>ya</b> </font>
+<font size="+2">this, this here</font>
+&nbsp;<font face="Arial">«</font>Yok chimiisamoolo.
+ <i>This is your house.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yok ya yálmàamin.
+ <i>This is the same amount as this.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ya akki intoliinok nàahoomon naho yakchik nàahoyáɬɬihchoot ommifòokan; intoliinon homankafòokan iyyamiitaasiikat aamaamàakahchoolakha.
+ <i>Whenever that kind of work was available, they would always have the corn and meat stew; and whenever they said there was work they got excited about going there.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ya ilpa ya ilpa yakchiyok champoliiyóot ishohochifaton ommitooli?
+ <i>This food, the yakchi, is it because it tastes so good that they called it that?</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="y.htm#yàafa">yàafa</a></i>
+&nbsp;this place
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="y.htm#yáafàasi">yáafàasi</a></i>
+&nbsp;yonder
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="y.htm#yáafaaya">yáafaaya</a></i>
+&nbsp;that one
+<br>&nbsp;&nbsp;<i><a href="y.htm#yaha">yaha</a></i>
+&nbsp;this one
+<br>&nbsp;&nbsp;<i><a href="y.htm#yáali">yáali</a></i>
+&nbsp;to be one
+<br>&nbsp;&nbsp;<i><a href="y.htm#yàali">yàali</a></i>
+&nbsp;here
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="y.htm#yáalókko">yáalókko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="y.htm#yáɬɬi">yáɬɬi</a></i>
+&nbsp;only this one
+<br><font size="+2"><b><a name="yaabanaali"></a>yaabanaali</b> </font>
+<font size="+2">to shoulder (a load), hoist onto the shoulder to carry, put (one object) over the shoulder</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>yaabanaachi, yaabanaahili, yaabanaahachi</i>)
+&nbsp; [yaa- /abanaa-li]
+ <i>Pl: </i>yaabanni
+ <i>Neg: </i>yaabanàako
+&nbsp;<font face="Arial">«</font>Chiyaabanaalilao.
+ <i>I'm going to put you over my shoulder.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Holihta yaabanàaliiyok yaabanniiyok stamaakan híichalihchoolikha.
+ <i>I used to always see them carry the fences over their shoulders as they went along.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="a.htm#abanàali">abanàali</a>
+<br><font size="+2"><b><a name="yaabánnàali"></a>yaabánnàali</b> </font>
+<font size="+2">to carry (one object) on the shoulder</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>yaabánnàachi, yaabánnàahili, yaabánnàahachi</i>)
+&nbsp; [yaa- /abanaa-li]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Ittopathan yaabánnàaliiha.
+ <i>Carry the hoe on your shoulder.</i><font face="Arial">»</font>
+ ☞<a href="y.htm#yaabanaali">yaabanaali</a>
+<br><font size="+2"><b><a name="yaabanni"></a>yaabanni</b> </font>
+<font size="+2">to carry (plural objects) on the shoulder</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>yaabanchi, yaabanhili, yaabanhachi</i>)
+&nbsp; [yaa- /aban(aa)-li]
+ [<i>dsfx1</i>]
+ <i>Neg: </i>yaabànko
+&nbsp;<font face="Arial">«</font>Holihta yaabanniiyok stamaakan híichalihchoolikha.
+ <i>I used to see them go along carrying fence rails on their shoulders.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="y.htm#yaabanaali">yaabanaali</a>
+<br><font size="+2"><b><a name="yàafa"></a>yàafa</b> </font>
+<font size="+2">this place here, right over there, that place over yonder; like this here</font>
+&nbsp; [/ya-fa]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Yàafon chókkòolilihchooti.
+ <i>I live over yonder.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yáafaayoní?
+ <i>Is it here?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yàafon yamíhchit istamaakahchoolikha.
+ <i>But this here (gesturing with arms straight) is the way they used to carry them.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="y.htm#ya">ya</a>
+<br><font size="+2"><b><a name="yáafàasi"></a>yáafàasi</b> </font>
+<font size="+2">over yonder, a little ways over there, a little farther away</font>
+&nbsp; [/ya-fa-osi]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Yáafàason chókkòolilihchooti.
+ <i>I live over yonder a little ways.</i><font face="Arial">»</font>
+ ☞<a href="y.htm#yàafa">yàafa</a>
+<br><font size="+2"><b><a name="yáafaaya"></a>yáafaaya</b> </font>
+<font size="+2">that one</font>
+&nbsp; [/ya-fa-ya]
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Yáafaya anchíppo.
+ <i>That one is my grandmother (pointing to a picture).</i><font face="Arial">»</font>
+ ☞<a href="y.htm#yàafa">yàafa</a>
+<br><font size="+2"><b><a name="yaahíkko"></a>yaahíkko</b> </font>
+ Neg.
+ <i>Var: yaíkko</i>
+ <i>Var: yahíkko</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="y.htm#yahka">yahka</a>
+<br><font size="+2"><b><a name="yáali"></a>yáali</b> </font>
+<font size="+2">one, only, each; the (previously mentioned) one</font>
+&nbsp; [/ya-áali]
+&nbsp;<font face="Arial">«</font>Indianka yáalókkohchi tatkon ommitoolo, ìibitooma?
+ <i>That one wasn't an Indian but a white, the one that got killed?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ifachòobaya innìhta yáalihchoolo.
+ <i>The old dog is still alive each day.</i><font face="Arial">»</font>
+ ☞<a href="y.htm#ya">ya</a>
+<br><font size="+2"><b><a name="yàali"></a>yàali</b> </font>
+<font size="+2">here, this place, this vicinity, right here, this way</font>
+&nbsp; [/ya-áali]
+ [<i>fgr</i>]
+ <i>Neg: </i>yàalókko
+&nbsp;<font face="Arial">«</font>Yàalon achahofantitoha.
+ <i>I was born here.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yàalok chiwwìilkamoolo.
+ <i>Here is where you live.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yàali náasíksot maabállàakafaaya.
+ <i>This way, there is nothing down the hall.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yàaliⁿ?
+ <i>Here?</i><font face="Arial">»</font>
+ ☞<a href="y.htm#ya">ya</a>
+<br><font size="+2"><b><a name="yáalókko"></a>yáalókko</b> </font>
+ Neg.
+ ☞<a href="y.htm#yàali">yàali</a>
+<br><font size="+2"><b><a name="yaaɬipìika"></a>yaaɬipìika</b> </font>
+<font size="+2">to put on (a scarf or mask)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>yaaɬipìihiska, yaaɬipìihilka, yaaɬipìihaska</i>)
+&nbsp; [yaa- /ɬipii-ka<sup>1</sup>]
+ <i>Neg: </i>yaaɬipiíkko
+ ☞<a href="ll.htm#ɬipìi-">ɬipìi-</a>
+<br><font size="+2"><b><a name="yaaɬipiíkko"></a>yaaɬipiíkko</b> </font>
+ Neg.
+ ☞<a href="y.htm#yaaɬipìika">yaaɬipìika</a>
+<br><font size="+2"><b><a name="yaaɬipìilka"></a>yaaɬipìilka</b> </font>
+<font size="+2">woman's bonnet, scarf, etc. </font>
+&nbsp; [yaa-a- /ɬipii&lt;il&gt;-ka<sup>1</sup>]
+ [<i>fgr</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="y.htm#yaaɬipìika">yaaɬipìika</a>
+<br><font size="+2"><b><a name="yaaɬíppìika"></a>yaaɬíppìika</b> </font>
+<font size="+2">to wear (a scarf or mask) </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>yaaɬíppìihiska, yaaɬíppìihilka, yaaɬíppìihaska</i>)
+&nbsp; [yaa-a- /ɬipii-ka<sup>1</sup>]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Yaaɬipìilkan yaaɬíppìiko.
+ <i>She's wearing a scarf.</i><font face="Arial">»</font>
+ ☞<a href="y.htm#yaaɬipìika">yaaɬipìika</a>
+<br><font size="+2"><b><a name="yaama"></a>yaama</b> </font>
+<font size="+2">yes, okay</font>
+ <i>Usage: </i>Archaic form indicating agreement.
+ {&nbsp;Mobilian}
+&nbsp;<font size="0">(VC, JS)</font>
+<br>&nbsp;&nbsp;<i><a href="y.htm#yamá">yamá</a></i>
+&nbsp;1.&nbsp;
+&nbsp;Mobilian
+&nbsp;2.&nbsp;
+&nbsp;yes
+<br><font size="+2"><b><a name="yàami"></a>yàami</b> </font>
+ <i>Var. of</i>&nbsp;<a href="y.htm#yàhmi">yàhmi</a>&nbsp;
+<br><font size="+2"><b><a name="yáamòosi"></a>yáamòosi</b> </font>
+<font size="+2">this is all; this is like so</font>
+&nbsp; [/ya&lt;h&gt;mi-osi]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Yáamòosaakáalo; yáamoosoolo.
+ <i>That's all.</i> <font size="0">(PMM)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Posnok Josephka chókkòoli íilòosin yáamòosilifòokok chapasáaloosifòokok (gesture) wìikalihchoolikha.
+ <i>We were close to where Joseph lives, when I was yea high, still just a little bitty boy, I used to live there.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Itton hocháklit nahoomok, ittiswakaykakon hotalbòolit hobaskit yáamòosikáhchon (gesture) hotalbòoliimok (gesture) ittimpòoktat howaakayòolihchoolikha.
+ <i>They would chop some of the logs and that's the way they would do; they would make a gadget to lift logs with, they made it about so long (three feet), and got on either side and used to lift that way.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="y.htm#yàhmi">yàhmi</a>
+<br><font size="+2"><b><a name="yáamòostík"></a>yáamòostík</b> </font>
+<font size="+2">that's all, that's enough</font>
+&nbsp; [/ya&lt;h&gt;mi-osi-tika]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Yáamòostík faylilao chanochilaomooli.
+ <i>That's enough, I'm going to quit, I'm getting sleepy.</i><font face="Arial">»</font>
+ ☞<a href="y.htm#yáamòosi">yáamòosi</a>
+<br><font size="+2"><b><a name="yàamòostík moolo"></a>yàamòostík moolo</b> </font>
+<font size="+2">amen, that's all</font>
+&nbsp; [/ya&lt;h&gt;mi-osi-tika /mooli-o<sup>3</sup>]
+ [<i>fgr</i>]
+ ☞<a href="y.htm#yáamòostík">yáamòostík</a>
+<br><font size="+2"><b><a name="yáaska"></a>yáaska</b> </font>
+<font size="+2">to chew (repeatedly)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>yáasiska, yáasilka, yáasaska</i>)
+&nbsp; [/yas-ka<sup>1</sup>]
+ [<i>lgr</i>]
+ ☞<a href="y.htm#yaska">yaska</a>
+<br><font size="+2"><b><a name="yaatala"></a>yaatala</b> </font>
+<font size="+2">hat </font>
+&nbsp; [prob. from /yaa- /tal(aa)-a]
+ ☞<a href="y.htm#yaatalàali">yaatalàali</a>
+<br><font size="+2"><b><a name="yaatalàali"></a>yaatalàali</b> </font>
+<font size="+2">to put on (a hat), cover the head with</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>yaatalàachi, yaatalàahili, yaatalàahachi</i>)
+&nbsp; [yaa- /talaa-li]
+ [<i>fgr</i>]
+ ☞<a href="t.htm#talàali">talàali</a>
+<br><font size="+2"><b><a name="yaatalapatha"></a>yaatalapatha</b> </font>
+<font size="+2">hat with a wide brim </font>
+&nbsp; [yaa- /tal(aa)-a /patha]
+<br><font size="+2"><b><a name="yaatalawanha"></a>yaatalawanha</b> </font>
+<font size="+2">hard hat, helmet </font>
+&nbsp; [yaa- /tal(aa)-a /wanha]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="yaatállàali"></a>yaatállàali</b> </font>
+<font size="+2">to wear (a hat)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>yaatállàachi, yaatállàahili, yaatállàahachi</i>)
+&nbsp; [yaa- /talaa-li]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Yaatalon yaatállàaliliiyok istamalíilamooti.
+ <i>I have a hat I look good in.</i><font face="Arial">»</font>
+ ☞<a href="y.htm#yaatalàali">yaatalàali</a>
+<br><font size="+2"><b><a name="yabohli"></a>yabohli</b> </font>
+<font size="+2">to be soft (to the touch), smooth, cushioned; to be limber, flexible, limp</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ <i>Var: yabooli</i>
+<br>&nbsp;&nbsp;<i><a href="y.htm#yabohlitikóomo">yabohlitikóomo</a></i>
+ Neg.
+&nbsp;to not be soft yet
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istiyyabohli">istiyyabohli</a></i>
+&nbsp;cushion
+<br><font size="+2"><b><a name="yabohlitikóomo"></a>yabohlitikóomo</b> </font>
+ Neg.
+<font size="+2">to not be soft yet (as ripening fruit)</font>
+&nbsp;<font face="Arial">«</font>Yabohlifíhnatikóomobi.
+ <i>They aren't quite soft yet.</i><font face="Arial">»</font>
+ ☞<a href="y.htm#yabohli">yabohli</a>
+<br><font size="+2"><b><a name="yabooli"></a>yabooli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="y.htm#yabohli">yabohli</a>&nbsp;
+<br><font size="+2"><b><a name="yaha"></a>yaha</b> </font>
+<font size="+2">this one, here it is</font>
+&nbsp; [/ya-ha<sup>2</sup>]
+ ☞<a href="y.htm#ya">ya</a>
+<br><font size="+2"><b><a name="yahka"></a>yahka</b> </font>
+<font size="+2">to cry, weep, meow, whine, bark (of a fox)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>yaahiska, yaahilka, yaahaska</i>)
+&nbsp; [poss. /yaah-ka<sup>1</sup>]
+ [<i>some speakers lengthen stem vowel when it occurs as an open syllable, as in inflected forms and negative</i>]
+&nbsp;<font face="Arial">«</font>Yahkaba.
+ <i>Go ahead and cry.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhmin yaiskahchoiⁿska?
+ <i>Why are you crying?</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="y.htm#yaahíkko">yaahíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="y.htm#yahlichi">yahlichi</a></i>
+&nbsp;to make weep
+<br>&nbsp;&nbsp;<i><a href="i2.htm#isyahka">isyahka</a></i>
+&nbsp;to mourn
+<br>&nbsp;&nbsp;<i><a href="o.htm#onayahka">onayahka</a></i>
+&nbsp;to go to weeping
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#onayahlichi">onayahlichi</a></i>
+&nbsp;to make (someone) cry to
+<br><font size="+2"><b><a name="yáhko"></a>yáhko</b> </font>
+ Neg.
+ ☞<a href="y.htm#yàhmi">yàhmi</a>
+<br><font size="+2"><b><a name="yahlichi"></a>yahlichi</b> </font>
+<font size="+2">to make cry, make weep, make the eyes water</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>yahchichi, yahhilichi, yahhachichi</i>)
+&nbsp; [/yah-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Kosòomak chayahlichihchommo.
+ <i>Onions make my eyes water.</i><font face="Arial">»</font>
+ ☞<a href="y.htm#yahka">yahka</a>
+<br><font size="+2"><b><a name="yàhmi"></a>yàhmi</b> </font>
+<font size="+2">to do like someone, do like this (gesture), be this way, be like a certain thing, happen a certain way</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>yàhchi, yàhhili, yàhhachi</i>)
+&nbsp; [/ya&lt;h&gt;mi]
+ [<i>hgr</i>]
+ <i>Var: yàami</i>
+&nbsp;<font face="Arial">«</font>Sàamin yáhchòmmìi?
+ <i>Why is this like this?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sàamin yàamiisok òmmiⁿ?
+ <i>What happened here?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sàamin yáhchonkà?
+ <i>Why is it sounding like that (the tape recorder)?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yáhmiba!
+ <i>Do it like this! (hold up your hand).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Istitahaatánnatlit yáhmit.
+ <i>He kept going around in a circle like this.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>àayat Philipkaya chayáhmihchi.
+ <i>Philip travels like I do.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sna Philipka yáhchihchommo.
+ <i>You acted like Philip.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nitaya sokha yáamit sokha yáastáskan istilachik mok oaboslitóot ommoonó.
+ <i>A bear is like a pig, so since it's like a pig, they'd probably bring it and roast it all.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sokhàtka yáamihchi!
+ <i>Play possum!</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Himàakaya itto waakayòoliimok sakbamok yáhmin istamaakahch onko.
+ <i>Nowdays whenever they lift logs they always have their arms like this (gesturing they're folded) and go off with them.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="y.htm#yáhko">yáhko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="y.htm#yamíhchi">yamíhchi</a></i>
+&nbsp;to do a certain way
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="y.htm#yankíhcho">yankíhcho</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="y.htm#yaⁿhholíhchi">yaⁿhholíhchi</a></i>
+ Imp.
+<br>&nbsp;&nbsp;<i><a href="y.htm#yamiitoka">yamiitoka</a></i>
+ Imp.
+<br>&nbsp;&nbsp;<i><a href="y.htm#yáamòosi">yáamòosi</a></i>
+&nbsp;this is all
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="y.htm#yáamòostík">yáamòostík</a></i>
+&nbsp;that's enough
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="y.htm#yàamòostík moolo">yàamòostík moolo</a></i>
+&nbsp;that's all
+<br><font size="+2"><b><a name="yaíkko"></a>yaíkko</b> </font>
+ <i>Var. of</i>&nbsp;<a href="y.htm#yaahíkko">yaahíkko</a>&nbsp;
+<br><font size="+2"><b><a name="yakchi"></a>yakchi</b><sup>1</sup> </font>
+<font size="+2">dish made of any meat boiled with corn and sassafras</font>
+&nbsp;<font color="#080000">Cul:  Traditionally often made from bones of a hog's head, but now from any meat such as deer, squirrel, beef, or pork.</font>&nbsp;
+&nbsp;<font face="Arial">«</font>Ya ilpa ya ilpa yakchiyok champoliiyóot ishohochifaton ommitooli?
+ <i>This food, the yakchi, is it because it tastes so good that they called it that?</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="y.htm#yakchichi">yakchichi</a></i>
+&nbsp;to cook yakchi
+<br><font size="+2"><b><a name="yakchi"></a>yakchi</b><sup>2</sup> </font>
+<font size="+2">sleet</font>
+<br>&nbsp;&nbsp;<i><a href="y.htm#yakchosi">yakchosi</a></i>
+&nbsp;sleet
+<br><font size="+2"><b><a name="yakchichi"></a>yakchichi</b> </font>
+<font size="+2">to make the dish made of meat boiled with corn and sassafras, cook yakchi</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>yakchichitiska, yakchichitilka, yakchichitaska</i>)
+&nbsp;(<i>yakchichiska, yakchichilka, yakchichaska</i>)
+&nbsp; [/yakchi-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Waakóot oibiimok aboslit hoyakchichit chassóot mafòokaya chassik oinnàaho báanakástaskat; hoɬkot hotobaachit paspoochiikóot hotobaachit.
+ <i>They would kill a cow and barbecue it and make the corn and meat dish and corn, since at that time it seems like everyone had corn, they'd make sofkey and corn dumplings.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nahoya nitaya sokhayáamit sokhayáastáskan istilachiik mok oaboslitóot ommoonó mok oaboslit honahotoofòokok onayakchichit oipahchootoolo, chofkonikáamiya.
+ <i>Well, a bear is like a pig, so since it's like a pig they'd bring it and I suppose they'd roast it all and then use it to make yakchi and they'd eat, the bones and stuff.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+ ☞<a href="y.htm#yakchi1">yakchi<sup>1</sup></a>
+<br><font size="+2"><b><a name="yakchosi"></a>yakchosi</b> </font>
+<font size="+2">sleet</font>
+&nbsp; [/yakchi<sup>2</sup>-osi]
+&nbsp;<font face="Arial">«</font>Yakchosik soofkati.
+ <i>Sleet fell.</i><font face="Arial">»</font>
+ ☞<a href="y.htm#yakchi2">yakchi<sup>2</sup></a>
+<br><font size="+2"><b><a name="yakímmo"></a>yakímmo</b><sup>1</sup> </font>
+ Neg.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ ☞<a href="y.htm#yammi1">yammi<sup>1</sup></a>
+<br><font size="+2"><b><a name="yakímmo"></a>yakímmo</b><sup>2</sup> </font>
+ Neg.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ ☞<a href="y.htm#yammi2">yammi<sup>2</sup></a>
+<br><font size="+2"><b><a name="yakínho"></a>yakínho</b> </font>
+ Neg.
+ ☞<a href="y.htm#yanha">yanha</a>
+<br><font size="+2"><b><a name="yalàaha"></a>yalàaha</b> </font>
+<font size="+2">orange (fruit), the color orange</font>
+ {&nbsp;Spanish `naranja'}
+ <i>Var: yaláaha</i>
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="yalàaha kaskaha"></a>yalàaha kaskaha</b> </font>
+<font size="+2">lemon, grapefruit, sour orange </font>
+&nbsp; [/yalàaha /kaskaha]
+<br><font size="+2"><b><a name="yalàaha okchi"></a>yalàaha okchi</b> </font>
+<font size="+2">orange juice</font>
+&nbsp; [/yalàaha /okchi]
+<br><font size="+2"><b><a name="yalba"></a>yalba</b> </font>
+<font size="+2">tadpole; mosquito larvae </font>
+&nbsp;<font size="0">(VC, DB)</font>
+<br><font size="+2"><b><a name="yalinha"></a>yalinha</b> </font>
+<font size="+2">fever</font>
+&nbsp; [/ya&lt;li&gt;nha]
+ ☞<a href="y.htm#yanha">yanha</a>
+<br><font size="+2"><b><a name="yalinha issobayka"></a>yalinha issobayka</b> </font>
+<font size="+2">fever thermometer</font>
+&nbsp; [/ya&lt;li&gt;nha ist- /sobay-ka<sup>1</sup>]
+ <i>Var: yalinhassobayka</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="yalinhalàana"></a>yalinhalàana</b> </font>
+<font size="+2">yellow fever </font>
+&nbsp; [/ya&lt;li&gt;nha /laana]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="yalinhassobayka"></a>yalinhassobayka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="y.htm#yalinha issobayka">yalinha issobayka</a>&nbsp;
+<br><font size="+2"><b><a name="yalinka"></a>yalinka</b> </font>
+<font size="+2">drunkenness, intoxication</font>
+&nbsp; [/ya&lt;li&gt;mmi-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Yalinkaya alpíssi kostinitíkkosta.
+ <i>Being drunk is bad because you can't think.</i><font face="Arial">»</font>
+ ☞<a href="y.htm#yammi1">yammi<sup>1</sup></a>
+<br><font size="+2"><b><a name="yálmàami"></a>yálmàami</b> </font>
+<font size="+2">to act like this, be the same as something else, be the same amount, be as much as this, be just like this</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>yálmàachi, yálmàahili, yálmàahachi</i>)
+&nbsp; [/ya&lt;l&gt; /má&lt;h&gt;mi or /ya /ma&lt;h&gt;mi with ggr]
+ <i>Var: yámmàami</i>
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font face="Arial">«</font>Yok ya yálmàamin.
+ <i>This is the same amount as this.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yok ya yámmàami.
+ <i>This is the same as this.</i><font face="Arial">»</font>
+ ☞<a href="m.htm#máhmi">máhmi</a>
+<br><font size="+2"><b><a name="yáɬɬi"></a>yáɬɬi</b> </font>
+<font size="+2">only this one</font>
+&nbsp; [/ya-áɬɬi]
+&nbsp;<font face="Arial">«</font>Yáɬɬok annàahobi.
+ <i>This is the only one I have.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yáɬɬoolo.
+ <i>This is the only one.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yáɬɬiiya anókkobi.
+ <i>This one here isn't mine (there's a group of things and one isn't yours.</i><font face="Arial">»</font>
+ ☞<a href="y.htm#ya">ya</a>
+<br><font size="+2"><b><a name="yaɬoolichi"></a>yaɬoolichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="y.htm#yiɬoolichi">yiɬoolichi</a>&nbsp;
+<br><font size="+2"><b><a name="yamá"></a>yamá</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">Mobilian jargon </font>
+ {&nbsp;Mobilian}
+&nbsp;2.&nbsp;
+<font size="+2">yes</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="y.htm#yaama">yaama</a>
+<br><font size="+2"><b><a name="yamíhchi"></a>yamíhchi</b> </font>
+<font size="+2">to do a certain way, do like this, go like this (gesture)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>yanchíhchi, yaⁿhilíhchi, yaⁿhachíhchi</i>)
+&nbsp; [/yami&lt;h&gt;-chi<sup>1</sup>]
+ [<i>hgr</i>]
+ <i>Neg: </i>yankíhcho
+ <i>Var: yamìhchi</i>
+&nbsp;<font face="Arial">«</font>Yamíhchiba!
+ <i>Do it like this!</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Náksok yamíhchiⁿ?
+ <i>Who did this?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yamíhchit ommi.
+ <i>Do it this way (gesture).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yàafon yamíhchit istamaakahchoolikha.
+ <i>But this here (gesturing with arms straight) is the way they used to carry them.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="y.htm#yàhmi">yàhmi</a>
+<br><font size="+2"><b><a name="yamiitoka"></a>yamiitoka</b> </font>
+ Imp.
+ ☞<a href="y.htm#yàhmi">yàhmi</a>
+<br><font size="+2"><b><a name="yammi"></a>yammi</b><sup>1</sup> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be drunk, intoxicated</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/yam-li, poss. /yab-li]
+ [<i>the fact that [m] does not assimilate in inflected forms suggests it is from underlying /b/; however, one negative form shows assimilation. The root may have been analyzed differently by different speakers, given the variation in the negative. If the root is /yab-li/, speakers using this form apply /b/ nasalization before -li assimilation</i>]
+&nbsp;<font face="Arial">«</font>Chiyammo.
+ <i>You're drunk.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yámmit mobìlka waliikachiya nàasostabatapkasta.
+ <i>Drunk driving is bad because you'll run into something.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yammissobat àayati.
+ <i>He was real drunk.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to get drunk</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>yamchi, yamhili, yamhachi</i>)
+&nbsp;<font face="Arial">«</font>Yamchi?
+ <i>Did you get drunk?</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="y.htm#yánko">yánko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="y.htm#yakímmo">yakímmo</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="y.htm#yammitíkko">yammitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iyyammi">iyyammi</a></i>
+&nbsp;to get drunk on (someone)
+<br>&nbsp;&nbsp;<i><a href="y.htm#yalinka">yalinka</a></i>
+&nbsp;drunkenness
+<br>&nbsp;&nbsp;<i><a href="y.htm#yammifíhna">yammifíhna</a></i>
+&nbsp;to be overly drunk
+<br>&nbsp;&nbsp;<i><a href="i2.htm#isyammitilka">isyammitilka</a></i>
+&nbsp;alcohol
+<br>&nbsp;&nbsp;<i><a href="y.htm#yammichi">yammichi</a></i>
+&nbsp;to get someone drunk
+<br>&nbsp;&nbsp;<i><a href="y.htm#yámmòossi">yámmòossi</a></i>
+&nbsp;to be tipsy
+<br><font size="+2"><b><a name="yammi"></a>yammi</b><sup>2</sup> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be well-seasoned, have enough of</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/yam-li, poss. /yab-li]
+ [<i>the fact that [m] does not assimilate in inflected forms suggests it is from underlying /b/; however, one negative form shows assimilation. The root may have been analyzed differently by different speakers, given the variation in the negative. If the root is /yab-li/, speakers using this form apply /b/ nasalization before -li assimilation. May be same root as yammi<sup>1</sup></i>]
+&nbsp;<font face="Arial">«</font>Oolimpa istàasak yammit imaayafíhná.
+ <i>The food is over-seasoned.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to add seasoning to food</font>
+ (may refer to adding cream to coffee, dressing to salad or sandwich, coffee or tea to water as flavor, etc)
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>yamchi, yamhili, yamhachi</i>)
+<br>&nbsp;&nbsp;<i><a href="y.htm#yánko">yánko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="y.htm#yakímmo">yakímmo</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="y.htm#yammitíkko">yammitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="y.htm#yammifíhna">yammifíhna</a></i>
+&nbsp;to be overly seasoned
+<br>&nbsp;&nbsp;<i><a href="o.htm#ooyammi">ooyammi</a></i>
+&nbsp;to be strong tasting
+<br><font size="+2"><b><a name="yammichi"></a>yammichi</b><sup>1</sup> </font>
+<font size="+2">to intoxicate, get someone drunk</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>yammichiska, yammichilka, yammichaska</i>)
+&nbsp;(<i>yammichitiska, yammichitilka, yammichitaska</i>)
+&nbsp;<font face="Arial">«</font>Chiyammichili.
+ <i>I got you drunk.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chayammichisko.
+ <i>You made me drunk.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chayammichitisko.
+ <i>You got me drunk.</i><font face="Arial">»</font>
+ ☞<a href="y.htm#yammi1">yammi<sup>1</sup></a>
+<br><font size="+2"><b><a name="yammichi"></a>yammichi</b><sup>2</sup> </font>
+<font size="+2">to stink of, smell of something (e.g. drink, smoke, etc.), bear a lingering odor (as a house after cooking fish or bacon)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>yammichiska, yammichilka, yammichaska</i>)
+&nbsp;(<i>yammichitiska, yammichitilka, yammichitaska</i>)
+&nbsp; [poss. /yammi<sup>2</sup>-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Tosiinok ilokfan chiyammichiisok akomáhlo.
+ <i>I smell the bacon on your clothes.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Konok chiyammichiisok chikosóomo.
+ <i>I smell a skunk off of you.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="a.htm#aatyammichi">aatyammichi</a></i>
+&nbsp;yellow jasmine
+<br><font size="+2"><b><a name="yammifíhna"></a>yammifíhna</b><sup>1</sup> </font>
+<font size="+2">to be overly drunk</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/yammi-fíhna]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="y.htm#yammi1">yammi<sup>1</sup></a>
+<br><font size="+2"><b><a name="yammifíhna"></a>yammifíhna</b><sup>2</sup> </font>
+<font size="+2">to be over spiced, strong tasting </font>
+&nbsp; [/yammi-fíhna]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="y.htm#yammi2">yammi<sup>2</sup></a>
+<br><font size="+2"><b><a name="yammitíkko"></a>yammitíkko</b><sup>1</sup> </font>
+ Neg.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ ☞<a href="y.htm#yammi1">yammi<sup>1</sup></a>
+<br><font size="+2"><b><a name="yammitíkko"></a>yammitíkko</b><sup>2</sup> </font>
+ Neg.
+ ☞<a href="y.htm#yammi2">yammi<sup>2</sup></a>
+<br><font size="+2"><b><a name="yámmòossi"></a>yámmòossi</b> </font>
+<font size="+2">to be tipsy, a little drunk</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/yammi-osi-hchi]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Yámmòossok àayati.
+ <i>He's getting a little tipsy.</i><font face="Arial">»</font>
+ ☞<a href="y.htm#yammi1">yammi<sup>1</sup></a>
+<br><font size="+2"><b><a name="yanàali"></a>yanàali</b> </font>
+<font size="+2">to flood (from a hard rain)</font>
+; <font size="+2">to flow in various directions</font>
+&nbsp;<font size="0">(IB)</font>
+&nbsp; [/yana(t)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Oybassóoban okik náksóyhan yanàaliimoolo.
+ <i>There was a big rain and now there is water flowing everywhere.</i><font face="Arial">»</font>
+ ☞<a href="y.htm#yanatli">yanatli</a>
+<br><font size="+2"><b><a name="yanasa"></a>yanasa</b> </font>
+<font size="+2">bison, buffalo </font>
+<br><font size="+2"><b><a name="yanasabitka"></a>yanasabitka</b> </font>
+<font size="+2">buffalo dance</font>
+&nbsp;<font color="#080000">Cul:  People used to dance this all night with their hands on each others' shoulders, back before the Coushattas came.</font>&nbsp;
+&nbsp; [/yanasa /bit-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="yanasabitkachòoba"></a>yanasabitkachòoba</b> </font>
+<font size="+2">old buffalo dance</font>
+ <i>Usage: </i>Older word.
+&nbsp; [/yanasa /bit-ka<sup>1</sup> /achòoba]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="yanasabitka talilwa"></a>yanasabitka talilwa</b> </font>
+<font size="+2">buffalo dance song</font>
+&nbsp; [/yanasa /bit-ka<sup>1</sup> /ta&lt;li&gt;lwa]
+<br><font size="+2"><b><a name="yanatli"></a>yanatli</b> </font>
+<font size="+2">to flow, drain off, run off (of water)</font>
+&nbsp; [/yanat-li]
+<br>&nbsp;&nbsp;<i><a href="m.htm#maayanatli">maayanatli</a></i>
+&nbsp;to ooze out
+<br>&nbsp;&nbsp;<i><a href="y.htm#yanàali">yanàali</a></i>
+&nbsp;to flood
+<br><font size="+2"><b><a name="yanha"></a>yanha</b> </font>
+<font size="+2">to have a fever, be feverish </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chayánhayàalit aɬíino.
+ <i>My fever is rising.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chiyanhaakóok chinnakaaɬáhchon?
+ <i>Has your fever left?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chiyanhakók kàanot anooka?
+ <i>Are you better from having that fever?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chiyanhàako?
+ <i>Do you have a fever?</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="y.htm#yakínho">yakínho</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="y.htm#yalinha">yalinha</a></i>
+&nbsp;fever
+<br><font size="+2"><b><a name="yanha issobayka"></a>yanha issobayka</b> </font>
+<font size="+2">fever thermometer</font>
+&nbsp; [/yanha ist- /sobay-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: yanhassobayka</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="yaⁿhholíhchi"></a>yaⁿhholíhchi</b> </font>
+ Imp.
+ ☞<a href="y.htm#yamíhchi">yamíhchi</a>
+<br><font size="+2"><b><a name="yankíhcho"></a>yankíhcho</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Yankíhchobi.
+ <i>He didn't do it like this.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yantakíhchoti.
+ <i>I didn't do it like this.</i><font face="Arial">»</font>
+ ☞<a href="y.htm#yamíhchi">yamíhchi</a>
+<br><font size="+2"><b><a name="yánko"></a>yánko</b><sup>1</sup> </font>
+ Neg.
+ ☞<a href="y.htm#yammi1">yammi<sup>1</sup></a>
+<br><font size="+2"><b><a name="yánko"></a>yánko</b><sup>2</sup> </font>
+ Neg.
+ ☞<a href="y.htm#yammi2">yammi<sup>2</sup></a>
+<br><font size="+2"><b><a name="yasíkko"></a>yasíkko</b> </font>
+ Neg.
+ ☞<a href="y.htm#yaska">yaska</a>
+<br><font size="+2"><b><a name="yaska"></a>yaska</b> </font>
+<font size="+2">to chew</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>yasiska, yasilka, yasaska</i>)
+&nbsp; [/yas-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Yaskat anoolilo.
+ <i>I chewed it up.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="y.htm#yáaska">yáaska</a></i>
+&nbsp;to chew (rep.)
+<br>&nbsp;&nbsp;<i><a href="y.htm#yasíkko">yasíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="a.htm#atibòolit yaska">atibòolit yaska</a></i>
+&nbsp;to chew cud
+<br><font size="+2"><b><a name="yassaako"></a>yassaako</b> </font>
+<font size="+2">sweetgum tree; chewing gum</font>
+ <i>(Liquidambar styraciflua)</i>
+&nbsp;<font color="#080000">Cul:  They say if you burn chewing gum someone you do not like has been chewing, their teeth will rot.</font>&nbsp;
+&nbsp;<font size="0">(VC)</font>
+ {poss. related to yaska}
+&nbsp;<font size="0">(VC, IB)</font>
+ <i>Var: yassàako</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="yassaakohatka"></a>yassaakohatka</b> </font>
+<font size="+2">water tupelo, tupelo gum </font>
+ <i>(Nyssa aquatica)</i>
+&nbsp; [/yassaako /hat-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: yassàakohatka</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="yassako"></a>yassako</b> </font>
+ <i>Var. of</i>&nbsp;<a href="y.htm#yassaako">yassaako</a>&nbsp;
+<br><font size="+2"><b><a name="yatiika"></a>yatiika</b> </font>
+ <i>Var. of</i>&nbsp;<a href="a.htm#ayitika">ayitika</a>&nbsp;
+<br><font size="+2"><b><a name="yawokìito"></a>yawokìito</b> </font>
+ Neg.
+ ☞<a href="y.htm#yawoota">yawoota</a>
+<br><font size="+2"><b><a name="yawoota"></a>yawoota</b> </font>
+<font size="+2">to be jittery, nervous, hyperactive, fidgety (as horses or a teenager getting ready for a dance)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+<br>&nbsp;&nbsp;<i><a href="y.htm#yawokìito">yawokìito</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="y.htm#yawootatíkko">yawootatíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="yawootatíkko"></a>yawootatíkko</b> </font>
+ Neg.
+ ☞<a href="y.htm#yawoota">yawoota</a>
+<br><font size="+2"><b><a name="yikcha"></a>yikcha</b> </font>
+ <i>Var. of</i>&nbsp;<a href="y.htm#yíkchi">yíkchi</a>&nbsp;
+<br><font size="+2"><b><a name="yíkchi"></a>yíkchi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">buttress, bottom, base</font>
+ (where a tree, flower, post, pole, etc. goes into the ground)
+ <i>Usage: </i>Older word.
+ <i>Var: yikcha</i>
+&nbsp;2.&nbsp;
+<font size="+2">close to the ground, near to the ground or roots of a tree</font>
+&nbsp;<font face="Arial">«</font>Albaamokok naho bihóotík stooɬòokat istoɬaabìikat iⁿhakcho yíkchòosootik ohintokáalichit obi ittaltàaloot tokaalichit akkamíhchit akkamíhchitik fàykot àayat aɬɬatok onáamit.
+ <i>The Alabamas had weapons and ran right up to him with them and shot them at him real close around his ears and between his thighs, but he kept on doing what he was doing and didn't stop, he kept going along.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="y.htm#yíkchòosi">yíkchòosi</a></i>
+&nbsp;to be near to the base
+<br><font size="+2"><b><a name="yíkchòosi"></a>yíkchòosi</b> </font>
+<font size="+2">near to the base of (esp. a tree), very close to</font>
+&nbsp; [/yíkchi-osi]
+ [<i>fgr</i>]
+ <i>Var: ayíkchòosi</i>
+&nbsp;<font size="0">(WP)</font>
+&nbsp;<font face="Arial">«</font>Iⁿhakchoyíkchoosòotik ointokáalichit...
+ <i>They fired them off real close to his ears...</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yíkchòosin intohlichi.
+ <i>Prune (the plant) back closest to the ground.</i><font face="Arial">»</font>
+ ☞<a href="y.htm#yíkchi">yíkchi</a>
+<br><font size="+2"><b><a name="yikiɬɬi"></a>yikiɬɬi</b> </font>
+<font size="+2">to gather (cloth), make gathers</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>yikiɬchi, yikiɬhili, yikiɬhachi</i>)
+&nbsp; [/yikiɬ-li]
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="yilihkachi"></a>yilihkachi</b> </font>
+<font size="+2">to be slimy (like a fish or okra)</font>
+<br>&nbsp;&nbsp;<i><a href="y.htm#yilihkachitíkko">yilihkachitíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="yilihkachitíkko"></a>yilihkachitíkko</b> </font>
+ Neg.
+ ☞<a href="y.htm#yilihkachi">yilihkachi</a>
+<br><font size="+2"><b><a name="yilinka"></a>yilinka</b> </font>
+<font size="+2">belief</font>
+&nbsp; [/yi&lt;li&gt;m(mi)-ka<sup>1</sup>]
+ ☞<a href="y.htm#yimmi">yimmi</a>
+<br><font size="+2"><b><a name="yiɬapli"></a>yiɬapli</b> </font>
+<font size="+2">to tear down, tear up (one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>yiɬapchi, yiɬaphili, yiɬaphachi</i>)
+&nbsp; [/yiɬap-li]
+&nbsp;<font face="Arial">«</font>Píila yaabannit sòolit ihto mintóot ibachasàakaimon holihtachòoba yiɬápliimok ìisaamon holihta háhpa stoɬàachit yaabannit oshopaapíɬkat istamaakahchoolikha.
+ <i>They would just carry it on their shoulder and carry it in the crook of their arms and if another field was to be added on to, then some would be there to tear down the old fence and some would be bringing the new fence rails on their shoulder and would go and stack them up.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="y.htm#yiɬɬi">yiɬɬi</a></i>
+&nbsp;to tear down (pl. obj.)
+<br><font size="+2"><b><a name="yiɬɬi"></a>yiɬɬi</b> </font>
+<font size="+2">to tear down (plural objects); to undo, loosen; to unmake (e.g. a bed)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>yiɬchi, yiɬhili, yiɬhachi</i>)
+&nbsp; [/yiɬ(ap)-li]
+ [<i>dsfx2</i>]
+ ☞<a href="y.htm#yiɬapli">yiɬapli</a>
+<br><font size="+2"><b><a name="yiɬohli"></a>yiɬohli</b> </font>
+<font size="+2">to be limber, loose, relaxed, flexible, slack</font>
+; <font size="+2">to be coming apart </font>
+&nbsp;<font size="0">(IB)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ <i>Var: yiɬooli</i>
+ <i>Var: yoɬohli</i>
+&nbsp;<font size="0">(IB)</font>
+&nbsp;<font face="Arial">«</font>Talikchok yiɬòoli.
+ <i>The rope is loose.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#nooyiɬooli">nooyiɬooli</a></i>
+&nbsp;to be able to move a stiff neck
+<br>&nbsp;&nbsp;<i><a href="y.htm#yiɬoolichi">yiɬoolichi</a></i>
+&nbsp;to stretch a body part
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iliiyiɬoolichi">iliiyiɬoolichi</a></i>
+&nbsp;to limber up
+<br><font size="+2"><b><a name="yiɬooli"></a>yiɬooli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="y.htm#yiɬohli">yiɬohli</a>&nbsp;
+<br><font size="+2"><b><a name="yiɬoolichi"></a>yiɬoolichi</b> </font>
+<font size="+2">to stretch (a part of the body) to loosen up</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>yiɬoochichi, yiɬoohilichi, yiɬoohachichi</i>)
+&nbsp; [prob. /yiɬoo-li-chi<sup>1</sup>]
+ <i>Var: yaɬoolichi</i>
+&nbsp;<font size="0">(WP)</font>
+ <i>Var: yoɬoolichi</i>
+&nbsp;<font size="0">(WP)</font>
+&nbsp;<font face="Arial">«</font>Chawakhan yiɬoolichilo.
+ <i>I stretched my back.</i><font face="Arial">»</font>
+ ☞<a href="y.htm#yiɬohli">yiɬohli</a>
+<br><font size="+2"><b><a name="yimmi"></a>yimmi</b> </font>
+<font size="+2">to believe (something, a proposition)</font>
+&nbsp;<font color="#800080" size="+1">CHA-; -LI</font>
+&nbsp;(<i>yinchi, yiⁿhili, yiⁿhachi</i>)
+&nbsp; [/yim-li]
+&nbsp;<font face="Arial">«</font>Godkayon chayimmihchoolo.
+ <i>I believe in God.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hachiyimmi?
+ <i>Do you folks believe it?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chiyimmiⁿ Jesuskak Godka ochòosooliiyon?
+ <i>Do you believe Jesus is God's son?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ammáaliliiyok chayìmmo.
+ <i>I believe I'm right.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="y.htm#yínko">yínko</a></i>
+ Neg.
+&nbsp;to not believe
+<br>&nbsp;&nbsp;<i><a href="y.htm#yimmitíkko">yimmitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="y.htm#yilinka">yilinka</a></i>
+&nbsp;belief
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iliiyimmi">iliiyimmi</a></i>
+&nbsp;to be confident
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iyyimmi">iyyimmi</a></i>
+&nbsp;to believe in
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#iyyínko">iyyínko</a></i>
+&nbsp;unbeliever
+<br>&nbsp;&nbsp;<i><a href="y.htm#yimmichi">yimmichi</a></i>
+&nbsp;to convince
+<br><font size="+2"><b><a name="yimmichi"></a>yimmichi</b> </font>
+<font size="+2">to deceive; to convince, make someone believe (as a missionary)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>yinchichi, yiⁿhilichi, yiⁿhachichi</i>)
+&nbsp; [/yim-li-chi<sup>1</sup>]
+ ☞<a href="y.htm#yimmi">yimmi</a>
+<br><font size="+2"><b><a name="yimmitíkko"></a>yimmitíkko</b> </font>
+ Neg.
+ ☞<a href="y.htm#yimmi">yimmi</a>
+<br><font size="+2"><b><a name="yinki"></a>yinki</b> </font>
+<font size="+2">yankee</font>
+ (may refer to certain white outsiders)
+ <i>Usage: </i>Not used to refer generally to `Northerner', nor to refer to any black, Indian, or Oriental person.
+ {&nbsp;English}
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="yínko"></a>yínko</b> </font>
+ Neg.
+<font size="+2">to not believe, doubt; to be pagan</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ ☞<a href="y.htm#yimmi">yimmi</a>
+<br><font size="+2"><b><a name="yochoffi"></a>yochoffi</b> </font>
+<font size="+2">to shrink by drying</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>yochofchi, yochofhili, yochofhachi</i>)
+&nbsp; [/yochof-li]
+&nbsp;<font size="0">(IB)</font>
+<br>&nbsp;&nbsp;<i><a href="y.htm#yochofka">yochofka</a></i>
+&nbsp;to shrink
+<br><font size="+2"><b><a name="yochofka"></a>yochofka</b> </font>
+<font size="+2">to shrivel from heat, shrink from drying</font>
+&nbsp; [/yochof-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Wilok yochofkati.
+ <i>The shoes shrank.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(DB)</font>
+ ☞<a href="y.htm#yochoffi">yochoffi</a>
+<br><font size="+2"><b><a name="yohbi"></a>yohbi</b> </font>
+<font size="+2">to be dewy; to have condensation, be fogged up; early morning dew, mist in the air</font>
+&nbsp;<font face="Arial">«</font>Itaakalifa yoobo.
+ <i>There's dew in the yard.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hassik yohbi.
+ <i>The grass is dewy.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i2.htm#itayohbi">itayohbi</a></i>
+&nbsp;to be dew on the ground
+<br>&nbsp;&nbsp;<i><a href="o.htm#ooyohbi">ooyohbi</a></i>
+&nbsp;to have water on the surface
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ilooyohbichi">ilooyohbichi</a></i>
+&nbsp;to develop condensation
+<br><font size="+2"><b><a name="yohli"></a>yohli</b> </font>
+<font size="+2">to sift</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>yohchi, yohhili, yohhachi</i>)
+&nbsp; [/yoh-li]
+<br><font size="+2"><b><a name="yokbani"></a>yokbani</b> </font>
+ <i>Var. of</i>&nbsp;<a href="y.htm#yokboni">yokboni</a>&nbsp;
+<br><font size="+2"><b><a name="yokbi"></a>yokbi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">any venereal disease, esp. the clap, gonorrhea </font>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Yokbin chasíiso.
+ <i>I caught the clap.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to have a venereal disease</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+<br><font size="+2"><b><a name="yokboni"></a>yokboni</b> </font>
+<font size="+2">mole </font>
+ <i>Var: yokbani</i>
+&nbsp;<font size="0">(IB, DB)</font>
+<br><font size="+2"><b><a name="yokísbo"></a>yokísbo</b> </font>
+ Neg.
+ ☞<a href="y.htm#yosba">yosba</a>
+<br><font size="+2"><b><a name="yokwani"></a>yokwani</b> </font>
+ <i>Var. of</i>&nbsp;<a href="o.htm#okwani">okwani</a>&nbsp;
+<br><font size="+2"><b><a name="yolisba"></a>yolisba</b> </font>
+<font size="+2">getting lost </font>
+&nbsp; [/yo&lt;li&gt;sba]
+&nbsp;<font face="Arial">«</font>Yolisbaya maɬatka.
+ <i>Getting lost is scary.</i><font face="Arial">»</font>
+ ☞<a href="y.htm#yosba">yosba</a>
+<br><font size="+2"><b><a name="yóllichi"></a>yóllichi</b> </font>
+<font size="+2">to have a muscle spasm, twitch, tic </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: yòllichi</i>
+&nbsp;<font size="0">(IB)</font>
+&nbsp;<font face="Arial">«</font>Chayóllichi.
+ <i>I have a tic.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="yoɬohli"></a>yoɬohli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="y.htm#yiɬohli">yiɬohli</a>&nbsp;
+<br><font size="+2"><b><a name="yoɬoolichi"></a>yoɬoolichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="y.htm#yiɬoolichi">yiɬoolichi</a>&nbsp;
+<br><font size="+2"><b><a name="yòolichi"></a>yòolichi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to twitch, shake, quake, tremble, quiver, be nervous, wiggle</font>
+&nbsp;<font color="#080000">Cul:  Some say that if the right eye twitches, a relative is sick or will die; if the left, it could be anyone you know.</font>&nbsp;
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>yòochichi, yòohilichi, yòohachichi</i>)
+&nbsp; [/yòo-li-chi<sup>2</sup>]
+&nbsp;2.&nbsp;
+<font size="+2">to sift</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ibiyòolichi">ibiyòolichi</a></i>
+&nbsp;to have a facial tic
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ibiyòokachi">ibiyòokachi</a></i>
+&nbsp;to frown, have a facial tic
+<br>&nbsp;&nbsp;<i><a href="i2.htm#isyòokachi">isyòokachi</a></i>
+&nbsp;sifter
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittiɬi iyyòolichi">ittiɬi iyyòolichi</a></i>
+&nbsp;to have a twitch in the eye
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittiɬi iyyòokachi">ittiɬi iyyòokachi</a></i>
+&nbsp;tic in the eyelid
+<br><font size="+2"><b><a name="yoosbachi"></a>yoosbachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="a.htm#ayosbachi">ayosbachi</a>&nbsp;
+<br><font size="+2"><b><a name="yosba"></a>yosba</b> </font>
+<font size="+2">to be lost, lose one's place (e.g. in a book)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+<br>&nbsp;&nbsp;<i><a href="y.htm#yokísbo">yokísbo</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="y.htm#yolisba">yolisba</a></i>
+&nbsp;getting lost
+<br>&nbsp;&nbsp;<i><a href="a.htm#ayosba">ayosba</a></i>
+&nbsp;to be forgetful
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imayosba">imayosba</a></i>
+&nbsp;to forget what one is going to say
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istimayosba">istimayosba</a></i>
+&nbsp;to forget to do something
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#ayosbachi">ayosbachi</a></i>
+&nbsp;to try to forget
+<br>&nbsp;&nbsp;<i><a href="a.htm#atyòosbachi">atyòosbachi</a></i>
+&nbsp;invisible being that gets people lost
+<br><font size="+2"><b><a name="Yosti"></a>Yosti</b> </font>
+<font size="+2">Houston, Texas</font>
+ {&nbsp;English}
+<br><font size="+2"><b><a name="yowaapa"></a>yowaapa</b> </font>
+<font size="+2">to be uneasy, tense, nervous, apprehensive (as when watching an acrobat)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+<br>&nbsp;&nbsp;<i><a href="y.htm#yowaapatíkko">yowaapatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="y.htm#yowaapachi">yowaapachi</a></i>
+&nbsp;to make someone nervous
+<br><font size="+2"><b><a name="yowaapachi"></a>yowaapachi</b> </font>
+<font size="+2">to make someone nervous, make tense, make uneasy</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>yowaapachitiska, yowaapachitilka, yowaapachitaska</i>)
+&nbsp; [/yowaapa-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chayowaapachitiskamoolo.
+ <i>You make me nervous.</i><font face="Arial">»</font>
+ ☞<a href="y.htm#yowaapa">yowaapa</a>
+<br><font size="+2"><b><a name="yowaapatíkko"></a>yowaapatíkko</b> </font>
+ Neg.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ ☞<a href="y.htm#yowaapa">yowaapa</a>
+<br><font size="+2"><b><a name="yowwa"></a>yowwa</b> </font>
+<font size="+2">to call out</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>yochiwwa, yoliwwa, yohachiwwa</i>)
+&nbsp;<font face="Arial">«</font>`Hallo', yowwalo.
+ <i>I called out `hallo'</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Aatok yóowwan háaloliti.
+ <i>I heard someone call out.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iyyowwa">iyyowwa</a></i>
+&nbsp;to call out to
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#iyyokíwwo">iyyokíwwo</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maatiyyowwa">maatiyyowwa</a></i>
+&nbsp;to call (someone) over a distance
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maatiyyokíwwo">maatiyyokíwwo</a></i>
+ Neg.
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

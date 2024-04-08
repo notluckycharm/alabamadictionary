@@ -1,0 +1,2302 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">N</font></center><br>
+<br><font size="+2"><b><a name="nàaho"></a>nàaho</b> </font>
+<font size="+2">to be there, exist</font>
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Chastokok nàahompan amitobalhachin...
+ <i>There are some peas, I understand, and you will cook them for me...</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Apalokchik Irankafan nàahohchi.
+ <i>There's oil in Iran.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#naho">naho</a>
+<br><font size="+2"><b><a name="naaɬiihíkko"></a>naaɬiihíkko</b> </font>
+ Neg.
+&nbsp;1.&nbsp;
+<font size="+2">to not talk</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;<font face="Arial">«</font>Naaɬiákkobi.
+ <i>I'm not talking.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to be unable to talk, be dumb, mute (e.g. have laryngitis or be too scared)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chanaaɬiihíkkobi.
+ <i>I can't talk.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#naaɬiika">naaɬiika</a>
+<br><font size="+2"><b><a name="naaɬiihilka"></a>naaɬiihilka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#naaɬiilka">naaɬiilka</a>&nbsp;
+<br><font size="+2"><b><a name="naaɬiika"></a>naaɬiika</b> </font>
+<font size="+2">to talk, speak (a language)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>naaɬiihiska, naaɬiihilka, naaɬiihaska</i>)
+&nbsp; [/naaɬii-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Falanchi naaɬiilkan naaɬiikalihchi.
+ <i>I speak French.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Naaɬiikalayon ishochachilíihtasti.
+ <i>They forced me to talk.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Honaaɬiikayok íiⁿsan niɬhoota.
+ <i>They kept talking late into the night.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Wachíinat naaɬiika!
+ <i>Speak English!</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Aátit naaɬiika!
+ <i>Speak in Indian!</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#naaɬiihíkko">naaɬiihíkko</a></i>
+ Neg.
+&nbsp;1.&nbsp;
+&nbsp;to not talk
+&nbsp;2.&nbsp;
+&nbsp;to be unable to talk
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="k.htm#káanon naaɬiíkko">káanon naaɬiíkko</a></i>
+&nbsp;to be unable to talk plainly
+<br>&nbsp;&nbsp;<i><a href="n.htm#naaɬiikatíkko">naaɬiikatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#innaaɬiika">innaaɬiika</a></i>
+&nbsp;to talk to; to read from
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iminnaaɬiika">iminnaaɬiika</a></i>
+&nbsp;to read from to
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittinnaaɬiika">ittinnaaɬiika</a></i>
+&nbsp;to be talking to one another
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imittinnaaɬiika">imittinnaaɬiika</a></i>
+&nbsp;to talk for (someone)
+<br>&nbsp;&nbsp;<i><a href="n.htm#naaɬiilka">naaɬiilka</a></i>
+&nbsp;language, word
+<br>&nbsp;&nbsp;<i><a href="m.htm#maanaaɬiika">maanaaɬiika</a></i>
+&nbsp;to talk into a microphone
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maatinnaaɬiika">maatinnaaɬiika</a></i>
+&nbsp;to talk to (on the telephone)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maanaaɬihilka">maanaaɬihilka</a></i>
+&nbsp;microphone
+<br>&nbsp;&nbsp;<i><a href="m.htm#maastinnaaɬìika">maastinnaaɬìika</a></i>
+&nbsp;preacher
+<br>&nbsp;&nbsp;<i><a href="m.htm#masnaaɬiilka">masnaaɬiilka</a></i>
+&nbsp;microphone
+<br>&nbsp;&nbsp;<i><a href="n.htm#naaɬiilichi">naaɬiilichi</a></i>
+&nbsp;to talk about about someone; to teach how to talk
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#naaɬiikìicho">naaɬiikìicho</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#naaɬiikachi">naaɬiikachi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be talked about
+&nbsp;2.&nbsp;
+&nbsp;gossip, talk
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittinnaaɬiilichi">ittinnaaɬiilichi</a></i>
+&nbsp;to talk about one another
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ibisaani isnaaɬiika">ibisaani isnaaɬiika</a></i>
+&nbsp;to nasalize the speech
+<br>&nbsp;&nbsp;<i><a href="l.htm#lóomhit naaɬiika">lóomhit naaɬiika</a></i>
+&nbsp;to whisper
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="l.htm#lóomhòosit naaɬiika">lóomhòosit naaɬiika</a></i>
+&nbsp;to talk softly
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoowiliksi isnaaɬiika">ichoowiliksi isnaaɬiika</a></i>
+&nbsp;to mumble
+<br><font size="+2"><b><a name="naaɬiikachi"></a>naaɬiikachi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be talked about </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/naaɬii-ka<sup>1</sup>-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chanaaɬiikachiti.
+ <i>I'm being talked about.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">gossip (talk)</font>
+ ☞<a href="n.htm#naaɬiilichi">naaɬiilichi</a>
+<br><font size="+2"><b><a name="naaɬiika kanotíkko wihli"></a>naaɬiika kanotíkko wihli</b> </font>
+<font size="+2">to always be looking for something bad to say about someone</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/naaɬii-ka<sup>1</sup> /kano-tíkko /wih-li]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="w.htm#wihli">wihli</a>
+<br><font size="+2"><b><a name="naaɬiikapalki"></a>naaɬiikapalki</b> </font>
+<font size="+2">telephone</font>
+ <i>Usage: </i>Older word.
+&nbsp; [/naaɬii-ka<sup>1</sup> /palki]
+<br><font size="+2"><b><a name="naaɬiikatíkko"></a>naaɬiikatíkko</b> </font>
+ Neg.
+ ☞<a href="n.htm#naaɬiika">naaɬiika</a>
+<br><font size="+2"><b><a name="naaɬiikìicho"></a>naaɬiikìicho</b> </font>
+ Neg.
+&nbsp;<font color="#800080" size="+1">-LI</font>
+ ☞<a href="n.htm#naaɬiilichi">naaɬiilichi</a>
+<br><font size="+2"><b><a name="naaɬiilichi"></a>naaɬiilichi</b> </font>
+<font size="+2">to talk about or gossip about someone</font>
+&nbsp;<font size="0">(CS, VC)</font>
+; <font size="+2">to teach, train how to talk (as a baby)</font>
+&nbsp;<font size="0">(WP)</font>
+ <i>Usage: </i>For some, only acceptable definition is `talk about'
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>naaɬiichichi, naaɬiihilichi, naaɬiihachichi</i>)
+&nbsp; [/naaɬii-li-chi<sup>1</sup>]
+ <i>Neg: </i>naaɬiikìicho
+&nbsp;<font face="Arial">«</font>Roykak chanaaɬiilichihchok Sallin immankasti.
+ <i>Roy talked to Sally about me.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#naaɬiika">naaɬiika</a>
+<br><font size="+2"><b><a name="naaɬiilka"></a>naaɬiilka</b> </font>
+<font size="+2">language, speech, word, news, message, information, discussion, sermon, report</font>
+&nbsp; [/naaɬii&lt;il&gt;-ka<sup>1</sup>]
+ <i>Var: naaɬiihilka</i>
+ <i>Var: naaɬilka</i>
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font face="Arial">«</font>Naaɬiilkak nàahon honaaɬiikastóobàapin...
+ <i>There was a discussion and they talked for a long time.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+ ☞<a href="n.htm#naaɬiika">naaɬiika</a>
+<br><font size="+2"><b><a name="naaɬiilka ittimaɬahkóyhat hossòochi"></a>naaɬiilka ittimaɬahkóyhat hossòochi</b> </font>
+<font size="+2">linguist</font>
+ <i>Lit: </i>someone who writes down all different kinds of languages
+&nbsp; [/naaɬii&lt;il&gt;-ka<sup>1</sup> itti-im- /aɬahka /óyha-t /hosso-chi<sup>1</sup>]
+ <i>Var: naaɬiilka ittimaɬahkóyhat hossochi</i>
+<br><font size="+2"><b><a name="naaɬiilka lamatíkko"></a>naaɬiilka lamatíkko</b> </font>
+<font size="+2">deceptive or misleading talk</font>
+ <i>Lit: </i>crooked words
+&nbsp; [/naaɬii&lt;il&gt;-ka<sup>1</sup> /lamat&lt;ík&gt;ki-o<sup>2</sup>]
+<br><font size="+2"><b><a name="naaɬiilka lonka"></a>naaɬiilka lonka</b> </font>
+<font size="+2">secret</font>
+&nbsp; [/naaɬii&lt;il&gt;-ka<sup>1</sup> /lomhi-ka<sup>1</sup>]
+ <i>Var: naaɬilka lonka</i>
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font face="Arial">«</font>Naaɬiilka lonkan aⁿfatliba?
+ <i>Will you tell me the secret?</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="naaɬiilka máalitíkko"></a>naaɬiilka máalitíkko</b> </font>
+<font size="+2">deceptive or misleading talk</font>
+&nbsp; [/naaɬii&lt;il&gt;-ka<sup>1</sup> /máali<sup>2</sup>-tíkko]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="naaɬiilka paffichi"></a>naaɬiilka paffichi</b> </font>
+<font size="+2">taperecorder; recording tape</font>
+&nbsp; [/naaɬii&lt;il&gt;-ka<sup>1</sup> /paf-li-chi<sup>2</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="naaɬiilkistàaya"></a>naaɬiilkistàaya</b> </font>
+<font size="+2">messenger</font>
+&nbsp; [/naaɬii&lt;il&gt;-ka<sup>1</sup> ist- /àaya]
+<br><font size="+2"><b><a name="naaɬilka"></a>naaɬilka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#naaɬiilka">naaɬiilka</a>&nbsp;
+<br><font size="+2"><b><a name="naaɬilka lonka"></a>naaɬilka lonka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#naaɬiilka lonka">naaɬiilka lonka</a>&nbsp;
+<br><font size="+2"><b><a name="naani"></a>naani</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">man, male; nonbearing fruit tree</font>
+&nbsp;<font face="Arial">«</font>Naanikáhchi.
+ <i>She's like a man.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Naani yáhmikáhchi.
+ <i>She can do anything a man can do.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to be mannish, act like a man (of a woman), be a tomboy (of a girl)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>naanitiska, naanitilka, naanitaska</i>)
+ <i>Var: naanifíhna</i>
+&nbsp;<font face="Arial">«</font>Naanitiskakáhchi.
+ <i>You're acting like a man.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#naanosi">naanosi</a></i>
+&nbsp;tomboy
+<br>&nbsp;&nbsp;<i><a href="i1.htm#innaani">innaani</a></i>
+&nbsp;husband
+<br>&nbsp;&nbsp;<i><a href="n.htm#naaniha">naaniha</a></i>
+&nbsp;men
+<br>&nbsp;&nbsp;<i><a href="n.htm#naanichòoba">naanichòoba</a></i>
+&nbsp;husband, old man
+<br><font size="+2"><b><a name="naanichòoba"></a>naanichòoba</b> </font>
+<font size="+2">husband, old man </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+&nbsp; [/naani /achòoba]
+ ☞<a href="n.htm#naani">naani</a>
+<br><font size="+2"><b><a name="naaniha"></a>naaniha</b> </font>
+<font size="+2">men </font>
+&nbsp; [/naani-ha<sup>1</sup>]
+ ☞<a href="n.htm#naani">naani</a>
+<br><font size="+2"><b><a name="naani itaafolòoka"></a>naani itaafolòoka</b> </font>
+<font size="+2">bridegroom</font>
+&nbsp; [/naani /itaafolòo-ka<sup>1</sup>]
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="naanosi"></a>naanosi</b> </font>
+<font size="+2">tomboy</font>
+&nbsp; [/naani-osi]
+ ☞<a href="n.htm#naani">naani</a>
+<br><font size="+2"><b><a name="nàasàalo"></a>nàasàalo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nàasahàalo">nàasahàalo</a>&nbsp;
+<br><font size="+2"><b><a name="nàasaawaayachitilka"></a>nàasaawaayachitilka</b> </font>
+<font size="+2">ranch, farm</font>
+&nbsp; [/nàasi aa- /waaya-chi<sup>1</sup>-tilka]
+<br><font size="+2"><b><a name="nàasaayachihka"></a>nàasaayachihka</b> </font>
+<font size="+2">farm</font>
+&nbsp; [/nàasi aa- /achih-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="nàasachìhli"></a>nàasachìhli</b> </font>
+<font size="+2">farmer</font>
+&nbsp; [/nàasi /achih-li]
+ [<i>fgr</i>]
+ <i>Var: nàasachìili</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="nàasachìili"></a>nàasachìili</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nàasachìhli">nàasachìhli</a>&nbsp;
+<br><font size="+2"><b><a name="nàasahàalo"></a>nàasahàalo</b> </font>
+<font size="+2">beggar</font>
+&nbsp; [/nàasi /ahàalo]
+ <i>Var: nàasàalo</i>
+<br><font size="+2"><b><a name="nàasakostinìichi"></a>nàasakostinìichi</b> </font>
+<font size="+2">wise person, sage</font>
+&nbsp; [/nàasi a- /kostini-chi<sup>1</sup>]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="nàasalchiha"></a>nàasalchiha</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nàasiyalchiya">nàasiyalchiya</a>&nbsp;
+<br><font size="+2"><b><a name="nàasalchiya"></a>nàasalchiya</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nàasiyalchiya">nàasiyalchiya</a>&nbsp;
+<br><font size="+2"><b><a name="nàasalpitta"></a>nàasalpitta</b> </font>
+<font size="+2">container</font>
+&nbsp; [/nàasi /aa&lt;l&gt;pitta]
+<br><font size="+2"><b><a name="nàasalpooba"></a>nàasalpooba</b> </font>
+<font size="+2">livestock </font>
+&nbsp; [/nàasi /a&lt;l&gt;pooba]
+<br><font size="+2"><b><a name="nàasaɬipìika"></a>nàasaɬipìika</b> </font>
+<font size="+2">tarpaulin</font>
+&nbsp; [/nàasi a- /ɬipìi-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="nàaschikìika"></a>nàaschikìika</b> </font>
+<font size="+2">storage building</font>
+&nbsp; [/nàasi /chikìi-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="nàaschiniika"></a>nàaschiniika</b> </font>
+<font size="+2">burden, backpack</font>
+&nbsp; [/nàasi /chinii-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="nàasfináachòssi"></a>nàasfináachòssi</b> </font>
+<font size="+2">to do something nice for, be very nice to</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>nàasfináachòositiska, nàasfináachòositilka, nàasfináachòositaska</i>)
+&nbsp; [/nàasi /fina-chi<sup>1</sup>-osi-hchi]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Nàaschafináachòostiskahchi.
+ <i>You treat me really nice.</i><font face="Arial">»</font>
+ ☞<a href="f.htm#fíhna">fíhna</a>
+<br><font size="+2"><b><a name="nàasholba"></a>nàasholba</b> </font>
+<font size="+2">picture (nonhuman)</font>
+&nbsp; [/nàasi /holba]
+<br><font size="+2"><b><a name="nàashollo"></a>nàashollo</b> </font>
+<font size="+2">taboo, something forbidden</font>
+&nbsp; [/nàasi /hollo]
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="nàashòoba"></a>nàashòoba</b> </font>
+<font size="+2">thief</font>
+&nbsp; [/nàasi /hòoba]
+<br><font size="+2"><b><a name="nàasi"></a>nàasi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">thing, something, anything, someone</font>
+&nbsp;<font face="Arial">«</font>Náasókko.
+ <i>It's nothing.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Náasíkson.
+ <i>As soon as.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mafòokaya nàasi stinnáksáamoostíkkohchoolikha.
+ <i>At that time they used to not think a thing about it.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasi stoinnáksáamostíkko, eh.
+ <i>It used to not be anything to them, huh?</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">what</font>
+&nbsp;<font face="Arial">«</font>Náasòoli?
+ <i>What is it?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chimayiksamok náaⁿsòoⁿli?
+ <i>What's your clan?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasooli imayiksamo?
+ <i>What's his clan?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasi?
+ <i>What is it?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasok sáhmìi?
+ <i>What happened?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàason sáhchokòmmí?
+ <i>What did you do? (to someone with a black eye).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasok chali?
+ <i>What kind of person am I?</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#náasíkson">náasíkson</a></i>
+&nbsp;as soon as, quickly
+<br>&nbsp;&nbsp;<i><a href="n.htm#náasòkko">náasòkko</a></i>
+ Neg.
+&nbsp;nothing
+<br><font size="+2"><b><a name="náasifatka"></a>náasifatka</b> </font>
+<font size="+2">story, tale, something told </font>
+&nbsp; [/nàasi /fat-ka$]
+<br><font size="+2"><b><a name="náasifatli"></a>náasifatli</b> </font>
+<font size="+2">story-teller</font>
+&nbsp; [/nàasi /fat-li]
+<br><font size="+2"><b><a name="náasifatlishachàali"></a>náasifatlishachàali</b> </font>
+<font size="+2">billboard</font>
+&nbsp; [/nàasi /fat-li ist- /hachàa-li]
+<br><font size="+2"><b><a name="nàasi istinnahotilkafìina ilbi"></a>nàasi istinnahotilkafìina ilbi</b> </font>
+<font size="+2">right hand</font>
+&nbsp; [/nàasi ist-im- /naho-tilka-fìhna il- /(i)bi]
+<br><font size="+2"><b><a name="nàasi iyyi óstàaka"></a>nàasi iyyi óstàaka</b> </font>
+<font size="+2">animals, creatures, four-footed beings</font>
+&nbsp; [/nàasi /iyyi /óstàa-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="náasíkson"></a>náasíkson</b> </font>
+<font size="+2">as soon as, quickly </font>
+&nbsp; [/nàasi /ík- /(i)sa-o<sup>2</sup>-n]
+&nbsp;<font face="Arial">«</font>Náasíkson pomalpíisàama amailkalòo.
+ <i>As soon as we get ready we'll go.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nàasi">nàasi</a>
+<br><font size="+2"><b><a name="nàasi okchàaya"></a>nàasi okchàaya</b> </font>
+<font size="+2">living being, creature </font>
+&nbsp; [/nàasi /okchaaya]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="nàasi okchàayaaha"></a>nàasi okchàayaaha</b> </font>
+<font size="+2">living beings, creatures </font>
+&nbsp; [/nàasi /okchaaya-ha<sup>1</sup>]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="nàasisáhtik"></a>nàasisáhtik</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nàasisáhtika">nàasisáhtika</a>&nbsp;
+<br><font size="+2"><b><a name="nàasisáhtika"></a>nàasisáhtika</b> </font>
+<font size="+2">everything, all manner of things; anything whatsoever, whatever</font>
+&nbsp; [/nàasi /sá&lt;h&gt;mi-tika]
+ <i>Var: nàasisáhtik</i>
+&nbsp;<font face="Arial">«</font>Nàasisáhtík ipalihchi.
+ <i>I can eat anything.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhchootoomok onáamihchi nàasisáhtika.
+ <i>However it used to happen it is still the same today.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasisáhtík ìisahchi aboolifaaya.
+ <i>All manner of things live in the woods.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="nàasischòopa"></a>nàasischòopa</b> </font>
+<font size="+2">seller, salesclerk</font>
+&nbsp; [/nàasi ist- /choopa]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="nàasismaɬatkachi"></a>nàasismaɬatkachi</b> </font>
+<font size="+2">scarecrow </font>
+&nbsp; [/nàasi /maɬat-ka<sup>1</sup>-chi<sup>1</sup>]
+<br><font size="+2"><b><a name="nàasispaachiika"></a>nàasispaachiika</b> </font>
+<font size="+2">cupboard, cabinet, shelf</font>
+ (chiika is the best verb for this meaning because there are all different kinds of things found in a cupboard, as opposed to `library' for instance)
+&nbsp; [/nàasi ist-paa- /chii-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="nàasistalaami"></a>nàasistalaami</b> </font>
+<font size="+2">wild animal</font>
+&nbsp; [/nàasi ist- /talaami]
+<br><font size="+2"><b><a name="nàasistalaami inniya"></a>nàasistalaami inniya</b> </font>
+<font size="+2">animal fat, tallow </font>
+&nbsp; [/nàasi ist- /talaami im- /niya]
+<br><font size="+2"><b><a name="nàasistiⁿsokka"></a>nàasistiⁿsokka</b> </font>
+<font size="+2">crowbar </font>
+&nbsp; [/nàasi ist-im- /sok(af)-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="nàasiyalchiya"></a>nàasiyalchiya</b> </font>
+<font size="+2">planting, crop, agriculture</font>
+&nbsp; [/nàasi /a&lt;l&gt;chih-a]
+ <i>Var: nàasalchiya</i>
+ <i>Var: nàasalchiha</i>
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font face="Arial">«</font>Nàasiyalchiyootok isnakaɬtok ommoolo.
+ <i>The planting was all gone.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ihaanikáanoofan nàasalchiyak hokanohchi.
+ <i>Where there's good land the crops are good.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="náaskànko"></a>náaskànko</b> </font>
+<font size="+2">trash</font>
+&nbsp; [/nàasi /kano-ki-o<sup>2</sup>]
+<br><font size="+2"><b><a name="náaskànko alpitta"></a>náaskànko alpitta</b> </font>
+<font size="+2">trash basket, trash can</font>
+&nbsp; [/nàasi /kano-ki-o<sup>2</sup> /aa&lt;l&gt;pitta]
+<br><font size="+2"><b><a name="nàasmafináachòssi"></a>nàasmafináachòssi</b> </font>
+<font size="+2">to love, like very much</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>nàasmafináachòositiska, nàasmafináachòositilka, nàasmafináachòositaska</i>)
+&nbsp; [/nàasi /ma-fina-chi<sup>2</sup>-osi-hchi]
+ ☞<a href="m.htm#mafíhna">mafíhna</a>
+<br><font size="+2"><b><a name="nàasmaɬahli"></a>nàasmaɬahli</b> </font>
+<font size="+2">wild animals</font>
+&nbsp; [/nàasi /maɬa&lt;h&gt;t-li]
+<br><font size="+2"><b><a name="nàasmaɬahli iisafon"></a>nàasmaɬahli iisafon</b> </font>
+<font size="+2">zoo</font>
+&nbsp; [/nàasi /maɬat&lt;h&gt;t-li /iisa-fa-o<sup>1</sup>-n]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="nàasmaɬahli imíistilka"></a>nàasmaɬahli imíistilka</b> </font>
+<font size="+2">zoo</font>
+&nbsp; [/nàasi /maɬat&lt;h&gt;t-li im- /(i)sa-tilka]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: násmaɬatli imíistilka</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="náasmaɬátli"></a>náasmaɬátli</b> </font>
+<font size="+2">wild animal</font>
+&nbsp; [/nàasi /maɬat-li]
+<br><font size="+2"><b><a name="nàasmìnta"></a>nàasmìnta</b> </font>
+<font size="+2">something else</font>
+&nbsp; [/nàasi /mìnta]
+<br><font size="+2"><b><a name="náasokchi kamoska"></a>náasokchi kamoska</b> </font>
+<font size="+2">homemade wine</font>
+&nbsp; [/nàasi /okchi /kamos-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: násokchikamoska</i>
+<br><font size="+2"><b><a name="náasokchi kaskaha"></a>náasokchi kaskaha</b> </font>
+<font size="+2">homemade wine</font>
+&nbsp; [/nàasi /okchi /kaskaha]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: násokchikaskaha</i>
+<br><font size="+2"><b><a name="náasòkko"></a>náasòkko</b> </font>
+ Neg.
+<font size="+2">nothing</font>
+&nbsp; [/nàasi-ókko]
+ ☞<a href="n.htm#nàasi">nàasi</a>
+<br><font size="+2"><b><a name="nàasóochafatli"></a>nàasóochafatli</b> </font>
+<font size="+2">teller of tales and legends</font>
+&nbsp; [/nàasi /óocha /fat-li]
+<br><font size="+2"><b><a name="nàasóyha"></a>nàasóyha</b> </font>
+<font size="+2">everything, all, everyone</font>
+&nbsp; [/nàasi /óyha]
+<br><font size="+2"><b><a name="nàasóyhàasi"></a>nàasóyhàasi</b> </font>
+<font size="+2">everything, all, everyone</font>
+&nbsp; [/nàasi /óyha-osi]
+<br><font size="+2"><b><a name="nàasóyha maaholbachi"></a>nàasóyha maaholbachi</b> </font>
+<font size="+2">television antenna</font>
+&nbsp; [/nàasi /óyha maat- /holba-chi<sup>1</sup>]
+<br><font size="+2"><b><a name="nàasóyha talbòoli"></a>nàasóyha talbòoli</b> </font>
+<font size="+2">blacksmith</font>
+&nbsp; [/nàasi /óyha /talbòo-li]
+ <i>Var: nàasóyha talibòoli</i>
+<br><font size="+2"><b><a name="nàasóyha talibòoli"></a>nàasóyha talibòoli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nàasóyha talbòoli">nàasóyha talbòoli</a>&nbsp;
+<br><font size="+2"><b><a name="nàaspaatalka"></a>nàaspaatalka</b> </font>
+<font size="+2">cupboard</font>
+&nbsp; [/nàasi paa- /talàa-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="nàassobàayli"></a>nàassobàayli</b> </font>
+<font size="+2">prophet, sage, wise person</font>
+&nbsp; [/nàasi /sobay-li]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="nàaswaaya"></a>nàaswaaya</b> </font>
+<font size="+2">produce, vegetables</font>
+ <i>Lit: </i>whatever is ripe
+&nbsp; [/nàasi /waaya]
+<br><font size="+2"><b><a name="nàaswaliika pàlki"></a>nàaswaliika pàlki</b> </font>
+<font size="+2">car</font>
+ <i>Usage: </i>Old word.
+&nbsp; [/nàasi /walii-ka<sup>1</sup> /pàlki]
+<br><font size="+2"><b><a name="nachoffi"></a>nachoffi</b> </font>
+<font size="+2">to break off a piece of, take a little piece of, take a pinch of</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>nachofchi, nachofhili, nachofhachi</i>)
+&nbsp; [/nachof-li]
+ <i>Var: nochoffi</i>
+&nbsp;<font size="0">(IB)</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#innachoffi">innachoffi</a></i>
+&nbsp;to break off a piece of (something) for
+<br>&nbsp;&nbsp;<i><a href="n.htm#nachòoli">nachòoli</a></i>
+&nbsp;to crumble into pieces
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#innachohli">innachohli</a></i>
+&nbsp;to give a piece of to (each) (pl. obj.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#nachohlichi">nachohlichi</a></i>
+&nbsp;to break (something) into pieces
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#nachohkachi">nachohkachi</a></i>
+&nbsp;to be broken off; to have leprosy
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#innachohlichi">innachohlichi</a></i>
+&nbsp;to break off pieces for (more than one)
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoonachofka">ichoonachofka</a></i>
+&nbsp;to be chipped on the edge
+<br>&nbsp;&nbsp;<i><a href="n.htm#nachòoka">nachòoka</a></i>
+&nbsp;to crumble
+<br>&nbsp;&nbsp;<i><a href="o.htm#onanachofka">onanachofka</a></i>
+&nbsp;to erode
+<br><font size="+2"><b><a name="nachohkachi"></a>nachohkachi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to have leprosy, have diseased skin slough off</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/nachoh-ka<sup>1</sup>-chi<sup>2</sup>]
+&nbsp;2.&nbsp;
+<font size="+2">to be broken off </font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="n.htm#nachohlichi">nachohlichi</a>
+<br><font size="+2"><b><a name="nachohlichi"></a>nachohlichi</b> </font>
+<font size="+2">to break (something) into pieces, break off pieces</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>nachohchichi, nachohhilichi, nachohhachichi</i>)
+&nbsp; [/nacho&lt;h&gt;f-li-chi<sup>2</sup>]
+ <i>Var: nachoolichi</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: nachòolichi</i>
+&nbsp;<font size="0">(DB)</font>
+ <i>Var: nochohlichi</i>
+&nbsp;<font size="0">(IB)</font>
+ ☞<a href="n.htm#nachòoli">nachòoli</a>
+<br><font size="+2"><b><a name="nachòoka"></a>nachòoka</b> </font>
+<font size="+2">to flake in pieces, crumble, break up into pieces</font>
+&nbsp; [/nacho(f)-ka<sup>1</sup>]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="n.htm#nachoffi">nachoffi</a>
+<br><font size="+2"><b><a name="nachòoli"></a>nachòoli</b> </font>
+<font size="+2">to crumble (something) into pieces</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>nachòochi, nachòohili, nachòohachi</i>)
+&nbsp; [/nacho(f)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+&nbsp;<font size="0">(DB)</font>
+ ☞<a href="n.htm#nachoffi">nachoffi</a>
+<br><font size="+2"><b><a name="nachoolichi"></a>nachoolichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nachohlichi">nachohlichi</a>&nbsp;
+<br><font size="+2"><b><a name="nachòolichi"></a>nachòolichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nachohlichi">nachohlichi</a>&nbsp;
+<br><font size="+2"><b><a name="naho"></a>naho</b><sup>1</sup> </font>
+<font size="+2">well, then, uh, er, let's see..</font>
+ <i>Usage: </i>Used often for hesitation in speech.
+<br><font size="+2"><b><a name="naho"></a>naho</b><sup>2</sup> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to do, come to be</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;<font face="Arial">«</font>Máamin nahoya `yakchi' ilkaya nahoyok.
+ <i>Now then, how did the word `yakchi' come to be?</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>àayafíhnaliiyok nàason nahotákkohchommo.
+ <i>I run around so much I don't do anything.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to use</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>nahotiska, nahotilka, nahotaska</i>)
+&nbsp;<font face="Arial">«</font>Nahoya nitaya sokhayáamit sokhayáastáskan istilachiik mok oaboslitóot ommoonó mok oaboslit honahotoofòokok onayakchichit oipahchootoolo, chofkonikáamiya.
+ <i>Well, a bear is like a pig, so since it's like a pig they'd bring it and I suppose they'd roast it all and then use it to make yakchi and they'd eat, the bones and stuff.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#nahotíkko">nahotíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i2.htm#isnaho">isnaho</a></i>
+&nbsp;to use (something) for a specific purpose
+<br>&nbsp;&nbsp;<i><a href="i2.htm#itayilnaho">itayilnaho</a></i>
+&nbsp;to fix up the yard
+<br>&nbsp;&nbsp;<i><a href="n.htm#nàaho">nàaho</a></i>
+&nbsp;to be there, exist
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#innàaho">innàaho</a></i>
+&nbsp;to possess
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#innáahochi">innáahochi</a></i>
+&nbsp;to make pregnant
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isnáaho">isnáaho</a></i>
+&nbsp;to be rich
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isnáahotíkko">isnáahotíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="nahotíkko"></a>nahotíkko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Aàyafíhnaliiyok nàason nahotákkohchommo.
+ <i>I run around so much that I don't do anything.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasmìnta nàastalaami mìntaya honahotíkkotooli.
+ <i>Those others, the other animals, didn't they used to do anything with them?</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+ ☞<a href="n.htm#naho">naho</a>
+<br><font size="+2"><b><a name="nakaaɬa"></a>nakaaɬa</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to go, leave, disappear (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>nakaɬchiya, -, -</i>)
+&nbsp; [/nakaɬa]
+ [<i>Irr: </i>PlStem=wasahka]
+&nbsp;<font face="Arial">«</font>Nakaaɬo.
+ <i>He's gone.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mootok sáamifíinon faykatok ommi? Sáhmin isnakaɬtok ommi?
+ <i>Well then, how long ago did it all stop? Why did it go away?</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Nakaaɬaamon máamòosin ohikhìichon nakaaɬahchootoha', hokahchootoolimpakha.
+ <i>`When he's gone, and they can't see him, well then he's gone for good', that's what they always used to say.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to die, pass away (of one)</font>
+ <i>Usage: </i>Idiom.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Akki nàaspakaali kanokát isháchàatikaasàalok okíhchòosin nakaaɬaloolo.
+ <i>These flowers are standing here looking pretty but before too long they'll be gone.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ampíchootoomok antaatootoomok nakaaɬafòokon akkok chokòolifòokama ihton hotalàalimok holihtan hopaɬɬista.
+ <i>My late mother and father are gone now, but when they were still living there, when they would lay out a field, they would make split-rail fences.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#nakaɬkìiyo">nakaɬkìiyo</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="n.htm#nákkàaɬa">nákkàaɬa</a></i>
+&nbsp;to be absent
+<br>&nbsp;&nbsp;<i><a href="n.htm#nakáaɬa">nakáaɬa</a></i>
+&nbsp;to be still gone
+<br>&nbsp;&nbsp;<i><a href="i1.htm#innakaaɬa">innakaaɬa</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to lose (something)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#innakaɬaachi">innakaɬaachi</a></i>
+&nbsp;to cause (someone) to lose weight
+<br>&nbsp;&nbsp;<i><a href="i2.htm#itanakaaɬa">itanakaaɬa</a></i>
+&nbsp;to die and have the spirit walk the earth
+<br>&nbsp;&nbsp;<i><a href="o.htm#oonakaaɬa">oonakaaɬa</a></i>
+&nbsp;to sink under water
+<br>&nbsp;&nbsp;<i><a href="n.htm#nakaɬaachi">nakaɬaachi</a></i>
+&nbsp;to get rid of
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#poskòosin nakaɬaachi">poskòosin nakaɬaachi</a></i>
+&nbsp;to have an abortion
+<br><font size="+2"><b><a name="nakáaɬa"></a>nakáaɬa</b> </font>
+<font size="+2">to be still gone, away</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>nakáaɬchiya, -, -</i>)
+&nbsp; [/nakaɬa]
+ [<i>Irr: </i>PlStem=wasahka]
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Nakáaɬatoomok iklóomobi.
+ <i>She's still gone and hasn't come back yet (said to someone calling again).</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nakaaɬa">nakaaɬa</a>
+<br><font size="+2"><b><a name="nakaɬaachi"></a>nakaɬaachi</b> </font>
+<font size="+2">to lose, get rid of (one object), make someone leave; to kill</font>
+ <i>Usage: </i>Idiomatic in the sense `kill'
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>nakaɬaachiska, nakaɬaachilka, nakaɬaachaska</i>)
+&nbsp;(<i>nakaɬaatiska, nakaɬaatilka, nakaɬaataska</i>)
+&nbsp; [/nakaɬa-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Istintalkan nakaɬáachilok wiililihchi.
+ <i>I'm looking for the glasses I lost.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chanakaɬaatisko.
+ <i>You got me lost.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hini nakaɬaachok innakáaɬan yóosbok áayat yáaliyon...
+ <i>He lost his way and it got lost on him and he was lost and he was wandering around here.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+ ☞<a href="n.htm#nakaaɬa">nakaaɬa</a>
+<br><font size="+2"><b><a name="nakaɬkìiyo"></a>nakaɬkìiyo</b> </font>
+ Neg.
+ ☞<a href="n.htm#nakaaɬa">nakaaɬa</a>
+<br><font size="+2"><b><a name="nakchi"></a>nakchi</b> </font>
+<font size="+2">rib, ribs </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+<br><font size="+2"><b><a name="nákkàaɬa"></a>nákkàaɬa</b> </font>
+<font size="+2">to be gone, absent, away</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>nákkàaɬchiya, -, -</i>)
+&nbsp; [/nakaɬa]
+ [<i>Irr: </i>PlStem=wasahka]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Nákkàaɬaaso.
+ <i>I guess he's gone (you say when you look over and discover it).</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nakaaɬa">nakaaɬa</a>
+<br><font size="+2"><b><a name="nakni"></a>nakni</b> </font>
+<font size="+2">hero</font>
+ <i>Usage: </i>Archaic.
+ {&nbsp;Mobilian?}
+&nbsp;<font size="0">(JS)</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#innakni">innakni</a></i>
+&nbsp;to be proud
+<br><font size="+2"><b><a name="náksáhmifòokon"></a>náksáhmifòokon</b> </font>
+<font size="+2">when</font>
+&nbsp; [/náksi /sa&lt;h&gt;mi-fòoka-o<sup>3</sup>-n]
+ ☞<a href="n.htm#náksi">náksi</a>
+<br><font size="+2"><b><a name="nàksáhtik"></a>nàksáhtik</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nàksisáhtika">nàksisáhtika</a>&nbsp;
+<br><font size="+2"><b><a name="náksi"></a>náksi</b> </font>
+<font size="+2">who, whom, which; where; how</font>
+&nbsp;<font face="Arial">«</font>Náksòoliⁿ?
+ <i>Who is that?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Náksìi?
+ <i>Who is it?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàksipìnhoní?
+ <i>Which way, in which direction is it?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Dallaskaya nàksipínhòoli?
+ <i>Which way is Dallas?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Maataaɬoilkama nàksipínhòoli?
+ <i>Which way is the bathroom?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Náksok sáhmit sobáykan ommitoska?
+ <i>How did they find out about it?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nákson oshashíichaani?
+ <i>Who did you go see?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ifa náksaayok wohkahchonkaⁿ?
+ <i>Which dog is barking?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nákson sáhmitiⁿ?
+ <i>How did it happen?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#náksok">náksok</a></i>
+&nbsp;who, someone
+<br>&nbsp;&nbsp;<i><a href="n.htm#nákson">nákson</a></i>
+&nbsp;where; whom
+<br>&nbsp;&nbsp;<i><a href="n.htm#náksifa">náksifa</a></i>
+&nbsp;where
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#náksifòokon">náksifòokon</a></i>
+&nbsp;where
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#náksifaakáalo">náksifaakáalo</a></i>
+&nbsp;whichever
+<br>&nbsp;&nbsp;<i><a href="n.htm#náksáhmifòokon">náksáhmifòokon</a></i>
+&nbsp;when
+<br>&nbsp;&nbsp;<i><a href="n.htm#náksóyhan">náksóyhan</a></i>
+&nbsp;everywhere
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#náksóyhàasi">náksóyhàasi</a></i>
+&nbsp;everywhere
+<br><font size="+2"><b><a name="náksifa"></a>náksifa</b> </font>
+<font size="+2">where</font>
+&nbsp; [/náksi-fa]
+&nbsp;<font face="Arial">«</font>Náksifòoní?
+ <i>Where is it?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Náksifòoli?
+ <i>Where is it?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Maataaɬoilkan nàksifòoli?
+ <i>Where is the bathroom?</i><font face="Arial">»</font>
+ ☞<a href="n.htm#náksi">náksi</a>
+<br><font size="+2"><b><a name="náksifaakáalo"></a>náksifaakáalo</b> </font>
+<font size="+2">whoever, whichever, either one</font>
+&nbsp; [/náksi-fa-ka<sup>2</sup>-áali-o<sup>1</sup>]
+ ☞<a href="n.htm#náksifa">náksifa</a>
+<br><font size="+2"><b><a name="náksifòokon"></a>náksifòokon</b> </font>
+<font size="+2">where</font>
+&nbsp; [/náksi-fòoka-o<sup>1</sup>-n]
+ ☞<a href="n.htm#náksifa">náksifa</a>
+<br><font size="+2"><b><a name="nàksisáhtika"></a>nàksisáhtika</b> </font>
+<font size="+2">anywhere, everywhere, all over</font>
+&nbsp; [/náksi /sá&lt;h&gt;mi-tika]
+ <i>Var: nàksáhtik</i>
+&nbsp;<font face="Arial">«</font>Nàksisáhtika bakchon wihhililòo.
+ <i>We look everywhere for berries.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàksáhtik àayaala.
+ <i>I can go anywhere.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="náksok"></a>náksok</b> </font>
+<font size="+2">who, someone</font>
+&nbsp; [/náksi-o<sup>1</sup>-k]
+&nbsp;<font face="Arial">«</font>Náksòk achachakkaiⁿ?
+ <i>Who's going with me?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Náksok maatachachakki?
+ <i>Is someone following me?</i><font face="Arial">»</font>
+ ☞<a href="n.htm#náksi">náksi</a>
+<br><font size="+2"><b><a name="nákson"></a>nákson</b> </font>
+<font size="+2">where; whom</font>
+&nbsp; [/náksi-o<sup>1</sup>-n]
+&nbsp;<font face="Arial">«</font>Nákson ishíichàa?
+ <i>Who did you see?</i><font face="Arial">»</font>
+ ☞<a href="n.htm#náksi">náksi</a>
+<br><font size="+2"><b><a name="náksóyhàasi"></a>náksóyhàasi</b> </font>
+<font size="+2">everywhere</font>
+&nbsp; [/náksi /óyha-osi]
+&nbsp;<font face="Arial">«</font>Náksóyhàasin àayalihchooti.
+ <i>I run around everywhere.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#náksòyhan">náksòyhan</a>
+<br><font size="+2"><b><a name="náksóyhan"></a>náksóyhan</b> </font>
+<font size="+2">everywhere, all over</font>
+&nbsp; [/náksi /óyha-n]
+ ☞<a href="n.htm#náksi">náksi</a>
+<br><font size="+2"><b><a name="nàmpo"></a>nàmpo</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be how many, how much, what time</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>nàmpotiska, nàmpotilka, nàmpotaska</i>)
+&nbsp;<font face="Arial">«</font>Baybas námpostiskaⁿ?
+ <i>How much do you weigh?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Lokbaha námpòosit lokbaha námpóffíinok hachàalok stochintitoomok, deacontiskayok...
+ <i>What year was it and how old were you when you were elected and you began to be a deacon?</i> <font size="0">(NCS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Námpoti?
+ <i>How many?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ya námpohchiⁿ?
+ <i>How much is this?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ifasi tóklon katosi tóklooma námpòoli?
+ <i>Two puppies and two kittens are how many?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Toknaawa námpòosit aɬkooliⁿ?
+ <i>How much money is in there?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hasikanatlis námpòosi?
+ <i>What time is it?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Námpòosiⁿ?
+ <i>How much was it?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàmpòo?
+ <i>How much? How many?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Námpòo, pokkon aapittayok?
+ <i>What's the score?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Námpon aapitta?
+ <i>What's the score?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàmpot ìisa?
+ <i>How many are there?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàmpot amàaka?
+ <i>How many went?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Námpoochi.
+ <i>What time is it?</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to be many, numerous, be a certain number</font>
+&nbsp;<font face="Arial">«</font>Aatinámpohchok oibiton ommi?
+ <i>Was it more than one person who killed it?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Eh, mikkóot John Scottkootoomok illifòokan wíiiiⁿkapifòokan lókba námpooya óoɬahchon ommiti.
+ <i>When chief John Scott died, it went on for a long time, many years went by (without a chief).</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>... holihtachit oittimapiilat ihtóot chaklit talàalaimok nàmpot lokòolok laawat lokòolit hochaklit yakchi iⁿɬakófkotoolokáasok.
+ <i>They would help each other build fences, even chopping to clear for a field and several would get together, a lot would get together, and chop and they wouldn't miss out on the corn and meat stew.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#námpotíkkòosi">námpotíkkòosi</a></i>
+&nbsp;to be few
+<br>&nbsp;&nbsp;<i><a href="n.htm#nàmpoyáalit">nàmpoyáalit</a></i>
+&nbsp;to be several
+<br><font size="+2"><b><a name="námpotíkkòosi"></a>námpotíkkòosi</b> </font>
+ Neg.
+<font size="+2">to be few, not many</font>
+&nbsp; [/námpo-tíkko-osi]
+ [<i>fgr</i>]
+ ☞<a href="n.htm#nàmpo">nàmpo</a>
+<br><font size="+2"><b><a name="nàmpoyáalit"></a>nàmpoyáalit</b> </font>
+<font size="+2">to be several</font>
+&nbsp; [/nàmpo-yáali-t]
+ ☞<a href="n.htm#nàmpo">nàmpo</a>
+<br><font size="+2"><b><a name="naskila"></a>naskila</b> </font>
+<font size="+2">flowering dogwood </font>
+ <i>(Cornus florida)</i>
+&nbsp;<font face="Arial">«</font>Naskila pakaaliiyok istakanookàamo.
+ <i>The dogwood's blooming is beautiful.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="Naskilabitka"></a>Naskilabitka</b> </font>
+<font size="+2">Woodville Dogwood Festival</font>
+&nbsp;<font color="#080000">Cul:  Held first weekend in April.</font>&nbsp;
+&nbsp; [/naskila /bit-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="Naskila Bìtliha"></a>Naskila Bìtliha</b> </font>
+<font size="+2">Dogwood Dancers</font>
+&nbsp;<font color="#080000">Cul:  A local Alabama dance group.</font>&nbsp;
+&nbsp; [/naskila /bit-li-ha<sup>1</sup>]
+<br><font size="+2"><b><a name="násmaɬatli imíistilka"></a>násmaɬatli imíistilka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nàasmaɬahli imíistilka">nàasmaɬahli imíistilka</a>&nbsp;
+<br><font size="+2"><b><a name="násokchikamoska"></a>násokchikamoska</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#náasokchikamoska">náasokchikamoska</a>&nbsp;
+<br><font size="+2"><b><a name="násokchikaskaha"></a>násokchikaskaha</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#náasokchikaskaha">náasokchikaskaha</a>&nbsp;
+<br><font size="+2"><b><a name="náswaaya okchikamoska"></a>náswaaya okchikamoska</b> </font>
+<font size="+2">homemade wine</font>
+&nbsp; [/nàasi /okchi /kamos-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="nataanipo"></a>nataanipo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nati aanipo">nati aanipo</a>&nbsp;
+<br><font size="+2"><b><a name="nataanipo iⁿhoopa"></a>nataanipo iⁿhoopa</b> </font>
+<font size="+2">to have gingivitis, sore gums</font>
+&nbsp;<font color="#800080" size="+1">3/AM-</font>
+&nbsp; [/nati /aanipo im- /hoopa]
+ ☞<a href="i1.htm#iⁿhoopa">iⁿhoopa</a>
+<br><font size="+2"><b><a name="natataanipo"></a>natataanipo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nati aanipo">nati aanipo</a>&nbsp;
+<br><font size="+2"><b><a name="nati"></a>nati</b> </font>
+<font size="+2">teeth, tooth, false teeth </font>
+&nbsp;<font color="#800080" size="+1">CHA-; AM-p</font>
+&nbsp; [/nati, for some im- /nati, /inati]
+ <i>Var: innati</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: inati</i>
+&nbsp;<font face="Arial">«</font>Chinnatik chiⁿhoopa?
+ <i>Does your tooth hurt?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chanatik aⁿhoopa.
+ <i>My tooth hurts.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chinatik chimiskáhcho?
+ <i>Is your tooth out?</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#innatosi">innatosi</a></i>
+&nbsp;baby tooth
+<br><font size="+2"><b><a name="nati aanipo"></a>nati aanipo</b> </font>
+<font size="+2">gums, gingiva </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/nati /aanipo]
+ <i>Var: nataanipo</i>
+ <i>Var: natataanipo</i>
+ <i>Var: natinipo</i>
+&nbsp;<font size="0">(IB)</font>
+&nbsp;<font face="Arial">«</font>Chanataanipok aⁿhoopahchon ommo.
+ <i>My gums are sore.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="natibíssa"></a>natibíssa</b> </font>
+<font size="+2">front tooth </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/nati (ibíssa)]
+ <i>Var: inatibíisa</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="natichoba"></a>natichoba</b> </font>
+<font size="+2">any large tooth </font>
+ (may refer to wisdom tooth, fang, tusk, canine tooth, horse's tooth, etc)
+&nbsp; [/nati /choba]
+ <i>Var: innatichoba</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="naticholpa"></a>naticholpa</b> </font>
+<font size="+2">false teeth </font>
+&nbsp; [/nati /cho&lt;l&gt;pa]
+<br><font size="+2"><b><a name="natiholpa"></a>natiholpa</b> </font>
+<font size="+2">toothache</font>
+&nbsp; [/nati /hoo&lt;l&gt;pa]
+<br><font size="+2"><b><a name="natikasaalichi"></a>natikasaalichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#natikasahlichi">natikasahlichi</a>&nbsp;
+<br><font size="+2"><b><a name="natikasahlichi"></a>natikasahlichi</b> </font>
+<font size="+2">toothache tree, Hercules tree, Hercules-club </font>
+ <i>(Zanthoxylum clava-herculis)</i>
+&nbsp;<font color="#080000">Cul:  Applying the inner bark of this tree to the gums relieves toothache.</font>&nbsp;
+&nbsp; [/nati /kasah-li-chi<sup>1</sup>]
+ <i>Var: innatikasahlichi</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: natikasaalichi</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="natilokòolímmòona"></a>natilokòolímmòona</b> </font>
+ <i>Var. of</i>&nbsp;<a href="i1.htm#innatilokòolímmòona">innatilokòolímmòona</a>&nbsp;
+<br><font size="+2"><b><a name="nati nàasisliphachitilka"></a>nati nàasisliphachitilka</b> </font>
+<font size="+2">molar tooth </font>
+&nbsp; [/nati /nàasi ist- /lipha-chi<sup>1</sup>-tilka]
+<br><font size="+2"><b><a name="natinipo"></a>natinipo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nati aanipo">nati aanipo</a>&nbsp;
+<br><font size="+2"><b><a name="natisfitilka"></a>natisfitilka</b> </font>
+<font size="+2">toothpick</font>
+&nbsp; [/nati ist- /fit(ip)&lt;il&gt;-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="natiskachàaka"></a>natiskachàaka</b> </font>
+<font size="+2">front molar, grinding tooth</font>
+&nbsp; [/nati ist- /kacha(ɬ)-ka<sup>1</sup>]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="natiskaɬka"></a>natiskaɬka</b> </font>
+<font size="+2">front molar, grinding tooth</font>
+&nbsp; [/nati ist- /kaɬ-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="natisyasilka"></a>natisyasilka</b> </font>
+<font size="+2">front molars, chewing tooth </font>
+&nbsp; [/nati ist- /yas&lt;il&gt;-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="nati talbòoli"></a>nati talbòoli</b> </font>
+<font size="+2">dentist</font>
+&nbsp; [/nati /talbòo-li]
+<br><font size="+2"><b><a name="nati talibòoli"></a>nati talibòoli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="i1.htm#innati talbòoli">innati talbòoli</a>&nbsp;
+<br><font size="+2"><b><a name="nihta"></a>nihta</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be light, daylight</font>
+&nbsp;<font face="Arial">«</font>Nihto.
+ <i>It's already daylight. (you might say to wake someone up).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nihtat aɬɬa.
+ <i>It's getting to be daylight.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nihta.
+ <i>It's daytime. (you wake up and say this).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nihtahahchoolo.
+ <i>It's already daylight.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nìhtàa?
+ <i>Is it daylight?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Iishayóotik íisat Chahtakok íisat íisaton íisatok nihtafíinaton anòokan.
+ <i>But the Choctaws were holed up inside a house and they (the Alabamas) were still there when daylight came.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">day, daylight</font>
+&nbsp;<font face="Arial">«</font>Akkàamo kàanoomok aⁿhaawáalkak achacháakkin nihtastistamánnòokaaloolo.
+ <i>Surely goodness and mercy will follow me all the days of my life.</i> <font size="0">(TTP)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#nikíhto">nikíhto</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="n.htm#nìhta">nìhta</a></i>
+&nbsp;to be day
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#innìhta">innìhta</a></i>
+&nbsp;birthday
+<br>&nbsp;&nbsp;<i><a href="n.htm#níihta">níihta</a></i>
+&nbsp;to be still daylight
+<br>&nbsp;&nbsp;<i><a href="i1.htm#innihta">innihta</a></i>
+&nbsp;to be rescued
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#inníhta">inníhta</a></i>
+&nbsp;to be still alive
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iminnihta">iminnihta</a></i>
+&nbsp;to be saved
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iminnihtachi">iminnihtachi</a></i>
+&nbsp;to save
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#innikíhto">innikíhto</a></i>
+ Neg.
+&nbsp;to be not safe; to be just before daylight
+<br>&nbsp;&nbsp;<i><a href="n.htm#nihtachi">nihtachi</a></i>
+&nbsp;to work a day
+<br>&nbsp;&nbsp;<i><a href="n.htm#níhtama">níhtama</a></i>
+&nbsp;tomorrow
+<br>&nbsp;&nbsp;<i><a href="i1.htm#imaníhta">imaníhta</a></i>
+&nbsp;to be young
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imaníhtàasi">imaníhtàasi</a></i>
+&nbsp;to be young
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istimanihta">istimanihta</a></i>
+&nbsp;to be younger than
+<br><font size="+2"><b><a name="nìhta"></a>nìhta</b> </font>
+<font size="+2">to be day, be daylight</font>
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Nìhtakoɬáama.
+ <i>The day after tomorrow.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nihta">nihta</a>
+<br><font size="+2"><b><a name="nihta aɬɬámmòona"></a>nihta aɬɬámmòona</b> </font>
+<font size="+2">Monday; first of the month</font>
+&nbsp; [/nihta /aɬɬa-mo-ona]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Himàakaya Septimba nihta aɬɬámmòona.
+ <i>Today is the first of September.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="nihta atáɬɬàapi"></a>nihta atáɬɬàapi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nihta istáɬɬàapi">nihta istáɬɬàapi</a>&nbsp;
+<br><font size="+2"><b><a name="nihta atòkla"></a>nihta atòkla</b> </font>
+<font size="+2">Tuesday</font>
+&nbsp; [/nihta a- /tóklo-a]
+&nbsp;<font size="0">(IB)</font>
+ <i>Var: nihta atókla</i>
+<br><font size="+2"><b><a name="nihta atótchìina"></a>nihta atótchìina</b> </font>
+<font size="+2">Wednesday</font>
+&nbsp; [/nihta a- /tótchìina]
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="nihtachi"></a>nihtachi</b> </font>
+<font size="+2">to work a day, earn a day's pay </font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>nihtachitiska, nihtachitilka, nihtachitaska</i>)
+&nbsp; [/nihta-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Nihtachitiskaⁿ?
+ <i>Did you earn a day's pay?</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nihta">nihta</a>
+<br><font size="+2"><b><a name="nihtahollo"></a>nihtahollo</b> </font>
+<font size="+2">Sunday</font>
+&nbsp; [/nihta /hollo]
+ <i>Var: nihtallo</i>
+ <i>Var: nihtahòllo</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="nihtahóllo"></a>nihtahóllo</b> </font>
+<font size="+2">week </font>
+&nbsp; [/nihta /hollo]
+ [<i>lgr?</i>]
+ <i>Var: nihtállo</i>
+ <i>Var: nihtállosi</i>
+&nbsp;<font face="Arial">«</font>Ahachàahilaskitton nihtállossáffàakaamon altobat aɬɬastáskan.
+ <i>The bill would be paid by the week.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nihtállosmìntamon altobatilkalo akka apohachaalíichiya mankaton.
+ <i>We would say we would pay next week, charge it to us.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ichóot ommiima ibi hopáhkitík ibìimok chinìilit albinafan stilachiifòokok sooplit, oaboslit, akkáamit ittanówwat nihtállo cháffàakahchóot ittanówwat ɬoyohkat ilachihchootoolo.
+ <i>If it was a deer, even though they killed it far away, when they killed it, they carried it on their backs and when they got it to their camp, they skinned it and barbecued it, that's the way they would go and would usually be gone for a week and then they would turn around and go back.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="nihtahollo inníhta"></a>nihtahollo inníhta</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nihtàllo innihta">nihtàllo innihta</a>&nbsp;
+<br><font size="+2"><b><a name="níhtahollo ittimaltàala"></a>níhtahollo ittimaltàala</b> </font>
+<font size="+2">weekdays, workweek</font>
+ <i>Lit: </i>between two Sundays
+&nbsp; [/nihta /hollo itti-im- /altaala]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="nihtahollosi"></a>nihtahollosi</b> </font>
+<font size="+2">Saturday</font>
+&nbsp; [/nihta /hollo-osi]
+ <i>Var: nihtallosi</i>
+<br><font size="+2"><b><a name="nihtahòllo istinnìhta"></a>nihtahòllo istinnìhta</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nihtàllo innihta">nihtàllo innihta</a>&nbsp;
+<br><font size="+2"><b><a name="nihta istáɬɬàapi"></a>nihta istáɬɬàapi</b> </font>
+<font size="+2">Friday</font>
+&nbsp; [/nihta ist- /táɬɬàapi]
+ <i>Var: nihta atáɬɬàapi</i>
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="nihta istinnihtahchi"></a>nihta istinnihtahchi</b> </font>
+<font size="+2">day after day, this day and the next </font>
+&nbsp;<font color="#080000">Cul:  Refers to observing the ritual period of four days of staying awake, taking medicine and fasting before visiting the grave of the deceased and decorating it on the fourth day after the death.</font>&nbsp;
+&nbsp; [/nihta ist-im- /nihta-hchi]
+&nbsp;<font face="Arial">«</font>...nihta istinnihtahchi homankahchoolikha.
+ <i>They used to call it observing the day after day.</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="nihta istontòklo"></a>nihta istontòklo</b> </font>
+<font size="+2">Sunday</font>
+&nbsp; [/nihta ist-ona- /tóklo]
+<br><font size="+2"><b><a name="nihta istóstàaka"></a>nihta istóstàaka</b> </font>
+<font size="+2">Thursday</font>
+&nbsp; [/nihta ist- /óstàa-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="nìhtakoɬa"></a>nìhtakoɬa</b> </font>
+<font size="+2">day after tomorrow </font>
+&nbsp; [/nihta /koɬa]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="nìhtakoɬaama"></a>nìhtakoɬaama</b> </font>
+<font size="+2">day after tomorrow </font>
+&nbsp; [/nihta /koɬa-ma]
+<br><font size="+2"><b><a name="nìhta koɬa tankaama"></a>nìhta koɬa tankaama</b> </font>
+<font size="+2">next night after tomorrow night, night after next </font>
+&nbsp; [/nihta /koɬa-ma /tanka-ma]
+ ☞<a href="n.htm#níhta tankaama">níhta tankaama</a>
+<br><font size="+2"><b><a name="nihtallo"></a>nihtallo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nihtahollo">nihtahollo</a>&nbsp;
+<br><font size="+2"><b><a name="nihtàllo inníhta"></a>nihtàllo inníhta</b> </font>
+<font size="+2">Monday</font>
+&nbsp; [/nihta /hollo im- /nihta]
+ <i>Var: nihtahollo inníhta</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: nihtahòllo istinnìhta</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="nihtallosi"></a>nihtallosi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nihtahollosi">nihtahollosi</a>&nbsp;
+<br><font size="+2"><b><a name="nihtállosi"></a>nihtállosi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nihtahóllo">nihtahóllo</a>&nbsp;
+<br><font size="+2"><b><a name="níhtama"></a>níhtama</b> </font>
+<font size="+2">tomorrow </font>
+&nbsp; [/nihta-ma]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: nìhtama</i>
+&nbsp;<font face="Arial">«</font>Níhtamon oolafon aɬɬalao.
+ <i>I'm going to town tomorrow.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Níhtama hasischákkàali aɬɬámmòonama.
+ <i>Tomorrow is the first day of the ninth month.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Níhtama nihta náasòoli?
+ <i>What day is tomorrow?</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nihta">nihta</a>
+<br><font size="+2"><b><a name="nìhtaniɬálli"></a>nìhtaniɬálli</b> </font>
+<font size="+2">tomorrow morning </font>
+&nbsp; [/nihta /niɬálli]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="nihta onóstàaka"></a>nihta onóstàaka</b> </font>
+<font size="+2">Thursday</font>
+&nbsp; [/nihta ona- /óstàa-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="nìhtapontókkòoli"></a>nìhtapontókkòoli</b> </font>
+<font size="+2">tomorrow at noon </font>
+&nbsp; [/nihta /pontókkòo-li]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="nìhtapontókkòot ɬopotli"></a>nìhtapontókkòot ɬopotli</b> </font>
+<font size="+2">tomorrow after noon, tomorrow after dinner </font>
+&nbsp; [/nihta /pontókkòo-li-t /ɬopot-li]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: níhtapontókkot ɬóppotli</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="nìhtapontókkòot taɬoffi"></a>nìhtapontókkòot taɬoffi</b> </font>
+<font size="+2">tomorrow after noon, tomorrow after dinner </font>
+&nbsp; [/nìhta /pontókkòo-li-t /taɬof-li]
+ <i>Var: níhtapontókkot táɬɬoffi</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="níhtapontókkot ɬóppotli"></a>níhtapontókkot ɬóppotli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nìhtapontókkòot ɬopotli">nìhtapontókkòot ɬopotli</a>&nbsp;
+<br><font size="+2"><b><a name="níhtapontókkot táɬɬoffi"></a>níhtapontókkot táɬɬoffi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nìhtapontókkòot taɬoffi">nìhtapontókkòot taɬoffi</a>&nbsp;
+<br><font size="+2"><b><a name="nihtastatòkla"></a>nihtastatòkla</b> </font>
+<font size="+2">Tuesday</font>
+&nbsp; [/nihta ist-a- /tóklo-a]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="nihtastatótchìina"></a>nihtastatótchìina</b> </font>
+<font size="+2">Wednesday</font>
+&nbsp; [/nihta ist-a- /tótchìina]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="nihtataɬɬa"></a>nihtataɬɬa</b> </font>
+<font size="+2">dawn, daybreak </font>
+&nbsp; [/nihta /taɬɬa]
+<br><font size="+2"><b><a name="níhta tankaama"></a>níhta tankaama</b> </font>
+<font size="+2">tomorrow night </font>
+&nbsp; [/nihta /tanka-ma]
+ ☞<a href="t.htm#tankaama">tankaama</a>
+<br><font size="+2"><b><a name="nihta tobaachi"></a>nihta tobaachi</b> </font>
+<font size="+2">to work a day, earn a day's pay </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [/nihta /toba-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Nihta tótchìinan tobaachiliti.
+ <i>I earned three days' pay.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tobaachi">tobaachi</a>
+<br><font size="+2"><b><a name="nihtóyha"></a>nihtóyha</b> </font>
+<font size="+2">all day </font>
+&nbsp; [/nihta /óyha]
+<br><font size="+2"><b><a name="níhya"></a>níhya</b> </font>
+<font size="+2">to be fatter</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>hgr</i>]
+ ☞<a href="n.htm#niya">niya</a>
+<br><font size="+2"><b><a name="Nìichi"></a>Nìichi</b> </font>
+<font size="+2">Neches River </font>
+ {&nbsp;English}
+<br><font size="+2"><b><a name="Nìichi Oola"></a>Nìichi Oola</b> </font>
+<font size="+2">Neches Village</font>
+&nbsp;<font color="#080000">Cul:  Early Alabama campground.</font>&nbsp;
+&nbsp; [/Nìichi /oola]
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="níihta"></a>níihta</b> </font>
+<font size="+2">to be during the day, still daytime</font>
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Níihtaya intoonolihchooti.
+ <i>I work during the day.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nihta">nihta</a>
+<br><font size="+2"><b><a name="nìili"></a>nìili</b> </font>
+<font size="+2">to nod once (involuntarily, e.g. sleepily)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/nii-li]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Nìililo.
+ <i>I nodded my head.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#innìili">innìili</a></i>
+&nbsp;to nod at (once)
+<br><font size="+2"><b><a name="níiya"></a>níiya</b> </font>
+<font size="+2">to be a little fat</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Níiyat anooko.
+ <i>I'm getting fat.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#niya">niya</a>
+<br><font size="+2"><b><a name="nikasòtka"></a>nikasòtka</b> </font>
+<font size="+2">Y-shaped, elastic slingshot</font>
+&nbsp; [/nikasòot-ka<sup>3</sup>]
+ {&nbsp;English regional slang `nigger-shooter'}
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="nikíhto"></a>nikíhto</b> </font>
+ Neg.
+ ☞<a href="n.htm#nihta">nihta</a>
+<br><font size="+2"><b><a name="nikìiyo"></a>nikìiyo</b> </font>
+ Neg.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Nikìiyo.
+ <i>He's never fat.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#niya">niya</a>
+<br><font size="+2"><b><a name="nikóhbi"></a>nikóhbi</b> </font>
+<font size="+2">to be greasier, greasiest</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>hgr</i>]
+&nbsp;<font face="Arial">«</font>Yok nikóhbihchoolo.
+ <i>This is greasiest.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nikoobi">nikoobi</a>
+<br><font size="+2"><b><a name="nikoobi"></a>nikoobi</b> </font>
+<font size="+2">to be greasy</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Amilokfaya nikoobihchoolo.
+ <i>My dress is greasy.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#nikóobihchi">nikóobihchi</a></i>
+&nbsp;fat
+<br>&nbsp;&nbsp;<i><a href="n.htm#nikóhbi">nikóhbi</a></i>
+&nbsp;to be greasier
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istinnikoobi">istinnikoobi</a></i>
+&nbsp;heavy grease
+<br>&nbsp;&nbsp;<i><a href="n.htm#nikoobichi">nikoobichi</a></i>
+&nbsp;to get greasy
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#innikoobichi">innikoobichi</a></i>
+&nbsp;to get (something) greasy
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iminnikoobichi">iminnikoobichi</a></i>
+&nbsp;to have a possession lubricated
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istinnikoobichi">istinnikoobichi</a></i>
+&nbsp;to grease
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#itanikoobichi">itanikoobichi</a></i>
+&nbsp;to get grease on the floor
+<br><font size="+2"><b><a name="nikoobichi"></a>nikoobichi</b> </font>
+<font size="+2">to get greasy</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>nikoobichitiska, nikoobichitilka, nikoobichitaska</i>)
+&nbsp; [/nikoobi-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Baatan ilapaamaalíichilin chanikohbichiti.
+ <i>I got myself greasy by dropping butter on myself.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nikoobi">nikoobi</a>
+<br><font size="+2"><b><a name="nikóobihchi"></a>nikóobihchi</b> </font>
+<font size="+2">fat, grease, oil </font>
+&nbsp; [/nikoobi-hchi]
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Nikóobihchon chabanno.
+ <i>I need some grease.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nikoobi">nikoobi</a>
+<br><font size="+2"><b><a name="niɬahasi"></a>niɬahasi</b> </font>
+<font size="+2">moon</font>
+ <i>Usage: </i>Older word.
+&nbsp; [(/niɬa-) /hasi]
+<br><font size="+2"><b><a name="niɬak hastaali"></a>niɬak hastaali</b> </font>
+<font size="+2">for there to be moonlight</font>
+&nbsp; [(/niɬa-)-k /hastah-li]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="h.htm#hastahli">hastahli</a>
+<br><font size="+2"><b><a name="niɬálli-"></a>niɬálli-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#niɬállima">niɬállima</a></i>
+&nbsp;in the morning
+<br>&nbsp;&nbsp;<i><a href="n.htm#niɬállòosi">niɬállòosi</a></i>
+&nbsp;to be early in the morning
+<br><font size="+2"><b><a name="niɬálli alpooba kano"></a>niɬálli alpooba kano</b> </font>
+<font size="+2">morning glory </font>
+ <i>(Ipomoea spp)</i>
+&nbsp; [/niɬálli- /a&lt;l&gt;pooba /kano]
+<br><font size="+2"><b><a name="niɬállima"></a>niɬállima</b> </font>
+<font size="+2">in the morning </font>
+&nbsp; [/niɬálli- -ma]
+ ☞<a href="n.htm#niɬálli-">niɬálli-</a>
+<br><font size="+2"><b><a name="niɬálli oolimpa"></a>niɬálli oolimpa</b> </font>
+<font size="+2">breakfast</font>
+&nbsp; [/niɬálli- /oo&lt;li&gt;mpa]
+ <i>Var: niɬálloolimpa</i>
+<br><font size="+2"><b><a name="niɬállipakaali"></a>niɬállipakaali</b> </font>
+<font size="+2">morning glory flower </font>
+ <i>(Ipomoea spp)</i>
+&nbsp; [/niɬálli- /pakaali]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="niɬálloolimpa"></a>niɬálloolimpa</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#niɬálli oolimpa">niɬálli oolimpa</a>&nbsp;
+<br><font size="+2"><b><a name="niɬállòosi"></a>niɬállòosi</b> </font>
+<font size="+2">early in the morning, dawn, before the sunrise </font>
+&nbsp; [/niɬálli- -osi]
+ [<i>fgr</i>]
+ ☞<a href="n.htm#niɬálli-">niɬálli-</a>
+<br><font size="+2"><b><a name="niɬállòosi pakaali"></a>niɬállòosi pakaali</b> </font>
+<font size="+2">morning glory flower </font>
+ <i>(Ipomoea spp)</i>
+&nbsp; [/niɬálli- -osi /pakaali]
+<br><font size="+2"><b><a name="niɬhóota"></a>niɬhóota</b> </font>
+<font size="+2">midnight </font>
+&nbsp; [prob. (/niɬa-) /hootaha]
+ [<i>lgr?</i>]
+&nbsp;<font face="Arial">«</font>Niɬhóota ɬopotlin balàakaliti.
+ <i>I went to bed after midnight.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="nipaffi"></a>nipaffi</b> </font>
+<font size="+2">to remove, cut off, or pull off (a limb) (especially in butchering); to dislocate (a limb)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>nipafchi, nipafhili, nipafhachi</i>)
+&nbsp; [/nipaf-li]
+ <i>Var: nopaffi</i>
+&nbsp;<font size="0">(IB, VC)</font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#niplichi">niplichi</a></i>
+&nbsp;to cut up into parts
+<br><font size="+2"><b><a name="nipihómma"></a>nipihómma</b> </font>
+<font size="+2">American Indian </font>
+ <i>Usage: </i>Older word.
+ {poss. &nbsp;-(/aniipa) /homma}
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="niplichi"></a>niplichi</b> </font>
+<font size="+2">to cut up or butcher into parts, dismember; to take little pieces of to nibble</font>
+ <i>Usage: </i>Older word.
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>nipchichi, niphilichi, niphachichi</i>)
+&nbsp; [/nip(af)-li-chi<sup>2</sup>]
+ [<i>dsfx1</i>]
+ <i>Var: nopli</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Paspan niplichit oipa.
+ <i>They take a little piece of bread (at Communion).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sokhanipon niplichi.
+ <i>Butcher the hog into its parts.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nipaffi">nipaffi</a>
+<br><font size="+2"><b><a name="nipo"></a>nipo</b> </font>
+<font size="+2">meat, flesh </font>
+<br><font size="+2"><b><a name="nipo aayaboska"></a>nipo aayaboska</b> </font>
+<font size="+2">barbecue grill, barbecue pit </font>
+&nbsp; [/nipo aa- /abos-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="nipo aayiⁿsobotkachi"></a>nipo aayiⁿsobotkachi</b> </font>
+<font size="+2">smokehouse</font>
+&nbsp; [/nipo aa-im- /sobot-ka<sup>1</sup>-chi<sup>1</sup>]
+<br><font size="+2"><b><a name="nipo botooka"></a>nipo botooka</b> </font>
+<font size="+2">ground meat </font>
+&nbsp; [/nipo /botoo-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="nipo chikòffi"></a>nipo chikòffi</b> </font>
+<font size="+2">butcher</font>
+&nbsp; [/nipo /chikof-li$]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="nipo iⁿsobótli"></a>nipo iⁿsobótli</b> </font>
+<font size="+2">smoked meat</font>
+&nbsp; [/nipo im- /sobot-li]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="nipokchi"></a>nipokchi</b> </font>
+<font size="+2">meat broth</font>
+<br><font size="+2"><b><a name="nipo kòlli"></a>nipo kòlli</b> </font>
+<font size="+2">butcher</font>
+&nbsp; [/nipo /kol(of)-li]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="nipon iⁿsobotlichi"></a>nipon iⁿsobotlichi</b> </font>
+<font size="+2">to smoke meat</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [/nipo-n im- /sobot-li-chi<sup>1</sup>]
+ ☞<a href="s.htm#sobotli">sobotli</a>
+<br><font size="+2"><b><a name="nipostaboska"></a>nipostaboska</b> </font>
+<font size="+2">barbecue pit</font>
+&nbsp; [/nipo ist- /abos-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="nita"></a>nita</b> </font>
+<font size="+2">bear </font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#nitasi">nitasi</a></i>
+&nbsp;bear cub
+<br><font size="+2"><b><a name="nitabitka"></a>nitabitka</b> </font>
+<font size="+2">bear dance</font>
+&nbsp; [/nita /bit-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="nitabitka talilwa"></a>nitabitka talilwa</b> </font>
+<font size="+2">bear dance song</font>
+&nbsp; [/nita /bit-ka<sup>1</sup> /ta&lt;li&gt;lwa]
+<br><font size="+2"><b><a name="nitaholba"></a>nitaholba</b> </font>
+<font size="+2">teddy bear</font>
+&nbsp; [/nita /holba]
+<br><font size="+2"><b><a name="nitaholbasi"></a>nitaholbasi</b> </font>
+<font size="+2">teddy bear</font>
+&nbsp; [/nita /holba-osi]
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="nita imìlpa"></a>nita imìlpa</b> </font>
+<font size="+2">Grancy graybeard, granddaddy's beard </font>
+ <i>(Chionanthus virginica)</i>
+ <i>Lit: </i>bear's food
+&nbsp; [/nita im-il- /(i)pa]
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="nita inchastoki"></a>nita inchastoki</b> </font>
+<font size="+2">coral bean bush </font>
+ <i>Lit: </i>bear's beans
+ <i>(Erythrina herbacea)</i>
+ <i>Usage: </i>Some other speakers refer to this as icho inchastoki.
+&nbsp; [/nita im- /chastoki]
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="nita iwwaslichi"></a>nita iwwaslichi</b> </font>
+<font size="+2">grouse </font>
+ <i>Lit: </i>bear's scratcher
+&nbsp; [/nita im- /waslichi]
+<br><font size="+2"><b><a name="nitasi"></a>nitasi</b> </font>
+<font size="+2">bear cub </font>
+&nbsp; [/nita-osi]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="n.htm#nita">nita</a>
+<br><font size="+2"><b><a name="nitokchi"></a>nitokchi</b> </font>
+<font size="+2">grease, oil, lard, shortening</font>
+ <i>Lit: </i>bear juice
+&nbsp; [/nita /okchi]
+<br><font size="+2"><b><a name="niya"></a>niya</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be fat</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chiniyaamoolo.
+ <i>You're real fat.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chiniyataɬɬo.
+ <i>You're gaining weight.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">fat </font>
+&nbsp;<font face="Arial">«</font>Niyamoolo.
+ <i>It has a lot of fat (of a chicken), is fatty.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inniya">inniya</a></i>
+&nbsp;fat
+<br>&nbsp;&nbsp;<i><a href="n.htm#níhya">níhya</a></i>
+&nbsp;to be fatter
+<br>&nbsp;&nbsp;<i><a href="n.htm#níiya">níiya</a></i>
+&nbsp;to be a little fat
+<br>&nbsp;&nbsp;<i><a href="n.htm#nikìiyo">nikìiyo</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="n.htm#niyatíkko">niyatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="n.htm#niyókko">niyókko</a></i>
+ Neg.
+&nbsp;to not be fatty
+<br>&nbsp;&nbsp;<i><a href="n.htm#niyaachi">niyaachi</a></i>
+&nbsp;to fatten
+<br><font size="+2"><b><a name="niyaachi"></a>niyaachi</b> </font>
+<font size="+2">to fatten</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>niyaatiska, niyaatilka, niyaataska</i>)
+&nbsp; [/niya-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Sokhan niyaatilkaaho.
+ <i>We're going to fatten the pig.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#niya">niya</a>
+<br><font size="+2"><b><a name="niyatíkko"></a>niyatíkko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Chaniyatíkko.
+ <i>I'm not fat.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#niya">niya</a>
+<br><font size="+2"><b><a name="niyókko"></a>niyókko</b> </font>
+ Neg.
+<font size="+2">to not be fatty, not have lots of fat</font>
+&nbsp;<font face="Arial">«</font>Niyókkohchoolo.
+ <i>It doesn't have any fat on it (even though it's big).</i><font face="Arial">»</font>
+ ☞<a href="n.htm#niya">niya</a>
+<br><font size="+2"><b><a name="nochi"></a>nochi</b> </font>
+<font size="+2">to fall asleep, go to sleep</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>isnochi, ilnochi/innochi, hasnochi</i>)
+&nbsp;<font face="Arial">«</font>Chinochiⁿ?
+ <i>Are you asleep?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nochitaka!
+ <i>Let me sleep!</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Innochi.
+ <i>Let's go to sleep.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Innochaski!
+ <i>Let's go to sleep.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nochihchi.
+ <i>He's sleeping.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#nóochi">nóochi</a></i>
+&nbsp;to still be asleep
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iknòocho">iknòocho</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ilnochi">ilnochi</a></i>
+&nbsp;to come stay overnight
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#aayilnocha">aayilnocha</a></i>
+&nbsp;hotel
+<br>&nbsp;&nbsp;<i><a href="i1.htm#innochi">innochi</a></i>
+&nbsp;sleep
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istinnochi">istinnochi</a></i>
+&nbsp;pajamas; sleeping pill
+<br>&nbsp;&nbsp;<i><a href="i1.htm#innochi">innochi</a></i>
+&nbsp;to sleep at someone's house
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#aayinnochi">aayinnochi</a></i>
+&nbsp;sleeping quarters
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iltinnochi">iltinnochi</a></i>
+&nbsp;to come visit with overnight
+<br>&nbsp;&nbsp;<i><a href="i2.htm#itanochi">itanochi</a></i>
+&nbsp;to go to sleep by a fire
+<br>&nbsp;&nbsp;<i><a href="p.htm#paanochi">paanochi</a></i>
+&nbsp;to roost
+<br>&nbsp;&nbsp;<i><a href="o.htm#osnochi">osnochi</a></i>
+&nbsp;to go somewhere to sleep over
+<br>&nbsp;&nbsp;<i><a href="n.htm#nochiichi">nochiichi</a></i>
+&nbsp;to put to sleep
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isnochiitilka">isnochiitilka</a></i>
+&nbsp;anesthetic
+<br>&nbsp;&nbsp;<i><a href="n.htm#nochihla">nochihla</a></i>
+&nbsp;to be sleepy
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#nochikíhlo">nochikíhlo</a></i>
+ Neg.
+&nbsp;to not be sleepy
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#nochilihla">nochilihla</a></i>
+&nbsp;sleepiness
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#nochíhla">nochíhla</a></i>
+&nbsp;to be sleepier
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#nótchihla">nótchihla</a></i>
+&nbsp;to be getting sleepy
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#nochihlachi">nochihlachi</a></i>
+&nbsp;to make (someone) sleepy
+<br><font size="+2"><b><a name="nochihla"></a>nochihla</b> </font>
+<font size="+2">to be sleepy</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [poss. /nochi /(i)&lt;h&gt;la]
+ <i>Neg: </i>nochikíhlo
+ <i>Var: nochiila</i>
+&nbsp;<font face="Arial">«</font>Chanochihlaamooti piyàako.
+ <i>I was real sleepy yesterday.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nochi">nochi</a>
+<br><font size="+2"><b><a name="nochíhla"></a>nochíhla</b> </font>
+<font size="+2">to be sleepier</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>hgr</i>]
+ ☞<a href="n.htm#nochihla">nochihla</a>
+<br><font size="+2"><b><a name="nochihlachi"></a>nochihlachi</b> </font>
+<font size="+2">to make (someone) sleepy (as a sleeping pill or hypnotist)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>nochihlachitiska, nochihlachitilka, nochihlachitaska</i>)
+&nbsp; [/nochihla-chi<sup>1</sup>]
+ <i>Var: nochiilachi</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="n.htm#nochihla">nochihla</a>
+<br><font size="+2"><b><a name="nochiichi"></a>nochiichi</b> </font>
+<font size="+2">to put to sleep (e.g. with medicine, by rocking or a lullaby), anesthetize</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>nochiitiska, nochiitilka, nochiitaska</i>)
+&nbsp; [/nochi-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Poskoosin nochiichitilkati iswináalichiti.
+ <i>We put the baby to sleep by rocking him.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nochi">nochi</a>
+<br><font size="+2"><b><a name="nochiila"></a>nochiila</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nochihla">nochihla</a>&nbsp;
+<br><font size="+2"><b><a name="nochiilachi"></a>nochiilachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nochihlachi">nochihlachi</a>&nbsp;
+<br><font size="+2"><b><a name="nochikíhlo"></a>nochikíhlo</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Himàakaya chanochikíhlobi.
+ <i>I am not sleepy today.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nochihla">nochihla</a>
+<br><font size="+2"><b><a name="nochilihla"></a>nochilihla</b> </font>
+<font size="+2">sleepiness</font>
+&nbsp; [/nochi&lt;li&gt;hla]
+ ☞<a href="n.htm#nochihla">nochihla</a>
+<br><font size="+2"><b><a name="nochoffi"></a>nochoffi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nachoffi">nachoffi</a>&nbsp;
+<br><font size="+2"><b><a name="nochohlichi"></a>nochohlichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nachohlichi">nachohlichi</a>&nbsp;
+<br><font size="+2"><b><a name="Nofìmba"></a>Nofìmba</b> </font>
+<font size="+2">month of November</font>
+ {&nbsp;English}
+<br><font size="+2"><b><a name="nokbi"></a>nokbi</b> </font>
+<font size="+2">neck; voice</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Talwatík chanokbiyok kánkohchi.
+ <i>I can sing but my voice isn't good.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="nokbiika"></a>nokbiika</b> </font>
+<font size="+2">choking </font>
+&nbsp; [/nokbii-ka<sup>1</sup>]
+ ☞<a href="n.htm#nokbiili">nokbiili</a>
+<br><font size="+2"><b><a name="nokbiili"></a>nokbiili</b> </font>
+<font size="+2">to choke on something, be choking</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [nok- -(/bii)-li]
+ {poss. related to /nokbi}
+<br>&nbsp;&nbsp;<i><a href="n.htm#nokbiika">nokbiika</a></i>
+&nbsp;choking
+<br><font size="+2"><b><a name="nokchakaffi"></a>nokchakaffi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#noochakaffi">noochakaffi</a>&nbsp;
+<br><font size="+2"><b><a name="nokchakoffi"></a>nokchakoffi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#noochakaffi">noochakaffi</a>&nbsp;
+<br><font size="+2"><b><a name="nokchiɬáali"></a>nokchiɬáali</b> </font>
+<font size="+2">lymph glands in neck </font>
+&nbsp; [nok- -(chiɬàali)]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: nokchiɬàali</i>
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="nokchoba"></a>nokchoba</b> </font>
+<font size="+2">to stop, cease an activity, refrain from doing, quit, be still, be quiet</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Kalwestifon aɬɬalaoton oyban chanokchobakha.
+ <i>I was going to go to Galveston, but it rained so I didn't.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hasik nokchoba.
+ <i>A watch or clock is stopped.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#nokchòmko">nokchòmko</a></i>
+ Neg.
+&nbsp;to act wild
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#nokchòmkoomoolo">nokchòmkoomoolo</a></i>
+&nbsp;bad habit
+<br>&nbsp;&nbsp;<i><a href="n.htm#nokchobatíkko">nokchobatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="n.htm#nokchòoba">nokchòoba</a></i>
+&nbsp;to wait for a while
+<br>&nbsp;&nbsp;<i><a href="n.htm#nokchóoba">nokchóoba</a></i>
+&nbsp;to act properly
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#nokchóobatilka">nokchóobatilka</a></i>
+&nbsp;good behavior
+<br>&nbsp;&nbsp;<i><a href="n.htm#nokchobat anooka">nokchobat anooka</a></i>
+&nbsp;to quiet down
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iliinokchoba">iliinokchoba</a></i>
+&nbsp;to abstain
+<br>&nbsp;&nbsp;<i><a href="n.htm#nokchobaachi">nokchobaachi</a></i>
+&nbsp;to prevent
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#innokchobaachi">innokchobaachi</a></i>
+&nbsp;to stop (something of somebody's)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#nokchómbàachi">nokchómbàachi</a></i>
+&nbsp;to discipline
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#aatisnokchobaachitilka">aatisnokchobaachitilka</a></i>
+&nbsp;stop sign
+<br><font size="+2"><b><a name="nokchobaachi"></a>nokchobaachi</b> </font>
+<font size="+2">to control, prevent, or stop; to ground (a child); to make be quiet, silence; to rein in</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>nokchobaatiska, nokchobaatilka, nokchobaataska</i>)
+&nbsp; [/nokchoba-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Intaatan impíchik ittàasayok honokchobaachitaakati.
+ <i>The father and mother grounded her, I hear.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nokchoba">nokchoba</a>
+<br><font size="+2"><b><a name="nokchobat anooka"></a>nokchobat anooka</b> </font>
+<font size="+2">to quiet down; to finally stop</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/nokchoba-t /anoo-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Aatosikok yanhaayok nokchobat anooko.
+ <i>The baby's fever finally stopped.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Poskòosik nokchobat anooko.
+ <i>The child quieted down.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nokchoba">nokchoba</a>
+<br><font size="+2"><b><a name="nokchobatíkko"></a>nokchobatíkko</b> </font>
+ Neg.
+ ☞<a href="n.htm#nokchoba">nokchoba</a>
+<br><font size="+2"><b><a name="nokchoffichi"></a>nokchoffichi</b> </font>
+<font size="+2">to throb with, as a pulse (in the neck) (from a fever, running hard, etc.)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [nok- /chof(ot)-li-chi<sup>2</sup>]
+ [<i>dsfx1</i>]
+&nbsp;<font face="Arial">«</font>Chanokchoffichi.
+ <i>I have a pulse in my neck (from running hard).</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="c.htm#choffichi">choffichi</a>
+<br><font size="+2"><b><a name="nokchómbàachi"></a>nokchómbàachi</b> </font>
+<font size="+2">to make behave, discipline, make wait</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>nokchómbàatiska, nokchómbàatilka, nokchómbàataska</i>)
+&nbsp; [/nokchoba-chi<sup>1</sup>]
+ [<i>ggr</i>]
+ ☞<a href="n.htm#nokchobaachi">nokchobaachi</a>
+<br><font size="+2"><b><a name="nokchòmko"></a>nokchòmko</b> </font>
+ Neg.
+<font size="+2">to act wild, misbehave, not be able to sit still</font>
+&nbsp;<font face="Arial">«</font>Poskoohasiya mìntamok honokchòmkohchi.
+ <i>Some of the little children can't sit still.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nokchoba">nokchoba</a>
+<br><font size="+2"><b><a name="nokchòmkoomoolo"></a>nokchòmkoomoolo</b> </font>
+<font size="+2">bad habit</font>
+&nbsp; [/nokchoba-ki-o<sup>2</sup>-mooli-o]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="n.htm#nokchòmko">nokchòmko</a>
+<br><font size="+2"><b><a name="nokchòoba"></a>nokchòoba</b> </font>
+<font size="+2">to be quiet, silent</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Chanokchòobaaho.
+ <i>I'm going to be quiet for a while.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nokchoba">nokchoba</a>
+<br><font size="+2"><b><a name="nokchóoba"></a>nokchóoba</b> </font>
+<font size="+2">to behave oneself, act properly, be quiet, still</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>nokchóobatiska, nokchóobatilka, nokchóobataska</i>)
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Nokchóobàasit achìiyaalo.
+ <i>Behave yourself.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nokchóoba!
+ <i>Be quiet and sit down!</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Poskòosiya nokchóobat anooko.
+ <i>The baby finally got quiet.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Oki nokchóobaasiifa lapàalikóot aⁿhínnàataamók.
+ <i>He leads me beside the still waters.</i> <font size="0">(TTP)</font><font face="Arial">»</font>
+ ☞<a href="n.htm#nokchoba">nokchoba</a>
+<br><font size="+2"><b><a name="nokchóobatilka"></a>nokchóobatilka</b> </font>
+<font size="+2">behaving, good behavior </font>
+&nbsp; [/nokchoba-tilka]
+ [<i>lgr</i>]
+ ☞<a href="n.htm#nokchóoba">nokchóoba</a>
+<br><font size="+2"><b><a name="nokhammi"></a>nokhammi</b> </font>
+<font size="+2">to be in a rage, angry, mad</font>
+ <i>Usage: </i>Older word.
+&nbsp;<font color="#800080" size="+1">CHA-; -LI</font>
+&nbsp;(<i>nokhanchi, nokhaⁿhili, nokhaⁿhachi</i>)
+&nbsp; [nok- -(/hammi)]
+&nbsp;<font face="Arial">«</font>Chanokhammahoso.
+ <i>I'm getting angry.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#nokhánko">nokhánko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="n.htm#nokhammitíkko">nokhammitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="n.htm#nokhammitilka">nokhammitilka</a></i>
+&nbsp;rage
+<br>&nbsp;&nbsp;<i><a href="i1.htm#innokhammi">innokhammi</a></i>
+&nbsp;to be in a rage at
+<br><font size="+2"><b><a name="nokhammitíkko"></a>nokhammitíkko</b> </font>
+ Neg.
+ ☞<a href="n.htm#nokhammi">nokhammi</a>
+<br><font size="+2"><b><a name="nokhammitilka"></a>nokhammitilka</b> </font>
+<font size="+2">rage, anger </font>
+&nbsp; [/nokhammi-tilka]
+ ☞<a href="n.htm#nokhammi">nokhammi</a>
+<br><font size="+2"><b><a name="nokhamohkachi"></a>nokhamohkachi</b> </font>
+<font size="+2">to be fretful, fidgety, agitated, irritated, uncomfortable, impatient (esp. from pain)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [nok- /hamoh-ka<sup>1</sup>-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Nokhamohkachiimooti.
+ <i>He can't be still because he's in such pain.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nokhamohlichi">nokhamohlichi</a>
+<br><font size="+2"><b><a name="nokhamohlichi"></a>nokhamohlichi</b> </font>
+<font size="+2">to irritate, agitate, rub the wrong way, make impatient</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>nokhamohchichi, nokhamohhilichi, nokhamohhachichi</i>)
+&nbsp; [nok- /hamoh-li-chi<sup>1</sup>]
+ ☞<a href="h.htm#hamohli">hamohli</a>
+<br><font size="+2"><b><a name="nokhánko"></a>nokhánko</b> </font>
+ Neg.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ ☞<a href="n.htm#nokhammi">nokhammi</a>
+<br><font size="+2"><b><a name="nokhiɬka"></a>nokhiɬka</b> </font>
+<font size="+2">mucus (from the chest), phlegm </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [nok- -(/hiɬka)]
+&nbsp;<font face="Arial">«</font>Chinokhiɬan ɬáalit ommiha chitoɬɬohkaamok.
+ <i>When you cough get rid of the phlegm.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="nokhiɬkan ɬàali"></a>nokhiɬkan ɬàali</b> </font>
+<font size="+2">to spit out mucus or phlegm</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [nok- -(/hiɬka) /ɬàa-li]
+ ☞<a href="ll.htm#ɬàali">ɬàali</a>
+<br><font size="+2"><b><a name="nokhíɬkan maamaachi"></a>nokhíɬkan maamaachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nokhíɬkan maamaalichi">nokhíɬkan maamaalichi</a>&nbsp;
+<br><font size="+2"><b><a name="nokhíɬkan maamaalichi"></a>nokhíɬkan maamaalichi</b> </font>
+<font size="+2">to hawk and spit out phlegm, cough up phlegm and spit it out, expectorate</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [nok- -(/hiɬka)-n maat- /maa-li-chi<sup>1</sup>]
+ <i>Var: nokhíɬkan maamaachi</i>
+ ☞<a href="m.htm#maamaalichi">maamaalichi</a>
+<br><font size="+2"><b><a name="nokhomi"></a>nokhomi</b> </font>
+<font size="+2">to have a bitter taste in the throat</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [nok- /homi]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Chanokhomihchon ommo.
+ <i>I have a bitter taste in my throat.</i><font face="Arial">»</font>
+ ☞<a href="h.htm#homi">homi</a>
+<br><font size="+2"><b><a name="nokhoopa"></a>nokhoopa</b> </font>
+<font size="+2">to have a stiff, sore neck</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [nok- /hoopa]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="h.htm#hoopa">hoopa</a>
+<br><font size="+2"><b><a name="nokkopòoli"></a>nokkopòoli</b> </font>
+<font size="+2">larynx, Adam's apple </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [nok- -(/kopòoli)]
+<br><font size="+2"><b><a name="nokɬaahi"></a>nokɬaahi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nokɬahi">nokɬahi</a>&nbsp;
+<br><font size="+2"><b><a name="nokɬaahitíkko"></a>nokɬaahitíkko</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nokɬahitíkko">nokɬahitíkko</a>&nbsp;
+<br><font size="+2"><b><a name="nokɬahi"></a>nokɬahi</b> </font>
+<font size="+2">to have a congested chest, esp. as with the croup</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [nok- -(/ɬahi)]
+ <i>Var: nokɬaahi</i>
+&nbsp;<font face="Arial">«</font>Nokɬahihchonko.
+ <i>He has the whooping cough.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chanokɬaahihchonko.
+ <i>You have the whooping cough.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#nokɬahitíkko">nokɬahitíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="nokɬahitíkko"></a>nokɬahitíkko</b> </font>
+ Neg.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ <i>Var: nokɬaahitíkko</i>
+ ☞<a href="n.htm#nokɬahi">nokɬahi</a>
+<br><font size="+2"><b><a name="nokɬikiicha"></a>nokɬikiicha</b> </font>
+<font size="+2">to be afraid, startled </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [nok- -(/ɬikich)-a]
+ <i>Neg: </i>nokɬikiichatíkko
+&nbsp;<font face="Arial">«</font>...oolakanochihchóot àayahchommitok ɬoykat ila; ilaskáamok máamòosin nokɬikiichahchootohát illihchóot ommitoolo, máskan akkáhtoha homankahchootoolimpakha.
+ <i>...he had gone around making peace and had returned, he did return, but when he got back he had been so scared that he died because of all that had happened, they always used to say.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+ ☞<a href="n.htm#nokɬikisli">nokɬikisli</a>
+<br><font size="+2"><b><a name="nokɬikiichatíkko"></a>nokɬikiichatíkko</b> </font>
+ Neg.
+ ☞<a href="n.htm#nokɬikiicha">nokɬikiicha</a>
+<br><font size="+2"><b><a name="nokɬikísko"></a>nokɬikísko</b> </font>
+ Neg.
+ ☞<a href="n.htm#nokɬikisli">nokɬikisli</a>
+<br><font size="+2"><b><a name="nokɬikisli"></a>nokɬikisli</b> </font>
+<font size="+2">to scare, startle, sneak up on</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>nokɬikissi, nokɬikishili, nokɬikishachi</i>)
+&nbsp; [nok- -(/ɬikich)-li]
+&nbsp;<font face="Arial">«</font>Nàasok iltammok chanokɬikislo.
+ <i>Something fell and startled me.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#nokɬikísko">nokɬikísko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="n.htm#nokɬikiicha">nokɬikiicha</a></i>
+&nbsp;to be afraid
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#nokɬikiichatíkko">nokɬikiichatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isnokɬikiicha">isnokɬikiicha</a></i>
+&nbsp;to be excited about (something)
+<br><font size="+2"><b><a name="nokpanayka"></a>nokpanayka</b> </font>
+<font size="+2">to have whiplash, have a wrenched neck</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [nok- /panay-ka<sup>1</sup>]
+ ☞<a href="n.htm#nokpanayli">nokpanayli</a>
+<br><font size="+2"><b><a name="nokpanayli"></a>nokpanayli</b> </font>
+<font size="+2">to twist off at the neck (as the head of a chicken), wring the neck (of a chicken)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>nokpanaychi, nokpanayhili, nokpanayhachi</i>)
+&nbsp; [nok- /panay-li]
+ <i>Pl: </i>nokpanni, nokpannichi
+ ☞<a href="p.htm#panayli">panayli</a>
+<br><font size="+2"><b><a name="nokpanni"></a>nokpanni</b> </font>
+<font size="+2">to twist off (as the heads of chickens), wring the necks (of chickens)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>nokpanchi, nokpanhili, nokpanhachi</i>)
+&nbsp; [nok- /pan(ay)-li]
+ [<i>dsfx1</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="n.htm#nokpanayli">nokpanayli</a>
+<br><font size="+2"><b><a name="nokpànnichi"></a>nokpànnichi</b> </font>
+<font size="+2">to twist off (as the heads of chickens), wring the necks (of chickens)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>nokpànchichi, nokpànhilichi, nokpànhachichi</i>)
+&nbsp; [nok- /pan(ay)-li-chi<sup>2</sup>]
+ [<i>dsfx1</i>]
+ [<i>fgr?</i>]
+ <i>Var: nokpannichi</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: noopannichi</i>
+&nbsp;<font face="Arial">«</font>Akaakan nokpànnichit ibi.
+ <i>Wring the chicken's neck.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nokpanayli">nokpanayli</a>
+<br><font size="+2"><b><a name="noksakaaya"></a>noksakaaya</b> </font>
+<font size="+2">to feel sorry, feel bad</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [nok- -(/sakaaya)]
+<br>&nbsp;&nbsp;<i><a href="n.htm#noksakaayatilka">noksakaayatilka</a></i>
+&nbsp;pity, sorrow
+<br>&nbsp;&nbsp;<i><a href="i1.htm#innoksakaaya">innoksakaaya</a></i>
+&nbsp;to feel sorry for
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#innoksakakìiyo">innoksakakìiyo</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#innoksakàayatilka">innoksakàayatilka</a></i>
+&nbsp;sorrow for
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istinnoksakaaya">istinnoksakaaya</a></i>
+&nbsp;to feel sorry for about
+<br><font size="+2"><b><a name="noksakaayatilka"></a>noksakaayatilka</b> </font>
+<font size="+2">pity, sorrow</font>
+&nbsp; [nok- -(/sakaaya)-tilka]
+ ☞<a href="n.htm#noksakaaya">noksakaaya</a>
+<br><font size="+2"><b><a name="noksìilichi"></a>noksìilichi</b> </font>
+<font size="+2">to cut a hole in the throat of an animal to let the blood drain out </font>
+&nbsp;<font color="#080000">Cul:  This is the first step in butchering an animal.</font>&nbsp;
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>noksìichichi, noksìihilichi, noksìihachichi</i>)
+&nbsp; [nok- -(/sìi)-li-chi<sup>1</sup> (?)]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="noksiipa"></a>noksiipa</b> </font>
+<font size="+2">to be angry</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [nok- -(/siipa)]
+ {prob. from Koasati}
+&nbsp;<font face="Arial">«</font>Chinchanoksiipaamoolo.
+ <i>I'm really angry at you.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#noksiipatíkko">noksiipatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#innoksiipa">innoksiipa</a></i>
+&nbsp;to be angry at
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#innoksiipatíkko">innoksiipatíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="noksiipatíkko"></a>noksiipatíkko</b> </font>
+ Neg.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ ☞<a href="n.htm#noksiipa">noksiipa</a>
+<br><font size="+2"><b><a name="noksitiika"></a>noksitiika</b> </font>
+<font size="+2">to be choked, strangled</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [nok- -(/sitii)-ka<sup>1</sup>]
+ ☞<a href="n.htm#noksitiili">noksitiili</a>
+<br><font size="+2"><b><a name="noksitiili"></a>noksitiili</b> </font>
+<font size="+2">to choke or strangle with something</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>noksitiichi, noksitiihili, noksitiihachi</i>)
+&nbsp; [nok- -(/sitii)-li]
+ {poss. related to achitìili}
+<br>&nbsp;&nbsp;<i><a href="n.htm#noksitiika">noksitiika</a></i>
+&nbsp;to be choked
+<br><font size="+2"><b><a name="noksolotíkko"></a>noksolotíkko</b> </font>
+ Neg.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ ☞<a href="n.htm#noksolotka">noksolotka</a>
+<br><font size="+2"><b><a name="noksolotka"></a>noksolotka</b> </font>
+<font size="+2">to be hoarse</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [nok- /solot-ka<sup>1</sup>]
+ <i>Neg: </i>noksolotkatíkko, noksolotíkko
+&nbsp;<font face="Arial">«</font>Chinoksolóotkaakok achináamìi?
+ <i>You were hoarse, do you still have it?</i><font face="Arial">»</font>
+ ☞<a href="s.htm#solotka">solotka</a>
+<br><font size="+2"><b><a name="noksolotkatíkko"></a>noksolotkatíkko</b> </font>
+ Neg.
+ ☞<a href="n.htm#noksolotka">noksolotka</a>
+<br><font size="+2"><b><a name="noktakba"></a>noktakba</b> </font>
+<font size="+2">palate, roof of mouth </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+&nbsp; [nok- -(/takba)]
+ [<i>not perceived to be relate to takba or intakba</i>]
+ <i>Var: nootakba</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: nottàkba</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="noktaɬa"></a>noktaɬa</b> </font>
+<font size="+2">to be jealous, envious, mad; to have a coughing fit from a bad cold</font>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [nok- -(/taɬa)]
+&nbsp;<font face="Arial">«</font>Chanoktaɬa.
+ <i>I'm jealous/I had a coughing fit.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tayyiha noktaɬa.
+ <i>Jealous woman.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#innoktaɬa">innoktaɬa</a></i>
+&nbsp;to be mad at
+<br><font size="+2"><b><a name="noktiɬifka"></a>noktiɬifka</b> </font>
+<font size="+2">to strangle, choke (one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>noktiɬifiska, noktiɬifilka, noktiɬifaska</i>)
+&nbsp; [nok- /tiɬif-ka<sup>1</sup>]
+ <i>Pl: </i>noktiɬìika
+ ☞<a href="t.htm#tiɬifka">tiɬifka</a>
+<br><font size="+2"><b><a name="noktiɬìika"></a>noktiɬìika</b> </font>
+<font size="+2">to strangle, choke (plural objects or repeatedly)</font>
+ (same meaning as noksitiili)
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>noktiɬìihiska, noktiɬìihilka, noktiɬìihaska</i>)
+&nbsp; [nok- /tiɬi(f)-ka<sup>1</sup>]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="t.htm#tiɬìika">tiɬìika</a>
+<br><font size="+2"><b><a name="noktipaska"></a>noktipaska</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nootipaska">nootipaska</a>&nbsp;
+<br><font size="+2"><b><a name="noktipasli"></a>noktipasli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nootipasli">nootipasli</a>&nbsp;
+<br><font size="+2"><b><a name="nokwaala"></a>nokwaala</b> </font>
+<font size="+2">to be nauseated, sick to one's stomach, queasy</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [nok- -(/waala)]
+&nbsp;<font face="Arial">«</font>Chanokwaalamoolo.
+ <i>I'm nauseated.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#nokwaalatíkko">nokwaalatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="n.htm#nokwaliiya">nokwaliiya</a></i>
+&nbsp;nausea
+<br>&nbsp;&nbsp;<i><a href="n.htm#nokwaalatilka">nokwaalatilka</a></i>
+&nbsp;nausea
+<br><font size="+2"><b><a name="nokwaalatíkko"></a>nokwaalatíkko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Chanokwaalatíkkobi.
+ <i>I'm not nauseated.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nokwaala">nokwaala</a>
+<br><font size="+2"><b><a name="nokwaalatilka"></a>nokwaalatilka</b> </font>
+<font size="+2">nausea</font>
+&nbsp; [/nokwaala-tilka]
+ ☞<a href="n.htm#nokwaala">nokwaala</a>
+<br><font size="+2"><b><a name="nokwaliiya"></a>nokwaliiya</b> </font>
+<font size="+2">nausea</font>
+&nbsp; [/nok- -(wa&lt;li&gt;ala)]
+ [<i>This noun form is irregular in two ways; a [y] has replaced the [l] of the stem and the &lt;li&gt; infix is irregularly placed as with other stems having a /y/ or /h/ as the onset of the last syllable</i>]
+&nbsp;<font face="Arial">«</font>Nokwaliiyaya álpìssi.
+ <i>Nausea is real bad.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nokwaala">nokwaala</a>
+<br><font size="+2"><b><a name="noɬaffi"></a>noɬaffi</b> </font>
+<font size="+2">to break off (one piece), pull off, take an ear of corn off a stalk</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>noɬafchi, noɬafhili, noɬafhachi</i>)
+&nbsp; [/noɬaf-li]
+&nbsp;<font face="Arial">«</font>Chassi hissin noɬaffilao.
+ <i>I'm going to pull off any dry leaves of corn.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#noɬɬi">noɬɬi</a></i>
+&nbsp;to break off (pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#noɬɬichi">noɬɬichi</a></i>
+&nbsp;to break off (pieces)
+<br><font size="+2"><b><a name="noɬɬi"></a>noɬɬi</b> </font>
+<font size="+2">to break off (plural objects), to pull limbs or branches off; to take corn ears off the stalk</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>noɬchi, noɬhili, noɬhachi</i>)
+&nbsp; [/noɬ(af)-li]
+ [<i>dsfx1</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="n.htm#noɬaffi">noɬaffi</a>
+<br><font size="+2"><b><a name="noɬɬichi"></a>noɬɬichi</b> </font>
+<font size="+2">to break off (pieces), to pull limbs or branches off; to take corn ears off the stalk</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>noɬchichi, noɬhilichi, noɬhachichi</i>)
+&nbsp; [/noɬ(af)-li-chi<sup>2</sup>]
+ [<i>dsfx1</i>]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Chassi hissin noɬhilíichàapo.
+ <i>We have been breaking the dried leaves off the stalk (to feed horses).</i><font face="Arial">»</font>
+ ☞<a href="n.htm#noɬɬi">noɬɬi</a>
+<br><font size="+2"><b><a name="nóntá"></a>nóntá</b> </font>
+<font size="+2">what (did you say)? </font>
+ <i>Usage: </i>Older word; request for repetition or clarification.
+ {&nbsp;Mobilian?}
+&nbsp;<font size="0">(JS)</font>
+<br><font size="+2"><b><a name="noochakaffi"></a>noochakaffi</b> </font>
+<font size="+2">to behead, chop off at the neck (one object); to cut down</font>
+&nbsp;<font size="0">(IB)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>noochakafchi, noochakafhili, noochakafhachi</i>)
+&nbsp; [noo- /chakaf-li]
+ <i>Var: nokchakoffi</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: nokchakaffi</i>
+&nbsp;<font size="0">(WP)</font>
+ ☞<a href="c.htm#chakaffi">chakaffi</a>
+<br><font size="+2"><b><a name="nóochi"></a>nóochi</b> </font>
+<font size="+2">to still be asleep, still sleeping</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Ifa nóochiiya balàakatika.
+ <i>Let sleeping dogs lie.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nóochihchi.
+ <i>He's still sleeping.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nochi">nochi</a>
+<br><font size="+2"><b><a name="noohalatka"></a>noohalatka</b> </font>
+<font size="+2">to have a crick in the neck</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [noo- /halat-ka<sup>1</sup>]
+ ☞<a href="h.htm#halatka">halatka</a>
+<br><font size="+2"><b><a name="noohissi"></a>noohissi</b> </font>
+<font size="+2">hair on the back of the neck</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [noo- /hissi]
+&nbsp;<font size="0">(IB)</font>
+ ☞<a href="h.htm#hissi">hissi</a>
+<br><font size="+2"><b><a name="noohoopa"></a>noohoopa</b> </font>
+<font size="+2">to have a sore throat; to have a stiff neck</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [noo- /hoopa]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="h.htm#hoopa">hoopa</a>
+<br><font size="+2"><b><a name="noohoyapli"></a>noohoyapli</b> </font>
+<font size="+2">to have a sore, stiff neck</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [noo- /hoyap-li]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="h.htm#hoyapli">hoyapli</a>
+<br><font size="+2"><b><a name="nookaslichi"></a>nookaslichi</b> </font>
+<font size="+2">to trim (the hair) on the back of the neck</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>nookaschichi, nookashilichi, nookashachichi</i>)
+&nbsp; [noo- -/kas-li-chi<sup>2</sup>]
+ ☞<a href="i1.htm#inkaslichi">inkaslichi</a>
+<br><font size="+2"><b><a name="nookolli"></a>nookolli</b> </font>
+<font size="+2">to behead (plural objects)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>nookolchi, nookolhili, nookolhachi</i>)
+&nbsp; [noo- /kol(of)-li]
+ [<i>dsfx1</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="k.htm#kolli">kolli</a>
+<br><font size="+2"><b><a name="nookoloffi"></a>nookoloffi</b> </font>
+<font size="+2">to behead (one object), cut off the head; to remove from the throat</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>nookolofchi, nookolofhili, nookolofhachi</i>)
+&nbsp; [noo- /kolof-li]
+ <i>Pl: </i>nookolli
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="k.htm#koloffi">koloffi</a>
+<br><font size="+2"><b><a name="nookopòoli"></a>nookopòoli</b> </font>
+<font size="+2">second chin, loose skin on the neck under the chin, Adam's apple, jowls (of a hog) </font>
+&nbsp; [noo- -(/kopòoli)]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="noolapàali"></a>noolapàali</b> </font>
+<font size="+2">to have one object (such as peanut butter) stuck to the roof of the mouth </font>
+&nbsp;<font color="#800080" size="+1">CHA-/3</font>
+&nbsp; [noo- /lapah-li]
+&nbsp;<font face="Arial">«</font>Chanotakfafan chanoolapàali.
+ <i>I've got it (peanut butter) stuck to the roof of my mouth.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="l.htm#lapahli">lapahli</a>
+<br><font size="+2"><b><a name="nooláppàali"></a>nooláppàali</b> </font>
+<font size="+2">to have something (as a cold) in the throat, have a frog in the throat</font>
+&nbsp;<font color="#800080" size="+1">CHA-/3</font>
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Toɬɬoilkok chanooláppàalo.
+ <i>I have a cold in my throat.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#noolapàali">noolapàali</a>
+<br><font size="+2"><b><a name="noolibatli"></a>noolibatli</b> </font>
+<font size="+2">to burn the neck (as sunburn); to burn the throat (as hot coffee or spicy food)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>noolibatchi, noolibathili, noolibathachi</i>)
+&nbsp; [noo- /libat-li]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="l.htm#libatli">libatli</a>
+<br><font size="+2"><b><a name="noomiɬoffichi"></a>noomiɬoffichi</b> </font>
+<font size="+2">to chafe the neck (as a collar)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>noomiɬofchichi, noomiɬofhilichi, noomiɬofhachichi</i>)
+&nbsp; [noo- /miɬof-li-chi<sup>1</sup>]
+ ☞<a href="m.htm#miɬoffichi">miɬoffichi</a>
+<br><font size="+2"><b><a name="noopannichi"></a>noopannichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nokpánnichi">nokpánnichi</a>&nbsp;
+<br><font size="+2"><b><a name="noopihli"></a>noopihli</b> </font>
+<font size="+2">to take out the tonsils; to remove (plural objects) from the throat of a choking victim </font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>noopihchi, noopihhili, noopihhachi</i>)
+&nbsp; [noo- /pih-li]
+&nbsp;<font face="Arial">«</font>Tànsilskan chinoopihliliti.
+ <i>I took out your tonsils.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#pihli">pihli</a>
+<br><font size="+2"><b><a name="noopoksi"></a>noopoksi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to have a pouched throat (as a lizard)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [noo- /poksi]
+&nbsp;2.&nbsp;
+<font size="+2">larynx, Adam's apple </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ ☞<a href="p.htm#poksi">poksi</a>
+<br><font size="+2"><b><a name="noosopatka"></a>noosopatka</b> </font>
+<font size="+2">to have a bare nape, shaved or clean neck</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [noo- /sopat-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chanoosopatka.
+ <i>I have a bare neck.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chanoosopáatkàama.
+ <i>My neck is already clean. (if someone asks).</i><font face="Arial">»</font>
+ ☞<a href="n.htm#noosopatli">noosopatli</a>
+<br><font size="+2"><b><a name="noosopatli"></a>noosopatli</b> </font>
+<font size="+2">to shave or clean the neck of</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>noosopatchi, noosopathili, noosopathachi</i>)
+&nbsp; [noo- /sopat-li]
+&nbsp;<font face="Arial">«</font>Chanoosopatliti.
+ <i>She shaved my neck.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sopatli">sopatli</a>
+<br><font size="+2"><b><a name="nootahapka"></a>nootahapka</b> </font>
+<font size="+2">to cut a hole in an animal's throat to let blood out</font>
+ <i>Usage: </i>Newer word.
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>nootahapiska, nootahapilka, nootahapaska</i>)
+&nbsp; [noo- /tahap-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#tahapka">tahapka</a>
+<br><font size="+2"><b><a name="nootakba"></a>nootakba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#noktakba">noktakba</a>&nbsp;
+<br><font size="+2"><b><a name="nootaɬafka"></a>nootaɬafka</b> </font>
+<font size="+2">to get the meat off the neck of a hog or other animal, remove hog jowls; to remove tonsils; to cut (one object) off of the throat</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>nootaɬafiska, nootaɬafilka, nootaɬafaska</i>)
+&nbsp; [noo- /taɬaf-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#taɬafka">taɬafka</a>
+<br><font size="+2"><b><a name="nootipaska"></a>nootipaska</b> </font>
+<font size="+2">to be beheaded (of one)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [noo- /tipas-ka<sup>1</sup>]
+ <i>Var: noktipaska</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="n.htm#nootipasli">nootipasli</a>
+<br><font size="+2"><b><a name="nootipasli"></a>nootipasli</b> </font>
+<font size="+2">to behead, decapitate (one object) as by wringing or chopping (as a chicken)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>nootipassi, nootipashili, nootipashachi</i>)
+&nbsp; [noo- /tipas-li]
+ <i>Var: noktipasli</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#tipasli">tipasli</a>
+<br><font size="+2"><b><a name="noowanha"></a>noowanha</b> </font>
+<font size="+2">to have a stiff neck</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [noo- /wanha]
+ ☞<a href="w.htm#wanha">wanha</a>
+<br><font size="+2"><b><a name="noowasihli"></a>noowasihli</b> </font>
+<font size="+2">to have a tickle in the throat, have an scratchy throat</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [noo- /wasih-li]
+&nbsp;<font size="0">(IB)</font>
+ ☞<a href="w.htm#wasihli">wasihli</a>
+<br><font size="+2"><b><a name="nooyachosòoka"></a>nooyachosòoka</b> </font>
+<font size="+2">to have something stuck crosswise in the throat (as a bone) </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [noo- /achosòo-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="a.htm#achosòoka2">achosòoka<sup>2</sup></a>
+<br><font size="+2"><b><a name="nooyaniichi"></a>nooyaniichi</b> </font>
+<font size="+2">to have blisters in the throat, have infected tonsils or throat</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [noo- /aniichi]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="a.htm#aniichi">aniichi</a>
+<br><font size="+2"><b><a name="nooyatakàaka"></a>nooyatakàaka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to have something stuck crosswise in the throat (as a bone) </font>
+ <i>Usage: </i>Older word.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [noo- /atakàa-ka<sup>1</sup>]
+ [<i>fgr</i>]
+&nbsp;2.&nbsp;
+<font size="+2">wattle (the thing that hangs down from a chicken's neck)</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="a.htm#atakàaka2">atakàaka<sup>2</sup></a>
+<br><font size="+2"><b><a name="nooyiɬooli"></a>nooyiɬooli</b> </font>
+<font size="+2">to be able to move or limber up a stiff neck</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [noo- /yiɬoo-li]
+&nbsp;<font face="Arial">«</font>Chanooyiɬoolit anooko.
+ <i>I finally got my head back (my neck loosened up).</i><font face="Arial">»</font>
+ ☞<a href="y.htm#yiɬohli">yiɬohli</a>
+<br><font size="+2"><b><a name="nooyoksatli"></a>nooyoksatli</b> </font>
+<font size="+2">to have mumps</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [noo- /oksatli]
+ ☞<a href="o.htm#oksatli">oksatli</a>
+<br><font size="+2"><b><a name="nopaffi"></a>nopaffi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#nipaffi">nipaffi</a>&nbsp;
+<br><font size="+2"><b><a name="nopli"></a>nopli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#niplichi">niplichi</a>&nbsp;
+<br><font size="+2"><b><a name="nosàaka"></a>nosàaka</b> </font>
+<font size="+2">to be chipped (more than once)</font>
+&nbsp; [/nosa(f)-ka<sup>1</sup>]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="n.htm#nosàali">nosàali</a>
+<br><font size="+2"><b><a name="nosàali"></a>nosàali</b> </font>
+<font size="+2">to chip (more than once)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>nosàachi, nosàahili, nosàahachi</i>)
+&nbsp; [/nosa(f)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="n.htm#nosaffi">nosaffi</a>
+<br><font size="+2"><b><a name="nosaffi"></a>nosaffi</b> </font>
+<font size="+2">to chip (once)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>nosafchi, nosafhili, nosafhachi</i>)
+&nbsp; [/nosaf-li]
+<br>&nbsp;&nbsp;<i><a href="n.htm#nosafka">nosafka</a></i>
+&nbsp;to be chipped
+<br>&nbsp;&nbsp;<i><a href="n.htm#nosàali">nosàali</a></i>
+&nbsp;to chip (more than once)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#nosàaka">nosàaka</a></i>
+&nbsp;to be chipped
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ichoonosàaka">ichoonosàaka</a></i>
+&nbsp;to be chipped on the rim
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ichoonosàakachi">ichoonosàakachi</a></i>
+&nbsp;to be chipped on the rim in several places
+<br><font size="+2"><b><a name="nosafka"></a>nosafka</b> </font>
+<font size="+2">to be chipped once</font>
+&nbsp; [/nosaf-ka<sup>1</sup>]
+ <i>Pl: </i>nosàaka
+ ☞<a href="n.htm#nosaffi">nosaffi</a>
+<br><font size="+2"><b><a name="nota"></a>nota</b> </font>
+<font size="+2">under, underside</font>
+<br><font size="+2"><b><a name="notakfa"></a>notakfa</b> </font>
+<font size="+2">palate, roof of the mouth </font>
+; <font size="+2">jaw, chin </font>
+&nbsp;<font size="0">(VC, DB)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chanotakfan chanoolapàali.
+ <i>I've got it stuck to the roof of my mouth.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="notakfa chofkoni"></a>notakfa chofkoni</b> </font>
+<font size="+2">jawbone </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/notakfa /chofkoni]
+<br><font size="+2"><b><a name="notakɬopotli"></a>notakɬopotli</b> </font>
+<font size="+2">to cross under once</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>notakɬopotchi, notakɬopothili, notakɬopothachi</i>)
+&nbsp; [/nota-k /ɬopot-li]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="ll.htm#ɬopotli">ɬopotli</a>
+<br><font size="+2"><b><a name="nótchihla"></a>nótchihla</b> </font>
+<font size="+2">to be getting sleepy, drowsy</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>ggr</i>]
+ ☞<a href="n.htm#nochihla">nochihla</a>
+<br><font size="+2"><b><a name="nottàkba"></a>nottàkba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#noktakba">noktakba</a>&nbsp;
+<br><font size="+2"><b><a name="nottakonotli"></a>nottakonotli</b> </font>
+<font size="+2">to go under, crawl under</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>nottakonotchi, nottakonothili, nottakonothachi</i>)
+&nbsp; [CS suggests /nota /ittakonot-li]
+ ☞<a href="i2.htm#ittakonotli">ittakonotli</a>
+<br><font size="+2"><b><a name="Nowa"></a>Nowa</b> </font>
+<font size="+2">Noah (biblical figure)</font>
+ {&nbsp;English}
+ <i>Var: Nowi</i>
+<br><font size="+2"><b><a name="Nowi"></a>Nowi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="n.htm#Nowa">Nowa</a>&nbsp;
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

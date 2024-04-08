@@ -1,0 +1,788 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">R</font></center><br>
+<br><b>rabbit</b>&nbsp;&nbsp;<i><a href="c.htm#chokfi">chokfi</a></i>.&nbsp;
+<br><b>rabbit cage</b>&nbsp;&nbsp;<i><a href="c.htm#chokfimiisa">chokfimiisa</a></i>.&nbsp;
+<br><b>rabbit dance</b>&nbsp;&nbsp;<i><a href="c.htm#chokfibitka">chokfibitka</a></i>.&nbsp;
+&nbsp;rabbit dance song: &nbsp;<i><a href="c.htm#chokfibitka talilwa">chokfibitka talilwa</a></i>.&nbsp;
+<br><b>rabbit dog</b>&nbsp;&nbsp;<i><a href="i1.htm#ifa chokfiɬòoli">ifa chokfiɬòoli</a></i>.&nbsp;
+<br><b>rabbit fur</b>&nbsp;&nbsp;<i><a href="c.htm#chokfihissi">chokfihissi</a></i>.&nbsp;
+<br><b>rabbit story</b>&nbsp;&nbsp;<i><a href="c.htm#chokfifatka">chokfifatka</a>, <a href="c.htm#chokfinaaɬiilka">chokfinaaɬiilka</a></i>.&nbsp;
+<br><b>rabid</b>
+&nbsp;to be crazy, rabid (of animals), run wild, get a wild hair (as cows): &nbsp;<i><a href="t.htm#tasihmo">tasihmo</a></i>.&nbsp;
+&nbsp;to make crazy, make rabid (as when a rabid dog bites another), madden: &nbsp;<i><a href="t.htm#tasihmochi">tasihmochi</a></i>.&nbsp;
+<br><b>raccoon</b>&nbsp;&nbsp;<i><a href="s.htm#sawa">sawa</a></i>.&nbsp;
+<br><b>race</b>
+&nbsp;horserace: &nbsp;<i><a href="c.htm#chichobittimayya">chichobittimayya</a></i>.&nbsp;
+&nbsp;automobile race, stock car race, drag race: &nbsp;<i><a href="m.htm#mobìlkittimayya">mobìlkittimayya</a></i>.&nbsp;
+&nbsp;horserace track: &nbsp;<i><a href="c.htm#chichoba imaayittimaliyya">chichoba imaayittimaliyya</a></i>.&nbsp;
+&nbsp;automobile race track: &nbsp;<i><a href="m.htm#mobìlka aayittimayya">mobìlka aayittimayya</a></i>.&nbsp;
+&nbsp;mixed nations, races: &nbsp;<i><a href="i2.htm#ittimaɬahkóyha">ittimaɬahkóyha</a></i>.&nbsp;
+&nbsp;tribes or races that have interbred, people of all ages: &nbsp;<i><a href="i2.htm#ittayonkachi">ittayonkachi</a></i>.&nbsp;
+&nbsp;to run races with: &nbsp;<i><a href="t.htm#tooɬookat ittimayyachi">tooɬookat ittimayyachi</a></i>.&nbsp;
+<br><b>racket</b>
+&nbsp;to make a racket: &nbsp;<i><a href="k.htm#kobòolichi">kobòolichi</a></i>.&nbsp;
+<br><b>racquet</b>
+&nbsp;stickball racquet: &nbsp;<i><a href="k.htm#kapachi">kapachi</a></i>.&nbsp;
+<br><b>radiate</b>
+&nbsp;to give off shimmering waves of light (esp. as a heat mirage or tinfoil), radiate: &nbsp;<i><a href="l.htm#limìhkachi">limìhkachi</a></i>.&nbsp;
+<br><b>radio</b>&nbsp;&nbsp;<i><a href="o.htm#ochonanaaɬiilka">ochonanaaɬiilka</a>, <a href="o.htm#olaatilka">olaatilka</a></i>.&nbsp;
+<br><b>raffia</b>&nbsp;&nbsp;<i><a href="b.htm#baksa">baksa</a></i>.&nbsp;
+<br><b>raft</b>&nbsp;&nbsp;<i><a href="o.htm#okpállàali">okpállàali</a></i>.&nbsp;
+<br><b>rafters</b>&nbsp;&nbsp;<i><a href="i1.htm#iisastimpaalokòoli">iisastimpaalokòoli</a></i>.&nbsp;
+<br><b>rag</b>
+&nbsp;sponge, dishrag: &nbsp;<i><a href="a.htm#aayampostaasihka">aayampostaasihka</a></i>.&nbsp;
+<br><b>rage</b>&nbsp;&nbsp;<i><a href="n.htm#nokhammitilka">nokhammitilka</a></i>.&nbsp;
+&nbsp;to be in a rage: &nbsp;<i><a href="n.htm#nokhammi">nokhammi</a></i>.&nbsp;
+&nbsp;to be in a rage at: &nbsp;<i><a href="i1.htm#innokhammi">innokhammi</a></i>.&nbsp;
+<br><b>ragweed</b>&nbsp;&nbsp;<i><a href="h.htm#hasaalapo">hasaalapo</a></i>.&nbsp;
+&nbsp;a tall weed with leaves like tomato leaves, ragweed?: &nbsp;<i><a href="h.htm#hassintalaali">hassintalaali</a></i>.&nbsp;
+<br><b>railroad</b>
+&nbsp;railroad train: &nbsp;<i><a href="p.htm#pàalki">pàalki</a>, <a href="p.htm#pàlkichoba">pàlkichoba</a></i>.&nbsp;
+&nbsp;freight train: &nbsp;<i><a href="p.htm#pàlkibaski">pàlkibaski</a></i>.&nbsp;
+&nbsp;passenger train: &nbsp;<i><a href="p.htm#pàlki aatistàaya">pàlki aatistàaya</a>, <a href="p.htm#pàlki aatwihàachi">pàlki aatwihàachi</a></i>.&nbsp;
+&nbsp;railroad spike: &nbsp;<i><a href="p.htm#pàlkiⁿhini istachoska">pàlkiⁿhini istachoska</a></i>.&nbsp;
+&nbsp;railroad ties: &nbsp;<i><a href="t.htm#tàiska">tàiska</a>, <a href="p.htm#pàlkiⁿhini inchiika">pàlkiⁿhini inchiika</a></i>.&nbsp;
+&nbsp;railroad tracks: &nbsp;<i><a href="p.htm#pàlkiⁿhini">pàlkiⁿhini</a></i>.&nbsp;
+<br><b>rain</b>&nbsp;&nbsp;<i><a href="o.htm#oyba">oyba</a></i>.&nbsp;
+&nbsp;to rain: &nbsp;<i><a href="o.htm#oyba">oyba</a></i>.&nbsp;
+&nbsp;to make rain: &nbsp;<i><a href="o.htm#oybachi">oybachi</a></i>.&nbsp;
+&nbsp;to be freezing precipitation, freezing rain: &nbsp;<i><a href="h.htm#hipli">hipli</a></i>.&nbsp;
+&nbsp;to sprinkle (of weather), be a light rain shower: &nbsp;<i><a href="b.htm#boslichi">boslichi</a></i>.&nbsp;
+&nbsp;to flood (from a hard rain): &nbsp;<i><a href="y.htm#yanàali">yanàali</a></i>.&nbsp;
+&nbsp;to make a noise as of rain coming from a distance: &nbsp;<i><a href="m.htm#maafoopachi">maafoopachi</a></i>.&nbsp;
+&nbsp;to stop, cease (of rain, sleet or snow): &nbsp;<i><a href="h.htm#hayohli">hayohli</a></i>.&nbsp;
+<br><b>rainbow</b>&nbsp;&nbsp;<i><a href="h.htm#hanakbootoklo">hanakbootoklo</a>, <a href="h.htm#hanakbotóofola">hanakbotóofola</a>, <a href="h.htm#hanakbotopli">hanakbotopli</a></i>.&nbsp;
+&nbsp;to appear, be out and visible (of a rainbow): &nbsp;<i><a href="m.htm#maahátchàali">maahátchàali</a></i>.&nbsp;
+<br><b>raincaller</b>
+&nbsp;tree frog, raincaller: &nbsp;<i><a href="o.htm#okiyyowwa">okiyyowwa</a></i>.&nbsp;
+<br><b>raincoat</b>&nbsp;&nbsp;<i><a href="o.htm#okilapàako">okilapàako</a></i>.&nbsp;
+<br><b>rainmaker</b>&nbsp;&nbsp;<i><a href="o.htm#oybachichòobasi">oybachichòobasi</a>, <a href="o.htm#oybachi">oybachi</a></i>.&nbsp;
+<br><b>raise</b>
+&nbsp;to raise: &nbsp;<i><a href="w.htm#waayachi">waayachi</a></i>.&nbsp;
+&nbsp;to raise, domesticate (an animal), cultivate (a houseplant): &nbsp;<i><a href="a.htm#apooba">apooba</a>, <a href="a.htm#apoyba">apoyba</a></i>.&nbsp;
+&nbsp;to raise, rear a child, bring up: &nbsp;<i><a href="c.htm#chobachi">chobachi</a></i>.&nbsp;
+&nbsp;to raise (the hand): &nbsp;<i><a href="w.htm#wayli">wayli</a></i>.&nbsp;
+&nbsp;to be raised, cultivated, domesticated, tame: &nbsp;<i><a href="a.htm#alpooba">alpooba</a></i>.&nbsp;
+&nbsp;to pull up (something), lift, raise (as a flag on a rope): &nbsp;<i><a href="a.htm#abaalichi">abaalichi</a></i>.&nbsp;
+&nbsp;to put up a tent, raise a tent: &nbsp;<i><a href="i1.htm#iistalkan talbòoli">iistalkan talbòoli</a></i>.&nbsp;
+&nbsp;to raise a cloud of (e.g. dust), scatter (something on the ground): &nbsp;<i><a href="i2.htm#itaboyotlichi">itaboyotlichi</a>, <a href="i2.htm#itaksobotlichi">itaksobotlichi</a></i>.&nbsp;
+&nbsp;to raise a cloud of (e.g. dust), scatter: &nbsp;<i><a href="b.htm#boyotlichi">boyotlichi</a></i>.&nbsp;
+<br><b>raisin</b>&nbsp;&nbsp;<i><a href="b.htm#baɬka">baɬka</a></i>.&nbsp;
+<br><b>rake</b>&nbsp;&nbsp;<i><a href="i2.htm#iskaykachi">iskaykachi</a>, <a href="i2.htm#istitakaykachi">istitakaykachi</a></i>.&nbsp;
+&nbsp;to rake, stir (a fire): &nbsp;<i><a href="i2.htm#itakaylichi">itakaylichi</a></i>.&nbsp;
+<br><b>ranch</b>&nbsp;&nbsp;<i><a href="n.htm#nàasaawaayachitilka">nàasaawaayachitilka</a></i>.&nbsp;
+<br><b>rancid</b>
+&nbsp;to be rancid, fermented, slightly spoiled but edible: &nbsp;<i><a href="a.htm#ataanapli">ataanapli</a></i>.&nbsp;
+&nbsp;to be nearly rancid, almost spoiled: &nbsp;<i><a href="a.htm#atánnàapli">atánnàapli</a></i>.&nbsp;
+&nbsp;to smell bad, as of body odor or spoiled or rancid food: &nbsp;<i><a href="k.htm#kamoska">kamoska</a></i>.&nbsp;
+<br><b>range</b>
+&nbsp;mountain range: &nbsp;<i><a href="b.htm#bokbokislawa">bokbokislawa</a>, <a href="b.htm#bokbokissoba">bokbokissoba</a></i>.&nbsp;
+&nbsp;stove, range, oven, microwave: &nbsp;<i><a href="a.htm#aaholponi">aaholponi</a></i>.&nbsp;
+<br><b>rap</b>
+&nbsp;bumping, rapping sound: &nbsp;<i><a href="t.htm#timiikàachi">timiikàachi</a></i>.&nbsp;
+&nbsp;to knock or rap (at the door): &nbsp;<i><a href="m.htm#maakobòolichi">maakobòolichi</a></i>.&nbsp;
+&nbsp;to knock, rap with the knuckles, bump, tap: &nbsp;<i><a href="k.htm#kibìilichi">kibìilichi</a></i>.&nbsp;
+&nbsp;to make a banging, rapping, knocking noise: &nbsp;<i><a href="k.htm#kobòolichi">kobòolichi</a></i>.&nbsp;
+&nbsp;to hit (plural objects or repeatedly), tap, rap: &nbsp;<i><a href="b.htm#batli">batli</a></i>.&nbsp;
+<br><b>rape</b>
+&nbsp;to rape: &nbsp;<i><a href="b.htm#bihli">bihli</a>, <a href="i2.htm#isbakahli">isbakahli</a>, <a href="t.htm#tayyihon pilàachi">tayyihon pilàachi</a></i>.&nbsp;
+<br><b>rapids</b>
+&nbsp;river rapids: &nbsp;<i><a href="o.htm#okipalki">okipalki</a>, <a href="o.htm#okiyanatli palki">okiyanatli palki</a></i>.&nbsp;
+<br><b>rare</b>
+&nbsp;to be very few, very rare, seldom: &nbsp;<i><a href="a.htm#ayómmòosi">ayómmòosi</a></i>.&nbsp;
+&nbsp;to be very rare, uncommon, the only one, unique: &nbsp;<i><a href="c.htm#chafáaⁿkàasi">chafáaⁿkàasi</a></i>.&nbsp;
+<br><b>rash</b>
+&nbsp;to be broken out in bumps, have a rash: &nbsp;<i><a href="a.htm#askahka">askahka</a>, <a href="l.htm#liwahli">liwahli</a></i>.&nbsp;
+&nbsp;to itch, have a rash, have eczema: &nbsp;<i><a href="w.htm#wasihli">wasihli</a></i>.&nbsp;
+&nbsp;to cause a rash on, make (someone) break out: &nbsp;<i><a href="l.htm#liwahlichi">liwahlichi</a></i>.&nbsp;
+<br><b>rasp</b>
+&nbsp;to saw, mill wood, rasp: &nbsp;<i><a href="s.htm#sohlichi">sohlichi</a></i>.&nbsp;
+&nbsp;to make a rasping noise: &nbsp;<i><a href="s.htm#sohlichi">sohlichi</a>, <a href="k.htm#kifahka">kifahka</a></i>.&nbsp;
+<br><b>rat</b>&nbsp;&nbsp;<i><a href="c.htm#chissi">chissi</a>, <a href="l.htm#lahka">lahka</a>, <a href="l.htm#lahkachoba">lahkachoba</a></i>.&nbsp;
+<br><b>rather</b>
+&nbsp;rather, to the contrary: &nbsp;<i><a href="afx.htm#-tíkkó">-tíkkó</a></i>.&nbsp;
+<br><b>rattan</b>&nbsp;&nbsp;<i><a href="a.htm#aatipachobinchaabi">aatipachobinchaabi</a></i>.&nbsp;
+&nbsp;blue vine with thorns, rattan?: &nbsp;<i><a href="b.htm#baɬkapìhchi okchakko">baɬkapìhchi okchakko</a></i>.&nbsp;
+<br><b>rattle</b>&nbsp;&nbsp;<i><a href="i2.htm#iskaɬàahachitilka">iskaɬàahachitilka</a></i>.&nbsp;
+&nbsp;dance rattle: &nbsp;<i><a href="w.htm#wakkachi">wakkachi</a></i>.&nbsp;
+&nbsp;gourd or turtleshell rattle: &nbsp;<i><a href="k.htm#kochiba">kochiba</a></i>.&nbsp;
+&nbsp;to rattle, vibrate, shake, bounce, echo: &nbsp;<i><a href="a.htm#ataawotlichi">ataawotlichi</a></i>.&nbsp;
+&nbsp;to rattle, cause a rattling noise: &nbsp;<i><a href="t.htm#taɬaapachi">taɬaapachi</a>, <a href="c.htm#chiɬiɬihkachi">chiɬiɬihkachi</a>, <a href="c.htm#chaɬaɬahkachi">chaɬaɬahkachi</a>, <a href="k.htm#kaɬàalichi">kaɬàalichi</a></i>.&nbsp;
+&nbsp;to make a rattling, banging, hammering, tapping or rumbling noise: &nbsp;<i><a href="k.htm#kapàalichi">kapàalichi</a></i>.&nbsp;
+&nbsp;to rattle, esp. of something metal: &nbsp;<i><a href="c.htm#chamamahkachi">chamamahkachi</a></i>.&nbsp;
+&nbsp;to rattle, make a rattling noise (as a wagon over a rough road): &nbsp;<i><a href="k.htm#kaɬàaha1">kaɬàaha<sup>1</sup></a>, <a href="t.htm#taɬaapa">taɬaapa</a></i>.&nbsp;
+&nbsp;to rattle, make a rattling noise (of a snake), rustle, make a rustling noise: &nbsp;<i><a href="c.htm#chasàalichi">chasàalichi</a></i>.&nbsp;
+&nbsp;to rattle, cause a little intermittent rattling noise or vibration: &nbsp;<i><a href="t.htm#taɬaapáachòssi">taɬaapáachòssi</a></i>.&nbsp;
+&nbsp;to rattle along (in a vehicle): &nbsp;<i><a href="i2.htm#iskaɬàalichi">iskaɬàalichi</a></i>.&nbsp;
+&nbsp;to be the sound of rattling, crackling: &nbsp;<i><a href="c.htm#chasàakachi">chasàakachi</a></i>.&nbsp;
+&nbsp;to make a rattling noise in the distance: &nbsp;<i><a href="m.htm#maakaɬàaha">maakaɬàaha</a></i>.&nbsp;
+&nbsp;to make something rattle, crackle, rustle: &nbsp;<i><a href="i2.htm#ischasàalichi">ischasàalichi</a></i>.&nbsp;
+&nbsp;to produce a death rattle: &nbsp;<i><a href="ll.htm#ɬikikihkachi">ɬikikihkachi</a></i>.&nbsp;
+&nbsp;to shake (a rattle): &nbsp;<i><a href="w.htm#wakkachi">wakkachi</a></i>.&nbsp;
+<br><b>rattlesnake</b>&nbsp;&nbsp;<i><a href="c.htm#chintochoba">chintochoba</a></i>.&nbsp;
+&nbsp;ground rattler: &nbsp;<i><a href="a.htm#alba">alba</a></i>.&nbsp;
+&nbsp;type of small ground rattler: &nbsp;<i><a href="i1.htm#ihaanikosi">ihaanikosi</a></i>.&nbsp;
+&nbsp;type of small rattlesnake, about 12 inches long with spots on its back: &nbsp;<i><a href="c.htm#chikhito">chikhito</a>, <a href="c.htm#chintochoba iⁿsabàyyi">chintochoba iⁿsabàyyi</a></i>.&nbsp;
+&nbsp;rattlesnake's rattle: &nbsp;<i><a href="i1.htm#inchasàaya">inchasàaya</a></i>.&nbsp;
+&nbsp;the sound a rattlesnake makes: &nbsp;<i><a href="c.htm#chsss">chsss</a></i>.&nbsp;
+<br><b>ravelled</b>
+&nbsp;to come unravelled: &nbsp;<i><a href="s.htm#sihkachi">sihkachi</a></i>.&nbsp;
+<br><b>ravine</b>&nbsp;&nbsp;<i><a href="k.htm#kolokbischoba">kolokbischoba</a>, <a href="k.htm#kolokbi">kolokbi</a></i>.&nbsp;
+<br><b>raw</b>
+&nbsp;itch, raw spot: &nbsp;<i><a href="w.htm#wasihka">wasihka</a></i>.&nbsp;
+&nbsp;raw eggs: &nbsp;<i><a href="a.htm#akaakochoski okcháako">akaakochoski okcháako</a></i>.&nbsp;
+&nbsp;to be raw (not cooked): &nbsp;<i><a href="h.htm#hoponhíkko">hoponhíkko</a>, <a href="o.htm#okcháako">okcháako</a>, <a href="l.htm#libátko">libátko</a></i>.&nbsp;
+<br><b>raze</b>
+&nbsp;to destroy, raze, flatten (vegetation), level (as a house) (used of a storm or tornado): &nbsp;<i><a href="b.htm#baɬapli">baɬapli</a></i>.&nbsp;
+<br><b>razor</b>&nbsp;&nbsp;<i><a href="i2.htm#isɬihkachi">isɬihkachi</a>, <a href="i2.htm#istilichooɬihkachi">istilichooɬihkachi</a>, <a href="i1.htm#ichokhiska isɬihkachi">ichokhiska isɬihkachi</a></i>.&nbsp;
+<br><b>reach</b>
+&nbsp;to reach: &nbsp;<i><a href="o.htm#onóoɬa">onóoɬa</a></i>.&nbsp;
+&nbsp;to reach, bend, or fall over (with the whole body): &nbsp;<i><a href="a.htm#abanàaka">abanàaka</a></i>.&nbsp;
+&nbsp;to reach for: &nbsp;<i><a href="m.htm#maatisi">maatisi</a></i>.&nbsp;
+&nbsp;to reach for, go after (one object in a container): &nbsp;<i><a href="m.htm#maastisi">maastisi</a></i>.&nbsp;
+&nbsp;to be able to reach (i.e. be able to extend to a certain point): &nbsp;<i><a href="o.htm#óoɬàasi">óoɬàasi</a></i>.&nbsp;
+&nbsp;to draw a line by reaching, reach for to pull (as for clothes in the back of a closet) (plural objects or repeatedly): &nbsp;<i><a href="m.htm#maahalahka">maahalahka</a></i>.&nbsp;
+&nbsp;to extend as far as, reach to (a place): &nbsp;<i><a href="t.htm#tíkkìili">tíkkìili</a></i>.&nbsp;
+&nbsp;to extend or reach to a certain point (away from the speaker): &nbsp;<i><a href="o.htm#ostíkkìili">ostíkkìili</a></i>.&nbsp;
+&nbsp;to extend to a point, reach to: &nbsp;<i><a href="o.htm#òoɬa">òoɬa</a></i>.&nbsp;
+&nbsp;to measure up to, to equal, reach (some standard): &nbsp;<i><a href="i2.htm#istimoɬa">istimoɬa</a></i>.&nbsp;
+<br><b>read</b>
+&nbsp;to read from (printed matter): &nbsp;<i><a href="i1.htm#innaaɬiika">innaaɬiika</a></i>.&nbsp;
+&nbsp;to read from (printed matter) to: &nbsp;<i><a href="i1.htm#iminnaaɬiika">iminnaaɬiika</a></i>.&nbsp;
+<br><b>ready</b>
+&nbsp;to be ready to: &nbsp;<i><a href="afx.htm#-máɬɬi">-máɬɬi</a></i>.&nbsp;
+&nbsp;enough!, amen!, that's it, okay!, ready!: &nbsp;<i><a href="m.htm#mòoli">mòoli</a>, <a href="m.htm#mooli">mooli</a></i>.&nbsp;
+&nbsp;ready! (Let's go!): &nbsp;<i><a href="h.htm#haaki">haaki</a></i>.&nbsp;
+&nbsp;ready? alright? enough?: &nbsp;<i><a href="m.htm#mòoli">mòoli</a></i>.&nbsp;
+&nbsp;to be always ready, have been gotten ready: &nbsp;<i><a href="i1.htm#imalpíisa">imalpíisa</a></i>.&nbsp;
+&nbsp;to be cooked done, ready, prepared (of food): &nbsp;<i><a href="l.htm#lakha">lakha</a>, <a href="h.htm#hóppòoni">hóppòoni</a></i>.&nbsp;
+&nbsp;to be getting ready: &nbsp;<i><a href="i1.htm#imittahooba">imittahooba</a></i>.&nbsp;
+&nbsp;to be measured and ready: &nbsp;<i><a href="a.htm#áppìisa">áppìisa</a></i>.&nbsp;
+&nbsp;to be readied, prepared, trained: &nbsp;<i><a href="a.htm#apiisa">apiisa</a></i>.&nbsp;
+&nbsp;to be ready for: &nbsp;<i><a href="i1.htm#immooli">immooli</a></i>.&nbsp;
+&nbsp;to be ready for, ready to do something, get ready for: &nbsp;<i><a href="i1.htm#imalpisa">imalpisa</a></i>.&nbsp;
+&nbsp;to be ready (of inanimates): &nbsp;<i><a href="a.htm#alpisa1">alpisa<sup>1</sup></a></i>.&nbsp;
+&nbsp;to fix, prepare for, make ready for, tend (a garden): &nbsp;<i><a href="i1.htm#imakanoochi">imakanoochi</a></i>.&nbsp;
+&nbsp;to get ready for: &nbsp;<i><a href="i1.htm#immooli">immooli</a></i>.&nbsp;
+&nbsp;to get someone ready for: &nbsp;<i><a href="i1.htm#immoolichi">immoolichi</a></i>.&nbsp;
+&nbsp;to make ready, get (something) ready, prepare: &nbsp;<i><a href="a.htm#alpisaachi">alpisaachi</a></i>.&nbsp;
+&nbsp;to make (someone) ready, get (someone) ready, prepare (someone): &nbsp;<i><a href="i1.htm#imalpisaachi">imalpisaachi</a></i>.&nbsp;
+&nbsp;to prepare, get ready: &nbsp;<i><a href="i2.htm#ittahoobachi">ittahoobachi</a></i>.&nbsp;
+&nbsp;to serve or stand ready to serve (especially in office) (of one): &nbsp;<i><a href="h.htm#hátchàali">hátchàali</a></i>.&nbsp;
+<br><b>real</b>&nbsp;&nbsp;<i><a href="m.htm#máffìinaamon">máffìinaamon</a></i>.&nbsp;
+&nbsp;to be real, true: &nbsp;<i><a href="m.htm#mafíhna">mafíhna</a></i>.&nbsp;
+&nbsp;to be real, the real thing: &nbsp;<i><a href="f.htm#fíhna">fíhna</a></i>.&nbsp;
+&nbsp;to seem real to, appear realistic to (as a hallucination): &nbsp;<i><a href="i2.htm#istimahooba">istimahooba</a></i>.&nbsp;
+<br><b>real estate agent</b>&nbsp;&nbsp;<i><a href="i1.htm#iisischòopa">iisischòopa</a></i>.&nbsp;
+<br><b>really</b>
+&nbsp;exactly, right, very, really: &nbsp;<i><a href="afx.htm#-fíhna">-fíhna</a></i>.&nbsp;
+&nbsp;really, very: &nbsp;<i><a href="afx.htm#-àapi">-àapi</a>, <a href="afx.htm#-palammi">-palammi</a>, <a href="afx.htm#-mooli">-mooli</a>, <a href="afx.htm#-yáali">-yáali</a></i>.&nbsp;
+&nbsp;very, really, a lot: &nbsp;<i><a href="f.htm#fíhna">fíhna</a></i>.&nbsp;
+<br><b>rear</b>
+&nbsp;buttocks: &nbsp;<i><a href="o.htm#oowasi">oowasi</a></i>.&nbsp;
+&nbsp;to raise, rear a child, bring up: &nbsp;<i><a href="c.htm#chobachi">chobachi</a></i>.&nbsp;
+<br><b>rebuild</b>
+&nbsp;to make like new, rebuild, renovate: &nbsp;<i><a href="p.htm#paahahpachi">paahahpachi</a>, <a href="h.htm#hahpachi">hahpachi</a></i>.&nbsp;
+<br><b>recede</b>
+&nbsp;to recede, dry up in several places: &nbsp;<i><a href="t.htm#topaaka">topaaka</a></i>.&nbsp;
+&nbsp;to recede (of floodwater), return to a normal level from a high (as weight): &nbsp;<i><a href="ll.htm#ɬoyli">ɬoyli</a></i>.&nbsp;
+&nbsp;to recede (of water) to a level lower than normal (as a creek in the summer), dry up (as a puddle), evaporate: &nbsp;<i><a href="t.htm#topatka">topatka</a></i>.&nbsp;
+<br><b>recently</b>&nbsp;&nbsp;<i><a href="o.htm#okíichòosiiko">okíichòosiiko</a></i>.&nbsp;
+<br><b>recognize</b>
+&nbsp;to recognize: &nbsp;<i><a href="s.htm#sobáayli">sobáayli</a></i>.&nbsp;
+&nbsp;to recognize something as belonging to someone: &nbsp;<i><a href="i1.htm#iⁿsobàayli">iⁿsobàayli</a></i>.&nbsp;
+<br><b>recommend</b>
+&nbsp;to recommend for: &nbsp;<i><a href="i2.htm#istimbanna">istimbanna</a></i>.&nbsp;
+&nbsp;to recommend (someone) to: &nbsp;<i><a href="i1.htm#imittinnaaɬiika">imittinnaaɬiika</a></i>.&nbsp;
+<br><b>recorder</b>
+&nbsp;taperecorder: &nbsp;<i><a href="n.htm#naaɬiilka paffichi">naaɬiilka paffichi</a>, <a href="o.htm#ochana naaɬiilka">ochana naaɬiilka</a>, <a href="o.htm#ochonanaaɬiilka">ochonanaaɬiilka</a></i>.&nbsp;
+<br><b>recover</b>
+&nbsp;to completely recover from an illness: &nbsp;<i><a href="i1.htm#inkanotanooka">inkanotanooka</a></i>.&nbsp;
+<br><b>rectangle</b>&nbsp;&nbsp;<i><a href="i1.htm#iⁿsakàmpa óstàaka">iⁿsakàmpa óstàaka</a></i>.&nbsp;
+<br><b>red</b>
+&nbsp;to be red: &nbsp;<i><a href="h.htm#homma">homma</a></i>.&nbsp;
+&nbsp;to be redder: &nbsp;<i><a href="h.htm#hóhma">hóhma</a></i>.&nbsp;
+&nbsp;to be reddish purple: &nbsp;<i><a href="o.htm#okchakkot hommakàhchi">okchakkot hommakàhchi</a></i>.&nbsp;
+&nbsp;to dye a shade of red, redden: &nbsp;<i><a href="h.htm#hommachi">hommachi</a></i>.&nbsp;
+<br><b>red ant</b>
+&nbsp;town ant, large red ant: &nbsp;<i><a href="i2.htm#iskaniyòossoba">iskaniyòossoba</a></i>.&nbsp;
+<br><b>redbay</b>&nbsp;&nbsp;<i><a href="i2.htm#ittoissikosòoma">ittoissikosòoma</a></i>.&nbsp;
+<br><b>red beans</b>&nbsp;&nbsp;<i><a href="c.htm#chastokhómma">chastokhómma</a></i>.&nbsp;
+<br><b>redbird</b>&nbsp;&nbsp;<i><a href="t.htm#tiskòmma">tiskòmma</a></i>.&nbsp;
+<br><b>redbud</b>&nbsp;&nbsp;<i><a href="t.htm#takkistàaya">takkistàaya</a></i>.&nbsp;
+<br><b>red bugs</b>&nbsp;&nbsp;<i><a href="w.htm#wancholàski">wancholàski</a></i>.&nbsp;
+<br><b>redcedar</b>&nbsp;&nbsp;<i><a href="c.htm#chowwaala">chowwaala</a></i>.&nbsp;
+<br><b>red crawfish</b>&nbsp;&nbsp;<i><a href="s.htm#sakchohomma">sakchohomma</a></i>.&nbsp;
+<br><b>red haw</b>&nbsp;&nbsp;<i><a href="c.htm#chittiɬhómmachoba">chittiɬhómmachoba</a>, <a href="c.htm#chittiɬhòmma">chittiɬhòmma</a></i>.&nbsp;
+<br><b>redheaded woodpecker</b>&nbsp;&nbsp;<i><a href="f.htm#fachala">fachala</a></i>.&nbsp;
+<br><b>red hot</b>
+&nbsp;to be red hot (of coals): &nbsp;<i><a href="i2.htm#itahomma">itahomma</a></i>.&nbsp;
+<br><b>red oak</b>&nbsp;&nbsp;<i><a href="b.htm#baya">baya</a>, <a href="a.htm#aalaana">aalaana</a></i>.&nbsp;
+<br><b>red-orange</b>
+&nbsp;to be red-orange, salmon-colored: &nbsp;<i><a href="h.htm#hommatík yalàahayáhchi">hommatík yalàahayáhchi</a></i>.&nbsp;
+<br><b>red-tailed hawk</b>&nbsp;&nbsp;<i><a href="h.htm#hachihomma">hachihomma</a></i>.&nbsp;
+<br><b>reduce</b>
+&nbsp;to reduce, lose weight (back to normal weight): &nbsp;<i><a href="i1.htm#iliiɬoylichi">iliiɬoylichi</a></i>.&nbsp;
+&nbsp;to try to get skinny, be on a reducing diet: &nbsp;<i><a href="i1.htm#iliisowiichi">iliisowiichi</a></i>.&nbsp;
+&nbsp;to cook (food) in liquid or oil and reduce or cook down: &nbsp;<i><a href="i2.htm#ispoyatlichi">ispoyatlichi</a></i>.&nbsp;
+<br><b>reed</b>&nbsp;&nbsp;<i><a href="i1.htm#iɬani">iɬani</a></i>.&nbsp;
+<br><b>reel</b>&nbsp;&nbsp;<i><a href="i2.htm#istapankachi">istapankachi</a></i>.&nbsp;
+&nbsp;fishing reel: &nbsp;<i><a href="i2.htm#istokwàyka istapankachi">istokwàyka istapankachi</a></i>.&nbsp;
+&nbsp;to reel in: &nbsp;<i><a href="a.htm#apànnichi">apànnichi</a></i>.&nbsp;
+<br><b>refill</b>
+&nbsp;to return to normal (of water level in a creek or lake) after having been completely dry from a drought: &nbsp;<i><a href="o.htm#oki aɬkatanooka">oki aɬkatanooka</a></i>.&nbsp;
+<br><b>reflect</b>
+&nbsp;to reflect off of something: &nbsp;<i><a href="a.htm#aɬaplichi">aɬaplichi</a></i>.&nbsp;
+&nbsp;to reflect off, shine off of (something at a distance): &nbsp;<i><a href="m.htm#maataɬaplichi">maataɬaplichi</a></i>.&nbsp;
+&nbsp;to be shiny (of a reflecting surface): &nbsp;<i><a href="t.htm#toobakaali">toobakaali</a></i>.&nbsp;
+<br><b>refrain</b>
+&nbsp;to cease an activity, refrain from doing, be still, be quiet: &nbsp;<i><a href="n.htm#nokchoba">nokchoba</a></i>.&nbsp;
+<br><b>refrigerator</b>&nbsp;&nbsp;<i><a href="i2.htm#iskasahkachi">iskasahkachi</a>, <a href="a.htm#aakasahka">aakasahka</a></i>.&nbsp;
+<br><b>refuse</b>
+&nbsp;to be disobedient, refuse to do something: &nbsp;<i><a href="i1.htm#immankíhcho">immankíhcho</a></i>.&nbsp;
+<br><b>regalia</b>
+&nbsp;dancing costume, regalia: &nbsp;<i><a href="i2.htm#isbitka">isbitka</a></i>.&nbsp;
+<br><b>regret</b>
+&nbsp;to be sorry for, be mournful, be apologetic, have regrets about, feel grief: &nbsp;<i><a href="i1.htm#imachiiba">imachiiba</a></i>.&nbsp;
+<br><b>regurgitate</b>
+&nbsp;to regurgitate (as a cow to chew cud): &nbsp;<i><a href="a.htm#atibòoli">atibòoli</a></i>.&nbsp;
+<br><b>rein</b>
+&nbsp;rein, tether: &nbsp;<i><a href="c.htm#chichoba istiⁿhalatilka">chichoba istiⁿhalatilka</a></i>.&nbsp;
+&nbsp;bridle, reins for a horse: &nbsp;<i><a href="c.htm#chichoba ichoohokfa">chichoba ichoohokfa</a></i>.&nbsp;
+&nbsp;to rein in: &nbsp;<i><a href="n.htm#nokchobaachi">nokchobaachi</a></i>.&nbsp;
+<br><b>reinjure</b>
+&nbsp;to reinjure oneself while trying to protect a wound: &nbsp;<i><a href="i2.htm#istoonahli">istoonahli</a></i>.&nbsp;
+&nbsp;to reinjure, make an injury worse (as when a hunter injures a deer, tracks it, then shoots it again): &nbsp;<i><a href="i2.htm#istimpaanahka">istimpaanahka</a></i>.&nbsp;
+&nbsp;to reinjure someone (on a part of the body): &nbsp;<i><a href="i2.htm#istimoonahli">istimoonahli</a></i>.&nbsp;
+<br><b>related</b>
+&nbsp;to be related to someone, kin to: &nbsp;<i><a href="i1.htm#imalahka1">imalahka<sup>1</sup></a></i>.&nbsp;
+<br><b>relative</b>
+&nbsp;relative, kin, ancestor: &nbsp;<i><a href="i1.htm#imalahka1">imalahka<sup>1</sup></a></i>.&nbsp;
+<br><b>relax</b>
+&nbsp;to be limber, loose, relaxed, flexible, slack: &nbsp;<i><a href="y.htm#yiɬohli">yiɬohli</a></i>.&nbsp;
+<br><b>release</b>
+&nbsp;to release let go of (something): &nbsp;<i><a href="f.htm#fayli">fayli</a>, <a href="f.htm#faayahli">faayahli</a>, <a href="f.htm#faayàali">faayàali</a></i>.&nbsp;
+&nbsp;to release (e.g. a trigger, jack, etc.): &nbsp;<i><a href="i1.htm#iⁿɬakoffichi">iⁿɬakoffichi</a></i>.&nbsp;
+<br><b>remain</b>
+&nbsp;to be left, be remaining: &nbsp;<i><a href="a.htm#alahka">alahka</a></i>.&nbsp;
+&nbsp;to leave remaining: &nbsp;<i><a href="a.htm#alahli">alahli</a></i>.&nbsp;
+<br><b>remainder</b>
+&nbsp;remains, leftovers, remainder: &nbsp;<i><a href="o.htm#ostalahka">ostalahka</a></i>.&nbsp;
+&nbsp;to be the remainder in division or subtraction: &nbsp;<i><a href="a.htm#alahka">alahka</a></i>.&nbsp;
+<br><b>remains</b>
+&nbsp;remains, leftovers: &nbsp;<i><a href="a.htm#alahka">alahka</a>, <a href="o.htm#ostalahka">ostalahka</a></i>.&nbsp;
+<br><b>remarry</b>
+&nbsp;to remarry (of a couple who separate and come back together): &nbsp;<i><a href="ll.htm#ɬoyli">ɬoyli</a></i>.&nbsp;
+<br><b>remember</b>
+&nbsp;to remember: &nbsp;<i><a href="s.htm#sómbàyli">sómbàyli</a></i>.&nbsp;
+&nbsp;to find out about, learn, perceive, remember: &nbsp;<i><a href="s.htm#sobàyli">sobàyli</a></i>.&nbsp;
+&nbsp;to not think about something, not remember: &nbsp;<i><a href="a.htm#akostiniitíkko">akostiniitíkko</a></i>.&nbsp;
+&nbsp;to think about someone in the context of something, remember someone: &nbsp;<i><a href="a.htm#akostínnìichi">akostínnìichi</a></i>.&nbsp;
+<br><b>remodel</b>
+&nbsp;to remodel (a building, etc.), repaint a different color: &nbsp;<i><a href="i2.htm#istimaɬahkachi">istimaɬahkachi</a></i>.&nbsp;
+<br><b>remove</b>
+&nbsp;to take off of, remove: &nbsp;<i><a href="o.htm#onayisi">onayisi</a></i>.&nbsp;
+&nbsp;to remove, cut off, or pull off (a limb) (especially in butchering): &nbsp;<i><a href="n.htm#nipaffi">nipaffi</a></i>.&nbsp;
+&nbsp;to remove from the throat: &nbsp;<i><a href="n.htm#nookoloffi">nookoloffi</a></i>.&nbsp;
+&nbsp;to remove from water, take out of water: &nbsp;<i><a href="o.htm#ooyaskahli">ooyaskahli</a></i>.&nbsp;
+&nbsp;to remove (objects) from the throat of a choking victim: &nbsp;<i><a href="m.htm#maanoopihli">maanoopihli</a></i>.&nbsp;
+&nbsp;to remove (one object) from a liquid, take out of a liquid: &nbsp;<i><a href="o.htm#ooyisi">ooyisi</a></i>.&nbsp;
+&nbsp;to remove tonsils: &nbsp;<i><a href="n.htm#nootaɬafka">nootaɬafka</a></i>.&nbsp;
+&nbsp;to choose, pick, remove: &nbsp;<i><a href="i2.htm#isi">isi</a></i>.&nbsp;
+&nbsp;to remove (an article of clothing) from, pull out (a tooth) for: &nbsp;<i><a href="i1.htm#iⁿsiipli">iⁿsiipli</a></i>.&nbsp;
+&nbsp;to remove hog jowls: &nbsp;<i><a href="n.htm#nootaɬafka">nootaɬafka</a></i>.&nbsp;
+&nbsp;to remove the outer layer from: &nbsp;<i><a href="s.htm#sokli">sokli</a>, <a href="i2.htm#issokli">issokli</a></i>.&nbsp;
+&nbsp;to remove by singeing: &nbsp;<i><a href="a.htm#asohli">asohli</a></i>.&nbsp;
+&nbsp;to take (more than one) away from, remove from, divide from: &nbsp;<i><a href="i1.htm#iⁿfilohli">iⁿfilohli</a></i>.&nbsp;
+&nbsp;to remove more than one article of clothing: &nbsp;<i><a href="i1.htm#iliisiihli">iliisiihli</a></i>.&nbsp;
+<br><b>rend</b>
+&nbsp;to tear apart, rend in two: &nbsp;<i><a href="b.htm#binaffi">binaffi</a></i>.&nbsp;
+<br><b>rendezvous</b>
+&nbsp;to meet at a certain place, rendezvous: &nbsp;<i><a href="i2.htm#ittanahka">ittanahka</a></i>.&nbsp;
+<br><b>renew</b>
+&nbsp;to be renewed (as a license): &nbsp;<i><a href="p.htm#paahahpa">paahahpa</a></i>.&nbsp;
+<br><b>renovate</b>
+&nbsp;to fix, repair, renovate: &nbsp;<i><a href="p.htm#paatalbòoli">paatalbòoli</a></i>.&nbsp;
+&nbsp;to make like new, rebuild, renovate: &nbsp;<i><a href="p.htm#paahahpachi">paahahpachi</a></i>.&nbsp;
+&nbsp;to be renovated, be made like new: &nbsp;<i><a href="p.htm#paahahpa">paahahpa</a></i>.&nbsp;
+<br><b>rental house</b>&nbsp;&nbsp;<i><a href="i1.htm#iisa onaɬka">iisa onaɬka</a></i>.&nbsp;
+<br><b>repair</b>
+&nbsp;to fix, repair, renovate: &nbsp;<i><a href="p.htm#paatalbòoli">paatalbòoli</a></i>.&nbsp;
+&nbsp;to repair (one object) for: &nbsp;<i><a href="i1.htm#intalbòoli">intalbòoli</a></i>.&nbsp;
+<br><b>repay</b>
+&nbsp;to repay, pay off (a debt): &nbsp;<i><a href="l.htm#labosli">labosli</a></i>.&nbsp;
+&nbsp;to pay (money) to, repay a debt to someone: &nbsp;<i><a href="i1.htm#imaltobaachi">imaltobaachi</a></i>.&nbsp;
+<br><b>replace</b>
+&nbsp;to take someone's place, trade places, replace (someone): &nbsp;<i><a href="a.htm#altoba">altoba</a></i>.&nbsp;
+<br><b>report</b>&nbsp;&nbsp;<i><a href="n.htm#naaɬiilka">naaɬiilka</a>, <a href="f.htm#fatka">fatka</a></i>.&nbsp;
+<br><b>reportedly</b>&nbsp;&nbsp;<i><a href="o.htm#onka1">onka<sup>1</sup></a></i>.&nbsp;
+<br><b>represent</b>
+&nbsp;to represent a constituency in office, hold (an official seat) (of one): &nbsp;<i><a href="i1.htm#inchokóoⁿli">inchokóoⁿli</a></i>.&nbsp;
+<br><b>representation</b>&nbsp;&nbsp;<i><a href="h.htm#holba">holba</a></i>.&nbsp;
+<br><b>reproach</b>
+&nbsp;to reproach for (something): &nbsp;<i><a href="i2.htm#istillikitka">istillikitka</a></i>.&nbsp;
+&nbsp;to scold, reproach: &nbsp;<i><a href="i1.htm#illikitka">illikitka</a></i>.&nbsp;
+<br><b>reptiles</b>
+&nbsp;snake: &nbsp;<i><a href="c.htm#chinto">chinto</a></i>.&nbsp;
+&nbsp;venomous snake: &nbsp;<i><a href="c.htm#chintokànko">chintokànko</a></i>.&nbsp;
+&nbsp;copperhead snake: &nbsp;<i><a href="a.htm#alba">alba</a></i>.&nbsp;
+&nbsp;coral snake: &nbsp;<i><a href="ll.htm#ɬáahistimilbacha">ɬáahistimilbacha</a></i>.&nbsp;
+&nbsp;water moccasin: &nbsp;<i><a href="o.htm#okifa chinto">okifa chinto</a>, <a href="h.htm#hiwa">hiwa</a>, <a href="h.htm#hiwachoba">hiwachoba</a></i>.&nbsp;
+&nbsp;rattlesnake: &nbsp;<i><a href="c.htm#chintochoba">chintochoba</a></i>.&nbsp;
+&nbsp;type of small ground rattler, rattlesnake: &nbsp;<i><a href="i1.htm#ihaanikosi">ihaanikosi</a></i>.&nbsp;
+&nbsp;type of small rattlesnake: &nbsp;<i><a href="c.htm#chikhito">chikhito</a>, <a href="c.htm#chintochoba iⁿsabàyyi">chintochoba iⁿsabàyyi</a></i>.&nbsp;
+&nbsp;species of green poisonous snake living near water: &nbsp;<i><a href="h.htm#hopohko">hopohko</a></i>.&nbsp;
+&nbsp;gopher snake, cobra, hognose snake?, `spreading adder': &nbsp;<i><a href="c.htm#chinto isbakpàtha">chinto isbakpàtha</a>, <a href="i2.htm#isbakpàtha">isbakpàtha</a>, <a href="c.htm#chintopatha">chintopatha</a></i>.&nbsp;
+&nbsp;garter snake: &nbsp;<i><a href="c.htm#chintokchákkosi">chintokchákkosi</a></i>.&nbsp;
+&nbsp;chicken snake: &nbsp;<i><a href="a.htm#abáksa">abáksa</a>, <a href="a.htm#abáksalocha">abáksalocha</a>, <a href="a.htm#abaksapàlki hatka">abaksapàlki hatka</a>, <a href="c.htm#chintopalki">chintopalki</a></i>.&nbsp;
+&nbsp;coachwhip snake: &nbsp;<i><a href="a.htm#abáksapàlki">abáksapàlki</a></i>.&nbsp;
+&nbsp;green snake (a small snake that climbs trees): &nbsp;<i><a href="c.htm#chintokchákkosi">chintokchákkosi</a></i>.&nbsp;
+&nbsp;harlequin snake, Mexican milk snake, coral snake, thunder snake: &nbsp;<i><a href="k.htm#kolkohkachinto">kolkohkachinto</a></i>.&nbsp;
+&nbsp;kingsnake (dark green and speckled, not poisonous, not near water): &nbsp;<i><a href="h.htm#hopohko">hopohko</a></i>.&nbsp;
+&nbsp;type of water snake: &nbsp;<i><a href="o.htm#okimoosi">okimoosi</a></i>.&nbsp;
+&nbsp;species of snake that is reputed to bite people on the nose: &nbsp;<i><a href="i1.htm#ibisaanbánna">ibisaanbánna</a></i>.&nbsp;
+&nbsp;alligator: &nbsp;<i><a href="h.htm#hachonchoba">hachonchoba</a></i>.&nbsp;
+&nbsp;lizard, chameleon, anole: &nbsp;<i><a href="h.htm#hanaabiya">hanaabiya</a></i>.&nbsp;
+&nbsp;anole lizard: &nbsp;<i><a href="h.htm#hanaabiya okchàkko">hanaabiya okchàkko</a></i>.&nbsp;
+&nbsp;horned lizard: &nbsp;<i><a href="h.htm#hanaabiya illapihchìisa">hanaabiya illapihchìisa</a></i>.&nbsp;
+&nbsp;kind of rough-skinned lizard: &nbsp;<i><a href="h.htm#hanaabiya pissíila">hanaabiya pissíila</a></i>.&nbsp;
+&nbsp;lesser earless lizard: &nbsp;<i><a href="p.htm#pissìila">pissìila</a></i>.&nbsp;
+&nbsp;lizard, poss. broad-headed lizard or five-lined lizard: &nbsp;<i><a href="h.htm#hanaabiya chómbo">hanaabiya chómbo</a></i>.&nbsp;
+&nbsp;northern prairie lizard: &nbsp;<i><a href="h.htm#hanaabiya pàlki">hanaabiya pàlki</a></i>.&nbsp;
+&nbsp;turtle: &nbsp;<i><a href="s.htm#satta">satta</a></i>.&nbsp;
+&nbsp;box turtle, esp. three-toed box turtle: &nbsp;<i><a href="s.htm#sattapolo">sattapolo</a></i>.&nbsp;
+&nbsp;large edible turtle, terrapin: &nbsp;<i><a href="h.htm#hachitakna">hachitakna</a></i>.&nbsp;
+&nbsp;soft-shelled turtle: &nbsp;<i><a href="h.htm#holaawa">holaawa</a></i>.&nbsp;
+&nbsp;terrapin, tortoise: &nbsp;<i><a href="s.htm#sattapolo">sattapolo</a></i>.&nbsp;
+&nbsp;type of water turtle (small but long): &nbsp;<i><a href="s.htm#sattabaski">sattabaski</a></i>.&nbsp;
+<br><b>request</b>
+&nbsp;to ask (a question), ask for, request: &nbsp;<i><a href="a.htm#ahaalo">ahaalo</a></i>.&nbsp;
+&nbsp;to ask for (something) from, beg of, request of: &nbsp;<i><a href="i1.htm#imahaalo">imahaalo</a></i>.&nbsp;
+<br><b>rescue</b>
+&nbsp;to be saved, rescued, safe: &nbsp;<i><a href="i1.htm#innihta">innihta</a></i>.&nbsp;
+<br><b>resemble</b>
+&nbsp;to resemble, look like: &nbsp;<i><a href="h.htm#hóolba">hóolba</a></i>.&nbsp;
+&nbsp;to look like each other, resemble each other: &nbsp;<i><a href="i2.htm#ittihólba">ittihólba</a>, <a href="i2.htm#ittimáali">ittimáali</a></i>.&nbsp;
+<br><b>reservation</b>
+&nbsp;Indian reservation: &nbsp;<i><a href="a.htm#aathòmma imìistilka">aathòmma imìistilka</a>, <a href="a.htm#aathòmma imoolachòoba">aathòmma imoolachòoba</a></i>.&nbsp;
+<br><b>resettle</b>
+&nbsp;to resettle, bring and place (more than one): &nbsp;<i><a href="i1.htm#ilchiili">ilchiili</a></i>.&nbsp;
+<br><b>residence</b>&nbsp;&nbsp;<i><a href="c.htm#chókkòoli">chókkòoli</a>, <a href="i1.htm#inchokòoka">inchokòoka</a>, <a href="i2.htm#iwwìilka">iwwìilka</a>, <a href="a.htm#alìtta">alìtta</a></i>.&nbsp;
+<br><b>resin</b>&nbsp;&nbsp;<i><a href="c.htm#choyyiniya">choyyiniya</a></i>.&nbsp;
+<br><b>respect</b>
+&nbsp;to look up to, respect, admire: &nbsp;<i><a href="i1.htm#innàaschóoba">innàaschóoba</a></i>.&nbsp;
+&nbsp;to treat with respect, value, not want anything to happen to: &nbsp;<i><a href="a.htm#ayyiho">ayyiho</a></i>.&nbsp;
+<br><b>respirate</b>
+&nbsp;to resuscitate, respirate, make breathe: &nbsp;<i><a href="h.htm#hifoslichi">hifoslichi</a></i>.&nbsp;
+<br><b>responsible</b>
+&nbsp;to be lazy, irresponsible, shiftless: &nbsp;<i><a href="h.htm#hobakchi">hobakchi</a></i>.&nbsp;
+<br><b>rest</b>
+&nbsp;to breathe, rest: &nbsp;<i><a href="h.htm#hifoska">hifoska</a></i>.&nbsp;
+&nbsp;to rest the head against, pillow the head on: &nbsp;<i><a href="a.htm#albakcho">albakcho</a></i>.&nbsp;
+&nbsp;to rest on (the elbows): &nbsp;<i><a href="p.htm#paahátchalìichi">paahátchalìichi</a></i>.&nbsp;
+<br><b>restaurant</b>&nbsp;&nbsp;<i><a href="a.htm#aataayòompa">aataayòompa</a></i>.&nbsp;
+<br><b>restraint</b>
+&nbsp;to untie (a restraint), unbutton (one button): &nbsp;<i><a href="s.htm#sitoffi">sitoffi</a></i>.&nbsp;
+<br><b>restroom</b>&nbsp;&nbsp;<i><a href="a.htm#aahoppolka">aahoppolka</a></i>.&nbsp;
+<br><b>resuscitate</b>
+&nbsp;to resuscitate, make breathe: &nbsp;<i><a href="h.htm#hifoslichi">hifoslichi</a></i>.&nbsp;
+<br><b>retaliate</b>
+&nbsp;to fight back, retaliate: &nbsp;<i><a href="m.htm#maatittibi">maatittibi</a></i>.&nbsp;
+&nbsp;to stand up to, retaliate, fight back when provoked, be testy, touchy: &nbsp;<i><a href="m.htm#maahoyoopa">maahoyoopa</a></i>.&nbsp;
+&nbsp;to turn on and fight, get after when provoked (as an animal when cornered), retaliate against: &nbsp;<i><a href="m.htm#maatiⁿhoyoopa">maatiⁿhoyoopa</a></i>.&nbsp;
+<br><b>retarded</b>
+&nbsp;to be retarded, mentally slow: &nbsp;<i><a href="k.htm#kostinka istimalpískòssi">kostinka istimalpískòssi</a></i>.&nbsp;
+<br><b>retirement home</b>&nbsp;&nbsp;<i><a href="a.htm#aathochòobimìistilka">aathochòobimìistilka</a></i>.&nbsp;
+<br><b>retract</b>
+&nbsp;to make enter, let in, retract (one object): &nbsp;<i><a href="c.htm#chokkaliilichi">chokkaliilichi</a></i>.&nbsp;
+<br><b>return</b>
+&nbsp;to return, retreat: &nbsp;<i><a href="ll.htm#ɬoyohka">ɬoyohka</a>, <a href="ll.htm#ɬoyka">ɬoyka</a></i>.&nbsp;
+&nbsp;to return here, come back here: &nbsp;<i><a href="ll.htm#ɬoykat ila">ɬoykat ila</a></i>.&nbsp;
+&nbsp;to return (one object): &nbsp;<i><a href="ll.htm#ɬoylichi">ɬoylichi</a></i>.&nbsp;
+&nbsp;to take back, return (something): &nbsp;<i><a href="ll.htm#ɬoylíichit istoɬa">ɬoylíichit istoɬa</a></i>.&nbsp;
+&nbsp;to return (something) to (as change at the store): &nbsp;<i><a href="i1.htm#iⁿɬoylichi">iⁿɬoylichi</a></i>.&nbsp;
+&nbsp;to return to normal (of water level in a creek or lake) after having been completely dry from a drought: &nbsp;<i><a href="o.htm#oki aɬkatanooka">oki aɬkatanooka</a></i>.&nbsp;
+<br><b>reveal</b>
+&nbsp;to show, reveal, make known, discover, find: &nbsp;<i><a href="m.htm#mottakiichi">mottakiichi</a></i>.&nbsp;
+<br><b>reverberate</b>
+&nbsp;to reverberate (from an explosion): &nbsp;<i><a href="i1.htm#ilkowàalichi">ilkowàalichi</a></i>.&nbsp;
+<br><b>reverse</b>
+&nbsp;to drive in reverse, back a vehicle (of one): &nbsp;<i><a href="i2.htm#istibakhititli">istibakhititli</a></i>.&nbsp;
+<br><b>revive</b>
+&nbsp;to revive, make breathe: &nbsp;<i><a href="h.htm#hifoslichi">hifoslichi</a></i>.&nbsp;
+&nbsp;to shake someone to revive from fainting: &nbsp;<i><a href="i1.htm#ilkowàalichi">ilkowàalichi</a></i>.&nbsp;
+<br><b>revolve</b>
+&nbsp;to revolve, rotate, be winding: &nbsp;<i><a href="h.htm#haatanahli">haatanahli</a></i>.&nbsp;
+<br><b>rewrite</b>
+&nbsp;to rewrite: &nbsp;<i><a href="p.htm#paahossochi">paahossochi</a></i>.&nbsp;
+<br><b>rib</b>&nbsp;&nbsp;<i><a href="n.htm#nakchi">nakchi</a></i>.&nbsp;
+&nbsp;spare ribs, pork ribs: &nbsp;<i><a href="s.htm#sokhanakchi">sokhanakchi</a></i>.&nbsp;
+<br><b>ribbon</b>&nbsp;&nbsp;<i><a href="b.htm#bachaaka">bachaaka</a>, <a href="b.htm#bachaktapaski">bachaktapaski</a></i>.&nbsp;
+<br><b>rice</b>&nbsp;&nbsp;<i><a href="o.htm#onosi">onosi</a></i>.&nbsp;
+&nbsp;any food such as rice or grits that absorbs water as it is cooked: &nbsp;<i><a href="a.htm#asolotka">asolotka</a></i>.&nbsp;
+&nbsp;rice sofkey: &nbsp;<i><a href="o.htm#onosi hoɬka">onosi hoɬka</a></i>.&nbsp;
+<br><b>rice cutter</b>&nbsp;&nbsp;<i><a href="o.htm#onosikoloffi">onosikoloffi</a></i>.&nbsp;
+<br><b>rich</b>
+&nbsp;rich person, wealthy person: &nbsp;<i><a href="a.htm#aatisnáaho">aatisnáaho</a></i>.&nbsp;
+&nbsp;to be rich: &nbsp;<i><a href="t.htm#toknaawinchoba">toknaawinchoba</a>, <a href="i2.htm#isnáaho">isnáaho</a></i>.&nbsp;
+<br><b>rid</b>
+&nbsp;to get rid of, lose (one object): &nbsp;<i><a href="w.htm#wasatli">wasatli</a></i>.&nbsp;
+&nbsp;to lose, get rid of (one object), make someone leave: &nbsp;<i><a href="n.htm#nakaɬaachi">nakaɬaachi</a></i>.&nbsp;
+<br><b>ride</b>
+&nbsp;a ride, riding (in a vehicle): &nbsp;<i><a href="h.htm#holikfa">holikfa</a></i>.&nbsp;
+&nbsp;to be on board, ride in (a vehicle) (of more than one): &nbsp;<i><a href="a.htm#aɬka">aɬka</a></i>.&nbsp;
+&nbsp;to board, ride in (a vehicle) (of one): &nbsp;<i><a href="h.htm#hokfa">hokfa</a></i>.&nbsp;
+&nbsp;to ride (a horse), ride in a car: &nbsp;<i><a href="p.htm#paachókkòoli">paachókkòoli</a>, <a href="p.htm#paachókkòoli">paachókkòoli</a>, <a href="p.htm#paachíkkìika">paachíkkìika</a></i>.&nbsp;
+&nbsp;to ride in (someone's vehicle), get a lift from (of one): &nbsp;<i><a href="i1.htm#iⁿhokfa">iⁿhokfa</a></i>.&nbsp;
+&nbsp;to ride with (in someone's vehicle): &nbsp;<i><a href="i1.htm#imaɬka">imaɬka</a>, <a href="i1.htm#imalpitta">imalpitta</a></i>.&nbsp;
+<br><b>ridicule</b>
+&nbsp;to laugh at, ridicule, tease: &nbsp;<i><a href="a.htm#afaalichi">afaalichi</a></i>.&nbsp;
+&nbsp;to be laughed at, ridiculed: &nbsp;<i><a href="a.htm#afaakachi">afaakachi</a></i>.&nbsp;
+<br><b>riffle</b>
+&nbsp;to flip through (a book), riffle (pages): &nbsp;<i><a href="f.htm#fakohlichi">fakohlichi</a></i>.&nbsp;
+<br><b>rifle</b>&nbsp;&nbsp;<i><a href="b.htm#bihi2">bihi<sup>2</sup></a></i>.&nbsp;
+&nbsp;thirty-thirty rifle, thirty-aught-six rifle, shotgun: &nbsp;<i><a href="b.htm#bihichoba2">bihichoba<sup>2</sup></a></i>.&nbsp;
+&nbsp;twenty-two caliber rifle: &nbsp;<i><a href="b.htm#bihosi">bihosi</a></i>.&nbsp;
+<br><b>rig</b>
+&nbsp;oil well drilling rig: &nbsp;<i><a href="a.htm#apalokchi istiⁿsafka">apalokchi istiⁿsafka</a></i>.&nbsp;
+<br><b>right</b>
+&nbsp;exactly, right, very, really: &nbsp;<i><a href="afx.htm#-fíhna">-fíhna</a></i>.&nbsp;
+&nbsp;all right, okay: &nbsp;<i><a href="i1.htm#inna">inna</a>, <a href="i1.htm#inta">inta</a></i>.&nbsp;
+&nbsp;that's right: &nbsp;<i><a href="a.htm#alíila">alíila</a></i>.&nbsp;
+&nbsp;right hand: &nbsp;<i><a href="n.htm#nàasi istinnahotilkafìina ilbi">nàasi istinnahotilkafìina ilbi</a></i>.&nbsp;
+&nbsp;right side: &nbsp;<i><a href="i2.htm#ismaakáakataɬɬa">ismaakáakataɬɬa</a></i>.&nbsp;
+&nbsp;to be right, correct: &nbsp;<i><a href="i1.htm#immooli">immooli</a></i>.&nbsp;
+&nbsp;to be right, correct, perfect, righteous (of a situation or thing): &nbsp;<i><a href="m.htm#máali2">máali<sup>2</sup></a></i>.&nbsp;
+&nbsp;to be good for someone, all right for: &nbsp;<i><a href="i1.htm#inkano">inkano</a></i>.&nbsp;
+&nbsp;to be not exactly right: &nbsp;<i><a href="m.htm#máalitíkkokáhmi">máalitíkkokáhmi</a></i>.&nbsp;
+&nbsp;to be right about (something in particular), choose the right one: &nbsp;<i><a href="i2.htm#istimmáalo">istimmáalo</a></i>.&nbsp;
+&nbsp;to do something right, do correctly: &nbsp;<i><a href="m.htm#máalìichi">máalìichi</a></i>.&nbsp;
+&nbsp;to be well, all right, feel better: &nbsp;<i><a href="k.htm#kàano">kàano</a></i>.&nbsp;
+&nbsp;to in one's right mind, to know right from wrong: &nbsp;<i><a href="k.htm#kostíini">kostíini</a></i>.&nbsp;
+&nbsp;to be right (as opposed to left or wrong), correct, proper (of a person): &nbsp;<i><a href="i1.htm#immáali">immáali</a></i>.&nbsp;
+&nbsp;to use the right hand: &nbsp;<i><a href="m.htm#mafíinamon">mafíinamon</a></i>.&nbsp;
+<br><b>right here</b>&nbsp;&nbsp;<i><a href="y.htm#yàali">yàali</a></i>.&nbsp;
+<br><b>rights</b>
+&nbsp;to have the right to inherit property: &nbsp;<i><a href="i1.htm#ilahállatka">ilahállatka</a></i>.&nbsp;
+&nbsp;to be one's right to inherit: &nbsp;<i><a href="i1.htm#imilahállatka">imilahállatka</a></i>.&nbsp;
+&nbsp;to inherit, hold title (to land), hold rights (to land): &nbsp;<i><a href="t.htm#támbatka">támbatka</a></i>.&nbsp;
+<br><b>right side out</b>
+&nbsp;to turn right side out, flip over (one object): &nbsp;<i><a href="i2.htm#ittafilimmi">ittafilimmi</a></i>.&nbsp;
+<br><b>rim</b>&nbsp;&nbsp;<i><a href="a.htm#aɬíhchi">aɬíhchi</a>, <a href="a.htm#aɬíhchòosi">aɬíhchòosi</a>, <a href="i1.htm#ibítto">ibítto</a></i>.&nbsp;
+&nbsp;to be chipped (on the rim or edge): &nbsp;<i><a href="i1.htm#ichoonachofka">ichoonachofka</a></i>.&nbsp;
+&nbsp;to bend the rim, edge, or mouth of: &nbsp;<i><a href="i1.htm#ichoopayìili">ichoopayìili</a>, <a href="i1.htm#ichoopáyyìili">ichoopáyyìili</a></i>.&nbsp;
+<br><b>ring</b>
+&nbsp;finger ring: &nbsp;<i><a href="i1.htm#ilbihokfa">ilbihokfa</a></i>.&nbsp;
+&nbsp;earring: &nbsp;<i><a href="h.htm#hakchatakka">hakchatakka</a></i>.&nbsp;
+&nbsp;for the moon or sun to have a halo or ring around it, caused by clouds: &nbsp;<i><a href="i1.htm#intalli1">intalli<sup>1</sup></a></i>.&nbsp;
+&nbsp;ringing of the ear: &nbsp;<i><a href="i1.htm#iⁿsamàayatilka">iⁿsamàayatilka</a></i>.&nbsp;
+&nbsp;ring, the sound of a bell: &nbsp;<i><a href="k.htm#kamàaya">kamàaya</a></i>.&nbsp;
+&nbsp;to be circular, ringlike, round: &nbsp;<i><a href="b.htm#bolokta">bolokta</a></i>.&nbsp;
+&nbsp;to clang, ring, bang (of metal objects): &nbsp;<i><a href="c.htm#chamàaya">chamàaya</a></i>.&nbsp;
+&nbsp;to ring (of the ears): &nbsp;<i><a href="s.htm#samàaya">samàaya</a></i>.&nbsp;
+&nbsp;to ring (of the telephone): &nbsp;<i><a href="m.htm#maatolaachi">maatolaachi</a></i>.&nbsp;
+&nbsp;to make a ringing noise, clank, clatter: &nbsp;<i><a href="c.htm#chamàalichi">chamàalichi</a></i>.&nbsp;
+&nbsp;to play (a musical instrument), ring (a bell): &nbsp;<i><a href="o.htm#olaachi">olaachi</a></i>.&nbsp;
+&nbsp;to have one's ears ring: &nbsp;<i><a href="i1.htm#iⁿsamàaya">iⁿsamàaya</a></i>.&nbsp;
+&nbsp;to make someone's ears ring: &nbsp;<i><a href="i1.htm#iⁿsamàalichi">iⁿsamàalichi</a></i>.&nbsp;
+&nbsp;to be unable to hear because the ears are ringing: &nbsp;<i><a href="w.htm#woomaapa">woomaapa</a></i>.&nbsp;
+<br><b>ring finger</b>&nbsp;&nbsp;<i><a href="i1.htm#ilbihókkìita hachàalistatòkla">ilbihókkìita hachàalistatòkla</a>, <a href="i1.htm#ilbochòosi istatòkla">ilbochòosi istatòkla</a></i>.&nbsp;
+<br><b>ring-tailed cat</b>&nbsp;&nbsp;<i><a href="k.htm#katimaɬatli">katimaɬatli</a></i>.&nbsp;
+<br><b>rinse</b>
+&nbsp;hair rinse: &nbsp;<i><a href="h.htm#hissistaasihka">hissistaasihka</a></i>.&nbsp;
+&nbsp;to rinse: &nbsp;<i><a href="p.htm#paayaasihli">paayaasihli</a></i>.&nbsp;
+&nbsp;to brush one's teeth, rinse with mouthwash: &nbsp;<i><a href="i1.htm#ilichooyaasihli">ilichooyaasihli</a></i>.&nbsp;
+<br><b>rip</b>
+&nbsp;to rip apart, tear (as clothing): &nbsp;<i><a href="i2.htm#istintipli">istintipli</a></i>.&nbsp;
+&nbsp;to rip (of a seam in one's clothing): &nbsp;<i><a href="i2.htm#istimootipka">istimootipka</a></i>.&nbsp;
+&nbsp;to rip out a seam or hem (of a garment): &nbsp;<i><a href="i2.htm#istiⁿsihlichi">istiⁿsihlichi</a></i>.&nbsp;
+&nbsp;to be ripped open in more than one place, rip apart, come undone from, be torn apart: &nbsp;<i><a href="i2.htm#istintipka">istintipka</a></i>.&nbsp;
+&nbsp;to be split in two, be ripped, broken in two: &nbsp;<i><a href="i2.htm#ittapaɬatka">ittapaɬatka</a></i>.&nbsp;
+&nbsp;to have (something) rip apart or tear open, have (clothing) come undone: &nbsp;<i><a href="i2.htm#istimintipka">istimintipka</a></i>.&nbsp;
+&nbsp;to have a seam rip out, come unraveled: &nbsp;<i><a href="i2.htm#istiⁿsihkachi">istiⁿsihkachi</a></i>.&nbsp;
+<br><b>ripe</b>
+&nbsp;to be ripe, mature, mellow (e.g. of fruit), ready to harvest: &nbsp;<i><a href="w.htm#waaya">waaya</a></i>.&nbsp;
+&nbsp;to be soft (of food), overripe, overdone, bruised (of fruit): &nbsp;<i><a href="ll.htm#ɬiboska">ɬiboska</a></i>.&nbsp;
+&nbsp;to be tender (as of ripe fruit, young shoots or young animals): &nbsp;<i><a href="w.htm#walwaki">walwaki</a>, <a href="w.htm#walwáakòosi">walwáakòosi</a></i>.&nbsp;
+&nbsp;to be very ripe, fully mature, still very tender (of vegetation): &nbsp;<i><a href="w.htm#walwáaki">walwáaki</a></i>.&nbsp;
+&nbsp;to ripen (of corn), turn brown (of corn tassels): &nbsp;<i><a href="a.htm#alabosli">alabosli</a></i>.&nbsp;
+<br><b>ripple</b>
+&nbsp;to ripple, shimmer: &nbsp;<i><a href="l.htm#limliki">limliki</a></i>.&nbsp;
+<br><b>rise</b>
+&nbsp;risen cream: &nbsp;<i><a href="w.htm#waakimpisi imokpalàali">waakimpisi imokpalàali</a></i>.&nbsp;
+&nbsp;for dust to rise in a cloud: &nbsp;<i><a href="b.htm#boyòoli">boyòoli</a></i>.&nbsp;
+&nbsp;to ascend, rise, take off (as an airplane), go up: &nbsp;<i><a href="a.htm#abahlichi">abahlichi</a></i>.&nbsp;
+&nbsp;to swell, be swollen, rise: &nbsp;<i><a href="s.htm#sofohli">sofohli</a></i>.&nbsp;
+&nbsp;to come up, rise (of the sun): &nbsp;<i><a href="a.htm#assaliika">assaliika</a>, <a href="m.htm#maatassaliika">maatassaliika</a></i>.&nbsp;
+&nbsp;to finally manage to have something (e.g. bread) rise or swell: &nbsp;<i><a href="i1.htm#iⁿsofohli">iⁿsofohli</a>, <a href="i1.htm#imabahli">imabahli</a></i>.&nbsp;
+&nbsp;to make rise, cause to swell: &nbsp;<i><a href="s.htm#sofohlichi">sofohlichi</a></i>.&nbsp;
+<br><b>river</b>
+&nbsp;river, esp. the Trinity River: &nbsp;<i><a href="p.htm#pahnichoba">pahnichoba</a></i>.&nbsp;
+&nbsp;Neches River: &nbsp;<i><a href="n.htm#Nìichi">Nìichi</a></i>.&nbsp;
+&nbsp;Sabine River: &nbsp;<i><a href="s.htm#Sabìina">Sabìina</a>, <a href="s.htm#Sabìnka">Sabìnka</a></i>.&nbsp;
+<br><b>river bank</b>&nbsp;&nbsp;<i><a href="p.htm#paanilapaalika">paanilapaalika</a></i>.&nbsp;
+<br><b>river bend</b>&nbsp;&nbsp;<i><a href="o.htm#okihaatanatli">okihaatanatli</a></i>.&nbsp;
+<br><b>river cane</b>&nbsp;&nbsp;<i><a href="i1.htm#iɬani">iɬani</a></i>.&nbsp;
+<br><b>river rapids</b>&nbsp;&nbsp;<i><a href="o.htm#okipalki">okipalki</a>, <a href="o.htm#okiyanatli palki">okiyanatli palki</a></i>.&nbsp;
+<br><b>road</b>&nbsp;&nbsp;<i><a href="h.htm#hini">hini</a></i>.&nbsp;
+&nbsp;asphalt, blacktop road: &nbsp;<i><a href="h.htm#hinilocha">hinilocha</a></i>.&nbsp;
+&nbsp;crossroad: &nbsp;<i><a href="h.htm#hini ittabanatli">hini ittabanatli</a></i>.&nbsp;
+&nbsp;crossroads: &nbsp;<i><a href="h.htm#hini ittabanàaka">hini ittabanàaka</a></i>.&nbsp;
+&nbsp;narrow road: &nbsp;<i><a href="h.htm#hinipakítho">hinipakítho</a></i>.&nbsp;
+&nbsp;narrow road, alley: &nbsp;<i><a href="h.htm#hiniɬibaata">hiniɬibaata</a></i>.&nbsp;
+&nbsp;paved road, blacktop road: &nbsp;<i><a href="h.htm#hinipaawanha">hinipaawanha</a></i>.&nbsp;
+&nbsp;road or stream that forks and splits off, side road: &nbsp;<i><a href="f.htm#filanka1">filanka<sup>1</sup></a></i>.&nbsp;
+&nbsp;wagon road, country road, unpaved road: &nbsp;<i><a href="t.htm#tissanaha iⁿhini">tissanaha iⁿhini</a></i>.&nbsp;
+<br><b>road block</b>&nbsp;&nbsp;<i><a href="a.htm#ataaka">ataaka</a></i>.&nbsp;
+<br><b>road map</b>&nbsp;&nbsp;<i><a href="h.htm#hinifatli">hinifatli</a></i>.&nbsp;
+<br><b>roadrunner</b>&nbsp;&nbsp;<i><a href="f.htm#foospalki">foospalki</a></i>.&nbsp;
+<br><b>road sign</b>&nbsp;&nbsp;<i><a href="h.htm#hinifatli">hinifatli</a></i>.&nbsp;
+<br><b>roast</b>
+&nbsp;roast, barbecue: &nbsp;<i><a href="a.htm#aboska">aboska</a></i>.&nbsp;
+&nbsp;roasting ears, boiled corn: &nbsp;<i><a href="c.htm#chassifilakchi">chassifilakchi</a></i>.&nbsp;
+&nbsp;to roast: &nbsp;<i><a href="a.htm#apayli">apayli</a></i>.&nbsp;
+&nbsp;to barbecue, grill over a fire, roast: &nbsp;<i><a href="a.htm#abosli">abosli</a>, <a href="i2.htm#italahpachi">italahpachi</a>, <a href="i2.htm#itayikbachi">itayikbachi</a></i>.&nbsp;
+&nbsp;to parch corn, roast corn: &nbsp;<i><a href="c.htm#chassapayli">chassapayli</a></i>.&nbsp;
+&nbsp;to roast or parch, dry out by fire, smoke (meat) to make jerky: &nbsp;<i><a href="i2.htm#itasolotli">itasolotli</a></i>.&nbsp;
+&nbsp;to be roasted, parched, fried: &nbsp;<i><a href="a.htm#apayka">apayka</a></i>.&nbsp;
+<br><b>robin</b>&nbsp;&nbsp;<i><a href="c.htm#chíiskokko">chíiskokko</a>, <a href="t.htm#tiskòmma">tiskòmma</a></i>.&nbsp;
+&nbsp;the sound a robin makes: &nbsp;<i><a href="c.htm#chíiskokoko">chíiskokoko</a></i>.&nbsp;
+&nbsp;sound made by a tiskòmma (robin or cardinal): &nbsp;<i><a href="t.htm#tististis">tististis</a></i>.&nbsp;
+<br><b>rock</b>&nbsp;&nbsp;<i><a href="t.htm#tali">tali</a></i>.&nbsp;
+&nbsp;to rock, swing (somebody) in: &nbsp;<i><a href="i2.htm#iswinàalichi">iswinàalichi</a></i>.&nbsp;
+&nbsp;to shake (once), jar, jerk, rock (one time): &nbsp;<i><a href="w.htm#winotlichi">winotlichi</a></i>.&nbsp;
+&nbsp;to shake repeatedly, rock (e.g. a baby): &nbsp;<i><a href="w.htm#winòolichi">winòolichi</a></i>.&nbsp;
+&nbsp;to swing on (something), rock (in something): &nbsp;<i><a href="i2.htm#iswinàali">iswinàali</a></i>.&nbsp;
+<br><b>rocket</b>
+&nbsp;shooting a gun, rocket, etc.: &nbsp;<i><a href="o.htm#onahotcha">onahotcha</a></i>.&nbsp;
+<br><b>rocking chair</b>&nbsp;&nbsp;<i><a href="p.htm#paachokòoka iswinàaka">paachokòoka iswinàaka</a></i>.&nbsp;
+<br><b>Rock Town, Texas</b>&nbsp;&nbsp;<i><a href="t.htm#Talòola">Talòola</a></i>.&nbsp;
+<br><b>rod</b>
+&nbsp;fishing rod: &nbsp;<i><a href="ll.htm#ɬaɬistimokwayka">ɬaɬistimokwayka</a></i>.&nbsp;
+<br><b>rod and reel</b>&nbsp;&nbsp;<i><a href="i2.htm#istimoohompani">istimoohompani</a></i>.&nbsp;
+<br><b>roll</b>
+&nbsp;to roll once: &nbsp;<i><a href="t.htm#tonotli">tonotli</a></i>.&nbsp;
+&nbsp;to roll (one thing): &nbsp;<i><a href="t.htm#tonotlichi">tonotlichi</a></i>.&nbsp;
+&nbsp;to roll (repeatedly), roll over and over: &nbsp;<i><a href="t.htm#tonòoli">tonòoli</a></i>.&nbsp;
+&nbsp;to roll (as a wheel): &nbsp;<i><a href="i1.htm#intonòoli">intonòoli</a></i>.&nbsp;
+&nbsp;to roll a cigarette: &nbsp;<i><a href="h.htm#hakchomma atannichi">hakchomma atannichi</a></i>.&nbsp;
+&nbsp;to roll down from the bank toward the water (of one): &nbsp;<i><a href="o.htm#ootonotli">ootonotli</a></i>.&nbsp;
+&nbsp;to roll (one object) into a mound as for planting, mound: &nbsp;<i><a href="b.htm#bonotli">bonotli</a></i>.&nbsp;
+&nbsp;to roll (a car) by accident (of one): &nbsp;<i><a href="i2.htm#istafilinka">istafilinka</a></i>.&nbsp;
+&nbsp;to fold more than once, wind up, coil up, roll up: &nbsp;<i><a href="t.htm#tànnichi">tànnichi</a></i>.&nbsp;
+&nbsp;to make little mounds (for planting), roll into balls: &nbsp;<i><a href="b.htm#bonnichi">bonnichi</a></i>.&nbsp;
+<br><b>rolling</b>
+&nbsp;to be rolling (of land), hilly, lumpy: &nbsp;<i><a href="b.htm#bokboki">bokboki</a></i>.&nbsp;
+<br><b>roll over</b>
+&nbsp;to turn over, roll over repeatedly: &nbsp;<i><a href="i2.htm#ittafìlkachi">ittafìlkachi</a></i>.&nbsp;
+&nbsp;to be turned over, turned inside out, be rolled over (of one): &nbsp;<i><a href="i2.htm#ittafilinka1">ittafilinka<sup>1</sup></a></i>.&nbsp;
+<br><b>roll up</b>
+&nbsp;to roll up: &nbsp;<i><a href="b.htm#bonotli">bonotli</a>, <a href="p.htm#pakohlichi">pakohlichi</a></i>.&nbsp;
+&nbsp;to roll up (sleeves), turn right side out (more than one): &nbsp;<i><a href="i2.htm#ittafillichi">ittafillichi</a></i>.&nbsp;
+<br><b>roof</b>&nbsp;&nbsp;<i><a href="i1.htm#iisapaatalka">iisapaatalka</a></i>.&nbsp;
+&nbsp;roof of mouth: &nbsp;<i><a href="n.htm#noktakba">noktakba</a></i>.&nbsp;
+&nbsp;to roof (a house): &nbsp;<i><a href="a.htm#aɬipìili">aɬipìili</a></i>.&nbsp;
+<br><b>roofer</b>&nbsp;&nbsp;<i><a href="i1.htm#iisapaatàlli">iisapaatàlli</a></i>.&nbsp;
+<br><b>room</b>&nbsp;&nbsp;<i><a href="i1.htm#iisa atipkachi">iisa atipkachi</a>, <a href="i1.htm#iisa ittatipkachi">iisa ittatipkachi</a>, <a href="i1.htm#iishayo">iishayo</a>, <a href="a.htm#atipkachi">atipkachi</a>, <a href="i2.htm#ittatipkachi">ittatipkachi</a></i>.&nbsp;
+&nbsp;bathroom, outhouse, restroom: &nbsp;<i><a href="a.htm#aahoppolka">aahoppolka</a>, <a href="m.htm#maataaɬoyhilka">maataaɬoyhilka</a>, <a href="a.htm#aaɬoyhilka">aaɬoyhilka</a></i>.&nbsp;
+&nbsp;bedroom: &nbsp;<i><a href="a.htm#aabalàilka">aabalàilka</a>, <a href="a.htm#aayinnochi">aayinnochi</a></i>.&nbsp;
+&nbsp;living room, den: &nbsp;<i><a href="a.htm#aayìistilka">aayìistilka</a></i>.&nbsp;
+&nbsp;dining room: &nbsp;<i><a href="a.htm#aayoolìmpa">aayoolìmpa</a></i>.&nbsp;
+&nbsp;barn, shed, tack room: &nbsp;<i><a href="a.htm#aba">aba</a></i>.&nbsp;
+&nbsp;to partition, make a room by putting up a partition: &nbsp;<i><a href="a.htm#atipasli">atipasli</a></i>.&nbsp;
+<br><b>roost</b>&nbsp;&nbsp;<i><a href="a.htm#akaaka imiisa">akaaka imiisa</a></i>.&nbsp;
+&nbsp;to roost: &nbsp;<i><a href="p.htm#paanochi">paanochi</a></i>.&nbsp;
+&nbsp;to sit down, settle, roost (of a few): &nbsp;<i><a href="c.htm#chikìika">chikìika</a></i>.&nbsp;
+<br><b>rooster</b>&nbsp;&nbsp;<i><a href="a.htm#akaakchòoba">akaakchòoba</a></i>.&nbsp;
+<br><b>root</b>
+&nbsp;root, tree stump: &nbsp;<i><a href="a.htm#assikchi">assikchi</a>, <a href="i2.htm#ittassikchi">ittassikchi</a></i>.&nbsp;
+&nbsp;pine base or root: &nbsp;<i><a href="c.htm#choyyiyikchi">choyyiyikchi</a>, <a href="c.htm#choyyassikchi">choyyassikchi</a></i>.&nbsp;
+&nbsp;hardwood tree root or base: &nbsp;<i><a href="i2.htm#ittoyíkchi">ittoyíkchi</a></i>.&nbsp;
+&nbsp;to send out roots or shoots: &nbsp;<i><a href="o.htm#oncholha">oncholha</a></i>.&nbsp;
+<br><b>root cellar</b>&nbsp;&nbsp;<i><a href="a.htm#abasi">abasi</a></i>.&nbsp;
+<br><b>root up</b>
+&nbsp;to root up (e.g. of a hog or armadillo), root around: &nbsp;<i><a href="w.htm#wòolichi">wòolichi</a></i>.&nbsp;
+<br><b>rope</b>&nbsp;&nbsp;<i><a href="t.htm#talikcho">talikcho</a>, <a href="b.htm#baksa">baksa</a></i>.&nbsp;
+&nbsp;knot (in a rope): &nbsp;<i><a href="t.htm#talikchoyaasikopka">talikchoyaasikopka</a></i>.&nbsp;
+&nbsp;to rope: &nbsp;<i><a href="t.htm#takcho">takcho</a></i>.&nbsp;
+&nbsp;to be roped, tied with rope: &nbsp;<i><a href="t.htm#talikcho">talikcho</a></i>.&nbsp;
+<br><b>rope tree</b>&nbsp;&nbsp;<i><a href="i2.htm#ittobaksa">ittobaksa</a>, <a href="i2.htm#ittotalikcho">ittotalikcho</a>, <a href="b.htm#baksahachi">baksahachi</a></i>.&nbsp;
+<br><b>rose</b>&nbsp;&nbsp;<i><a href="b.htm#bakchopakaali">bakchopakaali</a></i>.&nbsp;
+&nbsp;to be hot pink or rose colored, turn pink: &nbsp;<i><a href="h.htm#hatkáabòosi">hatkáabòosi</a></i>.&nbsp;
+<br><b>rot</b>
+&nbsp;just sit there and rot!: &nbsp;<i><a href="c.htm#chókkòolit tosbi">chókkòolit tosbi</a></i>.&nbsp;
+&nbsp;to rot, die (of plants): &nbsp;<i><a href="t.htm#tosbi">tosbi</a></i>.&nbsp;
+&nbsp;to be decayed, rotten, dried up (e.g. of nut meat): &nbsp;<i><a href="h.htm#haɬbi">haɬbi</a></i>.&nbsp;
+&nbsp;to be dead for some time and beginning to rot (of animals): &nbsp;<i><a href="h.htm#hapka1">hapka<sup>1</sup></a></i>.&nbsp;
+&nbsp;to be rotten, decaying, dead (of vegetation): &nbsp;<i><a href="h.htm#hapko">hapko</a></i>.&nbsp;
+&nbsp;to be turning rotten, beginning to go bad: &nbsp;<i><a href="t.htm#tòosbi">tòosbi</a></i>.&nbsp;
+<br><b>rotate</b>
+&nbsp;to spin, revolve, rotate, be winding: &nbsp;<i><a href="h.htm#haatanahli">haatanahli</a></i>.&nbsp;
+&nbsp;to turn around once, make a 180-360 degree turn, rotate: &nbsp;<i><a href="h.htm#haatanatli">haatanatli</a></i>.&nbsp;
+&nbsp;to turn (something) around once, rotate: &nbsp;<i><a href="h.htm#haatanatlichi">haatanatlichi</a></i>.&nbsp;
+<br><b>rotten</b>
+&nbsp;to be bad, evil, rotten, worthless: &nbsp;<i><a href="k.htm#kànko">kànko</a></i>.&nbsp;
+<br><b>rouge</b>
+&nbsp;to apply (rouge or blusher): &nbsp;<i><a href="i1.htm#ilibiihommachi">ilibiihommachi</a></i>.&nbsp;
+<br><b>rough</b>
+&nbsp;roughness, coarseness: &nbsp;<i><a href="c.htm#chakaawatilka">chakaawatilka</a></i>.&nbsp;
+&nbsp;to be rough, bumpy, coarse in texture: &nbsp;<i><a href="c.htm#chakaawa">chakaawa</a>, <a href="p.htm#paɬakna">paɬakna</a></i>.&nbsp;
+&nbsp;to be rough (e.g. of a road): &nbsp;<i><a href="a.htm#álpìisa">álpìisa</a></i>.&nbsp;
+&nbsp;to be choppy (of water), rough (of water): &nbsp;<i><a href="o.htm#ooyilkoyòoli">ooyilkoyòoli</a>, <a href="t.htm#tokbinàali">tokbinàali</a></i>.&nbsp;
+<br><b>round</b>
+&nbsp;to be circular, ringlike, round: &nbsp;<i><a href="b.htm#bolokta">bolokta</a></i>.&nbsp;
+&nbsp;to be round, spherical, circular: &nbsp;<i><a href="t.htm#tonohki">tonohki</a>, <a href="b.htm#bonotka">bonotka</a></i>.&nbsp;
+&nbsp;to be rounded, spherical: &nbsp;<i><a href="b.htm#bombóoki">bombóoki</a></i>.&nbsp;
+&nbsp;to be round, mounded, contoured (as planted rows) (of more than one): &nbsp;<i><a href="b.htm#bomboki">bomboki</a></i>.&nbsp;
+&nbsp;to make round, make in a circle: &nbsp;<i><a href="b.htm#boloktachi">boloktachi</a></i>.&nbsp;
+&nbsp;to round the bases (in baseball): &nbsp;<i><a href="a.htm#atanatkat oɬa">atanatkat oɬa</a></i>.&nbsp;
+<br><b>round-shouldered</b>
+&nbsp;to be round-shouldered, hunchbacked: &nbsp;<i><a href="p.htm#paabonotka">paabonotka</a></i>.&nbsp;
+<br><b>route</b>&nbsp;&nbsp;<i><a href="a.htm#anɬiya">anɬiya</a></i>.&nbsp;
+&nbsp;to be coming, on the way, underway, en route: &nbsp;<i><a href="i1.htm#íila">íila</a>, <a href="i1.htm#iláachi">iláachi</a></i>.&nbsp;
+&nbsp;to be the shortest route, straightest path: &nbsp;<i><a href="m.htm#maalamatkíichi">maalamatkíichi</a>, <a href="i1.htm#imaltókkòoka">imaltókkòoka</a></i>.&nbsp;
+&nbsp;to take a fork off a main route, branch off, cut off from a main path (of one): &nbsp;<i><a href="f.htm#filammi">filammi</a>, <a href="f.htm#filkohka">filkohka</a>, <a href="f.htm#filanka2">filanka<sup>2</sup></a></i>.&nbsp;
+<br><b>row</b>
+&nbsp;planted row (in a field): &nbsp;<i><a href="i2.htm#ischíika">ischíika</a></i>.&nbsp;
+&nbsp;to be in a line, be in a row: &nbsp;<i><a href="i2.htm#isbállàaka">isbállàaka</a></i>.&nbsp;
+&nbsp;to be lined up in a row, be one behind the other, be one after another: &nbsp;<i><a href="i2.htm#ittachákkòosi">ittachákkòosi</a></i>.&nbsp;
+&nbsp;to steer, row (a boat): &nbsp;<i><a href="a.htm#apihlichi">apihlichi</a></i>.&nbsp;
+<br><b>rub</b>
+&nbsp;tool for rubbing hide: &nbsp;<i><a href="i2.htm#iskasookachi">iskasookachi</a></i>.&nbsp;
+&nbsp;worrystone, something one rubs all the time: &nbsp;<i><a href="h.htm#hamohka">hamohka</a></i>.&nbsp;
+&nbsp;to rub, stroke, feel: &nbsp;<i><a href="h.htm#hamohli">hamohli</a></i>.&nbsp;
+&nbsp;to rub oneself (e.g. to keep warm): &nbsp;<i><a href="i1.htm#ilikasohka">ilikasohka</a></i>.&nbsp;
+&nbsp;to scratch an itch, rub, scrape: &nbsp;<i><a href="w.htm#waslichi">waslichi</a></i>.&nbsp;
+&nbsp;to rub, scrub (repeatedly): &nbsp;<i><a href="k.htm#kayòolichi">kayòolichi</a></i>.&nbsp;
+&nbsp;to scrub, rub clean: &nbsp;<i><a href="a.htm#aabohli">aabohli</a></i>.&nbsp;
+&nbsp;to rub (something) on (someone): &nbsp;<i><a href="i2.htm#istiⁿhamohli">istiⁿhamohli</a></i>.&nbsp;
+&nbsp;to rub the body for (someone), massage: &nbsp;<i><a href="i1.htm#iⁿhamohli">iⁿhamohli</a></i>.&nbsp;
+&nbsp;to massage the back, rub the back: &nbsp;<i><a href="p.htm#paakasohka">paakasohka</a></i>.&nbsp;
+&nbsp;to move back and forth (a part of the body) (as the hands to massage the scalp): &nbsp;<i><a href="k.htm#kasohka">kasohka</a></i>.&nbsp;
+&nbsp;to rub medicine on oneself: &nbsp;<i><a href="i2.htm#istilaposohka">istilaposohka</a></i>.&nbsp;
+&nbsp;to rub on (balm or medicinal salve): &nbsp;<i><a href="i2.htm#istilihamohli">istilihamohli</a></i>.&nbsp;
+&nbsp;to be rubbed, stroked: &nbsp;<i><a href="h.htm#hamohka">hamohka</a></i>.&nbsp;
+&nbsp;to irritate, rub the wrong way, make impatient: &nbsp;<i><a href="n.htm#nokhamohlichi">nokhamohlichi</a></i>.&nbsp;
+&nbsp;to rub all over, rub to soften (as in tanning hide): &nbsp;<i><a href="k.htm#kasohlichi">kasohlichi</a></i>.&nbsp;
+&nbsp;to rub all over with, rub with to soften (as in tanning hide): &nbsp;<i><a href="i2.htm#iskasohlichi">iskasohlichi</a></i>.&nbsp;
+<br><b>rubber ball</b>
+&nbsp;solid rubber ball: &nbsp;<i><a href="p.htm#pokkochoffi">pokkochoffi</a></i>.&nbsp;
+<br><b>rubbish</b>&nbsp;&nbsp;<i><a href="k.htm#kopihka">kopihka</a></i>.&nbsp;
+&nbsp;to gather (trash or rubbish) together to burn: &nbsp;<i><a href="k.htm#kopihli">kopihli</a></i>.&nbsp;
+<br><b>rub off</b>
+&nbsp;to scrape, rub off (one object): &nbsp;<i><a href="m.htm#miɬoffichi">miɬoffichi</a></i>.&nbsp;
+<br><b>ruffian</b>&nbsp;&nbsp;<i><a href="p.htm#pasàali">pasàali</a></i>.&nbsp;
+<br><b>ruffles</b>&nbsp;&nbsp;<i><a href="i2.htm#istiwwiliksi">istiwwiliksi</a></i>.&nbsp;
+<br><b>rug</b>&nbsp;&nbsp;<i><a href="i2.htm#itapatàaka">itapatàaka</a></i>.&nbsp;
+<br><b>ruin</b>
+&nbsp;to break something, tear up, ruin: &nbsp;<i><a href="a.htm#alwahli">alwahli</a></i>.&nbsp;
+&nbsp;to break up, ruin, disrupt (someone's possession): &nbsp;<i><a href="i2.htm#istimalwahli">istimalwahli</a></i>.&nbsp;
+&nbsp;to to be broken, torn, damaged, ruined: &nbsp;<i><a href="a.htm#alwahka">alwahka</a></i>.&nbsp;
+&nbsp;to be decayed, dried up, ruined, deteriorated, lifeless: &nbsp;<i><a href="p.htm#pakfo">pakfo</a></i>.&nbsp;
+<br><b>ruler</b>
+&nbsp;tape measure, yardstick, ruler, etc.: &nbsp;<i><a href="i2.htm#istalpisa2">istalpisa<sup>2</sup></a>, <a href="i2.htm#istapiska">istapiska</a></i>.&nbsp;
+&nbsp;queen, king, ruler, president, leader: &nbsp;<i><a href="m.htm#mikko">mikko</a></i>.&nbsp;
+<br><b>rumble</b>
+&nbsp;rumble, rumbling noise (e.g. thunder): &nbsp;<i><a href="w.htm#wininihkachi">wininihkachi</a></i>.&nbsp;
+&nbsp;for there to be the sound of heavy rumbling (as a train going along tracks): &nbsp;<i><a href="t.htm#timtihkachi">timtihkachi</a></i>.&nbsp;
+&nbsp;for there to be thunder or a rumbling noise in the distance: &nbsp;<i><a href="m.htm#maatimiikáachi">maatimiikáachi</a>, <a href="m.htm#maatimimihkáachi">maatimimihkáachi</a></i>.&nbsp;
+&nbsp;to make a rumbling noise, rumble: &nbsp;<i><a href="w.htm#wininihlichi">wininihlichi</a></i>.&nbsp;
+&nbsp;to be making a rumbling noise in the distance (as thunder): &nbsp;<i><a href="m.htm#maawininihkáachi">maawininihkáachi</a></i>.&nbsp;
+&nbsp;to make a ponderous sound, as of heavy footsteps, thunder, the rumble of a train: &nbsp;<i><a href="t.htm#timìilichi">timìilichi</a></i>.&nbsp;
+&nbsp;to make a rattling, banging, hammering, tapping or rumbling noise: &nbsp;<i><a href="k.htm#kapàalichi">kapàalichi</a></i>.&nbsp;
+<br><b>rumor</b>&nbsp;&nbsp;<i><a href="f.htm#fatka">fatka</a></i>.&nbsp;
+<br><b>rump</b>&nbsp;&nbsp;<i><a href="h.htm#holposko">holposko</a></i>.&nbsp;
+<br><b>rumple</b>
+&nbsp;to wrinkle, rumple, crumple: &nbsp;<i><a href="c.htm#chokyohlichi">chokyohlichi</a></i>.&nbsp;
+<br><b>run</b>
+&nbsp;wild person, person running around all the time: &nbsp;<i><a href="a.htm#àayapalammi">àayapalammi</a></i>.&nbsp;
+&nbsp;to run away, run (of one): &nbsp;<i><a href="w.htm#waliika">waliika</a>, <a href="t.htm#tooɬka">tooɬka</a>, <a href="t.htm#tooɬooka">tooɬooka</a></i>.&nbsp;
+&nbsp;to run (dogs after game), hunt with dogs: &nbsp;<i><a href="ll.htm#ɬohlichi">ɬohlichi</a></i>.&nbsp;
+&nbsp;to run into (one object): &nbsp;<i><a href="a.htm#achosòoka2">achosòoka<sup>2</sup></a></i>.&nbsp;
+&nbsp;to run off, run out (one object): &nbsp;<i><a href="a.htm#assaliilichi">assaliilichi</a></i>.&nbsp;
+&nbsp;to run races with: &nbsp;<i><a href="t.htm#tooɬookat ittimayyachi">tooɬookat ittimayyachi</a></i>.&nbsp;
+&nbsp;to be running: &nbsp;<i><a href="w.htm#wállìika">wállìika</a></i>.&nbsp;
+&nbsp;to be running around (of one): &nbsp;<i><a href="a.htm#àayafíhna">àayafíhna</a></i>.&nbsp;
+&nbsp;to be running around, go a lot (of two): &nbsp;<i><a href="a.htm#ayáachifíhna">ayáachifíhna</a></i>.&nbsp;
+&nbsp;to be running around a lot together (more than four): &nbsp;<i><a href="i2.htm#ittanowwafíhna">ittanowwafíhna</a></i>.&nbsp;
+&nbsp;to run, operate, turn on or start (a vehicle or machine): &nbsp;<i><a href="w.htm#waliilichi">waliilichi</a></i>.&nbsp;
+&nbsp;to run, manage, operate (something) on a regular basis (as a branch business): &nbsp;<i><a href="w.htm#wállìilichi">wállìilichi</a></i>.&nbsp;
+&nbsp;to drive in (sharp objects), run in, stick in (plural objects or repeatedly): &nbsp;<i><a href="a.htm#achosli">achosli</a></i>.&nbsp;
+&nbsp;to run the bases (in baseball): &nbsp;<i><a href="a.htm#atanatkat oɬa">atanatkat oɬa</a></i>.&nbsp;
+&nbsp;to score a run (in baseball): &nbsp;<i><a href="i1.htm#imiisafa oɬa">imiisafa oɬa</a></i>.&nbsp;
+&nbsp;to be running late, be late (of one): &nbsp;<i><a href="o.htm#obaltammi">obaltammi</a></i>.&nbsp;
+<br><b>run after</b>
+&nbsp;to chase, run down, run after: &nbsp;<i><a href="ll.htm#ɬohli">ɬohli</a></i>.&nbsp;
+<br><b>run away with</b>
+&nbsp;to run away with: &nbsp;<i><a href="i2.htm#iswaliika">iswaliika</a></i>.&nbsp;
+<br><b>run downward</b>
+&nbsp;to run downward, run downhill (of one): &nbsp;<i><a href="o.htm#oowaliika">oowaliika</a></i>.&nbsp;
+<br><b>run into</b>
+&nbsp;to collide, run into each other: &nbsp;<i><a href="i2.htm#ittabatapka">ittabatapka</a></i>.&nbsp;
+&nbsp;to have a car accident, car wreck, run into (in a vehicle): &nbsp;<i><a href="i2.htm#istabatapka">istabatapka</a></i>.&nbsp;
+&nbsp;to run into, bump into, collide with (of one or once): &nbsp;<i><a href="a.htm#abatapka">abatapka</a></i>.&nbsp;
+&nbsp;to run into each other, meet by chance: &nbsp;<i><a href="i2.htm#ittabaaka">ittabaaka</a></i>.&nbsp;
+<br><b>runners</b>
+&nbsp;to spread (of a vine), send out runners (of a plant): &nbsp;<i><a href="ll.htm#ɬolotli">ɬolotli</a></i>.&nbsp;
+<br><b>running sore</b>
+&nbsp;to have an oozing sore, have an open running sore: &nbsp;<i><a href="i1.htm#imokchi">imokchi</a></i>.&nbsp;
+<br><b>runny</b>
+&nbsp;to be burst and runny (of one): &nbsp;<i><a href="ll.htm#ɬatofka">ɬatofka</a></i>.&nbsp;
+<br><b>runny nose</b>
+&nbsp;to have a runny nose, have the sniffles: &nbsp;<i><a href="i1.htm#ibissano">ibissano</a></i>.&nbsp;
+<br><b>run off</b>
+&nbsp;to avoid, run off a ways from: &nbsp;<i><a href="i2.htm#iwwállìika">iwwállìika</a></i>.&nbsp;
+&nbsp;to flow, drain off, run off (of water): &nbsp;<i><a href="y.htm#yanatli">yanatli</a></i>.&nbsp;
+&nbsp;to run someone off: &nbsp;<i><a href="w.htm#waliilichi">waliilichi</a></i>.&nbsp;
+&nbsp;to let out, chase out, run off (more than one object): &nbsp;<i><a href="a.htm#askahli">askahli</a></i>.&nbsp;
+&nbsp;to run off the road accidentally (in a vehicle) (of one): &nbsp;<i><a href="i2.htm#isfilanka">isfilanka</a></i>.&nbsp;
+&nbsp;to run off with (someone's spouse): &nbsp;<i><a href="i2.htm#istayapka">istayapka</a></i>.&nbsp;
+<br><b>run out</b>
+&nbsp;to have run out of (a supply), be out of (a supply): &nbsp;<i><a href="i1.htm#imanooka">imanooka</a></i>.&nbsp;
+<br><b>run toward</b>
+&nbsp;to run toward, run up to meet someone: &nbsp;<i><a href="o.htm#onawaliika">onawaliika</a>, <a href="o.htm#onatooɬka">onatooɬka</a></i>.&nbsp;
+<br><b>rupture</b>
+&nbsp;to rupture, burst, break open (of a container): &nbsp;<i><a href="i2.htm#istalwahka">istalwahka</a></i>.&nbsp;
+&nbsp;to be about to rupture (of an organ): &nbsp;<i><a href="i2.htm#istimalwahli">istimalwahli</a></i>.&nbsp;
+&nbsp;to have an infected place rupture, have a sore break open, have the appendix burst: &nbsp;<i><a href="i2.htm#istimalwahka">istimalwahka</a></i>.&nbsp;
+<br><b>rust</b>
+&nbsp;to decay, become rusty, rotten: &nbsp;<i><a href="t.htm#tosbi">tosbi</a></i>.&nbsp;
+<br><b>rustle</b>
+&nbsp;to make a rustling noise: &nbsp;<i><a href="c.htm#chasàalichi">chasàalichi</a>, <a href="s.htm#sofòolichi">sofòolichi</a></i>.&nbsp;
+&nbsp;to come making a rustling or shuffling noise: &nbsp;<i><a href="m.htm#maasofóolìichi">maasofóolìichi</a></i>.&nbsp;
+&nbsp;to make something rattle, crackle, rustle: &nbsp;<i><a href="i2.htm#ischasàalichi">ischasàalichi</a></i>.&nbsp;
+<br><b>rustler</b>
+&nbsp;cattle rustler: &nbsp;<i><a href="w.htm#waakhòoba">waakhòoba</a></i>.&nbsp;
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

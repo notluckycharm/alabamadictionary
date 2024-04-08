@@ -1,0 +1,457 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">I</font></center><br>
+<br><b>I</b>&nbsp;&nbsp;<i><a href="afx.htm#-aa">-aa</a>, <a href="afx.htm#-li">-li<sup>2</sup></a></i>.&nbsp;
+&nbsp;I, me: &nbsp;<i><a href="afx.htm#cha-">cha-</a>, <a href="afx.htm#po-">po-</a></i>.&nbsp;
+&nbsp;I, me, my: &nbsp;<i><a href="a.htm#ana">ana</a></i>.&nbsp;
+&nbsp;mine, I, me: &nbsp;<i><a href="a.htm#ano">ano</a></i>.&nbsp;
+&nbsp;I'm the one, I'm it: &nbsp;<i><a href="a.htm#anoolo">anoolo</a></i>.&nbsp;
+&nbsp;I myself: &nbsp;<i><a href="h.htm#hiiyaakáalo">hiiyaakáalo</a></i>.&nbsp;
+&nbsp;I myself, as for myself: &nbsp;<i><a href="a.htm#anáali">anáali</a></i>.&nbsp;
+<br><b>ice</b>&nbsp;&nbsp;<i><a href="a.htm#akmi">akmi</a></i>.&nbsp;
+&nbsp;to be frozen, icy, freezing: &nbsp;<i><a href="a.htm#akmi">akmi</a></i>.&nbsp;
+<br><b>ice hook</b>&nbsp;&nbsp;<i><a href="a.htm#akmistabatilka">akmistabatilka</a></i>.&nbsp;
+<br><b>ice water</b>&nbsp;&nbsp;<i><a href="o.htm#okikasahka">okikasahka</a></i>.&nbsp;
+<br><b>icicle</b>&nbsp;&nbsp;<i><a href="a.htm#akmistatakka">akmistatakka</a></i>.&nbsp;
+<br><b>icy</b>
+&nbsp;to be frozen, icy, freezing: &nbsp;<i><a href="a.htm#akmi">akmi</a></i>.&nbsp;
+<br><b>idea</b>
+&nbsp;to forget an idea, forget what one is going to say: &nbsp;<i><a href="i1.htm#imayosba">imayosba</a></i>.&nbsp;
+<br><b>identical</b>
+&nbsp;to be the same, identical: &nbsp;<i><a href="m.htm#máali1">máali<sup>1</sup></a>, <a href="i2.htm#ittimáali">ittimáali</a></i>.&nbsp;
+<br><b>idiot</b>&nbsp;&nbsp;<i><a href="k.htm#kostinitíkkokáhchi">kostinitíkkokáhchi</a></i>.&nbsp;
+<br><b>idle</b>
+&nbsp;to be idle, lazy, irresponsible, shiftless: &nbsp;<i><a href="h.htm#hobakchi">hobakchi</a></i>.&nbsp;
+<br><b>idleness</b>&nbsp;&nbsp;<i><a href="h.htm#hobalikcha">hobalikcha</a></i>.&nbsp;
+<br><b>if</b>
+&nbsp;would, if, whenever: &nbsp;<i><a href="afx.htm#-ma">-ma</a></i>.&nbsp;
+&nbsp;maybe, if, perhaps: &nbsp;<i><a href="m.htm#máamiima">máamiima</a></i>.&nbsp;
+<br><b>ignite</b>
+&nbsp;to ignite, start (of a fire): &nbsp;<i><a href="k.htm#kitaaya">kitaaya</a>, <a href="k.htm#kilayli">kilayli</a></i>.&nbsp;
+&nbsp;to set afire, ignite (one object): &nbsp;<i><a href="a.htm#atikìili">atikìili</a></i>.&nbsp;
+<br><b>ignore</b>
+&nbsp;to ignore: &nbsp;<i><a href="i1.htm#ikháalo ilahoobachi">ikháalo ilahoobachi</a>, <a href="h.htm#háalosbánko">háalosbánko</a></i>.&nbsp;
+<br><b>ill</b>
+&nbsp;to be sickly, unwell, feeling bad chronically, in ill health: &nbsp;<i><a href="k.htm#koyaabi">koyaabi</a></i>.&nbsp;
+&nbsp;to catch (a disease), come down with (an illness), contract (a disease): &nbsp;<i><a href="a.htm#almatli">almatli</a></i>.&nbsp;
+<br><b>illegible</b>
+&nbsp;to be opaque, illegible: &nbsp;<i><a href="m.htm#mottaíkko">mottaíkko</a></i>.&nbsp;
+&nbsp;to be illegible to, be unaccessible to: &nbsp;<i><a href="i1.htm#immottaíkko">immottaíkko</a></i>.&nbsp;
+<br><b>illegitimate</b>
+&nbsp;illegitimate child: &nbsp;<i><a href="a.htm#aatosi intaatasobaíkko">aatosi intaatasobaíkko</a>, <a href="p.htm#poskòosi intaatasobayíkko">poskòosi intaatasobayíkko</a></i>.&nbsp;
+&nbsp;to be illegitimate (of a child): &nbsp;<i><a href="i1.htm#intaata sobayíkko">intaata sobayíkko</a></i>.&nbsp;
+<br><b>image</b>
+&nbsp;picture (of oneself), any image: &nbsp;<i><a href="h.htm#holba">holba</a></i>.&nbsp;
+&nbsp;to be an image: &nbsp;<i><a href="h.htm#holba">holba</a></i>.&nbsp;
+&nbsp;to make an image: &nbsp;<i><a href="h.htm#holbachi">holbachi</a></i>.&nbsp;
+<br><b>imitate</b>
+&nbsp;to imitate: &nbsp;<i><a href="i2.htm#ittihólbachi">ittihólbachi</a>, <a href="h.htm#holbachi">holbachi</a>, <a href="m.htm#málmàhmi">málmàhmi</a></i>.&nbsp;
+<br><b>immature</b>
+&nbsp;green, immature, unripe: &nbsp;<i><a href="w.htm#wakìiyo">wakìiyo</a></i>.&nbsp;
+<br><b>imminent</b>
+&nbsp;to be threatening or imminent (of weather): &nbsp;<i><a href="h.htm#hátchàali">hátchàali</a></i>.&nbsp;
+<br><b>immortal</b>
+&nbsp;to be immortal: &nbsp;<i><a href="i1.htm#ikíllo">ikíllo</a>, <a href="i1.htm#imilillíkso">imilillíkso</a></i>.&nbsp;
+<br><b>impale</b>
+&nbsp;to drive in (a sharp object), pierce, impale (one object): &nbsp;<i><a href="a.htm#achosòoli">achosòoli</a></i>.&nbsp;
+<br><b>impatient</b>
+&nbsp;to be impatient, in a hurry: &nbsp;<i><a href="i1.htm#imaltóospa">imaltóospa</a></i>.&nbsp;
+&nbsp;to be uncomfortable, impatient (esp. from pain): &nbsp;<i><a href="n.htm#nokhamohkachi">nokhamohkachi</a></i>.&nbsp;
+&nbsp;to irritate, make impatient: &nbsp;<i><a href="n.htm#nokhamohlichi">nokhamohlichi</a></i>.&nbsp;
+<br><b>impeach</b>
+&nbsp;to impeach, throw out of office (one person): &nbsp;<i><a href="m.htm#maalichi">maalichi</a></i>.&nbsp;
+<br><b>imperceivable</b>
+&nbsp;to be opaque, imperceivable, unclear, invisible: &nbsp;<i><a href="m.htm#mottaíkko">mottaíkko</a></i>.&nbsp;
+<br><b>impregnate</b>
+&nbsp;to impregnate: &nbsp;<i><a href="a.htm#ayokchi">ayokchi</a>, <a href="o.htm#onaapichi">onaapichi</a>, <a href="i1.htm#innáahochi">innáahochi</a></i>.&nbsp;
+<br><b>imprison</b>
+&nbsp;to close up in, imprison: &nbsp;<i><a href="o.htm#onokbahli">onokbahli</a></i>.&nbsp;
+&nbsp;to be closed up in, imprisoned: &nbsp;<i><a href="o.htm#onokbahka">onokbahka</a></i>.&nbsp;
+<br><b>improve</b>
+&nbsp;to improve, better, clear up: &nbsp;<i><a href="k.htm#kanoochi">kanoochi</a></i>.&nbsp;
+<br><b>in</b>
+&nbsp;to be located in (a container) on top of (something): &nbsp;<i><a href="i2.htm#ispaatállàaka">ispaatállàaka</a></i>.&nbsp;
+&nbsp;to make enter, let in, retract (one object): &nbsp;<i><a href="c.htm#chokkaliilichi">chokkaliilichi</a></i>.&nbsp;
+&nbsp;to put in (one object): &nbsp;<i><a href="h.htm#hokfi">hokfi</a></i>.&nbsp;
+&nbsp;to put in, pour (plural objects or mass noun) into: &nbsp;<i><a href="a.htm#aɬi1">aɬi<sup>1</sup></a></i>.&nbsp;
+&nbsp;to put in (the pocket): &nbsp;<i><a href="i1.htm#ilaɬi">ilaɬi</a></i>.&nbsp;
+&nbsp;to put (one object) in (a container): &nbsp;<i><a href="i2.htm#ishokfi">ishokfi</a></i>.&nbsp;
+&nbsp;to put (one object) in (a container that already has something in it): &nbsp;<i><a href="i2.htm#ishòokfi">ishòokfi</a></i>.&nbsp;
+<br><b>inarticulate</b>
+&nbsp;to not be able to talk plainly, be inarticulate: &nbsp;<i><a href="h.htm#hochífko">hochífko</a></i>.&nbsp;
+<br><b>incapable</b>
+&nbsp;to be incapable of doing anything, to feel not up to doing anything: &nbsp;<i><a href="h.htm#hobakchi">hobakchi</a></i>.&nbsp;
+<br><b>incense</b>
+&nbsp;incense, cologne, perfume, etc.: &nbsp;<i><a href="h.htm#hoofna">hoofna</a></i>.&nbsp;
+<br><b>inch</b>&nbsp;&nbsp;<i><a href="i1.htm#ìnchka">ìnchka</a></i>.&nbsp;
+<br><b>inclined</b>
+&nbsp;to want (some thing or occurrence), need, like, be inclined to, try: &nbsp;<i><a href="b.htm#banna">banna</a></i>.&nbsp;
+<br><b>include</b>
+&nbsp;to include, add on to, put with: &nbsp;<i><a href="a.htm#asaachi">asaachi</a></i>.&nbsp;
+&nbsp;to include in a group, welcome: &nbsp;<i><a href="i2.htm#iyyowwa">iyyowwa</a></i>.&nbsp;
+&nbsp;to be included with, be together with, be added to: &nbsp;<i><a href="a.htm#àasa">àasa</a></i>.&nbsp;
+<br><b>incompatible</b>
+&nbsp;to be incompatible, unable to get along: &nbsp;<i><a href="i2.htm#ittakìilo">ittakìilo</a>, <a href="i2.htm#ittinkánko">ittinkánko</a></i>.&nbsp;
+<br><b>incompetent</b>
+&nbsp;to not be in one's right mind, incompetent, not know any better (as a baby or a drunk): &nbsp;<i><a href="h.htm#hakti">hakti</a></i>.&nbsp;
+<br><b>incontinent</b>
+&nbsp;to wet on oneself, be incontinent: &nbsp;<i><a href="i1.htm#ilihoswa">ilihoswa</a></i>.&nbsp;
+<br><b>incorrect</b>
+&nbsp;to be incorrect, be at fault: &nbsp;<i><a href="i2.htm#istimmìnta">istimmìnta</a>, <a href="i2.htm#istiⁿɬakoffi">istiⁿɬakoffi</a></i>.&nbsp;
+<br><b>increase</b>
+&nbsp;to add to, increase, multiply: &nbsp;<i><a href="m.htm#maapaahòkfayok lawahchi">maapaahòkfayok lawahchi</a></i>.&nbsp;
+&nbsp;to multiply, increase (of one group): &nbsp;<i><a href="m.htm#maatittapaanaɬka">maatittapaanaɬka</a></i>.&nbsp;
+&nbsp;to be increasing, getting to be more: &nbsp;<i><a href="m.htm#maalawàasi">maalawàasi</a></i>.&nbsp;
+<br><b>incurable</b>
+&nbsp;any dreadful, incurable disease: &nbsp;<i><a href="h.htm#holpafàyko">holpafàyko</a></i>.&nbsp;
+<br><b>index finger</b>&nbsp;&nbsp;<i><a href="i1.htm#ilbistimbiɬìika">ilbistimbiɬìika</a>, <a href="i1.htm#ilbisbiɬiika">ilbisbiɬiika</a></i>.&nbsp;
+<br><b>Indian</b>
+&nbsp;American Indian, Native American: &nbsp;<i><a href="a.htm#aati">aati</a>, <a href="a.htm#aati aapihchi hómma">aati aapihchi hómma</a>, <a href="a.htm#aatihòmma">aatihòmma</a>, <a href="n.htm#nipihómma">nipihómma</a></i>.&nbsp;
+&nbsp;American Indian baby or child: &nbsp;<i><a href="a.htm#aatosi">aatosi</a></i>.&nbsp;
+&nbsp;Alabama Indian: &nbsp;<i><a href="a.htm#Albaamo">Albaamo</a></i>.&nbsp;
+&nbsp;Cherokee Indian: &nbsp;<i><a href="c.htm#Chalakki">Chalakki</a></i>.&nbsp;
+&nbsp;Choctaw Indian: &nbsp;<i><a href="c.htm#Chahta">Chahta</a></i>.&nbsp;
+&nbsp;Coushatta Indian: &nbsp;<i><a href="k.htm#Kosaati">Kosaati</a></i>.&nbsp;
+&nbsp;Coushatta Indians, Coushatta tribe: &nbsp;<i><a href="k.htm#Kosaatiha">Kosaatiha</a></i>.&nbsp;
+&nbsp;Muskogee (Creek) Indian: &nbsp;<i><a href="m.htm#Maskooki">Maskooki</a></i>.&nbsp;
+&nbsp;half-breed, half white person (half Indian or mulatto): &nbsp;<i><a href="t.htm#tatkahókkìita">tatkahókkìita</a></i>.&nbsp;
+&nbsp;half-breed, Indian and black: &nbsp;<i><a href="a.htm#aathòmma loochahókkìita">aathòmma loochahókkìita</a></i>.&nbsp;
+&nbsp;half-breed, Indian and Mexican: &nbsp;<i><a href="a.htm#aathòmma ispaanihókkìita">aathòmma ispaanihókkìita</a></i>.&nbsp;
+&nbsp;half-breed, Indian and white or Indian and black: &nbsp;<i><a href="a.htm#aathòmma tatkahókkìita">aathòmma tatkahókkìita</a></i>.&nbsp;
+&nbsp;any Indian language: &nbsp;<i><a href="a.htm#aatinnaaɬiilka">aatinnaaɬiilka</a></i>.&nbsp;
+&nbsp;to speak other Indian languages, be a polyglot: &nbsp;<i><a href="o.htm#oolamiita">oolamiita</a></i>.&nbsp;
+<br><b>Indian corn</b>
+&nbsp;corn, Indian corn: &nbsp;<i><a href="c.htm#chaskowaski">chaskowaski</a></i>.&nbsp;
+&nbsp;corn, white corn, a very white Indian corn: &nbsp;<i><a href="c.htm#chassisokha">chassisokha</a></i>.&nbsp;
+<br><b>Indian fire</b>
+&nbsp;Indian fire, low fire made in the woods: &nbsp;<i><a href="a.htm#athòmmintikba">athòmmintikba</a></i>.&nbsp;
+<br><b>Indian reservation</b>&nbsp;&nbsp;<i><a href="a.htm#aathòmma imìistilka">aathòmma imìistilka</a>, <a href="a.htm#aathòmma imoolachòoba">aathòmma imoolachòoba</a></i>.&nbsp;
+<br><b>indicate</b>
+&nbsp;to do that way (as previously mentioned), do as indicated, do as expected: &nbsp;<i><a href="m.htm#mamíhchi">mamíhchi</a></i>.&nbsp;
+<br><b>indigestion</b>
+&nbsp;to have heartburn, indigestion: &nbsp;<i><a href="i2.htm#istimasaama">istimasaama</a></i>.&nbsp;
+<br><b>inedible</b>
+&nbsp;not food, something inedible: &nbsp;<i><a href="i1.htm#ilpókko">ilpókko</a></i>.&nbsp;
+<br><b>inexpensive</b>
+&nbsp;to be cheap, inexpensive: &nbsp;<i><a href="a.htm#achikìibo">achikìibo</a></i>.&nbsp;
+<br><b>infant</b>&nbsp;&nbsp;<i><a href="p.htm#poskòososi">poskòososi</a></i>.&nbsp;
+<br><b>infect</b>
+&nbsp;to infect, get (a body part) infected: &nbsp;<i><a href="i1.htm#imaniichichi">imaniichichi</a></i>.&nbsp;
+&nbsp;to infect, give (someone) a disease: &nbsp;<i><a href="a.htm#almatlichi">almatlichi</a></i>.&nbsp;
+&nbsp;to have an infected place: &nbsp;<i><a href="i1.htm#imaniichi">imaniichi</a></i>.&nbsp;
+&nbsp;to have an infected place rupture: &nbsp;<i><a href="i2.htm#istimalwahka">istimalwahka</a></i>.&nbsp;
+<br><b>infection</b>&nbsp;&nbsp;<i><a href="a.htm#aniichi">aniichi</a></i>.&nbsp;
+<br><b>infest</b>
+&nbsp;to get infested with maggots: &nbsp;<i><a href="o.htm#oyaachi">oyaachi</a></i>.&nbsp;
+<br><b>inflate</b>
+&nbsp;to inflate, pump up (a flat tire), blow up with air: &nbsp;<i><a href="p.htm#poffichi">poffichi</a>, <a href="p.htm#pofkat chobachi">pofkat chobachi</a></i>.&nbsp;
+<br><b>influence</b>
+&nbsp;to influence, put ideas in (someone's head): &nbsp;<i><a href="a.htm#achosòoli">achosòoli</a></i>.&nbsp;
+<br><b>influenza</b>&nbsp;&nbsp;<i><a href="t.htm#toɬɬoilka kánko">toɬɬoilka kánko</a>, <a href="t.htm#toɬtoilchòoba">toɬtoilchòoba</a></i>.&nbsp;
+&nbsp;to have the flu, influenza: &nbsp;<i><a href="f.htm#folòoka">folòoka</a></i>.&nbsp;
+<br><b>inform</b>
+&nbsp;to let someone know, inform, pass on a message: &nbsp;<i><a href="h.htm#haalochi">haalochi</a></i>.&nbsp;
+&nbsp;to invite, inform (someone) of an invitation: &nbsp;<i><a href="i1.htm#iⁿfatli">iⁿfatli</a></i>.&nbsp;
+&nbsp;to not inform on, not tell on (someone): &nbsp;<i><a href="a.htm#alomhichi">alomhichi</a></i>.&nbsp;
+<br><b>information</b>&nbsp;&nbsp;<i><a href="n.htm#naaɬiilka">naaɬiilka</a></i>.&nbsp;
+<br><b>infrequent</b>
+&nbsp;to intermittent, singular, infrequent: &nbsp;<i><a href="c.htm#chafaaka">chafaaka</a></i>.&nbsp;
+<br><b>ingredient</b>
+&nbsp;seasoning, ingredient, spice: &nbsp;<i><a href="i2.htm#istaasa">istaasa</a></i>.&nbsp;
+<br><b>inhabit</b>
+&nbsp;to live at a place, inhabit, be around (of more than one): &nbsp;<i><a href="i1.htm#ìisa">ìisa</a></i>.&nbsp;
+<br><b>inhalant</b>
+&nbsp;smelling salts, anesthetic gas, decongestant inhalant, etc.: &nbsp;<i><a href="i1.htm#ilahifosilka">ilahifosilka</a></i>.&nbsp;
+<br><b>inhale</b>
+&nbsp;to inhale, sniff (something): &nbsp;<i><a href="i1.htm#ilahifoska">ilahifoska</a></i>.&nbsp;
+<br><b>in heat</b>
+&nbsp;to be in heat: &nbsp;<i><a href="i1.htm#ikba">ikba</a></i>.&nbsp;
+<br><b>inherit</b>
+&nbsp;to inherit: &nbsp;<i><a href="a.htm#àasa">àasa</a>, <a href="h.htm#hállatka">hállatka</a></i>.&nbsp;
+&nbsp;to inherit a name (first or last name) of, take someone's name (as a woman in marriage): &nbsp;<i><a href="i2.htm#istonaholchifa">istonaholchifa</a></i>.&nbsp;
+&nbsp;to inherit, hold rights (to land): &nbsp;<i><a href="t.htm#támbatka">támbatka</a></i>.&nbsp;
+&nbsp;to be one's right to inherit: &nbsp;<i><a href="i1.htm#imilahállatka">imilahállatka</a></i>.&nbsp;
+&nbsp;to have the right to inherit property: &nbsp;<i><a href="i1.htm#ilahállatka">ilahállatka</a></i>.&nbsp;
+<br><b>injection</b>
+&nbsp;injection, shot: &nbsp;<i><a href="i2.htm#isɬopotilka">isɬopotilka</a></i>.&nbsp;
+&nbsp;to get pierced, stuck, or stabbed, get a shot: &nbsp;<i><a href="ll.htm#ɬopotka">ɬopotka</a></i>.&nbsp;
+<br><b>injunction</b>
+&nbsp;to issue a warning, command, instruction, or general injunction: &nbsp;<i><a href="a.htm#aybachi">aybachi</a></i>.&nbsp;
+<br><b>injure</b>
+&nbsp;to hurt someone, injure, cripple: &nbsp;<i><a href="i1.htm#iⁿhoopachi">iⁿhoopachi</a></i>.&nbsp;
+&nbsp;to reinjure, make an injury worse: &nbsp;<i><a href="i2.htm#istimpaanahka">istimpaanahka</a></i>.&nbsp;
+&nbsp;to reinjure someone (on a part of the body): &nbsp;<i><a href="i2.htm#istimoonahli">istimoonahli</a></i>.&nbsp;
+&nbsp;to keep hurting an injury, reinjure oneself while trying to protect a wound: &nbsp;<i><a href="i2.htm#istoonahli">istoonahli</a></i>.&nbsp;
+&nbsp;to have a pain (in a part of the body), be injured, crippled: &nbsp;<i><a href="i1.htm#iⁿhoopa">iⁿhoopa</a></i>.&nbsp;
+<br><b>in-law</b>
+&nbsp;parent in-law, father-in-law, mother-in-law: &nbsp;<i><a href="i1.htm#ikposikchi">ikposikchi</a></i>.&nbsp;
+&nbsp;father-in-law: &nbsp;<i><a href="i1.htm#ikposikchinaani">ikposikchinaani</a>, <a href="t.htm#taatastáhoba">taatastáhoba</a></i>.&nbsp;
+&nbsp;mother-in-law: &nbsp;<i><a href="i1.htm#ikposikchitàyyi">ikposikchitàyyi</a>, <a href="i1.htm#impíchistàhoba">impíchistàhoba</a></i>.&nbsp;
+&nbsp;daughter-in-law: &nbsp;<i><a href="i2.htm#ipokitàyyi">ipokitàyyi</a></i>.&nbsp;
+&nbsp;brother-in-law: &nbsp;<i><a href="i2.htm#ittachakkistáhoba">ittachakkistáhoba</a>, <a href="i1.htm#imala">imala</a></i>.&nbsp;
+&nbsp;sister-in-law: &nbsp;<i><a href="i1.htm#iⁿhayya">iⁿhayya</a></i>.&nbsp;
+&nbsp;to be a son-in-law to: &nbsp;<i><a href="i1.htm#imonnaaɬi">imonnaaɬi</a></i>.&nbsp;
+&nbsp;to be married, have in-laws: &nbsp;<i><a href="o.htm#onnaaɬi">onnaaɬi</a></i>.&nbsp;
+<br><b>inn</b>&nbsp;&nbsp;<i><a href="a.htm#aayistilka">aayistilka</a></i>.&nbsp;
+<br><b>inner ear</b>&nbsp;&nbsp;<i><a href="h.htm#hakchoobi">hakchoobi</a>, <a href="i1.htm#iⁿhakcho">iⁿhakcho</a>, <a href="i1.htm#iⁿhakchohayo">iⁿhakchohayo</a></i>.&nbsp;
+<br><b>in order to</b>
+&nbsp;so, in order to: &nbsp;<i><a href="afx.htm#-móska">-móska</a></i>.&nbsp;
+<br><b>insane</b>
+&nbsp;insane asylum, mental hospital: &nbsp;<i><a href="a.htm#aatikostìnko imìistilka">aatikostìnko imìistilka</a>, <a href="a.htm#aatkostìnko imìistilka">aatkostìnko imìistilka</a></i>.&nbsp;
+&nbsp;insane person: &nbsp;<i><a href="a.htm#aatkostìnko">aatkostìnko</a></i>.&nbsp;
+&nbsp;to be crazy, act insane: &nbsp;<i><a href="k.htm#kostìnko">kostìnko</a></i>.&nbsp;
+<br><b>insecticide</b>&nbsp;&nbsp;<i><a href="i2.htm#iskanistilba">iskanistilba</a></i>.&nbsp;
+&nbsp;perfume, insecticide, paint, shaving cream, etc.: &nbsp;<i><a href="i2.htm#istompoffichi">istompoffichi</a></i>.&nbsp;
+<br><b>insects, etc</b>
+&nbsp;insect: &nbsp;<i><a href="i2.htm#iskani">iskani</a></i>.&nbsp;
+&nbsp;any stinging arthropod (bee, wasp, scorpion, etc.): &nbsp;<i><a href="i1.htm#iⁿɬakíisa">iⁿɬakíisa</a></i>.&nbsp;
+&nbsp;butterfly, moth: &nbsp;<i><a href="h.htm#hakchoopàalpa">hakchoopàalpa</a></i>.&nbsp;
+&nbsp;dragonfly: &nbsp;<i><a href="h.htm#hatokwassi">hatokwassi</a></i>.&nbsp;
+&nbsp;flea: &nbsp;<i><a href="k.htm#kasto">kasto</a></i>.&nbsp;
+&nbsp;gnat: &nbsp;<i><a href="i2.htm#iskanhatka">iskanhatka</a></i>.&nbsp;
+&nbsp;fly: &nbsp;<i><a href="c.htm#chokano">chokano</a>, <a href="ll.htm#ɬaana">ɬaana</a></i>.&nbsp;
+&nbsp;horsefly: &nbsp;<i><a href="c.htm#chichoba kachàali">chichoba kachàali</a></i>.&nbsp;
+&nbsp;lightning bug, firefly: &nbsp;<i><a href="h.htm#hakchòmmapala">hakchòmmapala</a></i>.&nbsp;
+&nbsp;cricket: &nbsp;<i><a href="s.htm#sollòota">sollòota</a></i>.&nbsp;
+&nbsp;grasshopper: &nbsp;<i><a href="h.htm#hataffo">hataffo</a></i>.&nbsp;
+&nbsp;large grasshopper: &nbsp;<i><a href="h.htm#hatokhàapli">hatokhàapli</a></i>.&nbsp;
+&nbsp;katydid, cricket, locust: &nbsp;<i><a href="k.htm#kasasa">kasasa</a></i>.&nbsp;
+&nbsp;cicada: &nbsp;<i><a href="s.htm#sowiisowi">sowiisowi</a></i>.&nbsp;
+&nbsp;praying mantis, walking stick: &nbsp;<i><a href="h.htm#hokchokosòoma">hokchokosòoma</a></i>.&nbsp;
+&nbsp;walking stick: &nbsp;<i><a href="h.htm#hokchobàaski">hokchobàaski</a></i>.&nbsp;
+&nbsp;bedbug: &nbsp;<i><a href="i2.htm#iskanihoyòopa">iskanihoyòopa</a></i>.&nbsp;
+&nbsp;dung beetle: &nbsp;<i><a href="l.htm#laykitonòolichi">laykitonòolichi</a></i>.&nbsp;
+&nbsp;June bug: &nbsp;<i><a href="f.htm#fiitihpo">fiitihpo</a></i>.&nbsp;
+&nbsp;beetle, plant parasite: &nbsp;<i><a href="i2.htm#ittoissipa">ittoissipa</a></i>.&nbsp;
+&nbsp;any of various scarab beetles such as june bug: &nbsp;<i><a href="s.htm#saksámpa">saksámpa</a></i>.&nbsp;
+&nbsp;love bugs: &nbsp;<i><a href="i2.htm#iskanlochasi">iskanlochasi</a></i>.&nbsp;
+&nbsp;potato bug: &nbsp;<i><a href="a.htm#aataksi ipa">aataksi ipa</a></i>.&nbsp;
+&nbsp;stink bug, pumpkin bug, dung beetle: &nbsp;<i><a href="h.htm#holikcho kosòoma">holikcho kosòoma</a></i>.&nbsp;
+&nbsp;whirligig beetle, black water bug: &nbsp;<i><a href="a.htm#aatimpiskachàali">aatimpiskachàali</a></i>.&nbsp;
+&nbsp;little black water insect: &nbsp;<i><a href="s.htm#sokpanòoli">sokpanòoli</a></i>.&nbsp;
+&nbsp;long-legged, red water insects: &nbsp;<i><a href="s.htm#sokpanòoli">sokpanòoli</a></i>.&nbsp;
+&nbsp;sawyer beetle, black beetle, sawyer worm, pine beetle larva, small pine bark grub: &nbsp;<i><a href="s.htm#saklichi">saklichi</a></i>.&nbsp;
+&nbsp;cockroach, tick: &nbsp;<i><a href="i2.htm#iskanpatha">iskanpatha</a></i>.&nbsp;
+&nbsp;lice: &nbsp;<i><a href="i1.htm#ichha">ichha</a></i>.&nbsp;
+&nbsp;mosquito: &nbsp;<i><a href="k.htm#kallapìita">kallapìita</a></i>.&nbsp;
+&nbsp;ant, esp. fire ant, termite ant: &nbsp;<i><a href="i2.htm#iskanniyòosa">iskanniyòosa</a></i>.&nbsp;
+&nbsp;fire ant: &nbsp;<i><a href="i2.htm#iskanniyòosa hoyòopa">iskanniyòosa hoyòopa</a></i>.&nbsp;
+&nbsp;flying ant: &nbsp;<i><a href="i2.htm#iskaniyòosa waayóhka">iskaniyòosa waayóhka</a></i>.&nbsp;
+&nbsp;small red ant that stinks when squashed: &nbsp;<i><a href="i2.htm#iskaniyòosa kosòoma">iskaniyòosa kosòoma</a></i>.&nbsp;
+&nbsp;queen ant: &nbsp;<i><a href="i2.htm#iskaniyòosa immikko">iskaniyòosa immikko</a></i>.&nbsp;
+&nbsp;town ant, large red ant: &nbsp;<i><a href="i2.htm#iskaniyòossoba">iskaniyòossoba</a></i>.&nbsp;
+&nbsp;winged ant, termite?: &nbsp;<i><a href="c.htm#choklahpa">choklahpa</a></i>.&nbsp;
+&nbsp;black ant: &nbsp;<i><a href="i2.htm#iskanniyòosa locha">iskanniyòosa locha</a></i>.&nbsp;
+&nbsp;bee, esp. honey bee: &nbsp;<i><a href="f.htm#foho">foho</a></i>.&nbsp;
+&nbsp;bumblebee: &nbsp;<i><a href="h.htm#haskiina">haskiina</a></i>.&nbsp;
+&nbsp;yellowjacket: &nbsp;<i><a href="f.htm#fofchanassa">fofchanassa</a></i>.&nbsp;
+&nbsp;yellowjacket species (lives on the ground): &nbsp;<i><a href="h.htm#hanifatala">hanifatala</a></i>.&nbsp;
+&nbsp;wasp: &nbsp;<i><a href="f.htm#fohobaski">fohobaski</a></i>.&nbsp;
+&nbsp;green hornet: &nbsp;<i><a href="f.htm#fofchòkba">fofchòkba</a></i>.&nbsp;
+&nbsp;muddauber, dirtdauber: &nbsp;<i><a href="t.htm#tikhanti">tikhanti</a></i>.&nbsp;
+&nbsp;black insect about three inches long, thin at the middle: &nbsp;<i><a href="k.htm#kochiba">kochiba</a></i>.&nbsp;
+&nbsp;cocoon: &nbsp;<i><a href="h.htm#hakchoopalpa ochòosi">hakchoopalpa ochòosi</a></i>.&nbsp;
+&nbsp;maggot: &nbsp;<i><a href="c.htm#chokanochòosi">chokanochòosi</a></i>.&nbsp;
+&nbsp;maggot, screw worm, larva: &nbsp;<i><a href="o.htm#oya">oya</a></i>.&nbsp;
+&nbsp;mosquito larvae: &nbsp;<i><a href="y.htm#yalba">yalba</a></i>.&nbsp;
+&nbsp;woolly bear caterpillar: &nbsp;<i><a href="i2.htm#iskaniwoksi">iskaniwoksi</a>, <a href="l.htm#lambi">lambi</a></i>.&nbsp;
+&nbsp;hookworm: &nbsp;<i><a href="s.htm#sapona">sapona</a></i>.&nbsp;
+&nbsp;worm, hookworm: &nbsp;<i><a href="i2.htm#iskani">iskani</a></i>.&nbsp;
+&nbsp;tomato cutworm, caterpillar: &nbsp;<i><a href="i2.htm#iskanokchakko choba">iskanokchakko choba</a></i>.&nbsp;
+&nbsp;grub, beetle larva: &nbsp;<i><a href="s.htm#saklichi ochoski">saklichi ochoski</a></i>.&nbsp;
+&nbsp;large grub, beetle larva: &nbsp;<i><a href="s.htm#saksámpa">saksámpa</a></i>.&nbsp;
+&nbsp;large white grub species, prob. pine beetle grub: &nbsp;<i><a href="o.htm#okyaali">okyaali</a></i>.&nbsp;
+&nbsp;tick: &nbsp;<i><a href="s.htm#satanpatha">satanpatha</a>, <a href="s.htm#satani">satani</a>, <a href="s.htm#satanochoski">satanochoski</a></i>.&nbsp;
+&nbsp;woodtick, tick sp.: &nbsp;<i><a href="s.htm#satanichoba">satanichoba</a></i>.&nbsp;
+&nbsp;chiggers, red bugs: &nbsp;<i><a href="w.htm#wancholàski">wancholàski</a></i>.&nbsp;
+&nbsp;spider: &nbsp;<i><a href="h.htm#hanchokfala">hanchokfala</a></i>.&nbsp;
+&nbsp;any venomous spider: &nbsp;<i><a href="h.htm#hanchokfala kánko">hanchokfala kánko</a></i>.&nbsp;
+&nbsp;black widow spider: &nbsp;<i><a href="h.htm#hanchokfala locha">hanchokfala locha</a></i>.&nbsp;
+&nbsp;daddy longlegs: &nbsp;<i><a href="t.htm#tapassòola">tapassòola</a></i>.&nbsp;
+&nbsp;scorpion: &nbsp;<i><a href="h.htm#hachichiniili">hachichiniili</a></i>.&nbsp;
+&nbsp;crab: &nbsp;<i><a href="s.htm#sakchopatha">sakchopatha</a></i>.&nbsp;
+&nbsp;crayfish: &nbsp;<i><a href="s.htm#sakcho">sakcho</a></i>.&nbsp;
+&nbsp;red crawfish: &nbsp;<i><a href="s.htm#sakchohomma">sakchohomma</a></i>.&nbsp;
+&nbsp;shrimp: &nbsp;<i><a href="s.htm#sakchohachi">sakchohachi</a></i>.&nbsp;
+&nbsp;centipede, millipede: &nbsp;<i><a href="i2.htm#iyyilawa">iyyilawa</a></i>.&nbsp;
+&nbsp;earthworm, nightcrawler: &nbsp;<i><a href="l.htm#lapcho">lapcho</a></i>.&nbsp;
+&nbsp;leech: &nbsp;<i><a href="l.htm#lapchola">lapchola</a></i>.&nbsp;
+<br><b>insentient</b>
+&nbsp;to not be in one's right mind, insentient, unaware, incompetent, not know any better (as a baby or a drunk): &nbsp;<i><a href="h.htm#hakti">hakti</a></i>.&nbsp;
+<br><b>insert</b>
+&nbsp;to insert (one object) between, stick in between: &nbsp;<i><a href="a.htm#achasàali">achasàali</a>, <a href="s.htm#samatlichi">samatlichi</a></i>.&nbsp;
+&nbsp;to insert (one object) for, put in between two things for: &nbsp;<i><a href="i1.htm#iⁿsamatlichi">iⁿsamatlichi</a></i>.&nbsp;
+&nbsp;to be inserted, end up between (of one): &nbsp;<i><a href="s.htm#samatli">samatli</a></i>.&nbsp;
+&nbsp;to have (one object) inserted in, slipped in, squeezed in: &nbsp;<i><a href="i1.htm#iⁿsamatli">iⁿsamatli</a></i>.&nbsp;
+<br><b>inside</b>&nbsp;&nbsp;<i><a href="h.htm#hayo">hayo</a></i>.&nbsp;
+&nbsp;to be inside a closed space (of more than one): &nbsp;<i><a href="a.htm#alpitta">alpitta</a></i>.&nbsp;
+&nbsp;to be inside, be on board, ride in (a vehicle) (of more than one): &nbsp;<i><a href="a.htm#aɬka">aɬka</a></i>.&nbsp;
+&nbsp;to get into, be inside, be in jail (of one): &nbsp;<i><a href="h.htm#hokfa">hokfa</a></i>.&nbsp;
+&nbsp;to have something get inside one's clothes: &nbsp;<i><a href="i1.htm#iⁿsamatli">iⁿsamatli</a>, <a href="s.htm#samatli">samatli</a></i>.&nbsp;
+&nbsp;to put (one object) inside (a container): &nbsp;<i><a href="i2.htm#ischokoolichi">ischokoolichi</a></i>.&nbsp;
+<br><b>inside out</b>
+&nbsp;to be turned over, turned inside out, be rolled over (of one): &nbsp;<i><a href="i2.htm#ittafilinka1">ittafilinka<sup>1</sup></a></i>.&nbsp;
+&nbsp;to turn (one object) to another side, turn inside out: &nbsp;<i><a href="i2.htm#ittafíllìmmi">ittafíllìmmi</a></i>.&nbsp;
+<br><b>inspection sticker</b>&nbsp;&nbsp;<i><a href="m.htm#mobìlkimistika">mobìlkimistika</a></i>.&nbsp;
+<br><b>install</b>
+&nbsp;to install (two) in office: &nbsp;<i><a href="c.htm#chikìili">chikìili</a></i>.&nbsp;
+&nbsp;to take office, assume a position, be installed in office: &nbsp;<i><a href="l.htm#lokòoli">lokòoli</a></i>.&nbsp;
+<br><b>instead</b>
+&nbsp;instead, except: &nbsp;<i><a href="i1.htm#inkoomon">inkoomon</a></i>.&nbsp;
+<br><b>instep</b>
+&nbsp;instep, arch (of the foot): &nbsp;<i><a href="i2.htm#iyyistiⁿhachàali">iyyistiⁿhachàali</a></i>.&nbsp;
+<br><b>instruct</b>
+&nbsp;to instruct: &nbsp;<i><a href="i1.htm#imaybachi">imaybachi</a></i>.&nbsp;
+&nbsp;to teach (a subject), instruct: &nbsp;<i><a href="a.htm#aabachi">aabachi</a></i>.&nbsp;
+<br><b>instruction</b>
+&nbsp;to issue a warning, command, instruction, or general injunction: &nbsp;<i><a href="a.htm#aybachi">aybachi</a></i>.&nbsp;
+<br><b>instructor</b>&nbsp;&nbsp;<i><a href="h.htm#holisso sobaylìichi">holisso sobaylìichi</a></i>.&nbsp;
+<br><b>instrument</b>
+&nbsp;musical instrument: &nbsp;<i><a href="o.htm#olaatilka">olaatilka</a></i>.&nbsp;
+&nbsp;any small musical instrument: &nbsp;<i><a href="o.htm#olaachilkasi">olaachilkasi</a></i>.&nbsp;
+&nbsp;brass musical instrument: &nbsp;<i><a href="o.htm#ochona olaachilka">ochona olaachilka</a>, <a href="o.htm#ochonapofilka">ochonapofilka</a></i>.&nbsp;
+<br><b>insufficient</b>
+&nbsp;to be insufficient: &nbsp;<i><a href="i2.htm#istálpìsko">istálpìsko</a></i>.&nbsp;
+<br><b>intact</b>
+&nbsp;to be still unbroken, intact: &nbsp;<i><a href="b.htm#bóssòtko">bóssòtko</a></i>.&nbsp;
+<br><b>integrated</b>
+&nbsp;to be racially integrated: &nbsp;<i><a href="p.htm#paanaɬka">paanaɬka</a></i>.&nbsp;
+<br><b>intelligent</b>
+&nbsp;to be wise, intelligent: &nbsp;<i><a href="k.htm#kostini">kostini</a></i>.&nbsp;
+<br><b>interbreed</b>
+&nbsp;tribes or races that have interbred: &nbsp;<i><a href="i2.htm#ittayonkachi">ittayonkachi</a></i>.&nbsp;
+<br><b>intercourse</b>
+&nbsp;to have sexual intercourse with: &nbsp;<i><a href="b.htm#bihli">bihli</a>, <a href="p.htm#pilàachi">pilàachi</a>, <a href="a.htm#apoɬòoka">apoɬòoka</a></i>.&nbsp;
+&nbsp;to have sexual intercourse with one another: &nbsp;<i><a href="i2.htm#ittibihli">ittibihli</a></i>.&nbsp;
+&nbsp;to make the motions of sexual intercourse: &nbsp;<i><a href="o.htm#ooyoffi">ooyoffi</a></i>.&nbsp;
+&nbsp;to mount (a female) for sexual intercourse: &nbsp;<i><a href="i2.htm#istabanàaka">istabanàaka</a></i>.&nbsp;
+<br><b>interest</b>
+&nbsp;to like, love, care about, be interested in: &nbsp;<i><a href="i1.htm#imalosti">imalosti</a></i>.&nbsp;
+&nbsp;to get (someone) interested in something or someone: &nbsp;<i><a href="i1.htm#imalostichi">imalostichi</a></i>.&nbsp;
+<br><b>interfere</b>
+&nbsp;to have plans go wrong, be interfered with: &nbsp;<i><a href="i2.htm#istimpìila">istimpìila</a></i>.&nbsp;
+<br><b>interlock</b>
+&nbsp;to be interlocking (of two): &nbsp;<i><a href="i2.htm#ittihokfa">ittihokfa</a></i>.&nbsp;
+<br><b>intermarry</b>
+&nbsp;to intermarry: &nbsp;<i><a href="i2.htm#ittayommi">ittayommi</a></i>.&nbsp;
+&nbsp;to be intermarried: &nbsp;<i><a href="i2.htm#ittapaanakaakachi">ittapaanakaakachi</a></i>.&nbsp;
+<br><b>intermingle</b>
+&nbsp;to intermingle with, mix with (of one or one group): &nbsp;<i><a href="p.htm#paanaɬka">paanaɬka</a></i>.&nbsp;
+&nbsp;to mix together, intermingle (of things that should not be mixed): &nbsp;<i><a href="i2.htm#ittayommi">ittayommi</a></i>.&nbsp;
+&nbsp;to be mixed together, intermingled (of two): &nbsp;<i><a href="i2.htm#ittapaanaɬka">ittapaanaɬka</a></i>.&nbsp;
+<br><b>intermittent</b>
+&nbsp;to be intermittent, spaced far apart, infrequent: &nbsp;<i><a href="c.htm#chafaaka">chafaaka</a></i>.&nbsp;
+<br><b>interpret</b>
+&nbsp;to interpret, translate: &nbsp;<i><a href="a.htm#ayitika">ayitika</a></i>.&nbsp;
+&nbsp;to interpret for, translate for: &nbsp;<i><a href="i1.htm#imittinnaaɬiika">imittinnaaɬiika</a>, <a href="i1.htm#imayitika">imayitika</a></i>.&nbsp;
+<br><b>interpreter</b>&nbsp;&nbsp;<i><a href="m.htm#maastinnaaɬìika">maastinnaaɬìika</a>, <a href="a.htm#ayitika">ayitika</a>, <a href="i1.htm#imayitika">imayitika</a>, <a href="k.htm#kapitani">kapitani</a></i>.&nbsp;
+<br><b>interrupt</b>
+&nbsp;to bother or interrupt (someone who is busy): &nbsp;<i><a href="t.htm#taklahli">taklahli</a>, <a href="i2.htm#istimpilaachi">istimpilaachi</a></i>.&nbsp;
+<br><b>intertwine</b>
+&nbsp;to intertwine, fit together, join, chain together: &nbsp;<i><a href="i2.htm#ittihokfi">ittihokfi</a></i>.&nbsp;
+&nbsp;to be intertwining, fitted together (of two): &nbsp;<i><a href="i2.htm#ittihokfa">ittihokfa</a></i>.&nbsp;
+<br><b>interval</b>
+&nbsp;space between two points of reference, span, interval: &nbsp;<i><a href="a.htm#altàala">altàala</a></i>.&nbsp;
+<br><b>interwoven</b>
+&nbsp;anything put together by interweaving or interlocking: &nbsp;<i><a href="i2.htm#ittataɬka">ittataɬka</a></i>.&nbsp;
+&nbsp;to be interwoven, interlocking: &nbsp;<i><a href="i2.htm#ittasamahli">ittasamahli</a></i>.&nbsp;
+<br><b>intestine</b>&nbsp;&nbsp;<i><a href="c.htm#chaabi">chaabi</a>, <a href="i1.htm#inchaabi">inchaabi</a></i>.&nbsp;
+&nbsp;large intestine: &nbsp;<i><a href="i1.htm#inchaabichoba">inchaabichoba</a></i>.&nbsp;
+&nbsp;small intestine: &nbsp;<i><a href="i1.htm#inchaabosi">inchaabosi</a></i>.&nbsp;
+&nbsp;hog intestines: &nbsp;<i><a href="s.htm#sokhinchaabi">sokhinchaabi</a></i>.&nbsp;
+<br><b>in time</b>
+&nbsp;to be in time: &nbsp;<i><a href="m.htm#mayóoba">mayóoba</a></i>.&nbsp;
+<br><b>into</b>
+&nbsp;to go into, enter: &nbsp;<i><a href="c.htm#chokkaliika">chokkaliika</a>, <a href="c.htm#chokkahka">chokkahka</a>, <a href="c.htm#chokkàaka">chokkàaka</a></i>.&nbsp;
+&nbsp;to get into, be inside, be in jail (of one): &nbsp;<i><a href="h.htm#hokfa">hokfa</a></i>.&nbsp;
+&nbsp;to empty into a container, transfer from one container to another: &nbsp;<i><a href="t.htm#tosoyli">tosoyli</a></i>.&nbsp;
+&nbsp;to have something too tight to get into or through (as clothes): &nbsp;<i><a href="a.htm#awanha">awanha</a></i>.&nbsp;
+&nbsp;to put in, pour (plural objects or mass noun) into: &nbsp;<i><a href="a.htm#aɬi1">aɬi<sup>1</sup></a></i>.&nbsp;
+&nbsp;to run into, bump into, collide with (of one or once): &nbsp;<i><a href="a.htm#abatapka">abatapka</a></i>.&nbsp;
+<br><b>intoxicate</b>
+&nbsp;to intoxicate, get someone drunk: &nbsp;<i><a href="y.htm#yammichi1">yammichi<sup>1</sup></a></i>.&nbsp;
+&nbsp;to be drunk, intoxicated: &nbsp;<i><a href="y.htm#yammi1">yammi<sup>1</sup></a></i>.&nbsp;
+<br><b>intoxication</b>&nbsp;&nbsp;<i><a href="y.htm#yalinka">yalinka</a></i>.&nbsp;
+<br><b>invalid</b>
+&nbsp;a person who feels sick all the time, invalid: &nbsp;<i><a href="k.htm#koyàabi">koyàabi</a></i>.&nbsp;
+<br><b>investigate</b>
+&nbsp;to find out about, look into, investigate: &nbsp;<i><a href="a.htm#akostiniichi">akostiniichi</a>, <a href="a.htm#aawihli">aawihli</a>, <a href="i1.htm#imahaalochi">imahaalochi</a></i>.&nbsp;
+<br><b>invincible</b>
+&nbsp;to be proud, act invincible, show off: &nbsp;<i><a href="i1.htm#innakni">innakni</a></i>.&nbsp;
+<br><b>invisible</b>
+&nbsp;to be invisible: &nbsp;<i><a href="i1.htm#ilhichíkso">ilhichíkso</a>, <a href="i1.htm#ilhíichatíkko">ilhíichatíkko</a></i>.&nbsp;
+&nbsp;to be opaque, illegible, imperceivable, unclear, invisible: &nbsp;<i><a href="m.htm#mottaíkko">mottaíkko</a></i>.&nbsp;
+<br><b>invite</b>
+&nbsp;to invite, include in a group, welcome: &nbsp;<i><a href="i2.htm#iyyowwa">iyyowwa</a></i>.&nbsp;
+&nbsp;to invite, inform (someone) of an invitation: &nbsp;<i><a href="i1.htm#iⁿfatli">iⁿfatli</a></i>.&nbsp;
+<br><b>iris</b>
+&nbsp;iris of the eye: &nbsp;<i><a href="i2.htm#ittiɬbonotka">ittiɬbonotka</a></i>.&nbsp;
+<br><b>Irish potato</b>&nbsp;&nbsp;<i><a href="a.htm#ahataksi">ahataksi</a></i>.&nbsp;
+<br><b>iron</b>
+&nbsp;iron, metal: &nbsp;<i><a href="o.htm#ochana">ochana</a></i>.&nbsp;
+&nbsp;carpenter's plane, smoother, iron: &nbsp;<i><a href="i2.htm#isɬinko">isɬinko</a></i>.&nbsp;
+&nbsp;cattle brand, branding iron: &nbsp;<i><a href="w.htm#waaka isholisso">waaka isholisso</a></i>.&nbsp;
+&nbsp;iron nail: &nbsp;<i><a href="a.htm#achoopa">achoopa</a></i>.&nbsp;
+&nbsp;iron ore: &nbsp;<i><a href="t.htm#talchossi">talchossi</a></i>.&nbsp;
+&nbsp;ironing clothing, sanding lumber, planing wood, shining shoes, etc.: &nbsp;<i><a href="ll.htm#ɬimichkochi">ɬimichkochi</a>, <a href="ll.htm#ɬinkochi">ɬinkochi</a></i>.&nbsp;
+&nbsp;soldering iron: &nbsp;<i><a href="i2.htm#istonabilaachilka">istonabilaachilka</a>, <a href="ll.htm#ɬaki onaɬatoffi">ɬaki onaɬatoffi</a></i>.&nbsp;
+<br><b>ironwood</b>&nbsp;&nbsp;<i><a href="i2.htm#ittowanha">ittowanha</a></i>.&nbsp;
+&nbsp;blue beech, ironwood: &nbsp;<i><a href="i2.htm#ittosankachi">ittosankachi</a></i>.&nbsp;
+&nbsp;eastern hophornbeam, ironwood tree: &nbsp;<i><a href="a.htm#ayaanabi">ayaanabi</a></i>.&nbsp;
+<br><b>irresponsible</b>
+&nbsp;to be idle, lazy, irresponsible, shiftless: &nbsp;<i><a href="h.htm#hobakchi">hobakchi</a></i>.&nbsp;
+<br><b>irritate</b>
+&nbsp;to irritate, agitate, rub the wrong way, make impatient: &nbsp;<i><a href="n.htm#nokhamohlichi">nokhamohlichi</a></i>.&nbsp;
+&nbsp;to be irritating to: &nbsp;<i><a href="p.htm#píllàachi">píllàachi</a></i>.&nbsp;
+&nbsp;to be irritated, uncomfortable, impatient (esp. from pain): &nbsp;<i><a href="n.htm#nokhamohkachi">nokhamohkachi</a></i>.&nbsp;
+<br><b>island</b>&nbsp;&nbsp;<i><a href="i1.htm#ihaani paatalàakasi">ihaani paatalàakasi</a>, <a href="i1.htm#ihaanosi">ihaanosi</a></i>.&nbsp;
+&nbsp;Cane Island: &nbsp;<i><a href="i1.htm#iɬani ispaatalàaka">iɬani ispaatalàaka</a></i>.&nbsp;
+<br><b>itch</b>
+&nbsp;itch, raw spot: &nbsp;<i><a href="w.htm#wasihka">wasihka</a></i>.&nbsp;
+&nbsp;itch, tickle: &nbsp;<i><a href="w.htm#wasihko">wasihko</a></i>.&nbsp;
+&nbsp;to itch, have a rash, have eczema: &nbsp;<i><a href="w.htm#wasihli">wasihli</a></i>.&nbsp;
+&nbsp;to scratch an itch, rub, scrape: &nbsp;<i><a href="w.htm#waslichi">waslichi</a></i>.&nbsp;
+&nbsp;to tickle (a part of the body) for, scratch an itch on for: &nbsp;<i><a href="i2.htm#iwwachiklichi">iwwachiklichi</a></i>.&nbsp;
+&nbsp;to tickle (one), make itch, scratch an itch: &nbsp;<i><a href="w.htm#wasihlichi">wasihlichi</a></i>.&nbsp;
+&nbsp;to have an itch (in a particular place): &nbsp;<i><a href="i2.htm#iwwasihli">iwwasihli</a></i>.&nbsp;
+&nbsp;to have a tickle, feel a tickle, have a tickling feeling, have an itch (on a part of the body): &nbsp;<i><a href="i2.htm#iwwachikli">iwwachikli</a></i>.&nbsp;
+&nbsp;to have an itchy face: &nbsp;<i><a href="i1.htm#ibiiwasihli">ibiiwasihli</a></i>.&nbsp;
+<br><b>its</b>
+&nbsp;his, her, or its own: &nbsp;<i><a href="i1.htm#ibisnáali">ibisnáali</a></i>.&nbsp;
+&nbsp;his, hers, its: &nbsp;<i><a href="i1.htm#ibisno">ibisno</a></i>.&nbsp;
+<br><b>itself</b>
+&nbsp;by oneself, by himself, by herself, by itself: &nbsp;<i><a href="i1.htm#ibisnáɬɬi">ibisnáɬɬi</a>, <a href="i1.htm#ibisnáali">ibisnáali</a></i>.&nbsp;
+<br><b>ivy</b>
+&nbsp;poison ivy, poison oak: &nbsp;<i><a href="b.htm#baksakánko">baksakánko</a>, <a href="h.htm#hassikánko">hassikánko</a></i>.&nbsp;
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

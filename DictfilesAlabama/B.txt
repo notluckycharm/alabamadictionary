@@ -1,0 +1,1923 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">B</font></center><br>
+<br><font size="+2"><b><a name="baacha"></a>baacha</b> </font>
+<font size="+2">garfish </font>
+ (a type of fish similar to a carp in that it has a beard but smaller; also similar to a gar in that it is thin and has a long nose but is shorter than a gar; it is edible but bony)
+ <i>Var: báacha</i>
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="baaffi"></a>baaffi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="b.htm#bahaffi">bahaffi</a>&nbsp;
+<br><font size="+2"><b><a name="báafko"></a>báafko</b> </font>
+ <i>Var. of</i>&nbsp;<a href="b.htm#baháfko">baháfko</a>&nbsp;
+<br><font size="+2"><b><a name="bàali"></a>bàali</b> </font>
+ <i>Var. of</i>&nbsp;<a href="b.htm#bahàali">bahàali</a>&nbsp;
+<br><font size="+2"><b><a name="bàalka"></a>bàalka</b> </font>
+<font size="+2">to be lying down, laid up (in bed), bed-ridden (of more than one) </font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, bàalhilka, bàalhaska</i>)
+&nbsp; [/bal(aa)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Aathoopak bàalko.
+ <i>The sick people are lying down.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#balka">balka</a>
+<br><font size="+2"><b><a name="báalka"></a>báalka</b> </font>
+<font size="+2">to be still lying down, still in bed (of more than one) </font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, báalhilka, báalhaska</i>)
+&nbsp; [/bal(aa)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ [<i>lgr</i>]
+ ☞<a href="b.htm#balka">balka</a>
+<br><font size="+2"><b><a name="báana"></a>báana</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to have all over</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>báanatiska, báanatilka, báanataska</i>)
+ [<i>bán- before /t/</i>]
+&nbsp;<font face="Arial">«</font>Satani báanatiskamoolo.
+ <i>You are all ticky.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">just, merely, all and only; always, every time; each and every one; to be all over, be scattered all over, be everywhere, be ubiquitous; exclusively</font>
+ (often indicates that the reference of the stem it follows is exclusive of any covering or other attachments)
+&nbsp;<font face="Arial">«</font>Tóklobáanat ontichihchi.
+ <i>They're coming two by two.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chisatanibáanamoolo.
+ <i>You have ticks all over you.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Naaniya báanasot ittilokòolok amaakatoolo.
+ <i>Only the men would get together and go.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Anáɬɬibáanoolo.
+ <i>I've always been by myself.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akáhmibáana.
+ <i>It's like that all the time.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Iyyibáana.
+ <i>Bare-footed; to be just a foot (as something killed and ate an animal leaving only a foot).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Isbakkibáana.
+ <i>Bare-headed.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Isbakkobáana.
+ <i>Bare-headed.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Iskani báanahchi.
+ <i>To be bug-infested.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chikpibáana.
+ <i>Open-shirted (i.e. all chest).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hachibáana.
+ <i>Just the tail (bare-tailed).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mobìlkabáana.
+ <i>Empty car, just a car; cars all over (as a large, full parking lot).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kafistisilkabáana.
+ <i>Empty cup.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chichobabáana.
+ <i>Just a horse (a bare horse with no saddle); horses all over.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Pakaalibáana.
+ <i>All flowers, flowers all over; cotton patch.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ilokfabáanaschoopa.
+ <i>Department store.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ischoopabáana.
+ <i>Shopping center, mall; something that one regularly sells (e.g. her baskets are Doris's ischoopabaana).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Táɬɬàapibáana.
+ <i>Every one of them is five years old; they all have five each.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yáalibáana.
+ <i>Just around here (said in answer to `where you been?').</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kootkabáana.
+ <i>He's always whistling.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Batatlilibáana.
+ <i>I always hit it; I get a hit every time (in baseball).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Bayabáana.
+ <i>All the furniture is made of oak (not a stand of oak trees, they don't grow all together like pines).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhmibáana.
+ <i>He had to do it, it was all he could do; it's happening all the time.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hatkabáana.
+ <i>It's all white.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nipobáana.
+ <i>Lean meat.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="báaski"></a>báaski</b> </font>
+<font size="+2">to be very long</font>
+&nbsp; [/baski]
+ [<i>hgr</i>]
+ ☞<a href="b.htm#baski">baski</a>
+<br><font size="+2"><b><a name="báassi"></a>báassi</b> </font>
+<font size="+2">to be weaker, poorer</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>hgr</i>]
+&nbsp;<font face="Arial">«</font>Báassit ilakàalkot anooko.
+ <i>She's getting weaker.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ischimbáassit anooko.
+ <i>I'm poorer than you.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#bassi">bassi</a>
+<br><font size="+2"><b><a name="bachaaka"></a>bachaaka</b> </font>
+<font size="+2">hair ornament, hair bow, ribbon </font>
+&nbsp; [/bachaa-ka<sup>1</sup>]
+ <i>Var: bachaka</i>
+&nbsp;<font size="0">(IB)</font>
+ ☞<a href="b.htm#bachaali">bachaali</a>
+<br><font size="+2"><b><a name="bachaali"></a>bachaali</b> </font>
+<font size="+2">to tie (something) in the hair </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>bachaachi, bachaahili, bachaahachi</i>)
+&nbsp; [/bachaa-li]
+<br>&nbsp;&nbsp;<i><a href="b.htm#bachaaka">bachaaka</a></i>
+&nbsp;hair ornament
+<br>&nbsp;&nbsp;<i><a href="i2.htm#isbachaaka">isbachaaka</a></i>
+&nbsp;hair ornament
+<br>&nbsp;&nbsp;<i><a href="b.htm#bátchàali">bátchàali</a></i>
+&nbsp;to wear in the hair
+<br><font size="+2"><b><a name="bachaka"></a>bachaka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="b.htm#bachaaka">bachaaka</a>&nbsp;
+<br><font size="+2"><b><a name="bachaktapaski"></a>bachaktapaski</b> </font>
+<font size="+2">ribbon </font>
+&nbsp; [prob. /bachaa-ka<sup>1</sup> /tapaski]
+<br><font size="+2"><b><a name="bafko"></a>bafko</b> </font>
+<font size="+2">to be gray (especially of an animal, such as a Brahma bull) </font>
+ <i>Usage: </i>Older word; not used of human hair, which is hatka.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+<br><font size="+2"><b><a name="bahàali"></a>bahàali</b> </font>
+<font size="+2">to push (plural objects or repeatedly)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>bahàachi, bahàahili, bahàahachi</i>)
+&nbsp; [/baha(f)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ <i>Var: bàali</i>
+ ☞<a href="b.htm#bahaffi">bahaffi</a>
+<br><font size="+2"><b><a name="bahaffi"></a>bahaffi</b> </font>
+<font size="+2">to push once</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>bahafchi, bahafhili, bahafhachi</i>)
+&nbsp; [/bahaf-li]
+ <i>Var: baaffi</i>
+<br>&nbsp;&nbsp;<i><a href="b.htm#baháfko">baháfko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="b.htm#báhhaffi">báhhaffi</a></i>
+&nbsp;to hold up
+<br>&nbsp;&nbsp;<i><a href="b.htm#bahàali">bahàali</a></i>
+&nbsp;to push more than once
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#báhhàali">báhhàali</a></i>
+&nbsp;to hold up (pl. obj.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittibàali">ittibàali</a></i>
+&nbsp;to push each other
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maabàali">maabàali</a></i>
+&nbsp;to push (something) toward
+<br><font size="+2"><b><a name="baháfko"></a>baháfko</b> </font>
+ Neg.
+ <i>Var: báafko</i>
+ ☞<a href="b.htm#bahaffi">bahaffi</a>
+<br><font size="+2"><b><a name="báhhàali"></a>báhhàali</b> </font>
+<font size="+2">to hold up (several things about to fall down)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>báhhàachi, báhhàahili, báhhàahachi</i>)
+ [<i>ggr</i>]
+ ☞<a href="b.htm#bahàali">bahàali</a>
+<br><font size="+2"><b><a name="báhhaffi"></a>báhhaffi</b> </font>
+<font size="+2">to hold up (something about to fall down)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>báhhafchi, báhhafhili, báhhafhachi</i>)
+&nbsp; [/bahaf-li]
+ [<i>ggr</i>]
+ ☞<a href="b.htm#bahaffi">bahaffi</a>
+<br><font size="+2"><b><a name="bahka"></a>bahka</b> </font>
+<font size="+2">to be mashed</font>
+&nbsp; [/bah-ka<sup>1</sup>]
+ ☞<a href="b.htm#bahli">bahli</a>
+<br><font size="+2"><b><a name="bàhko"></a>bàhko</b> </font>
+ Neg.
+ ☞<a href="b.htm#bahli">bahli</a>
+<br><font size="+2"><b><a name="bahli"></a>bahli</b> </font>
+<font size="+2">to mash</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>bahchi, bahhili, bahhachi</i>)
+&nbsp; [/bah-li]
+ {poss. &nbsp;/bahaf-li}
+<br>&nbsp;&nbsp;<i><a href="b.htm#bàhko">bàhko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="b.htm#bahka">bahka</a></i>
+&nbsp;to be mashed
+<br><font size="+2"><b><a name="bahta"></a>bahta</b> </font>
+<font size="+2">shoulder bag, a bag carried on a strap around the shoulder while hunting, bandolier bag </font>
+ <i>Usage: </i>Older word.
+<br><font size="+2"><b><a name="bakàhko"></a>bakàhko</b> </font>
+ Neg.
+ ☞<a href="b.htm#bakahli">bakahli</a>
+<br><font size="+2"><b><a name="bakahli"></a>bakahli</b> </font>
+<font size="+2">to throw at</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>bakahchi, bakahhili, bakahhachi</i>)
+&nbsp; [/bakah-li]
+&nbsp;<font face="Arial">«</font>Ifan bakahlilaho.
+ <i>I'm going to throw things at the dog (to make it go away).</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="b.htm#bakàhko">bakàhko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i2.htm#isbakahli">isbakahli</a></i>
+&nbsp;to throw down
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isbakahka">isbakahka</a></i>
+&nbsp;to be thrown at (something)
+<br>&nbsp;&nbsp;<i><a href="m.htm#maastimbakahli">maastimbakahli</a></i>
+&nbsp;to throw to (someone at a distance)
+<br><font size="+2"><b><a name="bakba"></a>bakba</b> </font>
+<font size="+2">woodpecker, pileated woodpecker </font>
+<br><font size="+2"><b><a name="bakcho"></a>bakcho</b> </font>
+<font size="+2">thorns; any plant with thorns, brier; blackberry </font>
+<br><font size="+2"><b><a name="bakcho hollo"></a>bakcho hollo</b> </font>
+<font size="+2">greenbrier </font>
+ <i>(Smilax sp)</i>
+&nbsp; [/bakcho /hollo]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="bakcho itabatli"></a>bakcho itabatli</b> </font>
+<font size="+2">dewberry </font>
+&nbsp;<font color="#080000">Cul:  The berries are edible, and the root may be boiled to make a tea that cures diarrhea.</font>&nbsp;
+&nbsp; [/bakcho /itabat-li]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="bakchokchako"></a>bakchokchako</b> </font>
+<font size="+2">greenbrier </font>
+ <i>(Smilax sp)</i>
+&nbsp; [prob. &nbsp;/bakcho /okchakko]
+<br><font size="+2"><b><a name="bakchopakaali"></a>bakchopakaali</b> </font>
+<font size="+2">rose, rosebush </font>
+ <i>(Rosa spp)</i>
+&nbsp; [/bakcho /pakaali]
+<br><font size="+2"><b><a name="bàki"></a>bàki</b> </font>
+<font size="+2">buggy, two-wheeled carriage</font>
+ {&nbsp;English}
+<br><font size="+2"><b><a name="bakínno"></a>bakínno</b> </font>
+ Neg.
+ ☞<a href="b.htm#banna">banna</a>
+<br><font size="+2"><b><a name="bakìybo"></a>bakìybo</b> </font>
+ Neg.
+ ☞<a href="b.htm#bayba">bayba</a>
+<br><font size="+2"><b><a name="baksa"></a>baksa</b> </font>
+<font size="+2">thread, twine, rope, raffia</font>
+&nbsp;<font color="#080000">Cul:  Bark is stripped from the bottom of the rope tree up and used in making chair seats.</font>&nbsp;
+<br>&nbsp;&nbsp;<i><a href="b.htm#baksahachi">baksahachi</a></i>
+&nbsp;tree species
+<br><font size="+2"><b><a name="baksa achitli"></a>baksa achitli</b> </font>
+<font size="+2">to tie small lines onto (esp. on the main line of a trotline) </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [/baksa /achit(ìi)-li]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="a.htm#achitli">achitli</a>
+<br><font size="+2"><b><a name="baksa apankachi"></a>baksa apankachi</b> </font>
+<font size="+2">spool</font>
+&nbsp; [/baksa a- /pan(ay)-ka<sup>1</sup>-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="baksaatka"></a>baksaatka</b> </font>
+<font size="+2">sewing thread</font>
+&nbsp; [/baksa /hat-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="baksa baski"></a>baksa baski</b> </font>
+<font size="+2">main line of trotline </font>
+&nbsp; [/baksa /baski]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="baksahachi"></a>baksahachi</b> </font>
+<font size="+2">tree species, ropetree? </font>
+&nbsp;<font color="#080000">Cul:  Used to make baskets.</font>&nbsp;
+&nbsp; [/baksa /hachi]
+ ☞<a href="b.htm#baksa">baksa</a>
+<br><font size="+2"><b><a name="baksakánko"></a>baksakánko</b> </font>
+<font size="+2">poison ivy, poison oak </font>
+&nbsp; [/baksa /kano-ki-o<sup>2</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="balàa-"></a>balàa-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="b.htm#balàali">balàali</a></i>
+&nbsp;to lay (one long obj.) down
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#balàako">balàako</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#abalàali">abalàali</a></i>
+&nbsp;security on a loan
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paabalàali">paabalàali</a></i>
+&nbsp;to lay (something) down on top of
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paabállàali">paabállàali</a></i>
+&nbsp;to have something lying on top of something
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ispaabalàali">ispaabalàali</a></i>
+&nbsp;to lay down on its side
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#balli">balli</a></i>
+&nbsp;to lay (pl. obj.) down
+<br>&nbsp;&nbsp;<i><a href="b.htm#balàaka">balàaka</a></i>
+&nbsp;to go to bed
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#balaíkko">balaíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#baláaka">baláaka</a></i>
+&nbsp;to be still lying down
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#aabalàilka">aabalàilka</a></i>
+&nbsp;bed
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#aabalàilkasi">aabalàilkasi</a></i>
+&nbsp;cot
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="c.htm#chaknáaskit baláaka">chaknáaskit baláaka</a></i>
+&nbsp;to lie on the side
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="h.htm#hanokfalánkat balàaka">hanokfalánkat balàaka</a></i>
+&nbsp;to lie with the head back
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="h.htm#haatanatlit balàaka">haatanatlit balàaka</a></i>
+&nbsp;to turn over when lying down
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paabalàaka">paabalàaka</a></i>
+&nbsp;to lie down on one's side
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#balaalichi">balaalichi</a></i>
+&nbsp;to put to bed due to illness
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#bállàaka">bállàaka</a></i>
+&nbsp;to be bed-ridden
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imbalàaka">imbalàaka</a></i>
+&nbsp;to spend the night at
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isbalàaka">isbalàaka</a></i>
+&nbsp;to line up
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isbállàaka">isbállàaka</a></i>
+&nbsp;to be in a line
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istimbalàaka">istimbalàaka</a></i>
+&nbsp;hallway
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ispaabállàaka">ispaabállàaka</a></i>
+&nbsp;to lying on a flat surface
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maabállàaka">maabállàaka</a></i>
+&nbsp;to be lying at a distance
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maatabalàaka">maatabalàaka</a></i>
+&nbsp;to sleep away from home
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#onabalàaka">onabalàaka</a></i>
+&nbsp;to sleep over at place
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#balaska">balaska</a></i>
+&nbsp;to go to bed
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#balasoka">balasoka</a></i>
+ Imp.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#baláaska">baláaska</a></i>
+&nbsp;to be still lying down (dl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#bállaska">bállaska</a></i>
+&nbsp;to be lying down (dl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#balka">balka</a></i>
+&nbsp;to go to bed
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#balhíkko">balhíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#balhoka">balhoka</a></i>
+ Imp.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maabàalka">maabàalka</a></i>
+&nbsp;to be lying at a distance
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#bàalka">bàalka</a></i>
+&nbsp;to bed-ridden
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#báalka">báalka</a></i>
+&nbsp;to be still lying down (pl.)
+<br><font size="+2"><b><a name="balaachi"></a>balaachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="b.htm#balaalichi">balaalichi</a>&nbsp;
+<br><font size="+2"><b><a name="balàaka"></a>balàaka</b> </font>
+<font size="+2">to go to bed, lie down (of one) </font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>balàahiska, -, -</i>)
+&nbsp; [/balaa-ka<sup>1</sup>]
+ [<i>Irr: </i>PlStem=balka; DlStem=balaska]
+ [<i>fgr</i>]
+ <i>Neg: </i>balaíkko
+&nbsp;<font face="Arial">«</font>Ifa nòochiya balàakatika.
+ <i>Let sleeping dogs lie.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#balàa-">balàa-</a>
+<br><font size="+2"><b><a name="baláaka"></a>baláaka</b> </font>
+<font size="+2">to be still in bed, still lying down (of one) </font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>baláahiska, -, -</i>)
+&nbsp; [/balaa-ka<sup>1</sup>]
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Baláako.
+ <i>He's still in bed.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#balàaka">balàaka</a>
+<br><font size="+2"><b><a name="balàako"></a>balàako</b> </font>
+ Neg.
+ ☞<a href="b.htm#balàali">balàali</a>
+<br><font size="+2"><b><a name="balàali"></a>balàali</b> </font>
+<font size="+2">to lay (one long object) down</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>balàachi, balàahili, balàahachi</i>)
+&nbsp; [/balaa-li]
+ [<i>Irr: </i>DlStem=balasli]
+ [<i>fgr</i>]
+ <i>Pl: </i>balli
+ <i>Neg: </i>balàako
+&nbsp;<font face="Arial">«</font>Ihtofa okchákkofan chabállàalik...
+ <i>He maketh me lie down in green pastures...</i> <font size="0">(TTP)</font><font face="Arial">»</font>
+ ☞<a href="b.htm#balàa-">balàa-</a>
+<br><font size="+2"><b><a name="balaalichi"></a>balaalichi</b> </font>
+<font size="+2">to put to bed due to illness, put in the hospital, hospitalize (one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>balaachichi, balaahilichi, balaahachichi</i>)
+&nbsp; [/balaa-li-chi<sup>1</sup>]
+ <i>Var: balaachi</i>
+&nbsp;<font face="Arial">«</font>Toɬɬoilkak chabalaalichiti.
+ <i>The cold put me to bed.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Alikchik chabalaachiti.
+ <i>The doctor put me to sleep.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#balàaka">balàaka</a>
+<br><font size="+2"><b><a name="balàana"></a>balàana</b> </font>
+<font size="+2">banana </font>
+ {&nbsp;English}
+ <i>Var: banàana</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="baláaska"></a>baláaska</b> </font>
+<font size="+2">to be still in bed, still lying down (of two) </font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, baláahilka, baláahaska</i>)
+&nbsp; [/balaa&lt;s&gt;-ka<sup>1</sup>]
+ [<i>lgr</i>]
+ ☞<a href="b.htm#balaska">balaska</a>
+<br><font size="+2"><b><a name="balaíkko"></a>balaíkko</b> </font>
+ Neg.
+ ☞<a href="b.htm#balàaka">balàaka</a>
+<br><font size="+2"><b><a name="balaska"></a>balaska</b> </font>
+<font size="+2">to go to bed, lie down (of two)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, balasilka, balasaska</i>)
+&nbsp; [/balaa&lt;s&gt;-ka<sup>1</sup>]
+ [<i>Irr: </i>SgStem=balàaka; PlStem=balka]
+ <i>Neg: </i>balasíkko
+ ☞<a href="b.htm#balàaka">balàaka</a>
+<br><font size="+2"><b><a name="balasoka"></a>balasoka</b> </font>
+ Imp.
+ ☞<a href="b.htm#balaska">balaska</a>
+<br><font size="+2"><b><a name="balhíkko"></a>balhíkko</b> </font>
+ Neg.
+ ☞<a href="b.htm#balka">balka</a>
+<br><font size="+2"><b><a name="balhoka"></a>balhoka</b> </font>
+ Imp.
+ ☞<a href="b.htm#balka">balka</a>
+<br><font size="+2"><b><a name="balinna"></a>balinna</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be wanted</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/ba&lt;li&gt;nna]
+&nbsp;2.&nbsp;
+<font size="+2">need, want</font>
+ ☞<a href="b.htm#banna">banna</a>
+<br><font size="+2"><b><a name="balissa"></a>balissa</b> </font>
+<font size="+2">poverty, weakness; famine, economic depression</font>
+&nbsp; [/ba&lt;li&gt;ssi-a]
+ ☞<a href="b.htm#bassi">bassi</a>
+<br><font size="+2"><b><a name="baliyba"></a>baliyba</b> </font>
+<font size="+2">heaviness, weight</font>
+&nbsp; [/ba&lt;li&gt;yba]
+ ☞<a href="b.htm#bayba">bayba</a>
+<br><font size="+2"><b><a name="balka"></a>balka</b> </font>
+<font size="+2">to go to bed, lie down (of more than one) </font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, balhilka, balhaska</i>)
+&nbsp; [/bal(aa)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ [<i>Irr: </i>SgStem=balàaka; DlStem=balaska]
+ <i>Neg: </i>balhíkko
+&nbsp;<font face="Arial">«</font>Balkaamáɬɬok ittiⁿfatliimok hàalot balkatáaton ostistanòolok `moolo' mankamok `tof tof tof tof tof' homankahchi.
+ <i>They would lie down and tell them to each other and they would lie there listening until the person had finished and said `that's all' and then they would say (spitting) `ptui ptui'.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Balkati.
+ <i>They went to bed.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#balàaka">balàaka</a>
+<br><font size="+2"><b><a name="bállàaka"></a>bállàaka</b> </font>
+<font size="+2">to be lying down, in bed, be laid up (in bed), bed-ridden (of one) </font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>bállàahiska, -, -</i>)
+&nbsp; [/balaa-ka<sup>1</sup>]
+ [<i>Irr: </i>DlStem=bállaska; PlStem=bàalka]
+ [<i>ggr</i>]
+ <i>Neg: </i>bállaíkko
+&nbsp;<font face="Arial">«</font>Bállàakaton óohcho.
+ <i>He's been in bed a long time.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#balàaka">balàaka</a>
+<br><font size="+2"><b><a name="bállaska"></a>bállaska</b> </font>
+<font size="+2">to be lying down, in bed, be laid up (in bed), bed-ridden (of two) </font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, bállasilka, bállasaska</i>)
+&nbsp; [/balaa&lt;s&gt;-ka<sup>1</sup>]
+ [<i>Irr: </i>SgStem=bállàaka; PlStem=bàalka]
+ [<i>ggr</i>]
+ ☞<a href="b.htm#balaska">balaska</a>
+<br><font size="+2"><b><a name="balli"></a>balli</b> </font>
+<font size="+2">to lay (plural objects) down</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>balchi, balhili, balhachi</i>)
+&nbsp; [/bal(aa)-li]
+ [<i>dsfx1</i>]
+ <i>Neg: </i>bálko
+ ☞<a href="b.htm#balàali">balàali</a>
+<br><font size="+2"><b><a name="balonka"></a>balonka</b> </font>
+<font size="+2">balloon</font>
+ {&nbsp;English}
+&nbsp; [/balon-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="baɬapka"></a>baɬapka</b> </font>
+<font size="+2">to cut down, flatten, trample, destroy (especially vegetation) (of an animate agent)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>baɬapiska, baɬaphili, baɬaphachi</i>)
+&nbsp; [/baɬap-ka<sup>1</sup>]
+ <i>Pl: </i>baɬɬichi
+&nbsp;<font face="Arial">«</font>Ittaposan baɬapkalihchi.
+ <i>I'm cutting down the bushes.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#baɬapli">baɬapli</a>
+<br><font size="+2"><b><a name="baɬápko"></a>baɬápko</b> </font>
+ Neg.
+ ☞<a href="b.htm#baɬapli">baɬapli</a>
+<br><font size="+2"><b><a name="baɬapli"></a>baɬapli</b> </font>
+<font size="+2">to destroy, raze, flatten (vegetation), level (as a house) (used of a storm or tornado)</font>
+&nbsp; [/baɬap-li]
+<br>&nbsp;&nbsp;<i><a href="b.htm#baɬápko">baɬápko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="b.htm#baɬapka">baɬapka</a></i>
+&nbsp;to cut down
+<br>&nbsp;&nbsp;<i><a href="b.htm#baɬɬichi">baɬɬichi</a></i>
+&nbsp;to clear
+<br><font size="+2"><b><a name="baɬka"></a>baɬka</b> </font>
+<font size="+2">grape, raisin </font>
+<br><font size="+2"><b><a name="baɬkalocha"></a>baɬkalocha</b> </font>
+<font size="+2">black grape </font>
+&nbsp; [/baɬka /locha]
+<br><font size="+2"><b><a name="baɬka okchi ataanapli"></a>baɬka okchi ataanapli</b> </font>
+<font size="+2">wine</font>
+&nbsp; [/baɬka /okchi /ataanapli]
+<br><font size="+2"><b><a name="baɬkapihchi"></a>baɬkapihchi</b> </font>
+<font size="+2">wild grape vine </font>
+&nbsp; [/baɬka /apihchi]
+<br><font size="+2"><b><a name="baɬkapìhchi okchakko"></a>baɬkapìhchi okchakko</b> </font>
+<font size="+2">blue vine with thorns, rattan? </font>
+&nbsp; [/baɬka /apihchi /okchakko]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="baɬkokchi"></a>baɬkokchi</b> </font>
+<font size="+2">grape juice</font>
+&nbsp; [/baɬka /okchi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="baɬkokchi kamoska"></a>baɬkokchi kamoska</b> </font>
+<font size="+2">wine</font>
+&nbsp; [/baɬka /okchi /kamoska]
+<br><font size="+2"><b><a name="baɬkokchi kaskaha"></a>baɬkokchi kaskaha</b> </font>
+<font size="+2">wine</font>
+&nbsp; [/baɬka /okchi /kaskaha]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="baɬɬichi"></a>baɬɬichi</b> </font>
+<font size="+2">to thin out, clear, hoe (a field, usually for planting), knock down (e.g. weeds, apples) </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>baɬchichi, baɬhilichi, baɬhachichi</i>)
+&nbsp; [/baɬ(ap)-li-chi<sup>2</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="b.htm#baɬapli">baɬapli</a>
+<br><font size="+2"><b><a name="banàana"></a>banàana</b> </font>
+ <i>Var. of</i>&nbsp;<a href="b.htm#balàana">balàana</a>&nbsp;
+<br><font size="+2"><b><a name="bànko"></a>bànko</b> </font>
+ Neg.
+<font size="+2">to not want, dislike</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Mobìlkan waliikasbánkobi.
+ <i>The car won't start.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...mikkon imonnaaɬaalahoolin anok chabànkohchon sokchon hokfit ishochachókkòolìichihchommo.
+ <i>They want me to become the chief's son-in-law but I don't want to so they put me in a sack and left me sitting.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Onkatohatáskan aatik hoháalohchootohatáskat hosobáylistáskat akkáaliiyon chokòolahiyon hobánkofòokayo.
+ <i>That's how they said it would be and the Indians heard it and knew about it and they didn't want anyone else living there.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Lokòokan istaⁿɬakoffaik chabànkobi.
+ <i>I don't want to miss the meeting.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhmiimát Waynekaya oolafan aɬɬasbànkohchooti.
+ <i>Sometimes Wayne doesn't want to go to town.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkáamifòokaya nàason nipo hobànkotoolo nipillawaamok isatoolo.
+ <i>When they did that they wouldn't need any kind of meat because they would have lots of meat.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+ ☞<a href="b.htm#banna">banna</a>
+<br><font size="+2"><b><a name="banna"></a>banna</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to want (some thing or occurrence), need, like, be inclined to, try; to be taken by</font>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font color="#800080" size="+1">CHA-/3</font>
+&nbsp;<font face="Arial">«</font>Hakchommon sóⁿkas chabannok nàksàami óyhaayon sónkat hìichalaapin chabánkon faylilikha.
+ <i>I was trying to smoke and tried all kinds of brands but it wouldn't take me.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Bitlis banno.
+ <i>He wants to dance.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Bitláik banno.
+ <i>He would like to dance.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Talwas chabanna.
+ <i>I want to sing.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Talwaalak chabanno.
+ <i>I want to sing.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Roykak imalpisalaan chabanno.
+ <i>I want Roy to get ready.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tachilwalaan chabanno.
+ <i>I want you to sing.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ampasàalik alikchoolaan chabanno.
+ <i>I want my son to be a doctor.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Alìkchok istiliichabanno.
+ <i>I want to be a doctor.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...nàahot nàahómmòonafòokayon Presbyteriyok hachàalaayóot hobannahchoot ommitoolo.
+ <i>...when they first had a Presbytery, I guess they wanted a building.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Chibánnaama isnok ommi', mankan.
+ <i>`If you want, you can be the one', he said.</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máamin alìilamoolo, naho akkon aⁿfatchiiyok naho akkáhchon píila, aatihóssìinokáhmiyok naho akkáamit sáhchootoomon aⁿfatlilaon chabannahch onkaliti.
+ <i>Well then it is very good that you tell me those things, things just like that; I want the older people to tell me about how it used to be.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Truckkan waliikasbánnamókkobi.
+ <i>My truck's hard to start.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to want, need (a person)</font>
+&nbsp;<font color="#800080" size="+1">CHA-/CHA-</font>
+&nbsp;<font face="Arial">«</font>Chichabanna.
+ <i>I want you.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="b.htm#bànko">bànko</a></i>
+ Neg.
+&nbsp;to not want
+<br>&nbsp;&nbsp;<i><a href="b.htm#bannatíkko">bannatíkko</a></i>
+ Neg.
+&nbsp;to not want
+<br>&nbsp;&nbsp;<i><a href="b.htm#bakínno">bakínno</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="b.htm#balinna">balinna</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be wanted
+&nbsp;2.&nbsp;
+&nbsp;need, want
+<br>&nbsp;&nbsp;<i><a href="i1.htm#imbanna">imbanna</a></i>
+&nbsp;to want (something) from
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istimbanna">istimbanna</a></i>
+&nbsp;to recommend
+<br>&nbsp;&nbsp;<i><a href="o.htm#okibanna">okibanna</a></i>
+&nbsp;to be thirsty
+<br><font size="+2"><b><a name="bannatíkko"></a>bannatíkko</b> </font>
+ Neg.
+<font size="+2">to not want, dislike</font>
+&nbsp;<font face="Arial">«</font>Akkàamiiyon chabannatíkkoti.
+ <i>I don't like what happened.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#banna">banna</a>
+<br><font size="+2"><b><a name="banta"></a>banta</b> </font>
+<font size="+2">gar, carp </font>
+ (described as larger than baacha but the flesh is too tough to be edible)
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="Baptiskaha"></a>Baptiskaha</b> </font>
+<font size="+2">Baptists</font>
+&nbsp; [/Baptis-ka<sup>3</sup>-ha]
+ {&nbsp;English}
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="bas-"></a>bas-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="b.htm#basli">basli</a></i>
+&nbsp;to strike stone
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#básko">básko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#baska">baska</a></i>
+&nbsp;to be shattered
+<br>&nbsp;&nbsp;<i><a href="b.htm#baska">baska</a></i>
+&nbsp;to chip with a tool
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#basoka">basoka</a></i>
+ Imp.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#baslichi">baslichi</a></i>
+&nbsp;to shatter, flake
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#baskìicho">baskìicho</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#baslichitíkko">baslichitíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="basaahachi"></a>basaahachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="b.htm#basayyachi">basayyachi</a>&nbsp;
+<br><font size="+2"><b><a name="basayyachi"></a>basayyachi</b> </font>
+<font size="+2">species of tall plant, having white flowers in large clusters</font>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: basaahachi</i>
+&nbsp;<font size="0">(IB, DB)</font>
+<br><font size="+2"><b><a name="basbaki"></a>basbaki</b> </font>
+<font size="+2">to be striped</font>
+ {reduplication of baski?}
+<br>&nbsp;&nbsp;<i><a href="b.htm#basbakitíkko">basbakitíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="basbakitíkko"></a>basbakitíkko</b> </font>
+ Neg.
+ ☞<a href="b.htm#basbaki">basbaki</a>
+<br><font size="+2"><b><a name="basíkko"></a>basíkko</b> </font>
+ Neg.
+<font size="+2">to be short</font>
+ ☞<a href="b.htm#baski">baski</a>
+<br><font size="+2"><b><a name="baska"></a>baska</b><sup>1</sup> </font>
+<font size="+2">to be shattered</font>
+&nbsp; [/bas-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Ochokbak baskahchi.
+ <i>The bottle is shattered.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#basli">basli</a>
+<br><font size="+2"><b><a name="baska"></a>baska</b><sup>2</sup> </font>
+<font size="+2">to chip, flake with a tool; to shatter (a bottle) to get slivers</font>
+&nbsp;<font color="#080000">Cul:  Some say people who have been infected by a witch can be cured by scratching the body with glass pieces to bleed out the bad medicine inserted by the witch. Blood letting also used traditionally to cure toothache or swellings.</font>&nbsp;
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>basiska, basilka, basaska</i>)
+&nbsp; [/bas-ka<sup>1</sup>]
+ <i>Neg: </i>basíkko
+&nbsp;<font face="Arial">«</font>Talin baskalo ɬaki tobachaalaok.
+ <i>I'm chipping stone to make an arrowhead.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Okchoban basiskahchi stalikchitiskaimo?
+ <i>Did you break the bottle so you could doctor with it?</i><font face="Arial">»</font>
+ ☞<a href="b.htm#bas-">bas-</a>
+<br><font size="+2"><b><a name="báska"></a>báska</b> </font>
+<font size="+2">school bus</font>
+&nbsp; [/bás-ka<sup>3</sup>]
+ {&nbsp;English}
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="baski"></a>baski</b> </font>
+<font size="+2">to be long</font>
+&nbsp;<font face="Arial">«</font>Màamok kapachiyókkoti pokko nahoⁿ, unh, nàasok poɬachíiyok istimoɬachi ittok hobáskihchok tóklot lókkòolin pokkon istittaɬopotliimáaɬok istibihchootoolo.
+ <i>I don't mean the racquet now, the ball, something, the poɬachi, they would take it, the one with the ball goes through those two long poles standing upright and that's how they win.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Itton hocháklit nahoomok, ittiswakaykakon hotalbòolit hobaskit yáamòosikáhchon (gesture) hotalbòoliimok (gesture) ittimpòoktat howaakayòolihchoolikha.
+ <i>They would chop some of the logs and that's the way they would do; they would make a gadget to lift logs with, they made it about so long (three feet), and got on either side and used to lift that way.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="b.htm#basíkko">basíkko</a></i>
+ Neg.
+&nbsp;to be short
+<br>&nbsp;&nbsp;<i><a href="b.htm#báaski">báaski</a></i>
+&nbsp;to be very long
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ibisaanik baskifíina">ibisaanik baskifíina</a></i>
+&nbsp;to be nosey
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ibisaanik baskitíkko">ibisaanik baskitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="m.htm#maahobaski">maahobaski</a></i>
+&nbsp;to grow out
+<br>&nbsp;&nbsp;<i><a href="b.htm#baskichi">baskichi</a></i>
+&nbsp;to lengthen
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ichoolaksin imbaskichi">ichoolaksin imbaskichi</a></i>
+&nbsp;to stick out (the tongue) at
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#baskìichi">baskìichi</a></i>
+&nbsp;to lengthen a little
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isbaskíichi">isbaskíichi</a></i>
+&nbsp;to talk a long time
+<br><font size="+2"><b><a name="baskichi"></a>baskichi</b> </font>
+<font size="+2">to lengthen, let (the hair) grow long</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>baskichiska, baskichilka, baskichaska</i>)
+&nbsp;(<i>baskichitiska, baskichitilka, baskichitaska</i>)
+&nbsp; [/baski-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chihissin hobaskichi.
+ <i>Let your hair grow long.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Isna chihissin hobaskíitiskahchi.
+ <i>You're letting your hair grow long.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#baski">baski</a>
+<br><font size="+2"><b><a name="baskìichi"></a>baskìichi</b> </font>
+<font size="+2">to lengthen a little, let out a hem</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>baskìichitiska, baskìichitilka, baskìichitaska</i>)
+&nbsp; [/baski-chi<sup>1</sup>]
+ [<i>fgr</i>]
+ ☞<a href="b.htm#baskichi">baskichi</a>
+<br><font size="+2"><b><a name="baskìicho"></a>baskìicho</b> </font>
+ Neg.
+ ☞<a href="b.htm#baslichi">baslichi</a>
+<br><font size="+2"><b><a name="básko"></a>básko</b> </font>
+ Neg.
+ ☞<a href="b.htm#bas-">bas-</a>
+<br><font size="+2"><b><a name="basli"></a>basli</b> </font>
+<font size="+2">to strike stone (flint) to chip or produce sparks; to flake (stone); to shatter (a bottle) to get slivers</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>baschi, bashili, bashachi</i>)
+&nbsp; [/bas-li]
+ <i>Neg: </i>básko
+&nbsp;<font face="Arial">«</font>Ochokban baslilao.
+ <i>I'm going to shatter a bottle.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#bas-">bas-</a>
+<br><font size="+2"><b><a name="baslichi"></a>baslichi</b> </font>
+<font size="+2">to break up, shatter glass (esp. to get pieces for bloodletting); to flake (stone for arrows)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>baschichi, bashilichi, bashachichi</i>)
+&nbsp; [/bas-li-chi<sup>2</sup>]
+ <i>Neg: </i>baskìicho, baslichitíkko
+ ☞<a href="b.htm#baska2">baska<sup>2</sup></a>
+<br><font size="+2"><b><a name="baslichitíkko"></a>baslichitíkko</b> </font>
+ Neg.
+ ☞<a href="b.htm#baslichi">baslichi</a>
+<br><font size="+2"><b><a name="basoka"></a>basoka</b> </font>
+ Imp.
+ ☞<a href="b.htm#baska2">baska<sup>2</sup></a>
+<br><font size="+2"><b><a name="bassi"></a>bassi</b> </font>
+<font size="+2">to be poor, destitute, poverty-stricken; to be weak physically</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Paanifan oɬáaⁿhosifòokayok bássok, tammáaⁿhostik aɬíinat aɬíinat...
+ <i>He had almost gotten to the creek when he started getting weak and he almost fell down.</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#imbassi">imbassi</a></i>
+&nbsp;to be weak
+<br>&nbsp;&nbsp;<i><a href="b.htm#balissa">balissa</a></i>
+&nbsp;poverty, weakness
+<br>&nbsp;&nbsp;<i><a href="b.htm#báasi">báasi</a></i>
+&nbsp;to be weaker, poorer
+<br><font size="+2"><b><a name="bàta"></a>bàta</b> </font>
+<font size="+2">butter</font>
+ {&nbsp;English}
+<br><font size="+2"><b><a name="batapli"></a>batapli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="b.htm#batatli">batatli</a>&nbsp;
+<br><font size="+2"><b><a name="batasbali"></a>batasbali</b> </font>
+<font size="+2">bottomland, creek bottom, blacklands; low clearing in woods</font>
+&nbsp;<font color="#080000">Cul:  This is rich soil good for planting.</font>&nbsp;
+ <i>Var: batasbáali</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="batatka"></a>batatka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be hit, struck (one)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/batat-ka<sup>1</sup>]
+&nbsp;2.&nbsp;
+<font size="+2">swat, blow</font>
+&nbsp;<font face="Arial">«</font>Kowaɬɬit batatka chaⁿhkastík?
+ <i>Break them with just one blow, huh?</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+ ☞<a href="b.htm#batatli">batatli</a>
+<br><font size="+2"><b><a name="batátko"></a>batátko</b> </font>
+ Neg.
+ ☞<a href="b.htm#batatli">batatli</a>
+<br><font size="+2"><b><a name="batátkot istanooli"></a>batátkot istanooli</b> </font>
+<font size="+2">to strike out (in baseball)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [/batat-ki-o<sup>2</sup>-t ist- /anoo-li]
+ ☞<a href="i2.htm#istanooli">istanooli</a>
+<br><font size="+2"><b><a name="batatli"></a>batatli</b> </font>
+<font size="+2">to hit (once); to beat in a game</font>
+ <i>Usage: </i>May be newer word than batapli; younger speakers use as idiom to mean `beat in a game'
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>batatchi, batathili, batathachi</i>)
+&nbsp; [/batat-li]
+ <i>Var: batapli</i>
+&nbsp;<font face="Arial">«</font>Eh, nita ɬooli ponnókkooma yok máamakíilot imoɬahchóot imoɬahchóot máamiima máamifòokamon batatlóostik kowaɬɬit ibihchootoolo.
+ <i>If he (the dog) doesn't know how to chase beers, isn't aware of them, and would maybe come right up to it, if that happens the bear might just swat him and it will break him and kill them.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Batlit batatlit maapíɬkat sokáffit iswaliikahchootoha.
+ <i>One would hit him repeatedly and knock him down and scalp him and run off with it.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chibatlaaló hompànhiliiyon.
+ <i>I'm going to beat you when we play.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chabatliyáɬɬihchooti.
+ <i>She always beats me.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="b.htm#batátko">batátko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="b.htm#batatka">batatka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be hit (of one)
+&nbsp;2.&nbsp;
+&nbsp;swat, blow
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ibiibatatli">ibiibatatli</a></i>
+&nbsp;to hit in the face
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoobatatli">ichoobatatli</a></i>
+&nbsp;to hit in the mouth
+<br>&nbsp;&nbsp;<i><a href="i2.htm#isbatatka">isbatatka</a></i>
+&nbsp;bat, club
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittibatatli">ittibatatli</a></i>
+&nbsp;to close up on oneself
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ilbin istittibatatli">ilbin istittibatatli</a></i>
+&nbsp;to clap (the hands) together
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittibáttatli">ittibáttatli</a></i>
+&nbsp;to abut, meet
+<br>&nbsp;&nbsp;<i><a href="o.htm#ostisbatatli">ostisbatatli</a></i>
+&nbsp;to hit against something at a distance
+<br>&nbsp;&nbsp;<i><a href="b.htm#batli">batli</a></i>
+&nbsp;to hit repeatedly
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#bátko">bátko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ilbin istittabatli">ilbin istittabatli</a></i>
+&nbsp;to clap hands
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittobatli">ittobatli</a></i>
+&nbsp;to be the sound of trees snapping
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isbatli">isbatli</a></i>
+&nbsp;to hit with an instrument
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isbatka">isbatka</a></i>
+&nbsp;hitting instrument
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istitabatli">istitabatli</a></i>
+&nbsp;to bounce (on the ground)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="h.htm#hachistitabatli">hachistitabatli</a></i>
+&nbsp;to beat the tail on the ground
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maabatli">maabatli</a></i>
+&nbsp;to knock at the door
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#batka">batka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;whipping
+&nbsp;2.&nbsp;
+&nbsp;to be hit repeatedly
+<br>&nbsp;&nbsp;<i><a href="i2.htm#issakbasbatapli">issakbasbatapli</a></i>
+&nbsp;to hit with the elbow
+<br><font size="+2"><b><a name="bátchàali"></a>bátchàali</b> </font>
+<font size="+2">to wear (a ribbon) in the hair</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>bátchàachi, bátchàahilaski, bátchàahachi</i>)
+&nbsp; [/bachaa-li]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Bachaktapaskin chahissifayon bátchàalilao.
+ <i>I'm wearing a ribbon in my hair.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#bachaali">bachaali</a>
+<br><font size="+2"><b><a name="batimokchi"></a>batimokchi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="b.htm#batokchi">batokchi</a>&nbsp;
+<br><font size="+2"><b><a name="batka"></a>batka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">whipping</font>
+&nbsp; [/bat(at)-ka$]
+ [<i>dsfx1</i>]
+&nbsp;2.&nbsp;
+<font size="+2">to be hit repeatedly, beaten, whipped</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ ☞<a href="b.htm#batli">batli</a>
+<br><font size="+2"><b><a name="bátko"></a>bátko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Battákkoti.
+ <i>I didn't beat him up.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hopobatlilahotoolíiní hopobátkokha.
+ <i>They were supposedly going to whip us but they didn't.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+ ☞<a href="b.htm#batli">batli</a>
+<br><font size="+2"><b><a name="batli"></a>batli</b> </font>
+<font size="+2">to whip, hit (plural objects or repeatedly), beat up, tap, rap</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>batchi, bathili, bathachi</i>)
+&nbsp; [/bat(at)-li]
+ [<i>dsfx1</i>]
+ <i>Neg: </i>bátko
+&nbsp;<font face="Arial">«</font>Máamin hopobatlilahotoolo.
+ <i>Then they were going to whip us supposedly.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+ ☞<a href="b.htm#batatli">batatli</a>
+<br><font size="+2"><b><a name="batokchi"></a>batokchi</b> </font>
+<font size="+2">buttermilk</font>
+&nbsp; [/bata /okchi]
+ <i>Var: batimokchi</i>
+<br><font size="+2"><b><a name="baya"></a>baya</b> </font>
+<font size="+2">oak, esp. white oak; red oak</font>
+ <i>(Quercus alba)</i>
+&nbsp;<font face="Arial">«</font>Bayo.
+ <i>That's an oak.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="bayaɬi"></a>bayaɬi</b> </font>
+<font size="+2">acorn </font>
+&nbsp; [/baya /aɬi]
+<br><font size="+2"><b><a name="bayba"></a>bayba</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be heavy; to be a certain weight</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chabaybayyok táɬɬìipo.
+ <i>My weight is one hundred pounds.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chabaybas táɬɬìipalo.
+ <i>I weigh one hundred pounds.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to weigh a certain amount</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>baybatiska, baybatilka, baybataska</i>)
+&nbsp;<font face="Arial">«</font>Taɬɬìipas tóklon baybatilko.
+ <i>We weigh two hundred pounds.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Taɬɬìipan baybalo.
+ <i>I weigh one hundred pounds.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="b.htm#bakíybo">bakíybo</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="b.htm#baliyba">baliyba</a></i>
+&nbsp;heaviness
+<br>&nbsp;&nbsp;<i><a href="b.htm#báyba">báyba</a></i>
+&nbsp;to be heavier
+<br>&nbsp;&nbsp;<i><a href="i2.htm#isbayba">isbayba</a></i>
+&nbsp;scale
+<br>&nbsp;&nbsp;<i><a href="b.htm#baybachi">baybachi</a></i>
+&nbsp;to weigh (something)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isbaybachilka">isbaybachilka</a></i>
+&nbsp;scale
+<br><font size="+2"><b><a name="báyba"></a>báyba</b> </font>
+<font size="+2">to be heavier </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/bayba]
+ [<i>hgr</i>]
+&nbsp;<font face="Arial">«</font>Yá yon istimbáybo.
+ <i>This is heavier than this.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#bayba">bayba</a>
+<br><font size="+2"><b><a name="Bayba"></a>Bayba</b> </font>
+<font size="+2">Bible</font>
+ {&nbsp;English}
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="baybachi"></a>baybachi</b> </font>
+<font size="+2">to weigh (something)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>baybachitiska, baybachitilka, baybachitaska</i>)
+&nbsp;(<i>baybchiska, baybachilka, baybachaska</i>)
+&nbsp; [/bayba-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chastokin baybachiliti.
+ <i>I weighed the beans.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Alikchik chabaybachiti.
+ <i>The doctor weighed me.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#bayba">bayba</a>
+<br><font size="+2"><b><a name="Baybalka"></a>Baybalka</b> </font>
+<font size="+2">Bible</font>
+ {&nbsp;English}
+&nbsp; [/baybal-ka<sup>3</sup>]
+<br><font size="+2"><b><a name="baybascháffàaka"></a>baybascháffàaka</b> </font>
+<font size="+2">one pound </font>
+&nbsp; [/bayba ist- /cháffàaka]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="baybastáɬɬìipan poolistòklo"></a>baybastáɬɬìipan poolistòklo</b> </font>
+<font size="+2">one ton </font>
+&nbsp; [/bayba ist- /táɬɬìipa-n /pooli ist- /tòklo-n]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="bàykka"></a>bàykka</b> </font>
+<font size="+2"> bicycle</font>
+&nbsp; [/bàyk-ka<sup>3</sup>]
+ {&nbsp;English `bike'}
+<br><font size="+2"><b><a name="bifítko"></a>bifítko</b> </font>
+ Neg.
+ ☞<a href="b.htm#bifitli">bifitli</a>
+<br><font size="+2"><b><a name="bifitli"></a>bifitli</b> </font>
+<font size="+2">to be steam, steamy, steaming; to evaporate (of a liquid)</font>
+&nbsp; [/bifit-li]
+<br>&nbsp;&nbsp;<i><a href="b.htm#bifítko">bifítko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="o.htm#onabifitli">onabifitli</a></i>
+&nbsp;to spray with steam
+<br>&nbsp;&nbsp;<i><a href="b.htm#bifitlichi">bifitlichi</a></i>
+&nbsp;to steam (something)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#onabifitlichi">onabifitlichi</a></i>
+&nbsp;to steam (something)
+<br><font size="+2"><b><a name="bifitlichi"></a>bifitlichi</b> </font>
+<font size="+2">to steam (something such as vegetables)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>bifitchichi, bifithilichi, bifithachichi</i>)
+&nbsp; [/bifit-li-chi<sup>1</sup>]
+ ☞<a href="b.htm#bifitli">bifitli</a>
+<br><font size="+2"><b><a name="bihala"></a>bihala</b> </font>
+ <i>Var. of</i>&nbsp;<a href="b.htm#bihi">bihi</a>&nbsp;
+<br><font size="+2"><b><a name="bihi"></a>bihi</b><sup>1</sup> </font>
+<font size="+2">red mulberry; fig </font>
+ <i>(Morus rubra; Ficus spp)</i>
+ <i>Var: bihala</i>
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="bihi"></a>bihi</b><sup>2</sup> </font>
+<font size="+2">bow, gun, rifle, shotgun, blowgun</font>
+<br>&nbsp;&nbsp;<i><a href="b.htm#bihosi">bihosi</a></i>
+&nbsp;twenty-two caliber rifle
+<br><font size="+2"><b><a name="bihichampóoli"></a>bihichampóoli</b> </font>
+<font size="+2">fig preserves</font>
+&nbsp; [/bihi<sup>1</sup> /champoli]
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Bihichampóolihchon libatliliti.
+ <i>I cooked fig preserves.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="bihichoba"></a>bihichoba</b><sup>1</sup> </font>
+<font size="+2">fig; red mulberry </font>
+ <i>(Ficus spp.; Morus rubra)</i>
+&nbsp; [/bihi<sup>1</sup> /choba]
+<br><font size="+2"><b><a name="bihichoba"></a>bihichoba</b><sup>2</sup> </font>
+<font size="+2">thirty-thirty rifle, thirty-aught-six rifle, shotgun</font>
+&nbsp; [/bihi<sup>2</sup> /choba]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="bihi iⁿhalatilka"></a>bihi iⁿhalatilka</b> </font>
+<font size="+2">trigger on a gun</font>
+&nbsp; [/bihi<sup>2</sup> im- /halat&lt;il&gt;-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="bihi intali"></a>bihi intali</b> </font>
+<font size="+2">barrel of gun</font>
+&nbsp; [/bihi<sup>2</sup> im- /tali]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="bihikoboksi"></a>bihikoboksi</b> </font>
+<font size="+2">pistol </font>
+&nbsp; [/bihi<sup>2</sup> /koboksi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="bihimaɬatli"></a>bihimaɬatli</b> </font>
+<font size="+2">red mulberry; wild fig </font>
+ <i>(Morus rubra; Ficus spp)</i>
+&nbsp; [/bihi<sup>1</sup> /maɬat-li]
+<br><font size="+2"><b><a name="bihi mastimilhicha"></a>bihi mastimilhicha</b> </font>
+<font size="+2">sight on a gun barrel</font>
+&nbsp; [/bihi<sup>2</sup> maast-im-il- /hicha]
+<br><font size="+2"><b><a name="bihinɬaki"></a>bihinɬaki</b> </font>
+<font size="+2">bullet, ammunition shell, gun cartridge</font>
+&nbsp; [/bihi<sup>2</sup> im- /ɬaki]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="bihipofilka"></a>bihipofilka</b> </font>
+<font size="+2">blowgun; blowgun dart</font>
+&nbsp; [/bihi<sup>2</sup> /pof&lt;il&gt;ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="bihipokta"></a>bihipokta</b> </font>
+<font size="+2">double-barreled shotgun</font>
+&nbsp; [/bihi<sup>2</sup> /pokta]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="bihistimpaachakafka"></a>bihistimpaachakafka</b> </font>
+<font size="+2">hammer on a gun</font>
+&nbsp; [/bihi<sup>2</sup> ist-im-paa- /chakaf-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="bihistimpaachakka"></a>bihistimpaachakka</b> </font>
+<font size="+2">hammer on a gun</font>
+&nbsp; [/bihi<sup>2</sup> ist-im-paa- /chak(af)-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="bihistimpaayilhicha"></a>bihistimpaayilhicha</b> </font>
+<font size="+2">sight on a gun barrel</font>
+&nbsp; [/bihi<sup>2</sup> ist-im-paa-il- /hicha]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: bihistimpaalhicha</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="bihitokàalislawa"></a>bihitokàalislawa</b> </font>
+<font size="+2">any automatic weapon </font>
+&nbsp; [/bihi<sup>2</sup> /tokah-li ist- /lawa]
+ <i>Var: bihitokaalislawa</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="bihitokaalisnámpo"></a>bihitokaalisnámpo</b> </font>
+<font size="+2">machine gun, automatic gun</font>
+&nbsp; [/bihi<sup>2</sup> /tokah-li ist- /námpo]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="bihli"></a>bihli</b> </font>
+<font size="+2">to have sexual intercourse with; to rape</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>bihchi, bihhili, bihhachi</i>)
+&nbsp; [/bih-li]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: biili</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Tayyihon iswaliikok bihli.
+ <i>To have sex with a woman who tries to run away (i.e. rape).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chibihlili.
+ <i>I do it to you (only a man would say this).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chabihchi.
+ <i>You do it to me (only a woman would say this).</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittibihli">ittibihli</a></i>
+&nbsp;to have sexual intercourse with one another
+<br><font size="+2"><b><a name="bihosi"></a>bihosi</b> </font>
+<font size="+2">twenty-two caliber rifle </font>
+&nbsp; [/bihi-osi]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="b.htm#bihi2">bihi<sup>2</sup></a>
+<br><font size="+2"><b><a name="biif-"></a>biif-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="b.htm#biiffi">biiffi</a></i>
+&nbsp;to scrape off
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#bìifko">bìifko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="b.htm#biifka">biifka</a></i>
+&nbsp;to fall out
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imbiifka">imbiifka</a></i>
+&nbsp;to shed
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#biiffichi">biiffichi</a></i>
+&nbsp;to cause to fall out
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imbiiffichi">imbiiffichi</a></i>
+&nbsp;to cause (someone's hair) to fall out
+<br><font size="+2"><b><a name="biiffi"></a>biiffi</b> </font>
+<font size="+2">to scrape off, pull off (hair, fur, feathers, etc.)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>biifchi, biifhili, biifhachi</i>)
+&nbsp; [/biif-li]
+ <i>Neg: </i>bìifko
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Biifchi.
+ <i>You scrape it off.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chabiiffi.
+ <i>He pulled my hair off.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#biif-">biif-</a>
+<br><font size="+2"><b><a name="biiffichi"></a>biiffichi</b> </font>
+<font size="+2">to cause (the hair) to fall out</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>biifchichi, biifhilichi, biifhachichi</i>)
+&nbsp; [/biif-li-chi<sup>1</sup>]
+ ☞<a href="b.htm#biifka">biifka</a>
+<br><font size="+2"><b><a name="biifka"></a>biifka</b> </font>
+<font size="+2">to fall out (of hair or feathers)</font>
+&nbsp; [/biif-ka<sup>1</sup>]
+ <i>Neg: </i>biifíkko
+ ☞<a href="b.htm#biif-">biif-</a>
+<br><font size="+2"><b><a name="bìifko"></a>bìifko</b> </font>
+ Neg.
+ ☞<a href="b.htm#biiffi">biiffi</a>
+<br><font size="+2"><b><a name="bìika"></a>bìika</b> </font>
+<font size="+2">letter `B'</font>
+&nbsp; [/bìi-ka<sup>3</sup>]
+ {&nbsp;English}
+<br><font size="+2"><b><a name="biili"></a>biili</b> </font>
+ <i>Var. of</i>&nbsp;<a href="b.htm#bihli">bihli</a>&nbsp;
+<br><font size="+2"><b><a name="bìitli"></a>bìitli</b> </font>
+<font size="+2">dancer</font>
+&nbsp; [/bit-li]
+ [<i>fgr</i>]
+ <i>Var: bìtli</i>
+&nbsp;<font size="0">(DB)</font>
+ ☞<a href="b.htm#bitli">bitli</a>
+<br><font size="+2"><b><a name="Bikɬikitka"></a>Bikɬikitka</b> </font>
+<font size="+2">the Big Thicket</font>
+&nbsp; [/Bik /ɬikit-ka<sup>3</sup>]
+ {&nbsp;English}
+&nbsp;<font face="Arial">«</font>Miitamóok [sic] nita hoɬòolit nákson tàalon Bikɬikìtkáhokáhchoolo.
+ <i>Some of the others would go after bears, somewhere down this way, somewhere in the Big Thicket.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="bíknilatakàaka"></a>bíknilatakàaka</b> </font>
+<font size="+2">apron</font>
+&nbsp; [/bíkno ili- /atakaa-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="bíkno"></a>bíkno</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be younger, to have an older sibling of the opposite sex, have an older brother or sister; to be behind, have someone ahead of one</font>
+&nbsp;<font color="#800080" size="+1">3/CHA-</font>
+&nbsp;<font face="Arial">«</font>Wandaya chabíknon hátchàalo.
+ <i>Wanda is ahead of me in line.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Wandak chabíkno.
+ <i>Wanda is my older sister (man speaking).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chabíknon hátchàahcho.
+ <i>You are standing in front of me.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Okhicha bíknòosin okik ootalàakahchi.
+ <i>There's always a little puddle in front of the gate.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to be older than; to be in front of, ahead of in time or space, be before, previous</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>bíknotiska, bíknotilka, bíknotaska</i>)
+&nbsp;<font face="Arial">«</font>Snok chabíknotiskahchi.
+ <i>You're older than me.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ana Jimkan bíknoli Clemka ittàasan.
+ <i>I'm older than Jim and Clem both.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkáamilaan akkok bíknoyáaliiyon iyaanin ohiⁿfaylifòokok tatkayok íkson nàasok íkson aatimìntakáhchi tribe-kóot chokóokolaon óonkafòokayon...
+ <i>That's the way it was going to be, that one (the reservation) before that time when they let them have the land, there were no whites, there was no one, no other kinds of people or tribes could live there, that's how they said it was going to be.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Bíkno aalokoolichòobootoomok hachaaliiyok bíknòosin mootoomok tatkayok ilchokòokoláat ommitoolin.
+ <i>Before the old church house was standing, a little before that, it used to be that whites were not going to come live here.</i> <font size="0">(NPC)</font><font face="Arial">»</font>
+&nbsp;3.&nbsp;
+<font size="+2">older sibling of the opposite sex</font>
+ <i>Usage: </i>For some speakers, older sibling of either sex; for some, opposite sex only.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#imbíkno">imbíkno</a></i>
+&nbsp;to be an older sibling
+<br>&nbsp;&nbsp;<i><a href="b.htm#bíknòosi">bíknòosi</a></i>
+&nbsp;a little while before
+<br><font size="+2"><b><a name="bíkno atakàaka"></a>bíkno atakàaka</b> </font>
+<font size="+2">apron; penis </font>
+ <i>Usage: </i>Secondary meaning may be a euphemism.
+&nbsp; [/bíkno /atakaa-ka<sup>1</sup>]
+ <i>Var: biknatakàaka</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="bíknòosi"></a>bíknòosi</b> </font>
+<font size="+2">a little while before </font>
+&nbsp; [/bíkno-osi]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Bíkno aalokoolichòobootoomok hachaaliiyok bíknòosin mootoomok tatkayok ilchokòokoláat ommitoolin.
+ <i>Before the old church house was standing, a little before that, it used to be that whites were not going to come live here.</i> <font size="0">(NPC)</font><font face="Arial">»</font>
+ ☞<a href="b.htm#bíkno">bíkno</a>
+<br><font size="+2"><b><a name="bila"></a>bila</b> </font>
+<font size="+2">to melt, be melted</font>
+<br>&nbsp;&nbsp;<i><a href="b.htm#bilatíkko">bilatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#imbila">imbila</a></i>
+&nbsp;to have something melt accidentally
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imbilatíkko">imbilatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="b.htm#bilaachi">bilaachi</a></i>
+&nbsp;to melt (something)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#bilaatíkko">bilaatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#onabilaachi">onabilaachi</a></i>
+&nbsp;weld
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istonabilaachilka">istonabilaachilka</a></i>
+&nbsp;welder, soldering iron
+<br><font size="+2"><b><a name="bilaachi"></a>bilaachi</b> </font>
+<font size="+2">to melt (something), make melt</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>bilaatiska, bilaatilka, bilaataska</i>)
+&nbsp;(<i>bilaachiska, bilaachilka, bilaachaska</i>)
+&nbsp; [/bila-chi<sup>1</sup>]
+ <i>Neg: </i>bilaatíkko
+ ☞<a href="b.htm#bila">bila</a>
+<br><font size="+2"><b><a name="bilaatíkko"></a>bilaatíkko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Baatan bilaatíkkobi.
+ <i>He didn't melt the butter.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#bilaachi">bilaachi</a>
+<br><font size="+2"><b><a name="bilatíkko"></a>bilatíkko</b> </font>
+ Neg.
+ ☞<a href="b.htm#bila">bila</a>
+<br><font size="+2"><b><a name="bilohli"></a>bilohli</b> </font>
+<font size="+2">to be limber, flexible (as a switch); to be weak-kneed, wobbly (as a sick person or newborn animal); to shake, jiggle (as jelly); to be elastic, stretchy</font>
+&nbsp;<font size="0">(IB)</font>
+ <i>Usage: </i>Newer word.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/biloh-li]
+ <i>Var: bilòoli</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Ittosohkachiya bilòolihchoolo.
+ <i>The board is flexible.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="bilokhòmma"></a>bilokhòmma</b> </font>
+ <i>Var. of</i>&nbsp;<a href="b.htm#bolokhòmma">bolokhòmma</a>&nbsp;
+<br><font size="+2"><b><a name="bilòoli"></a>bilòoli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="b.htm#bilohli">bilohli</a>&nbsp;
+<br><font size="+2"><b><a name="biɬìi-"></a>biɬìi-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="b.htm#biɬìili">biɬìili</a></i>
+&nbsp;to point at
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#biɬìiko">biɬìiko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imbiɬìili">imbiɬìili</a></i>
+&nbsp;to point out to
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maatimbiɬìili">maatimbiɬìili</a></i>
+&nbsp;to point out the way to
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isbiɬìili">isbiɬìili</a></i>
+&nbsp;to point at with something
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#biɬiilichi">biɬiilichi</a></i>
+&nbsp;to appoint to (a position)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imbiɬiilichi">imbiɬiilichi</a></i>
+&nbsp;to make an appointment for
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#biɬiikachi">biɬiikachi</a></i>
+&nbsp;to be appointed
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#biɬiikachitíkko">biɬiikachitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#biɬìika">biɬìika</a></i>
+&nbsp;to be pointed at
+<br>&nbsp;&nbsp;<i><a href="b.htm#biɬiika">biɬiika</a></i>
+&nbsp;to poke a hole in the ground
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#biɬka">biɬka</a></i>
+&nbsp;to poke holes in the ground
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#biɬoka">biɬoka</a></i>
+ Imp.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isbiɬka">isbiɬka</a></i>
+&nbsp;to dig holes for planting with a hoe
+<br><font size="+2"><b><a name="biɬiika"></a>biɬiika</b> </font>
+<font size="+2">to poke a hole in the ground to plant a seed </font>
+ <i>Usage: </i>Some speakers reject this as the singular of biɬka, viewing it as related only to pointing.
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>biɬiihiska, biɬiihilka, biɬiihaska</i>)
+&nbsp; [/biɬii-ka<sup>1</sup>]
+ <i>Pl: </i>biɬka
+ <i>Neg: </i>biɬiíkko
+ ☞<a href="b.htm#biɬìi-">biɬìi-</a>
+<br><font size="+2"><b><a name="biɬìika"></a>biɬìika</b> </font>
+<font size="+2">to be pointed at</font>
+ (some use this to mean `to point at' but for others that would mean pointing or leaning towards with the whole body)
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/biɬii-ka<sup>1</sup>]
+ [<i>fgr</i>]
+ ☞<a href="b.htm#biɬìili">biɬìili</a>
+<br><font size="+2"><b><a name="biɬiikachi"></a>biɬiikachi</b> </font>
+<font size="+2">to be appointed</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/biɬii-ka<sup>1</sup>-chi<sup>1</sup>]
+ <i>Neg: </i>biɬiikachitíkko
+&nbsp;<font face="Arial">«</font>Anok mikkaalaan chabiɬiikachiti.
+ <i>I was appointed.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mikkaalaan hochabiɬiikachiti.
+ <i>They appointed me chief.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#biɬiilichi">biɬiilichi</a>
+<br><font size="+2"><b><a name="biɬiikachitíkko"></a>biɬiikachitíkko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Chabiɬiikachitíkko.
+ <i>I didn't get appointed.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#biɬiikachi">biɬiikachi</a>
+<br><font size="+2"><b><a name="biɬìiko"></a>biɬìiko</b> </font>
+ Neg.
+ ☞<a href="b.htm#biɬìili">biɬìili</a>
+<br><font size="+2"><b><a name="biɬìili"></a>biɬìili</b> </font>
+<font size="+2">to point at</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>biɬìichi, biɬìihili, biɬìihachi</i>)
+&nbsp; [/biɬii-li]
+ [<i>fgr</i>]
+ <i>Neg: </i>biɬìiko
+&nbsp;<font face="Arial">«</font>Akaakan biɬìililo.
+ <i>I pointed to the chicken.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chabiɬìichínna!
+ <i>Don't point at me!</i><font face="Arial">»</font>
+ ☞<a href="b.htm#biɬìi-">biɬìi-</a>
+<br><font size="+2"><b><a name="biɬiilichi"></a>biɬiilichi</b> </font>
+<font size="+2">to appoint to (a position); to point at for (a reason)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>biɬiichichi, biɬiihilichi, biɬiihachichi</i>)
+&nbsp; [/biɬii-li-chi<sup>1</sup>]
+ <i>Var: isbiɬiilichi</i>
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font face="Arial">«</font>Chibiɬiilichilo hochissolahon.
+ <i>I appointed you to do the writing.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#biɬìili">biɬìili</a>
+<br><font size="+2"><b><a name="biɬka"></a>biɬka</b> </font>
+<font size="+2">to poke holes in the ground to plant seeds </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>biɬiska, biɬilka, biɬaska</i>)
+&nbsp; [/biɬ(ii)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ <i>Neg: </i>biɬíkko
+ ☞<a href="b.htm#biɬiika">biɬiika</a>
+<br><font size="+2"><b><a name="biɬko"></a>biɬko</b> </font>
+<font size="+2">common persimmon </font>
+ <i>(Diospyros virginiana)</i>
+<br><font size="+2"><b><a name="biɬoka"></a>biɬoka</b> </font>
+ Imp.
+ ☞<a href="b.htm#biɬka">biɬka</a>
+<br><font size="+2"><b><a name="binàaka"></a>binàaka</b> </font>
+<font size="+2">to be torn up </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/bina(f)-ka<sup>1</sup>]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="b.htm#binàali">binàali</a>
+<br><font size="+2"><b><a name="binàali"></a>binàali</b> </font>
+<font size="+2">to tear up (plural objects)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>binàachi, binàahili, binàahachi</i>)
+&nbsp; [/bina(f)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ <i>Neg: </i>binàako
+ ☞<a href="b.htm#binaffi">binaffi</a>
+<br><font size="+2"><b><a name="binaffi"></a>binaffi</b> </font>
+<font size="+2">to tear apart, rend in two</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>binafchi, binafhili, binafhachi</i>)
+&nbsp; [/binaf-li]
+<br>&nbsp;&nbsp;<i><a href="b.htm#binaffichi">binaffichi</a></i>
+&nbsp;to cultivate the ground
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imbinaffichi">imbinaffichi</a></i>
+&nbsp;to plow for
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#binafkachi">binafkachi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be plowed
+&nbsp;2.&nbsp;
+&nbsp;plowing
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isbinafkachi">isbinafkachi</a></i>
+&nbsp;plow
+<br>&nbsp;&nbsp;<i><a href="b.htm#binafka">binafka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to erode; to be torn
+&nbsp;2.&nbsp;
+&nbsp;avalanche, tear
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maabinafka">maabinafka</a></i>
+&nbsp;to erode and collapse
+<br>&nbsp;&nbsp;<i><a href="b.htm#binàali">binàali</a></i>
+&nbsp;to tear up
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#binàaka">binàaka</a></i>
+&nbsp;to be torn up
+<br><font size="+2"><b><a name="binaffichi"></a>binaffichi</b> </font>
+<font size="+2">to plow, till, turn soil, cultivate the ground </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>binafchichi, binafhilichi, binafhachichi</i>)
+&nbsp; [/binaf-li-chi<sup>2</sup>]
+ ☞<a href="b.htm#binaffi">binaffi</a>
+<br><font size="+2"><b><a name="binafka"></a>binafka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to erode, cave in, wash out, crumble in (of dirt); to be torn </font>
+&nbsp; [/binaf-ka<sup>1</sup>]
+ <i>Pl: </i>binàaka
+ <i>Neg: </i>binafíkko
+&nbsp;2.&nbsp;
+<font size="+2">avalanche, tear</font>
+ ☞<a href="b.htm#binaffi">binaffi</a>
+<br><font size="+2"><b><a name="binafkachi"></a>binafkachi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be plowed, tilled </font>
+&nbsp; [/binaf-ka<sup>1</sup>-chi<sup>2</sup>]
+&nbsp;2.&nbsp;
+<font size="+2">plowing, tilling</font>
+&nbsp;<font face="Arial">«</font>Binafkachiya intoliino chobaama.
+ <i>Plowing is a big job.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Binafkachi akkàamiyóok sáhmiima oittimachihlistobahchoolikha.
+ <i>As for doing things like plowing, they used to help each other in planting.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="b.htm#binaffichi">binaffichi</a>
+<br><font size="+2"><b><a name="binìiko"></a>binìiko</b> </font>
+ Neg.
+ ☞<a href="b.htm#biniili">biniili</a>
+<br><font size="+2"><b><a name="biniili"></a>biniili</b> </font>
+<font size="+2">to go visiting; to sit</font>
+&nbsp;<font size="0">(JS)</font>
+ <i>Usage: </i>The meaning `sit' is archaic or possibly from Mobilian or Chickasaw.
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>biniichi, biniihili, biniihachi</i>)
+<br>&nbsp;&nbsp;<i><a href="b.htm#binìiko">binìiko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="b.htm#binìili">binìili</a></i>
+&nbsp;visitor
+<br>&nbsp;&nbsp;<i><a href="i1.htm#imbiniili">imbiniili</a></i>
+&nbsp;to visit
+<br><font size="+2"><b><a name="binìili"></a>binìili</b> </font>
+<font size="+2">visitor</font>
+&nbsp; [/binii-li]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Ambinìilik illisti.
+ <i>My visitor died.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#biniili">biniili</a>
+<br><font size="+2"><b><a name="bisíkko"></a>bisíkko</b> </font>
+ Neg.
+ ☞<a href="b.htm#biska">biska</a>
+<br><font size="+2"><b><a name="bisipka"></a>bisipka</b> </font>
+<font size="+2">to stick, gore with the horns or antlers (once)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>bisipiska, bisipilka, bisipaska</i>)
+&nbsp; [/bisip-ka<sup>1</sup>]
+<br>&nbsp;&nbsp;<i><a href="b.htm#biska">biska</a></i>
+&nbsp;to stick more than once
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#bisíkko">bisíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittibiska">ittibiska</a></i>
+&nbsp;to butt heads
+<br><font size="+2"><b><a name="bisisihka"></a>bisisihka</b> </font>
+<font size="+2">a very small woodpecker </font>
+&nbsp;<font color="#080000">Cul:  When a person hears this bird call it means something is going to happen, either good or bad. Its whistle sounds nervous. If heard in the morning it means good news, at night it means bad news.</font>&nbsp;
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="biska"></a>biska</b> </font>
+<font size="+2">to stick (more than once), gore repeatedly with the horns or antlers</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>bisiska, bisilka, bisaska</i>)
+&nbsp; [/bis(ip)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ <i>Neg: </i>bisíkko
+ ☞<a href="b.htm#bisipka">bisipka</a>
+<br><font size="+2"><b><a name="bitiima"></a>bitiima</b> </font>
+<font size="+2">to be spoiled, smelly, decomposing (of dead things), stink </font>
+ <i>Usage: </i>Said of a person, teasing remark.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chibitiima!
+ <i>Oh, you stink!</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="bitka"></a>bitka</b> </font>
+<font size="+2">dance</font>
+&nbsp; [/bit-ka<sup>1</sup>]
+ ☞<a href="b.htm#bitli">bitli</a>
+<br><font size="+2"><b><a name="bitka intáalwa"></a>bitka intáalwa</b> </font>
+<font size="+2">caller at a dance, singer for dancers</font>
+&nbsp; [/bit-ka<sup>1</sup> im- /talwa]
+ [<i>ggr</i>]
+<br><font size="+2"><b><a name="bitkastittayapka"></a>bitkastittayapka</b> </font>
+<font size="+2">stealing dance</font>
+ (a game like óolanwi)
+&nbsp; [/bit-ka<sup>1</sup> ist-itti- /ayap-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="bitli"></a>bitli</b> </font>
+<font size="+2">to dance</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>bitchi, bithili, bithachi</i>)
+&nbsp; [/bit-li]
+&nbsp;<font face="Arial">«</font>`Ischakostínkokáhchooti bitliliimok', mankaabíika.
+ <i>`I always act crazy when I dance', he kept saying.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Bitlitomáaɬok istitahaatánnatlit yáhmit istitahaatánnatlit wìikat.
+ <i>He began to dance and turned around like this and kept on turning around.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ibaabitli">ibaabitli</a></i>
+&nbsp;to dance with
+<br>&nbsp;&nbsp;<i><a href="b.htm#bìitli">bìitli</a></i>
+&nbsp;dancer
+<br>&nbsp;&nbsp;<i><a href="b.htm#bitlosi">bitlosi</a></i>
+&nbsp;toy top
+<br>&nbsp;&nbsp;<i><a href="i2.htm#isbitka">isbitka</a></i>
+&nbsp;dancing costume
+<br>&nbsp;&nbsp;<i><a href="b.htm#bitka">bitka</a></i>
+&nbsp;dance
+<br>&nbsp;&nbsp;<i><a href="a.htm#aabitka">aabitka</a></i>
+&nbsp;dance grounds
+<br><font size="+2"><b><a name="bitlosi"></a>bitlosi</b> </font>
+<font size="+2">toy top</font>
+&nbsp; [/bit-li-osi]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="b.htm#bitli">bitli</a>
+<br><font size="+2"><b><a name="biya"></a>biya</b> </font>
+<font size="+2">beer</font>
+ {&nbsp;English}
+<br><font size="+2"><b><a name="biyakha"></a>biyakha</b> </font>
+<font size="+2">hawk species, poss. chicken hawk </font>
+ <i>Var: biyakka</i>
+&nbsp;<font size="0">(VC, IB, DB)</font>
+<br><font size="+2"><b><a name="biyakka"></a>biyakka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="b.htm#biyakha">biyakha</a>&nbsp;
+<br><font size="+2"><b><a name="biyyòkha"></a>biyyòkha</b> </font>
+<font size="+2">strawberry </font>
+<br><font size="+2"><b><a name="bokboki"></a>bokboki</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">hills, mounds, a bunch of ant hills</font>
+ {reduplicated plural from bokko?}
+&nbsp;<font size="0">(VC)</font>
+&nbsp;2.&nbsp;
+<font size="+2">to be rolling (of land), hilly, lumpy</font>
+ ☞<a href="b.htm#bokko">bokko</a>
+<br><font size="+2"><b><a name="bokbokislawa"></a>bokbokislawa</b> </font>
+<font size="+2">mountain range</font>
+&nbsp; [/bokboki-osi /lawa]
+<br><font size="+2"><b><a name="bokbokissoba"></a>bokbokissoba</b> </font>
+<font size="+2">mountain range</font>
+&nbsp; [/bokboki-osi /choba]
+<br><font size="+2"><b><a name="bokfòhko"></a>bokfòhko</b> </font>
+ Neg.
+ ☞<a href="b.htm#bokfooli">bokfooli</a>
+<br><font size="+2"><b><a name="bokfooli"></a>bokfooli</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be moldy, mildewed</font>
+&nbsp;<font face="Arial">«</font>Awwilok bokfooliiso.
+ <i>My shoes mildewed.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">mildew, mold</font>
+&nbsp;<font size="0">(VC)</font>
+<br>&nbsp;&nbsp;<i><a href="b.htm#bokfòhko">bokfòhko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="bokko"></a>bokko</b> </font>
+<font size="+2">any protuberance, esp. rounded</font>
+ (may refer to mound, lump, bump, hump; hill, mountain; slant, grade in a road)
+&nbsp;<font face="Arial">«</font>Ya paabókkòosifaayon chikìikaamon, antaatootoha, intaatootoomok anchókkòotooliisan híichalihchoolikha.
+ <i>They settled over here up on that little hill, my father's father used to live there and I used to see that.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="b.htm#bokkotíkko">bokkotíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#imbokko">imbokko</a></i>
+&nbsp;to have a lump
+<br>&nbsp;&nbsp;<i><a href="b.htm#bokkòssi">bokkòssi</a></i>
+&nbsp;hill
+<br>&nbsp;&nbsp;<i><a href="p.htm#paabokko">paabokko</a></i>
+&nbsp;to be hunchbacked
+<br>&nbsp;&nbsp;<i><a href="b.htm#bokkoschaaha">bokkoschaaha</a></i>
+&nbsp;mountain
+<br>&nbsp;&nbsp;<i><a href="b.htm#bokboki">bokboki</a></i>
+&nbsp;1.&nbsp;
+&nbsp;hills
+&nbsp;2.&nbsp;
+&nbsp;to be hilly
+<br><font size="+2"><b><a name="bókko"></a>bókko</b> </font>
+ Neg.
+ ☞<a href="b.htm#bokli">bokli</a>
+<br><font size="+2"><b><a name="bokkoschaaha"></a>bokkoschaaha</b> </font>
+<font size="+2">mountain</font>
+&nbsp; [/bokko-osi /chaaha]
+ ☞<a href="b.htm#bokko">bokko</a>
+<br><font size="+2"><b><a name="bokkòssi"></a>bokkòssi</b> </font>
+<font size="+2">hill (one)</font>
+&nbsp; [/bokko-osi-hchi]
+ [<i>fgr</i>]
+ ☞<a href="b.htm#bokko">bokko</a>
+<br><font size="+2"><b><a name="bokkotíkko"></a>bokkotíkko</b> </font>
+ Neg.
+ ☞<a href="b.htm#bokko">bokko</a>
+<br><font size="+2"><b><a name="bokli"></a>bokli</b> </font>
+<font size="+2">to shuck, shell, hull (peas)</font>
+ (when you bokli, peas are beaten in a sack to remove hulls; fosli refers to shelling with the fingers)
+ <i>Usage: </i>Older word.
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>bokchi, bokhili, bokhachi</i>)
+&nbsp; [/bok-li]
+<br>&nbsp;&nbsp;<i><a href="b.htm#bókko">bókko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="bokoko"></a>bokoko</b> </font>
+<font size="+2">drum</font>
+<br>&nbsp;&nbsp;<i><a href="b.htm#bokoko batli">bokoko batli</a></i>
+&nbsp;to beat a drum
+<br><font size="+2"><b><a name="bokokobàatli"></a>bokokobàatli</b> </font>
+<font size="+2">drummer</font>
+&nbsp; [/bokoko /bat(at)-li]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="bokoko batli"></a>bokoko batli</b> </font>
+<font size="+2">to beat a drum, to drum</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [/bokoko /bat(at)-li]
+ ☞<a href="b.htm#bokoko">bokoko</a>
+<br><font size="+2"><b><a name="bokokolàachi"></a>bokokolàachi</b> </font>
+<font size="+2">drummer</font>
+&nbsp; [/bokoko /ola-chi<sup>1</sup>]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="bolbo"></a>bolbo</b> </font>
+<font size="+2">kidneys </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+<br><font size="+2"><b><a name="bollokha"></a>bollokha</b> </font>
+<font size="+2">type of small sunfish</font>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: bollókha</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="bolokhòmma"></a>bolokhòmma</b> </font>
+<font size="+2">various reddish sunfish, red `perch', bream </font>
+&nbsp; [poss. /bolokta /homma]
+ [<i>fgr</i>]
+ <i>Var: bilokhòmma</i>
+&nbsp;<font size="0">(IB, DB)</font>
+<br><font size="+2"><b><a name="bolokta"></a>bolokta</b> </font>
+<font size="+2">to be circular, ringlike, round; to double (e.g. a recipe)</font>
+<br>&nbsp;&nbsp;<i><a href="b.htm#boloktachi">boloktachi</a></i>
+&nbsp;to surround; to make round
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#boloktachitíkko">boloktachitíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="boloktachi"></a>boloktachi</b> </font>
+<font size="+2">to circle, make a circle around, surround; to make round, make in a circle</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>boloktachiska, boloktachilka, boloktachaska</i>)
+&nbsp;(<i>boloktachitiska, boloktachitilka, boloktachitaska</i>)
+&nbsp; [/bolokta-chi<sup>1</sup>]
+ <i>Neg: </i>boloktachitíkko
+ ☞<a href="b.htm#bolokta">bolokta</a>
+<br><font size="+2"><b><a name="boloktachitíkko"></a>boloktachitíkko</b> </font>
+ Neg.
+ ☞<a href="b.htm#boloktachi">boloktachi</a>
+<br><font size="+2"><b><a name="bomboki"></a>bomboki</b> </font>
+<font size="+2">to be round, mounded, contoured (as planted rows) (of more than one)</font>
+&nbsp;<font face="Arial">«</font>Nàasalchiiyaya isbombokihchi.
+ <i>The planted rows are mounded (or curved).</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="b.htm#bombokitíkko">bombokitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istibiibomboki">istibiibomboki</a></i>
+&nbsp;cabbage
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ispaabomboki">ispaabomboki</a></i>
+&nbsp;cabbage
+<br>&nbsp;&nbsp;<i><a href="b.htm#bombóoki">bombóoki</a></i>
+&nbsp;to be spherical
+<br><font size="+2"><b><a name="bombokitíkko"></a>bombokitíkko</b> </font>
+ Neg.
+ ☞<a href="b.htm#bomboki">bomboki</a>
+<br><font size="+2"><b><a name="bombóoki"></a>bombóoki</b> </font>
+<font size="+2">to be rounded, spherical</font>
+&nbsp; [/bomboki]
+ [<i>lgr</i>]
+ ☞<a href="b.htm#bomboki">bomboki</a>
+<br><font size="+2"><b><a name="bonka"></a>bonka</b> </font>
+<font size="+2">testicle; scrotum </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+<br><font size="+2"><b><a name="bonnichi"></a>bonnichi</b> </font>
+<font size="+2">to make little mounds (for planting), roll into balls </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>bonchichi, bonhilichi, bonhachichi</i>)
+&nbsp; [/bon(ot)-li-chi<sup>1</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="b.htm#bonotli">bonotli</a>
+<br><font size="+2"><b><a name="bonolee"></a>bonolee</b> </font>
+<font size="+2">Happy New Year!</font>
+ <i>Usage: </i>An old expression people would say at Christmas time.
+ {poss. &nbsp;French `bonne annee' or `bon Noel' or, as suggested by VC, poss. related to bonotli in the idiomatic sense of `wrap it up and put away the old year'}
+ <i>Var: bonoli</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="bonoli"></a>bonoli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="b.htm#bonolee">bonolee</a>&nbsp;
+<br><font size="+2"><b><a name="bonotka"></a>bonotka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be round, spherical, circular (of one)</font>
+&nbsp; [/bonot-ka<sup>1</sup>]
+&nbsp;2.&nbsp;
+<font size="+2">mound, bun</font>
+ ☞<a href="b.htm#bonotli">bonotli</a>
+<br><font size="+2"><b><a name="bonòtko"></a>bonòtko</b> </font>
+ Neg.
+ ☞<a href="b.htm#bonotli">bonotli</a>
+<br><font size="+2"><b><a name="bonotli"></a>bonotli</b> </font>
+<font size="+2">to roll up; to put up (hair) in a bun, wear (hair) in a bun; to roll (one object) into a mound as for planting, mound </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>bonotchi, bonothili, bonothachi</i>)
+&nbsp; [/bonot-li]
+<br>&nbsp;&nbsp;<i><a href="b.htm#bonòtko">bonòtko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ilbi bonotli">ilbi bonotli</a></i>
+&nbsp;to make a fist
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ilbi imbonotli">ilbi imbonotli</a></i>
+&nbsp;to shake a fist at
+<br>&nbsp;&nbsp;<i><a href="b.htm#bonotka">bonotka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be spherical, circular
+&nbsp;2.&nbsp;
+&nbsp;mound, bun
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paabonotka">paabonotka</a></i>
+&nbsp;to be round-shouldered
+<br>&nbsp;&nbsp;<i><a href="b.htm#bonnichi">bonnichi</a></i>
+&nbsp;to make mounds, roll into balls
+<br><font size="+2"><b><a name="bonotlit ittachitìili"></a>bonotlit ittachitìili</b> </font>
+<font size="+2">to tie (two ends) into a knot, make a knot in</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [/bonot-li-t itti- /achitìi-li]
+ ☞<a href="i2.htm#ittachitìili">ittachitìili</a>
+<br><font size="+2"><b><a name="bòsi"></a>bòsi</b> </font>
+<font size="+2">bushel </font>
+ {&nbsp;English}
+&nbsp;<font face="Arial">«</font>Bòsi cháffàaka.
+ <i>One bushel.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="boska"></a>boska</b> </font>
+<font size="+2">to knead (dough for bread)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>bosiska, bosilka, bosaska</i>)
+&nbsp; [/bos-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Boskat boskat anóslok maakon alpiisatonkáamon ohooyaapittahch ommihchoolikha.
+ <i>They kneaded it and kneaded it completely and again until it was ready and then used to always put it in the water.</i> <font size="0">(PBB)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="boslichi"></a>boslichi</b> </font>
+<font size="+2">to sprinkle (of weather), be a light rain shower; to mist, be misty</font>
+&nbsp; [/bos-li-chi<sup>2</sup>]
+&nbsp;<font face="Arial">«</font>Himàakaya boslichihchoolo.
+ <i>It's been sprinking today.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="boso"></a>boso</b> </font>
+<font size="+2">Shake hands! Hello, how are you?</font>
+ <i>Usage: </i>Greeting used as when going to shake hands; rather old-fashioned.
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="bosòoli"></a>bosòoli</b> </font>
+<font size="+2">to be broken in pieces (of more than one)</font>
+&nbsp; [/boso(t)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="b.htm#bosotli">bosotli</a>
+<br><font size="+2"><b><a name="bosòtko"></a>bosòtko</b> </font>
+ Neg.
+ ☞<a href="b.htm#bosotli">bosotli</a>
+<br><font size="+2"><b><a name="bosotli"></a>bosotli</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to chip off, crumble, be crumbled, shatter, crack up, break apart</font>
+&nbsp; [/bosot-li]
+&nbsp;<font face="Arial">«</font>Iisalapaalikak bosotliti.
+ <i>The wall crumbled.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">crumbs</font>
+&nbsp;<font face="Arial">«</font>Paspachampoli imbosotli.
+ <i>Cookie crumbs.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="b.htm#bosòtko">bosòtko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="b.htm#bóssotli">bóssotli</a></i>
+&nbsp;to have been broken to pieces (and left that way)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#bóssòtko">bóssòtko</a></i>
+ Neg.
+&nbsp;to be still unbroken
+<br>&nbsp;&nbsp;<i><a href="i1.htm#imbosotli">imbosotli</a></i>
+&nbsp;to have something chip on one
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istimbosotli">istimbosotli</a></i>
+&nbsp;to have something chip on one when one is using it
+<br>&nbsp;&nbsp;<i><a href="b.htm#bosotlichi">bosotlichi</a></i>
+&nbsp;to crush
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imbosotlichi">imbosotlichi</a></i>
+&nbsp;to crush for
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isbosotkachi">isbosotkachi</a></i>
+&nbsp;crusher
+<br>&nbsp;&nbsp;<i><a href="b.htm#bosòoli">bosòoli</a></i>
+&nbsp;to be broken in pieces (pl.)
+<br><font size="+2"><b><a name="bosotlichi"></a>bosotlichi</b> </font>
+<font size="+2">to crush, crumble, break into pieces, shatter</font>
+ (may refer to cashing a check in a bank or breaking a large bill)
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>bosotchichi, bosothilichi, bosothachichi</i>)
+&nbsp; [/bosot-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Toknaawa táɬɬìipan bosotlichiliti.
+ <i>I broke a hundred dollar bill.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#bosotli">bosotli</a>
+<br><font size="+2"><b><a name="bóssòtko"></a>bóssòtko</b> </font>
+ Neg.
+<font size="+2">to be still unbroken, intact</font>
+ ☞<a href="b.htm#bóssotli">bóssotli</a>
+<br><font size="+2"><b><a name="bóssotli"></a>bóssotli</b> </font>
+<font size="+2">to have been broken to pieces (and left that way) </font>
+&nbsp; [/bosot-li]
+ [<i>ggr</i>]
+ <i>Neg: </i>bóssòtko
+ ☞<a href="b.htm#bosotli">bosotli</a>
+<br><font size="+2"><b><a name="botoíkko"></a>botoíkko</b> </font>
+ Neg.
+<font size="+2">to be not ground up</font>
+ ☞<a href="b.htm#botooka">botooka</a>
+<br><font size="+2"><b><a name="botooka"></a>botooka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be ground up, shattered </font>
+&nbsp; [/botoo-ka<sup>1</sup>]
+ <i>Neg: </i>botoíkko
+&nbsp;2.&nbsp;
+<font size="+2">crumbs</font>
+ ☞<a href="b.htm#botooli">botooli</a>
+<br><font size="+2"><b><a name="botòoko"></a>botòoko</b> </font>
+ Neg.
+ ☞<a href="b.htm#botooli">botooli</a>
+<br><font size="+2"><b><a name="botooli"></a>botooli</b> </font>
+<font size="+2">to grind</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>botoochi, botoohili, botoohachi</i>)
+&nbsp; [/botoo-li]
+<br>&nbsp;&nbsp;<i><a href="b.htm#botòoko">botòoko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="b.htm#botòoli">botòoli</a></i>
+&nbsp;miller
+<br>&nbsp;&nbsp;<i><a href="i2.htm#isbotooka">isbotooka</a></i>
+&nbsp;grindstone
+<br>&nbsp;&nbsp;<i><a href="b.htm#botooka">botooka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be ground up
+&nbsp;2.&nbsp;
+&nbsp;crumbs
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="b.htm#botoíkko">botoíkko</a></i>
+ Neg.
+&nbsp;to be not ground up
+<br><font size="+2"><b><a name="botòoli"></a>botòoli</b> </font>
+<font size="+2">miller, person who grinds</font>
+&nbsp; [/botoo-li]
+ [<i>fgr</i>]
+ ☞<a href="b.htm#botooli">botooli</a>
+<br><font size="+2"><b><a name="boyhoka"></a>boyhoka</b> </font>
+ Imp.
+ ☞<a href="b.htm#boyka">boyka</a>
+<br><font size="+2"><b><a name="boyíkko"></a>boyíkko</b> </font>
+ Neg.
+<font size="+2">to not hoe</font>
+ ☞<a href="b.htm#boyka">boyka</a>
+<br><font size="+2"><b><a name="boyka"></a>boyka</b> </font>
+<font size="+2">to hoe</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>boyiska, boyilka, boyaska</i>)
+&nbsp; [/boy-ka<sup>1</sup>]
+<br>&nbsp;&nbsp;<i><a href="b.htm#boyíkko">boyíkko</a></i>
+ Neg.
+&nbsp;to not hoe
+<br>&nbsp;&nbsp;<i><a href="b.htm#boyhoka">boyhoka</a></i>
+ Imp.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#imboyka">imboyka</a></i>
+&nbsp;to hoe (weeds) out of
+<br><font size="+2"><b><a name="boyòoli"></a>boyòoli</b> </font>
+<font size="+2">for dust to rise in a cloud; to disperse, scatter (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">3; -LI</font>
+&nbsp;(<i>-, boyòohili, boyòohachi</i>)
+&nbsp; [/boyo(t)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ <i>Neg: </i>boyòoko
+ ☞<a href="b.htm#boyotli">boyotli</a>
+<br><font size="+2"><b><a name="boyotli"></a>boyotli</b> </font>
+<font size="+2">to be a cloud of dust; to scatter (of a mass); to start up, take off suddenly, fly away, bolt; to ejaculate semen</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>boyotchi, boyothili, boyothachi</i>)
+&nbsp; [/boyot-li]
+&nbsp;<font face="Arial">«</font>Ittohissik boyotlimoolo.
+ <i>The (pile of) leaves all scattered.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#imboyotli">imboyotli</a></i>
+&nbsp;semen, orgasm
+<br>&nbsp;&nbsp;<i><a href="b.htm#boyotlichi">boyotlichi</a></i>
+&nbsp;to raise a cloud of
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imboyotlichi">imboyotlichi</a></i>
+&nbsp;to cause to ejaculate
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#itaboyotlichi">itaboyotlichi</a></i>
+&nbsp;to raise a cloud of
+<br>&nbsp;&nbsp;<i><a href="b.htm#boyòoli">boyòoli</a></i>
+&nbsp;to disperse
+<br><font size="+2"><b><a name="boyotlichi"></a>boyotlichi</b> </font>
+<font size="+2">to stir up a cloud of, raise a cloud of (e.g. dust), scatter; to gin (cotton)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>boyotchichi, boyothilichi, boyothachichi</i>)
+&nbsp; [/boyot-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Mobìlkak sanchon boyotlichiimoolo.
+ <i>The car kicked up a big cloud of sand.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Pakaalin hoboyotlichiti.
+ <i>They ginned the cotton.</i><font face="Arial">»</font>
+ ☞<a href="b.htm#boyotli">boyotli</a>
+<br><font size="+2"><b><a name="brasìiya"></a>brasìiya</b> </font>
+<font size="+2">brassiere</font>
+ {&nbsp;English}
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

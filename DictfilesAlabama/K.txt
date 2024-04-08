@@ -1,0 +1,1907 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">K</font></center><br>
+<br><font size="+2"><b><a name="kàano"></a>kàano</b> </font>
+<font size="+2">to be well, all right, feel better</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Chikáano?
+ <i>How are you?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chakàanobi; kàanona?.
+ <i>I'm fine; how are you?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chakàanobi; chikàanona?.
+ <i>I'm fine; how are you?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chakàanobi.
+ <i>I feel better.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chakáanot anooko.
+ <i>I'm feeling a lot better.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chikáanot anooka?
+ <i>Do you feel better?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kàanon chiyáhkookáhchi.
+ <i>He's walking clumsily.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kàanolalpískohchi.
+ <i>He's real bad off.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kano">kano</a>
+<br><font size="+2"><b><a name="káanon naaɬiíkko"></a>káanon naaɬiíkko</b> </font>
+<font size="+2">to be unable to talk plainly (as after a stroke), aphasic</font>
+&nbsp; [/k&lt;á&gt;ano-n /naaɬi&lt;ík&gt;-ka<sup>1</sup>-o<sup>2</sup>]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Káanon naaɬiákkohchi chahoopatòomók.
+ <i>I can't talk plainly since I've been sick.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#naaɬiihíkko">naaɬiihíkko</a>
+<br><font size="+2"><b><a name="káasok"></a>káasok</b> </font>
+<font size="+2">but, though, however</font>
+&nbsp; [/káaso-k]
+&nbsp;<font face="Arial">«</font>óochatíkkolooláaba káasok?
+ <i>It won't take too long though?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Káasok Dorcaskafan aɬɬalaihchon ommo.
+ <i>But I have to go to Dorcas' (so I can't stay).</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="kabòska"></a>kabòska</b> </font>
+<font size="+2">caboose </font>
+ <i>Usage: </i>Older word.
+&nbsp; [/kabòs-ka<sup>3</sup>]
+ {&nbsp;English}
+&nbsp;<font face="Arial">«</font>Kabòskakok ontitonko.
+ <i>The caboose is coming.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="kachàali"></a>kachàali</b> </font>
+<font size="+2">to bite repeatedly, chew</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>kachàachi, kachàahili, kachàahachi</i>)
+&nbsp; [/kacha(ɬ)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="k.htm#kachaɬɬi">kachaɬɬi</a>
+<br><font size="+2"><b><a name="kachaɬɬi"></a>kachaɬɬi</b> </font>
+<font size="+2">to bite once, take a little bite, bite down on</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>kachaɬchi, kachaɬhili, kachaɬhachi</i>)
+&nbsp; [/kachaɬ-li]
+&nbsp;<font face="Arial">«</font>Satanik chakachaɬɬo.
+ <i>I have a tick bite.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inkachaɬɬi">inkachaɬɬi</a></i>
+&nbsp;to take a bite of someone's food
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittikachaɬɬi">ittikachaɬɬi</a></i>
+&nbsp;to bite one another (sg.)
+<br>&nbsp;&nbsp;<i><a href="k.htm#kachaɬɬichi">kachaɬɬichi</a></i>
+&nbsp;to let someone have a bite
+<br>&nbsp;&nbsp;<i><a href="k.htm#kachàali">kachàali</a></i>
+&nbsp;to bite repeatedly, chew
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#onakacháali">onakacháali</a></i>
+&nbsp;salt lick
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#onakachàali">onakachàali</a></i>
+&nbsp;to eat off of (esp. a vertical surface)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#iskachàaka">iskachàaka</a></i>
+&nbsp;molar tooth
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittikachahli">ittikachahli</a></i>
+&nbsp;to bite one another (rep.)
+<br><font size="+2"><b><a name="kachaɬɬichi"></a>kachaɬɬichi</b> </font>
+<font size="+2">to let someone have a bite</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>kachaɬchichi, kachaɬhilichi, kachaɬhachichi</i>)
+&nbsp; [/kachaɬ-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chikachaɬɬichilào.
+ <i>I'll let you have a bite.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kachaɬɬi">kachaɬɬi</a>
+<br><font size="+2"><b><a name="kachka"></a>kachka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#katska">katska</a>&nbsp;
+<br><font size="+2"><b><a name="kafaasilka"></a>kafaasilka</b> </font>
+<font size="+2">coffee cup, mug</font>
+&nbsp; [/kafi aa- /is(ko)-ilka]
+&nbsp;<font face="Arial">«</font>Ankafaasilka istintabatilkak imalwahkati.
+ <i>The handle of my coffee cup broke.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="káffihli"></a>káffihli</b> </font>
+<font size="+2">to try hard continually, strive, struggle</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>káffihchi, káffihhili, káffihhachi</i>)
+&nbsp; [/kafih-li]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Nàason sáhchiimok káffihliha.
+ <i>Put forth an effort in whatever you do.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Káffìilit holisson sobàyliha.
+ <i>Put effort into your schooling.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Káffihholiha.
+ <i>Y'all try harder!</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kafihli">kafihli</a>
+<br><font size="+2"><b><a name="kafi"></a>kafi</b> </font>
+<font size="+2">coffee (beans, ground, or the liquid)</font>
+ {&nbsp;English}
+<br><font size="+2"><b><a name="kafíhko"></a>kafíhko</b> </font>
+ Neg.
+ ☞<a href="k.htm#kafihli">kafihli</a>
+<br><font size="+2"><b><a name="kafihli"></a>kafihli</b> </font>
+<font size="+2">to work hard, try hard, expend effort</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>kafihchi, kafihhili, kafihhachi</i>)
+&nbsp; [/kafih-li]
+ <i>Var: kafiili</i>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kafíhko">kafíhko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="k.htm#káffihli">káffihli</a></i>
+&nbsp;to try hard continually
+<br>&nbsp;&nbsp;<i><a href="o.htm#onakafihli">onakafihli</a></i>
+&nbsp;to try very hard
+<br><font size="+2"><b><a name="kafiili"></a>kafiili</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#kafihli">kafihli</a>&nbsp;
+<br><font size="+2"><b><a name="kafistisilka"></a>kafistisilka</b> </font>
+<font size="+2">coffee cup, mug</font>
+&nbsp; [/kafi ist- /is(ko)-ilka]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="káhno"></a>káhno</b> </font>
+<font size="+2">to be better, best </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/kano]
+ [<i>hgr</i>]
+&nbsp;<font face="Arial">«</font>Káhnot ímmáyyaamoolo.
+ <i>Thanks very much!</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kano">kano</a>
+<br><font size="+2"><b><a name="káhnon ommi"></a>káhnon ommi</b> </font>
+<font size="+2">to do one's best</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/ka&lt;h&gt;no-n /om-li]
+&nbsp;<font face="Arial">«</font>Káhnon ommilo.
+ <i>I'm doing my best.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#káhno">káhno</a>
+<br><font size="+2"><b><a name="kakíyyo"></a>kakíyyo</b> </font>
+ Neg.
+ ☞<a href="k.htm#kayya">kayya</a>
+<br><font size="+2"><b><a name="kakkahka"></a>kakkahka</b> </font>
+<font size="+2">to cackle (as a hen) </font>
+&nbsp; [prob. /kakkah-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kakkakkak">kakkakkak</a></i>
+&nbsp;cackling sound
+<br><font size="+2"><b><a name="kakkakkak"></a>kakkakkak</b> </font>
+<font size="+2">the sound a chicken makes when cackling</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="k.htm#kakkahka">kakkahka</a>
+<br><font size="+2"><b><a name="kalaffi"></a>kalaffi</b> </font>
+<font size="+2">to scratch (deeply) once; to mark once, score</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>kalafchi, kalafhili, kalafhachi</i>)
+&nbsp; [/kalaf-li]
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iskalaffi">iskalaffi</a></i>
+&nbsp;to strike a match
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#iskalafka">iskalafka</a></i>
+&nbsp;match
+<br>&nbsp;&nbsp;<i><a href="k.htm#kalli">kalli</a></i>
+&nbsp;to scratch (deeply) repeatedly
+<br>&nbsp;&nbsp;<i><a href="m.htm#maakalli">maakalli</a></i>
+&nbsp;to write
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maatinkalli">maatinkalli</a></i>
+&nbsp;to write (something) to
+<br>&nbsp;&nbsp;<i><a href="p.htm#paakalli">paakalli</a></i>
+&nbsp;to erase; to sign (one's name)
+<br><font size="+2"><b><a name="kalasli"></a>kalasli</b> </font>
+<font size="+2">to cut with scissors, shear</font>
+ <i>Usage: </i>Older word.
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>kalassi, kalashili, kalashachi</i>)
+&nbsp; [/kalas-li]
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iskalaska">iskalaska</a></i>
+&nbsp;scissors
+<br><font size="+2"><b><a name="Kalfisti"></a>Kalfisti</b> </font>
+<font size="+2">Galveston, Texas</font>
+ <i>Usage: </i>Modern word.
+ {&nbsp;English}
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: Kalwisti</i>
+<br><font size="+2"><b><a name="kallapìita"></a>kallapìita</b> </font>
+<font size="+2">mosquito </font>
+ <i>Usage: </i>Newer pronunciation than iskallapìita.
+ <i>Var: iskallapìita</i>
+<br><font size="+2"><b><a name="kalli"></a>kalli</b> </font>
+<font size="+2">to scratch (deeply) repeatedly; to mark (more than once)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>kalchi, kalhili, kalhachi</i>)
+&nbsp; [/kal(af)-li]
+ [<i>dsfx1</i>]
+ ☞<a href="k.htm#kalaffi">kalaffi</a>
+<br><font size="+2"><b><a name="kaloklohka"></a>kaloklohka</b> </font>
+<font size="+2">to gobble (as a turkey) </font>
+&nbsp; [prob. /kalokloh-ka<sup>1</sup>]
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="Kalwisti"></a>Kalwisti</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#Kalfisti">Kalfisti</a>&nbsp;
+<br><font size="+2"><b><a name="kaɬàaha"></a>kaɬàaha</b><sup>1</sup> </font>
+<font size="+2">to rattle, make a rattling noise (as a wagon over a rough road) </font>
+&nbsp; [poss. /kaɬàh-a]
+ <i>Var: kaɬàaya</i>
+&nbsp;<font size="0">(DB, VC)</font>
+<br>&nbsp;&nbsp;<i><a href="m.htm#maakaɬàaha">maakaɬàaha</a></i>
+&nbsp;to make a rattling in the distance
+<br>&nbsp;&nbsp;<i><a href="k.htm#kaɬàalichi">kaɬàalichi</a></i>
+&nbsp;to rattle
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="k.htm#kaɬàakachi">kaɬàakachi</a></i>
+&nbsp;rattling noise
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#iskaɬàalichi">iskaɬàalichi</a></i>
+&nbsp;to rattle along (in a vehicle)
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iskaɬàahachitilka">iskaɬàahachitilka</a></i>
+&nbsp;rattle
+<br><font size="+2"><b><a name="kaɬàaha"></a>kaɬàaha</b><sup>2</sup> </font>
+<font size="+2">magnolia, sweetbay </font>
+ <i>(Magnolia spp. esp. M. grandiflora)</i>
+ <i>Var: kaɬɬàaha</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kaɬàaha hatka"></a>kaɬàaha hatka</b> </font>
+<font size="+2">small magnolia that grows along streams </font>
+&nbsp; [/kaɬàaha<sup>2</sup> /hat-ka<sup>1</sup>]
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="kaɬàaha pakaali"></a>kaɬàaha pakaali</b> </font>
+<font size="+2">gardenia </font>
+&nbsp; [/kaɬàaha<sup>2</sup> /pakaali]
+<br><font size="+2"><b><a name="kaɬàakachi"></a>kaɬàakachi</b> </font>
+<font size="+2">rattling noise </font>
+&nbsp; [/kaɬàa-ka<sup>1</sup>-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="k.htm#kaɬàalichi">kaɬàalichi</a>
+<br><font size="+2"><b><a name="kaɬàalichi"></a>kaɬàalichi</b> </font>
+<font size="+2">to make a rattling </font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>kaɬàachichi, kaɬàahilichi, kaɬàahachichi</i>)
+&nbsp; [/kaɬàa-li-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Titchanahak maakaɬáalìichó.
+ <i>I hear a wagon rattling.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasok kaɬaalìichin háaloliti.
+ <i>I hear something rattling.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kaɬàaha1">kaɬàaha<sup>1</sup></a>
+<br><font size="+2"><b><a name="kaɬaama"></a>kaɬaama</b> </font>
+<font size="+2">to smell of urine, smell bad, smell dirty (esp. as of urine) </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+<br><font size="+2"><b><a name="kaɬàaya"></a>kaɬàaya</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#kaɬàaha1">kaɬàaha<sup>1</sup></a>&nbsp;
+<br><font size="+2"><b><a name="kaɬɬàaha"></a>kaɬɬàaha</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#kaɬàaha2">kaɬàaha<sup>2</sup></a>&nbsp;
+<br><font size="+2"><b><a name="kaɬɬi"></a>kaɬɬi</b> </font>
+<font size="+2">to gnaw on, nibble on</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>kaɬchi, kaɬhili, kaɬhachi</i>)
+&nbsp; [/kaɬ-li]
+<br><font size="+2"><b><a name="kamàaya"></a>kamàaya</b> </font>
+<font size="+2">bell, cow bell, church bell; ring, the sound of a bell</font>
+&nbsp;<font face="Arial">«</font>Kamàayak ola.
+ <i>The bell is ringing.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kamàaya olaachi.
+ <i>Ring a bell.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ankamàaya.
+ <i>My bell.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="kamassa"></a>kamassa</b> </font>
+<font size="+2">to be forceful, strong, solid, powerful</font>
+ <i>Usage: </i>Old word not used much anymore; speakers differ as to whether this may be used of a person or only animals.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>óo, kamassaama!
+ <i>Oh, he's strong!</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>óo, kamassahchommoolo áaloliti.
+ <i>Oh, I thought he was strong (disappointed).</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kamassatíkko">kamassatíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="kamassatíkko"></a>kamassatíkko</b> </font>
+ Neg.
+ ☞<a href="k.htm#kamassa">kamassa</a>
+<br><font size="+2"><b><a name="Kamdi"></a>Kamdi</b> </font>
+<font size="+2">Camden, Texas</font>
+ {&nbsp;English}
+<br><font size="+2"><b><a name="kamo"></a>kamo</b> </font>
+<font size="+2">bois d'arc, bodarc, osage-orange </font>
+ <i>(Maclura pomifera)</i>
+&nbsp;<font color="#080000">Cul:  Very hard wood used in tool making.</font>&nbsp;
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kamosíkko"></a>kamosíkko</b> </font>
+ Neg.
+ ☞<a href="k.htm#kamoska">kamoska</a>
+<br><font size="+2"><b><a name="kamoska"></a>kamoska</b> </font>
+<font size="+2">to be spoiled, sour (of milk); to smell bad, as of body odor or spoiled or rancid food, stink </font>
+ <i>Usage: </i>Specifically, smell as of spoiled and toxic food; ataanayli is used for the smell of food that is rancid but edible.
+&nbsp; [/kamos-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Waakimpisiya kamoskataɬɬo kóssoomo.
+ <i>The milk is getting sour and smells bad.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Haapíkkooma kamoskahchi.
+ <i>He didn't bathe so he smells bad.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kamosíkko">kamosíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="k.htm#kamoslichi">kamoslichi</a></i>
+&nbsp;to turn (something) sour
+<br><font size="+2"><b><a name="kamoslichi"></a>kamoslichi</b> </font>
+<font size="+2">to turn (something) sour </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>kamossichi, kamoshilichi, kamoshachichi</i>)
+&nbsp; [/kamos-li-chi<sup>1</sup>]
+ ☞<a href="k.htm#kamoska">kamoska</a>
+<br><font size="+2"><b><a name="kanàali"></a>kanàali</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#kanahli">kanahli</a>&nbsp;
+<br><font size="+2"><b><a name="kanaalichi"></a>kanaalichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#kanahlichi">kanahlichi</a>&nbsp;
+<br><font size="+2"><b><a name="kanahli"></a>kanahli</b> </font>
+<font size="+2">to move away (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, kanahhili, kanahhachi</i>)
+&nbsp; [/kana&lt;h&gt;t-li]
+ <i>Var: kanàali</i>
+&nbsp;<font size="0">(IB)</font>
+&nbsp;<font face="Arial">«</font>Yostifakítton kanahhilitoha.
+ <i>We moved away from Houston.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kanatli">kanatli</a>
+<br><font size="+2"><b><a name="kanahlichi"></a>kanahlichi</b> </font>
+<font size="+2">to move (plural objects)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>kanahchichi, kanahhilichi, kanahhachichi</i>)
+&nbsp; [/kana&lt;h&gt;t-li-chi<sup>1</sup>]
+ <i>Var: kanaalichi</i>
+&nbsp;<font face="Arial">«</font>Itto akàamiyon waakayòolit hokanàalichihch ommihchootoska?
+ <i>Did they use to lift the logs so they could move them?</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="k.htm#kanahli">kanahli</a>
+<br><font size="+2"><b><a name="kanatli"></a>kanatli</b> </font>
+<font size="+2">to move away (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>kanatchi, -, -</i>)
+&nbsp; [/kanat-li]
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inkanatli">inkanatli</a></i>
+&nbsp;to move away from (someone)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#inkánnatli">inkánnatli</a></i>
+&nbsp;to avoid
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittinkanatli">ittinkanatli</a></i>
+&nbsp;to separate (into parts)
+<br>&nbsp;&nbsp;<i><a href="k.htm#kánnatli">kánnatli</a></i>
+&nbsp;to keep on moving
+<br>&nbsp;&nbsp;<i><a href="k.htm#kanatlichi">kanatlichi</a></i>
+&nbsp;to move (one thing)
+<br>&nbsp;&nbsp;<i><a href="k.htm#kanahli">kanahli</a></i>
+&nbsp;to move away
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="k.htm#kánnahli">kánnahli</a></i>
+&nbsp;to keep on moving
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#inkanahli">inkanahli</a></i>
+&nbsp;to move away from (someone)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittinkanahli">ittinkanahli</a></i>
+&nbsp;to move away from each other
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittinkanahlichi">ittinkanahlichi</a></i>
+&nbsp;to separate (one from another)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maatakanahli">maatakanahli</a></i>
+&nbsp;to move over to a place
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="k.htm#kanahlichi">kanahlichi</a></i>
+&nbsp;to move (pl. obj.)
+<br><font size="+2"><b><a name="kanatlichi"></a>kanatlichi</b> </font>
+<font size="+2">to move (one thing)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>kanatchichi, kanathilichi, kanathachichi</i>)
+&nbsp; [/kanat-li-chi<sup>1</sup>]
+ ☞<a href="k.htm#kanatli">kanatli</a>
+<br><font size="+2"><b><a name="kanatlischáffàaka"></a>kanatlischáffàaka</b> </font>
+<font size="+2">one minute </font>
+&nbsp; [/kanat-li ist- /cháffaa-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kanayka"></a>kanayka</b> </font>
+<font size="+2">to be parted (of hair)</font>
+&nbsp; [/kanay-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chahissik kanaykahchi.
+ <i>My hair is parted.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kanayli">kanayli</a>
+<br><font size="+2"><b><a name="kanayli"></a>kanayli</b> </font>
+<font size="+2">to part (hair)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>kanaychi, kanayhili, kanayhachi</i>)
+&nbsp; [/kanay-li]
+&nbsp;<font face="Arial">«</font>Chahissin kanaylilo.
+ <i>I parted my hair.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kanayka">kanayka</a></i>
+&nbsp;to be parted (of hair)
+<br><font size="+2"><b><a name="Kaniko"></a>Kaniko</b> </font>
+<font size="+2">McConico (Battise) </font>
+&nbsp;<font color="#080000">Cul:  Interpreter who went to Washington in 1928 with Chief Charlie Thompson to appeal successfully for more land for the Alabamas; held the title `Speaker Chief'</font>&nbsp;
+ {&nbsp;English}
+<br><font size="+2"><b><a name="kànka"></a>kànka</b> </font>
+<font size="+2">tin can</font>
+&nbsp; [/kàn-ka<sup>3</sup>]
+ {&nbsp;English}
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kànko"></a>kànko</b> </font>
+ Neg.
+&nbsp;1.&nbsp;
+<font size="+2">to be bad, evil, no good, rotten, worthless; to sin</font>
+&nbsp;2.&nbsp;
+<font size="+2">hell</font>
+ ☞<a href="k.htm#kano">kano</a>
+<br><font size="+2"><b><a name="kànkotilka"></a>kànkotilka</b> </font>
+<font size="+2">sin, wrongdoing</font>
+&nbsp; [/kano-ki-o<sup>2</sup>-tilka]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="k.htm#kànko">kànko</a>
+<br><font size="+2"><b><a name="kánnahli"></a>kánnahli</b> </font>
+<font size="+2">to keep on moving, move further, move a little ways (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, kánnahhili, kánnahhachi</i>)
+&nbsp; [/kana&lt;h&gt;t-li]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Kánnahlit tókpaasotik íisan...
+ <i>They moved a little ways to a different place and stayed there.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+ ☞<a href="k.htm#kanahli">kanahli</a>
+<br><font size="+2"><b><a name="kánnatli"></a>kánnatli</b> </font>
+<font size="+2">to keep on moving, move further (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>kánnatchi, -, -</i>)
+&nbsp; [/kanat-li]
+ [<i>ggr</i>]
+ ☞<a href="k.htm#kanatli">kanatli</a>
+<br><font size="+2"><b><a name="kano"></a>kano</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be good, pretty, well, fine; to be good at doing, do well</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Holtinaya chakanohchoolo.
+ <i>I'm good at arithmetic.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chakanobi.
+ <i>I'm fine.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Oolimpalimáilok chakanofíinào.
+ <i>I'm going to be fine if I sleep.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nihtak kanolahoolimpo.
+ <i>I hear the weather is going to be fine.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Achòobat kanolalpískohchi.
+ <i>It's old and worthless.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kanolàha.
+ <i>It's going to be better.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">thank you, thanks</font>
+&nbsp;<font face="Arial">«</font>Kanobi.
+ <i>Thank you.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kanoomoolo.
+ <i>Thanks a lot.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kanopalammoolo.
+ <i>Thanks very much.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kànko">kànko</a></i>
+ Neg.
+&nbsp;1.&nbsp;
+&nbsp;to be bad
+&nbsp;2.&nbsp;
+&nbsp;hell
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="k.htm#kànkotilka">kànkotilka</a></i>
+&nbsp;sin
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ilhicha kano">ilhicha kano</a></i>
+&nbsp;to be good-looking
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inkano">inkano</a></i>
+&nbsp;to be good for someone
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#inkànkochi">inkànkochi</a></i>
+&nbsp;to be bad for
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#inkanotanooka">inkanotanooka</a></i>
+&nbsp;to recover from an illness
+<br>&nbsp;&nbsp;<i><a href="k.htm#kàano">kàano</a></i>
+&nbsp;to be well
+<br>&nbsp;&nbsp;<i><a href="k.htm#káhno">káhno</a></i>
+&nbsp;to be better, best
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="k.htm#káhnon ommi">káhnon ommi</a></i>
+&nbsp;to do one's best
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittinkano">ittinkano</a></i>
+&nbsp;to be friends with one another
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittinkánko">ittinkánko</a></i>
+ Neg.
+&nbsp;to be incompatible
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iskano">iskano</a></i>
+&nbsp;to do easily
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istinkano">istinkano</a></i>
+&nbsp;to like
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istinkáhno">istinkáhno</a></i>
+&nbsp;to like something best
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istinkànko">istinkànko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istinkankòochi">istinkankòochi</a></i>
+ Neg.
+&nbsp;to make someone feel bad about something
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istittinkànko">istittinkànko</a></i>
+&nbsp;to not get along well
+<br>&nbsp;&nbsp;<i><a href="k.htm#kanoochi">kanoochi</a></i>
+&nbsp;to improve
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="k.htm#kanòochit">kanòochit</a></i>
+&nbsp;carefully
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ilinookanòochi">ilinookanòochi</a></i>
+&nbsp;to clear the throat
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittinkanoochi">ittinkanoochi</a></i>
+&nbsp;to work out differences
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imakanoochi">imakanoochi</a></i>
+&nbsp;to prepare for something
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istakano">istakano</a></i>
+&nbsp;to enjoy
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istakanoochi">istakanoochi</a></i>
+&nbsp;to be doing good work
+<br>&nbsp;&nbsp;<i><a href="o.htm#oolakano">oolakano</a></i>
+&nbsp;to be at peace, be friendly
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#oolakanoochi">oolakanoochi</a></i>
+&nbsp;to make peace, become friendly
+<br><font size="+2"><b><a name="kanoochi"></a>kanoochi</b> </font>
+<font size="+2">to improve, better, clear up, clear (the throat)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>kanoochiska, kanoochilka, kanoochaska</i>)
+&nbsp;(<i>kanootiska, kanootilka, kanootaska</i>)
+&nbsp; [/kano-chi<sup>1</sup>]
+ ☞<a href="k.htm#kano">kano</a>
+<br><font size="+2"><b><a name="kanòochit"></a>kanòochit</b> </font>
+<font size="+2">carefully</font>
+&nbsp; [/kano-chi<sup>1</sup>-t]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Kanòochit ommi.
+ <i>Be very careful.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kanòochit ommilo.
+ <i>I'm being very careful.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kanòochit ònchi?
+ <i>Are you being careful?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Naho ifan píila sáhtik oiⁿɬàakohchon chofkonin kanòochit oinchiilihchootoha. homankan háalolihchootook onkalo.
+ <i>And they don't throw them down to the dogs just any old way, but would lay the bones down carefully they said, that's what I've heard.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+ ☞<a href="k.htm#kanoochi">kanoochi</a>
+<br><font size="+2"><b><a name="kanta"></a>kanta</b> </font>
+<font size="+2">greenbrier </font>
+ <i>(Smilax sp)</i>
+&nbsp;<font color="#080000">Cul:  Decorative vine used on holidays; bread can be made from its roots.</font>&nbsp;
+<br><font size="+2"><b><a name="kapàalichi"></a>kapàalichi</b> </font>
+<font size="+2">to make a rattling, banging, hammering, tapping or rumbling noise </font>
+ <i>Usage: </i>Newer word.
+&nbsp; [/kapàa-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Kapàalichimok àayat onkati.
+ <i>I heard something rumbling going by.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kapàaya">kapàaya</a>
+<br><font size="+2"><b><a name="kapàaya"></a>kapàaya</b> </font>
+<font size="+2">for there to be the sound of tapping</font>
+&nbsp; [prob. /kapàa-a]
+&nbsp;<font size="0">(DB)</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kapàalichi">kapàalichi</a></i>
+&nbsp;to make a rattling noise
+<br><font size="+2"><b><a name="kapachi"></a>kapachi</b> </font>
+<font size="+2">stickball racquet</font>
+ <i>Var: kapochi</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kapachi aatòoka"></a>kapachi aatòoka</b> </font>
+<font size="+2">stickball playing field</font>
+&nbsp; [/kapachi aa- /tòo-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="kapachi tòoka"></a>kapachi tòoka</b> </font>
+<font size="+2">stickball game</font>
+&nbsp; [/kapachi /tòo-ka<sup>1</sup>]
+ <i>Var: kapochitòoka</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kapitani"></a>kapitani</b> </font>
+<font size="+2">interpreter, translator</font>
+&nbsp;<font size="0">(VC)</font>
+; <font size="+2">captain</font>
+&nbsp;<font size="0">(DB)</font>
+ <i>Usage: </i>Older word.
+ {&nbsp;Spanish or English?}
+<br><font size="+2"><b><a name="kapko"></a>kapko</b> </font>
+<font size="+2">hackberry, sugarberry </font>
+ <i>(Celtis sp)</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kapochi"></a>kapochi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#kapachi">kapachi</a>&nbsp;
+<br><font size="+2"><b><a name="kapochitòoka"></a>kapochitòoka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#kapachitòoka">kapachitòoka</a>&nbsp;
+<br><font size="+2"><b><a name="kapòota"></a>kapòota</b> </font>
+<font size="+2">coat </font>
+ {&nbsp;French}
+<br>&nbsp;&nbsp;<i><a href="k.htm#kapòotistonáami">kapòotistonáami</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be wearing a suit
+&nbsp;2.&nbsp;
+&nbsp;suit of clothes
+<br><font size="+2"><b><a name="kapòota choba"></a>kapòota choba</b> </font>
+<font size="+2">overcoat </font>
+&nbsp; [/kapòota /choba]
+ <i>Var: kapotchoba</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kapòota koboksi"></a>kapòota koboksi</b> </font>
+<font size="+2">vest, waistcoat </font>
+&nbsp; [/kapoota /koboksi]
+ <i>Var: kapòotkoboksi</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kapootastonáami"></a>kapootastonáami</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#kapòotistonáami">kapòotistonáami</a>&nbsp;
+<br><font size="+2"><b><a name="kapòotistonáami"></a>kapòotistonáami</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be wearing a suit, dressed in suit</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>kapòotistonáamitiska, kapòotistonáamitilka, kapòotistonáamitaska</i>)
+&nbsp; [/kapòota ist- /onáami]
+&nbsp;2.&nbsp;
+<font size="+2">suit, whole suit of clothes </font>
+ <i>Var: kapootastonáami</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="k.htm#kapòota">kapòota</a>
+<br><font size="+2"><b><a name="kapòotkoboksi"></a>kapòotkoboksi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#kapòota koboksi">kapòota koboksi</a>&nbsp;
+<br><font size="+2"><b><a name="kapotchoba"></a>kapotchoba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#kapòota choba">kapòota choba</a>&nbsp;
+<br><font size="+2"><b><a name="kasahka"></a>kasahka</b> </font>
+<font size="+2">to be very cold</font>
+&nbsp; [/kasa&lt;h&gt;t-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Kasahkahchoolo.
+ <i>It's cold outside.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kasatka">kasatka</a>
+<br><font size="+2"><b><a name="kasáhka"></a>kasáhka</b> </font>
+<font size="+2">to be cooler</font>
+&nbsp; [/kasah-ka<sup>1</sup>]
+ [<i>hgr</i>]
+ ☞<a href="k.htm#kasahka">kasahka</a>
+<br><font size="+2"><b><a name="kasahlichi"></a>kasahlichi</b> </font>
+<font size="+2">to cool (something); to break someone of a fever</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>kasahchichi, kasahhilichi, kasahhachichi</i>)
+&nbsp; [/kasa&lt;h&gt;t-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chikasahlichihchoⁿ chiyanhaako?
+ <i>Did your fever break?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Aatosin kasaalichilihchi.
+ <i>I had to cool off my baby.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kasahka">kasahka</a>
+<br><font size="+2"><b><a name="kasasa"></a>kasasa</b> </font>
+<font size="+2">katydid, cricket, locust </font>
+<br><font size="+2"><b><a name="kasatíkko"></a>kasatíkko</b> </font>
+ Neg.
+ ☞<a href="k.htm#kasatka">kasatka</a>
+<br><font size="+2"><b><a name="kasatka"></a>kasatka</b> </font>
+<font size="+2">to be cold weather</font>
+&nbsp; [/kasat-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Kasatkahchoolo.
+ <i>It's cold out.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kasatíkko">kasatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inkasatka">inkasatka</a></i>
+&nbsp;to have it feel cold to (someone)
+<br>&nbsp;&nbsp;<i><a href="k.htm#kasátkàssi">kasátkàssi</a></i>
+&nbsp;to be getting colder
+<br>&nbsp;&nbsp;<i><a href="k.htm#kássatka">kássatka</a></i>
+&nbsp;to be cool
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="k.htm#kássatkàasi">kássatkàasi</a></i>
+&nbsp;to be a cool spell
+<br>&nbsp;&nbsp;<i><a href="k.htm#kasatkat áɬɬìina">kasatkat áɬɬìina</a></i>
+&nbsp;to be autumn
+<br>&nbsp;&nbsp;<i><a href="k.htm#kasatkataɬɬa">kasatkataɬɬa</a></i>
+&nbsp;to be autumn
+<br>&nbsp;&nbsp;<i><a href="k.htm#kasahka">kasahka</a></i>
+&nbsp;to be very cold
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="k.htm#kasáhka">kasáhka</a></i>
+&nbsp;to be cooler
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#aakasahka">aakasahka</a></i>
+&nbsp;refrigerator
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="k.htm#kasahlichi">kasahlichi</a></i>
+&nbsp;to cool something
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#iskasahkachi">iskasahkachi</a></i>
+&nbsp;fan
+<br><font size="+2"><b><a name="kasatkachoba"></a>kasatkachoba</b> </font>
+<font size="+2">winter </font>
+&nbsp; [/kasat-ka<sup>1</sup> /choba]
+<br><font size="+2"><b><a name="kasátkàssi"></a>kasátkàssi</b> </font>
+<font size="+2">to be getting colder</font>
+&nbsp; [/kasat-ka<sup>1</sup>-osi-hchi]
+ [<i>fgr</i>]
+ ☞<a href="k.htm#kasatka">kasatka</a>
+<br><font size="+2"><b><a name="kasatkat aɬɬa"></a>kasatkat aɬɬa</b> </font>
+<font size="+2">autumn, fall season</font>
+ <i>Lit: </i>it is going to get cold
+&nbsp; [/kasatka-t /aɬɬa]
+ ☞<a href="k.htm#kasatka">kasatka</a>
+<br><font size="+2"><b><a name="kasatkat áɬɬìina"></a>kasatkat áɬɬìina</b> </font>
+<font size="+2">autumn, fall season</font>
+ <i>Lit: </i>it is going to get cold
+&nbsp; [/kasat-ka<sup>1</sup>-t /aɬíina]
+ ☞<a href="k.htm#kasatka">kasatka</a>
+<br><font size="+2"><b><a name="kàsi"></a>kàsi</b> </font>
+<font size="+2">younger son, any son after the first born son, younger brother</font>
+ <i>Usage: </i>Hypocoristic.
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+ <i>Var: kási</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Ankási.
+ <i>My baby brother.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kàsosi">kàsosi</a></i>
+&nbsp;any baby son after the first born
+<br><font size="+2"><b><a name="kaska"></a>kaska</b> </font>
+ <i>Var. of</i>&nbsp;<a href="o.htm#onkaska">onkaska</a>&nbsp;
+<br><font size="+2"><b><a name="kaskachi"></a>kaskachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="o.htm#onkaskachi">onkaskachi</a>&nbsp;
+<br><font size="+2"><b><a name="kaskachipóota"></a>kaskachipóota</b> </font>
+<font size="+2">soldier</font>
+ <i>Usage: </i>Older word.
+ <i>Var: kaskachipòota</i>
+&nbsp;<font size="0">(VC, DB)</font>
+<br><font size="+2"><b><a name="kaskaha"></a>kaskaha</b> </font>
+<font size="+2">sour (as a lemon or orange), tart, tangy </font>
+<br><font size="+2"><b><a name="kasohíkko"></a>kasohíkko</b> </font>
+ Neg.
+ ☞<a href="k.htm#kasohka">kasohka</a>
+<br><font size="+2"><b><a name="kasohka"></a>kasohka</b> </font>
+<font size="+2">to move back and forth (a part of the body) (as the hands to massage the scalp) </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>kasohiska, kasohilka, kasohaska</i>)
+&nbsp; [/kasoh-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chalbin kasohkalihchi ikbachilaayo.
+ <i>I'm rubbing my hands to keep warm.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kasohíkko">kasohíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istitakasohka">istitakasohka</a></i>
+&nbsp;to shuffle (the feet)
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ilikasohka">ilikasohka</a></i>
+&nbsp;to rub oneself
+<br>&nbsp;&nbsp;<i><a href="p.htm#paakasohka">paakasohka</a></i>
+&nbsp;to massage the back
+<br>&nbsp;&nbsp;<i><a href="k.htm#kasohlichi">kasohlichi</a></i>
+&nbsp;to rub all over
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#iskasohlichi">iskasohlichi</a></i>
+&nbsp;to rub all over with
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#iskasookachi">iskasookachi</a></i>
+&nbsp;tool for rubbing hide
+<br><font size="+2"><b><a name="kasohlichi"></a>kasohlichi</b> </font>
+<font size="+2">to rub all over, rub to soften (as in tanning hide)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>kasohchichi, kasohhilichi, kasohhachichi</i>)
+&nbsp; [/kasoh-li-chi<sup>1</sup>]
+ ☞<a href="k.htm#kasohka">kasohka</a>
+<br><font size="+2"><b><a name="kàsosi"></a>kàsosi</b> </font>
+<font size="+2">any baby son after the first born son </font>
+ <i>Usage: </i>Hypocoristic.
+&nbsp; [/kàsi-osi]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="k.htm#kàsi">kàsi</a>
+<br><font size="+2"><b><a name="kássatka"></a>kássatka</b> </font>
+<font size="+2">to be cool, getting colder</font>
+ [<i>ggr</i>]
+ ☞<a href="k.htm#kasatka">kasatka</a>
+<br><font size="+2"><b><a name="kássatkàasi"></a>kássatkàasi</b> </font>
+<font size="+2">to be a cool spell, be getting colder</font>
+&nbsp; [/kasat-ka<sup>1</sup>-osi]
+ [<i>ggr</i>]
+ ☞<a href="k.htm#kássatka">kássatka</a>
+<br><font size="+2"><b><a name="kasto"></a>kasto</b> </font>
+<font size="+2">flea </font>
+<br><font size="+2"><b><a name="kati"></a>kati</b> </font>
+<font size="+2">cat (domestic) </font>
+ {&nbsp;English}
+<br>&nbsp;&nbsp;<i><a href="k.htm#katosi">katosi</a></i>
+&nbsp;kitten
+<br><font size="+2"><b><a name="katimaɬatli"></a>katimaɬatli</b> </font>
+<font size="+2">ring-tailed cat </font>
+&nbsp; [/kati /maɬatli]
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="katosi"></a>katosi</b> </font>
+<font size="+2">kitten </font>
+&nbsp; [/kati-osi]
+ ☞<a href="k.htm#kati">kati</a>
+<br><font size="+2"><b><a name="katska"></a>katska</b> </font>
+<font size="+2">blue catfish, catfish a little larger than takka</font>
+ [<i>only recorded three consonant cluster in the language</i>]
+ <i>Var: kachka</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kattaamichi"></a>kattaamichi</b> </font>
+<font size="+2">to curse, swear </font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>kattaamichitiska, kattaamichitilka, kattaamichitaska</i>)
+&nbsp; [(/kattaami)-chi<sup>2</sup>]
+&nbsp;<font face="Arial">«</font>Kattaamichitiskánnàa.
+ <i>Don't curse.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kattaamitíkko">kattaamitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="k.htm#kattaamichitilka">kattaamichitilka</a></i>
+&nbsp;cursing
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inkattaamichi">inkattaamichi</a></i>
+&nbsp;to curse at
+<br><font size="+2"><b><a name="kattaamichitilka"></a>kattaamichitilka</b> </font>
+<font size="+2">cursing, swearing </font>
+&nbsp; [(/kattaami)-chi<sup>2</sup>-tilka]
+&nbsp;<font face="Arial">«</font>Kattaamichitilkaya kànkohchi.
+ <i>Swearing is bad.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kattaamichi">kattaamichi</a>
+<br><font size="+2"><b><a name="kattaamitíkko"></a>kattaamitíkko</b> </font>
+ Neg.
+ ☞<a href="k.htm#kattaamichi">kattaamichi</a>
+<br><font size="+2"><b><a name="kawakna"></a>kawakna</b> </font>
+<font size="+2">to be crooked, not straight, bent, lopsided, twisted, bowed (of the legs) </font>
+ <i>Var: kowakna</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Ittabik ohinkowakna.
+ <i>He is bow-legged.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kawáknàasi">kawáknàasi</a></i>
+&nbsp;to be slightly askew
+<br>&nbsp;&nbsp;<i><a href="k.htm#kawkona">kawkona</a></i>
+&nbsp;to be crooked
+<br><font size="+2"><b><a name="kawáknàasi"></a>kawáknàasi</b> </font>
+<font size="+2">to be a little lopsided, twisted, slightly askew</font>
+&nbsp; [/kawakna-osi]
+ [<i>fgr</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="k.htm#kawakna">kawakna</a>
+<br><font size="+2"><b><a name="kawaɬka"></a>kawaɬka</b> </font>
+<font size="+2">to be broken in two</font>
+&nbsp; [/kawaɬ-ka<sup>1</sup>]
+ <i>Pl: </i>kawka
+ <i>Var: kowaɬka</i>
+ ☞<a href="k.htm#kawaɬɬi">kawaɬɬi</a>
+<br><font size="+2"><b><a name="kawaɬɬi"></a>kawaɬɬi</b> </font>
+<font size="+2">to break in two (one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>kawaɬchi, kawaɬhili, kawaɬhachi</i>)
+&nbsp; [/kawaɬ-li]
+ <i>Var: kowaɬɬi</i>
+&nbsp;<font face="Arial">«</font>Eh, nita ɬooli ponnókkooma yok máami akìilot imoɬahchóot máamiimá máamifòokamon batatlòostík kowaɬɬit ibihchootoolo.
+ <i>If the dog doesn't know how to chase bears, isn't aware of it and so might come right up to it, then if that happens, the bear might just swat them and it will break and kill them.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kawaɬka">kawaɬka</a></i>
+&nbsp;to be broken in two
+<br>&nbsp;&nbsp;<i><a href="k.htm#kówwaɬɬi">kówwaɬɬi</a></i>
+&nbsp;to crack (of a long rigid object)
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittakawaɬɬi">ittakawaɬɬi</a></i>
+&nbsp;to break something in two
+<br>&nbsp;&nbsp;<i><a href="k.htm#kawwi">kawwi</a></i>
+&nbsp;to break in two (pl.) or break into pieces
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="k.htm#kawka">kawka</a></i>
+&nbsp;to be broken (pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="k.htm#kawkachi">kawkachi</a></i>
+&nbsp;to be broken into pieces
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittakawwichi">ittakawwichi</a></i>
+&nbsp;to break or snap (something) into pieces
+<br><font size="+2"><b><a name="kawka"></a>kawka</b> </font>
+<font size="+2">to be broken in pieces, be broken up (of more than one)</font>
+&nbsp; [/kaw(aɬ)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="k.htm#kawwi">kawwi</a>
+<br><font size="+2"><b><a name="kawkachi"></a>kawkachi</b> </font>
+<font size="+2">to be broken into pieces</font>
+&nbsp; [/kaw(aɬ)-ka<sup>1</sup>-chi<sup>2</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="k.htm#kawka">kawka</a>
+<br><font size="+2"><b><a name="kawkona"></a>kawkona</b> </font>
+<font size="+2">to have a lot of bends, be crooked</font>
+&nbsp; [prob. reduplicated plural of kawakna]
+ ☞<a href="k.htm#kawakna">kawakna</a>
+<br><font size="+2"><b><a name="kawwi"></a>kawwi</b> </font>
+<font size="+2">to snap, break (long rigid objects) in several places</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>kawchi, kawhili, kawhachi</i>)
+&nbsp; [/kaw(aɬ)-li]
+ [<i>dsfx1</i>]
+ ☞<a href="k.htm#kawaɬɬi">kawaɬɬi</a>
+<br><font size="+2"><b><a name="kayapka"></a>kayapka</b> </font>
+<font size="+2">to scoop up (with the hand), cup (in the hand) (one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>kayapiska, kayapilka, kayapaska</i>)
+&nbsp; [/kayap-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Sanchon kayapkalo.
+ <i>I scooped up dirt with my hand.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kayka">kayka</a></i>
+&nbsp;to scoop up repeatedly
+<br><font size="+2"><b><a name="kayka"></a>kayka</b> </font>
+<font size="+2">to scoop up repeatedly (with the hand), cup (in the hand) (plural objects)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>kayiska, kayilka, kayaksa</i>)
+&nbsp; [/kay(ap)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="k.htm#kayapka">kayapka</a>
+<br><font size="+2"><b><a name="kaylichi"></a>kaylichi</b> </font>
+<font size="+2">to scratch</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>kaychichi, kayhilichi, kayhachichi</i>)
+&nbsp; [/kay-li-chi<sup>2</sup>]
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iskaykachi">iskaykachi</a></i>
+&nbsp;rake
+<br>&nbsp;&nbsp;<i><a href="i2.htm#itakaylichi">itakaylichi</a></i>
+&nbsp;to stir (a fire)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#itakaykíichi">itakaykíichi</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istitakaykachi">istitakaykachi</a></i>
+&nbsp;rake
+<br><font size="+2"><b><a name="kayoffi"></a>kayoffi</b> </font>
+<font size="+2">to scrub (one thing)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>kayofchi, kayofhili, kayofhachi</i>)
+&nbsp; [/kayof-li]
+&nbsp;<font face="Arial">«</font>Ilokfan kayoffilihchi.
+ <i>I'm scrubbing my dress.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iskayofka">iskayofka</a></i>
+&nbsp;washboard
+<br>&nbsp;&nbsp;<i><a href="i2.htm#itakayoffi">itakayoffi</a></i>
+&nbsp;to scrub (the floor)
+<br>&nbsp;&nbsp;<i><a href="k.htm#kayòoli">kayòoli</a></i>
+&nbsp;to scrub (more than one)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="k.htm#kayòolichi">kayòolichi</a></i>
+&nbsp;to scrub (repeatedly)
+<br><font size="+2"><b><a name="kayòoli"></a>kayòoli</b> </font>
+<font size="+2">to scrub (more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>kayòochi, kayòohili, kayòohachi</i>)
+&nbsp; [/kayo(f)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Ilokfan kayòolilihchi.
+ <i>I'm scrubbing my dresses.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kayoffi">kayoffi</a>
+<br><font size="+2"><b><a name="kayòolichi"></a>kayòolichi</b> </font>
+<font size="+2">to rub, scrub (repeatedly)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>kayòochichi, kayòohilichi, kayòohachichi</i>)
+&nbsp; [/kayo(f)-li-chi<sup>2</sup>]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="k.htm#kayòoli">kayòoli</a>
+<br><font size="+2"><b><a name="kayya"></a>kayya</b> </font>
+<font size="+2">to be satisfied, satiated, full (of animates), to get enough</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>óyhatilkaayok pokayyo.
+ <i>All of us are full.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kafin anchampóoloskàamon chakayyo.
+ <i>The coffee tasted real good to me but I got enough.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kakíyyo">kakíyyo</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="k.htm#kayyatíkko">kayyatíkko</a></i>
+ Neg.
+&nbsp;to not be too full yet
+<br><font size="+2"><b><a name="kayyatíkko"></a>kayyatíkko</b> </font>
+ Neg.
+<font size="+2">to not be too full yet</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ ☞<a href="k.htm#kayya">kayya</a>
+<br><font size="+2"><b><a name="kibìikachi"></a>kibìikachi</b> </font>
+<font size="+2">knocking, knock; sound of footsteps</font>
+&nbsp; [/kibii-ka<sup>1</sup>-chi<sup>2</sup>]
+ ☞<a href="k.htm#kibìilichi">kibìilichi</a>
+<br><font size="+2"><b><a name="kibìilichi"></a>kibìilichi</b> </font>
+<font size="+2">to knock, rap with the knuckles, bump, tap; to make the sound of running hooves </font>
+&nbsp;<font size="0">(DB)</font>
+; <font size="+2">to make the noise of light footsteps, pitter-patter</font>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>kibìichichi, kibìihilichi, kibìihachichi</i>)
+&nbsp; [/kibii-li-chi<sup>2</sup>]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Aatok okhichan maakibìilichin háalolo.
+ <i>I hear someone knocking at the door.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kibìikachi">kibìikachi</a></i>
+&nbsp;knocking
+<br><font size="+2"><b><a name="kifahíkko"></a>kifahíkko</b> </font>
+ Neg.
+ <i>Var: kifaíkko</i>
+ ☞<a href="k.htm#kifahka">kifahka</a>
+<br><font size="+2"><b><a name="kifahka"></a>kifahka</b> </font>
+<font size="+2">to snort (esp. in derision), heave a sigh of disgust, grunt; to make a rasping noise </font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>kifahiska, kifahilka, kifahaska</i>)
+<br>&nbsp;&nbsp;<i><a href="k.htm#kifahkatíkko">kifahkatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="k.htm#kifahíkko">kifahíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="kifahkatíkko"></a>kifahkatíkko</b> </font>
+ Neg.
+ ☞<a href="k.htm#kifahka">kifahka</a>
+<br><font size="+2"><b><a name="kifaíkko"></a>kifaíkko</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#kifahíkko">kifahíkko</a>&nbsp;
+<br><font size="+2"><b><a name="kihcho"></a>kihcho</b> </font>
+<font size="+2">large wooden mortar </font>
+&nbsp;<font color="#080000">Cul:  Used to pound corn to crack the hulls, or for pounding meat. Traditionally made from a piece of log around one foot long and one foot in diameter. Hot coals are used to burn a bowl shaped indentation in one end, which is then scraped out to remove charred wood. Used with a kistapi.</font>&nbsp;
+<br><font size="+2"><b><a name="kihli"></a>kihli</b> </font>
+<font size="+2">to wipe after using the toilet, wipe after defecation</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>kihchi, kihhili, kihhachi</i>)
+&nbsp; [/kih-li]
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iskihka">iskihka</a></i>
+&nbsp;toilet paper
+<br><font size="+2"><b><a name="kìika"></a>kìika</b> </font>
+<font size="+2">the letter `K'</font>
+&nbsp; [/kii-ka<sup>2</sup>]
+<br><font size="+2"><b><a name="kilaaya"></a>kilaaya</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">torch, light</font>
+&nbsp; [/kilay-a]
+&nbsp;2.&nbsp;
+<font size="+2">to be lit, lighted</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ ☞<a href="k.htm#kilayli">kilayli</a>
+<br><font size="+2"><b><a name="kilayli"></a>kilayli</b> </font>
+<font size="+2">to light, ignite (a fire), turn on (a light)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>kilaychi, kilayhili, kilayhachi</i>)
+&nbsp; [/kilay-li]
+<br>&nbsp;&nbsp;<i><a href="k.htm#kilaaya">kilaaya</a></i>
+&nbsp;1.&nbsp;
+&nbsp;torch
+&nbsp;2.&nbsp;
+&nbsp;to be lit
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iskilaaya">iskilaaya</a></i>
+&nbsp;1.&nbsp;
+&nbsp;anything used to start a fire
+&nbsp;2.&nbsp;
+&nbsp;to catch fire
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istookilaaya">istookilaaya</a></i>
+&nbsp;to burn (of gravy)
+<br><font size="+2"><b><a name="Kilim Finka"></a>Kilim Finka</b> </font>
+<font size="+2">Clem Fain </font>
+&nbsp;<font color="#080000">Cul:  Anglo attorney who served as state agent and second chief of the Alabamas in 1928 when Chief Charlie Thompson and McConico Battise went to Washington to get land for the tribe.</font>&nbsp;
+ {&nbsp;English}
+<br><font size="+2"><b><a name="Kilinsi"></a>Kilinsi</b> </font>
+<font size="+2">Clenson </font>
+&nbsp;<font color="#080000">Cul:  First head of tribal council Clenson Celestine.</font>&nbsp;
+ {&nbsp;English}
+<br><font size="+2"><b><a name="Kilismi"></a>Kilismi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">Christmas</font>
+ {&nbsp;English}
+&nbsp;2.&nbsp;
+<font size="+2">Merry Christmas!</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#Kilismi chimillo!">Kilismi chimillo!</a></i>
+&nbsp;It's Christmas. You lose!
+<br><font size="+2"><b><a name="Kilismi chimillo!"></a>Kilismi chimillo!</b> </font>
+<font size="+2">It's Christmas. You lose!</font>
+ <i>Usage: </i>Idiom.
+&nbsp;<font color="#080000">Cul:  From a children's game; the first to say `Kilismi' wins and holds their hand out for a prize from the others.</font>&nbsp;
+&nbsp; [/kilismi chim- /illi-o<sup>3</sup>]
+ ☞<a href="k.htm#Kilismi">Kilismi</a>
+<br><font size="+2"><b><a name="Kilismi istimilommachi"></a>Kilismi istimilommachi</b> </font>
+<font size="+2">Christmas decorations, ornaments</font>
+&nbsp; [/kilismi ist-im- /ilommachi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kipìilichi"></a>kipìilichi</b> </font>
+<font size="+2">to go clippety-clop, make the sound of galloping hooves, hoofbeats, make the sound of running footsteps, thump</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>kipìichichi, kipìihilichi, kipìihachichi</i>)
+&nbsp; [/kipii-li-chi<sup>2</sup>]
+<br><font size="+2"><b><a name="kistapi"></a>kistapi</b> </font>
+<font size="+2">pestle; pole for grinding corn; stick used to beat corn in making sofkey</font>
+&nbsp;<font color="#080000">Cul:  Used with a kihcho (wooden mortar).</font>&nbsp;
+<br><font size="+2"><b><a name="kitaaya"></a>kitaaya</b> </font>
+<font size="+2">to ignite, start (of a fire)</font>
+&nbsp; [/kitay-a]
+&nbsp;<font face="Arial">«</font>Tikbak kitaaya.
+ <i>The fire started.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kitayli">kitayli</a>
+<br><font size="+2"><b><a name="kitáaya"></a>kitáaya</b> </font>
+<font size="+2">to be still burning (of a fire)</font>
+&nbsp; [/kitay-a]
+ [<i>lgr</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="k.htm#kitaaya">kitaaya</a>
+<br><font size="+2"><b><a name="kitayli"></a>kitayli</b> </font>
+<font size="+2">to light, turn on (a light of any kind), start (a fire)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>kitaychi, kitayhili, kitayhachi</i>)
+&nbsp; [/kitay-li]
+&nbsp;<font face="Arial">«</font>Tikban kitayli.
+ <i>Start the fire.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kitaaya">kitaaya</a></i>
+&nbsp;to ignite
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="k.htm#kitáaya">kitáaya</a></i>
+&nbsp;to be still burning
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#iskitaaya">iskitaaya</a></i>
+&nbsp;torch; flint for striking a flame
+<br>&nbsp;&nbsp;<i><a href="o.htm#onakitayli">onakitayli</a></i>
+&nbsp;to set fire to (a pile of something)
+<br><font size="+2"><b><a name="kitini"></a>kitini</b> </font>
+<font size="+2">horned owl, nighthawk </font>
+&nbsp;<font color="#080000">Cul:  The kitini is said to utter the words in the illustration because it has very good eyes, the better to steal chickens with.</font>&nbsp;
+&nbsp;<font face="Arial">«</font>Kitinik `sikhi óstàakàasimaɬɬon maahíichalihchoolo' mankatoha.
+ <i>The owl said `I can see past four mountains.'</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="kitini saksa"></a>kitini saksa</b> </font>
+<font size="+2">owl species </font>
+ <i>Usage: </i>Some use this for opasaksa to refer to a kind of witch.
+&nbsp; [/kitini /(saksa)]
+<br><font size="+2"><b><a name="kloofa"></a>kloofa</b> </font>
+<font size="+2">clover </font>
+ <i>(Trifolium spp)</i>
+ {&nbsp;English}
+<br><font size="+2"><b><a name="kobayli"></a>kobayli</b> </font>
+<font size="+2">to be short (in length)</font>
+&nbsp; [/kobay-li]
+<br>&nbsp;&nbsp;<i><a href="k.htm#kobaylichi">kobaylichi</a></i>
+&nbsp;to shorten
+<br><font size="+2"><b><a name="kobaylichi"></a>kobaylichi</b> </font>
+<font size="+2">to shorten (something)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>kobaychichi, kobayhilichi, kobayhachichi</i>)
+&nbsp; [/kobay-li-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="k.htm#kobayli">kobayli</a>
+<br><font size="+2"><b><a name="kobitta"></a>kobitta</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#kobitto">kobitto</a>&nbsp;
+<br><font size="+2"><b><a name="kobitto"></a>kobitto</b> </font>
+<font size="+2">burden basket</font>
+&nbsp;<font color="#080000">Cul:  Made of strips of tree bark about two feet wide.</font>&nbsp;
+ <i>Var: kobitta</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="koboksi"></a>koboksi</b> </font>
+<font size="+2">to be short (in length, time, distance)</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inkoboksi">inkoboksi</a></i>
+&nbsp;to have (something) be too short for one
+<br>&nbsp;&nbsp;<i><a href="k.htm#kobóksòssi">kobóksòssi</a></i>
+&nbsp;to be very short
+<br>&nbsp;&nbsp;<i><a href="k.htm#kobóoⁿksòssi">kobóoⁿksòssi</a></i>
+&nbsp;to be extremely short
+<br>&nbsp;&nbsp;<i><a href="k.htm#kómboksi">kómboksi</a></i>
+&nbsp;to be a little short
+<br>&nbsp;&nbsp;<i><a href="k.htm#koboksichi">koboksichi</a></i>
+&nbsp;to shorten something
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="k.htm#kómboksìichi">kómboksìichi</a></i>
+&nbsp;to shorten something a little
+<br><font size="+2"><b><a name="koboksichi"></a>koboksichi</b> </font>
+<font size="+2">to shorten something</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>koboksichitiska, koboksichitilka, koboksichitaska</i>)
+&nbsp; [/koboksi-chi<sup>1</sup>]
+ ☞<a href="k.htm#koboksi">koboksi</a>
+<br><font size="+2"><b><a name="kobóksòschi"></a>kobóksòschi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#kobóksòssi">kobóksòssi</a>&nbsp;
+<br><font size="+2"><b><a name="kobóksòssi"></a>kobóksòssi</b> </font>
+<font size="+2">to be very short</font>
+&nbsp; [/koboksi-osi-hchi]
+ [<i>fgr</i>]
+ <i>Var: kobóksòschi</i>
+&nbsp;<font size="0">(WP)</font>
+ ☞<a href="k.htm#koboksi">koboksi</a>
+<br><font size="+2"><b><a name="kobòolichi"></a>kobòolichi</b> </font>
+<font size="+2">to make a racket; to make a banging, rapping, knocking noise, stomping, sound of loud footsteps</font>
+&nbsp;(<i>kobòolichichi, kobòolihilichi, kobòolihachichi,</i>)
+&nbsp; [/kobòo-li-chi<sup>2</sup>]
+&nbsp;<font face="Arial">«</font>Kobòolichiikát wìiskat onkon maachimoláachilàapiti.
+ <i>You were making all that noise (next door) so I called you (to see if you were all right).</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="m.htm#maakobòolichi">maakobòolichi</a></i>
+&nbsp;to knock or rap (at the door)
+<br><font size="+2"><b><a name="kobóoⁿksòssi"></a>kobóoⁿksòssi</b> </font>
+<font size="+2">to be extremely short</font>
+&nbsp; [/koboksi-osi-hchi]
+ [<i>ngr</i>]
+ ☞<a href="k.htm#koboksi">koboksi</a>
+<br><font size="+2"><b><a name="kochi"></a>kochi</b> </font>
+<font size="+2">gourd </font>
+<br><font size="+2"><b><a name="kochiba"></a>kochiba</b> </font>
+<font size="+2">gourd or turtleshell rattle; type of black insect about three inches long, thin at the middle, makes a clicking noise if squeezed, plays dead when touched</font>
+&nbsp; [poss. &nbsp;/kochi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kochibitka"></a>kochibitka</b> </font>
+<font size="+2">gourd dance</font>
+&nbsp; [/kochi /bit-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="kochibitka talilwa"></a>kochibitka talilwa</b> </font>
+<font size="+2">gourd dance song</font>
+&nbsp; [/kochi /bit-ka<sup>1</sup> /ta&lt;li&gt;lwa]
+<br><font size="+2"><b><a name="kòchka"></a>kòchka</b> </font>
+<font size="+2">athletic coach</font>
+&nbsp; [/koch-ka<sup>3</sup>]
+ {&nbsp;English}
+<br><font size="+2"><b><a name="kochochohki"></a>kochochohki</b> </font>
+<font size="+2">purple martin </font>
+&nbsp;<font color="#080000">Cul:  The late Chief Cooper Sylestine used to say if one builds a martin house one has to get up early.</font>&nbsp;
+&nbsp;<font size="0">(IB)</font>
+ <i>Var: kochochohkihpo</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="kochochohkihpo"></a>kochochohkihpo</b> </font>
+<font size="+2">chimney swift, barn swallow </font>
+&nbsp; [/kochochohki (ihpo)]
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="kofka"></a>kofka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="i1.htm#ilaanikofka">ilaanikofka</a>&nbsp;
+<br><font size="+2"><b><a name="kòkka"></a>kòkka</b> </font>
+<font size="+2">any sweet soft drink </font>
+&nbsp; [/kok-ka<sup>3</sup>]
+ {&nbsp;English `Coke'}
+<br><font size="+2"><b><a name="kokkimiisa"></a>kokkimiisa</b> </font>
+<font size="+2">soft drink can</font>
+&nbsp; [/kokka im- /iisa]
+<br><font size="+2"><b><a name="kokòoma"></a>kokòoma</b> </font>
+<font size="+2">cucumber; pickle</font>
+ {&nbsp;English}
+<br><font size="+2"><b><a name="kokòomakaskaha"></a>kokòomakaskaha</b> </font>
+<font size="+2">pickle</font>
+&nbsp; [/kokooma /kaskaha]
+<br><font size="+2"><b><a name="kolbi"></a>kolbi</b> </font>
+<font size="+2">basket</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kolbosi">kolbosi</a></i>
+&nbsp;shallow basket
+<br><font size="+2"><b><a name="kolbipiɬɬasi"></a>kolbipiɬɬasi</b> </font>
+<font size="+2">canoe basket</font>
+&nbsp; [/kolbi /piɬɬa-osi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kolbishayòoki"></a>kolbishayòoki</b> </font>
+<font size="+2">round deep basket</font>
+&nbsp; [/kolbi ist- /hayooki]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: kolboshayòoki</i>
+&nbsp;<font face="Arial">«</font>Kolboshayòokik hayoíkkosi.
+ <i>It's a shallow basket.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="kolbishayòoki alotkascháffàaka"></a>kolbishayòoki alotkascháffàaka</b> </font>
+<font size="+2">one bushel </font>
+&nbsp; [/kolbi ist- /hayooki /alot-ka<sup>1</sup> ist- /cháffàa-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kolbishayòoki lapihchi aɬka"></a>kolbishayòoki lapihchi aɬka</b> </font>
+<font size="+2">spoon basket, elbow basket (basket with two necks)</font>
+&nbsp; [/kolbi ist- /hayooki /lapihchi /aɬi-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kolbishayòoki taɬa"></a>kolbishayòoki taɬa</b> </font>
+<font size="+2">to weave a basket</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;<font face="Arial">«</font>Kolboshayòokin taɬat pathàachok iɬanin óstàakan iⁿsakámpan intobàachok onataɬatanòolok.
+ <i>You weave around the basket and make four corners.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#taɬa">taɬa</a>
+<br><font size="+2"><b><a name="kolbittiɬchoba"></a>kolbittiɬchoba</b> </font>
+<font size="+2">sifting basket with large holes (used in making sofkey)</font>
+&nbsp; [/kolbi /ittiɬi /choba]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kolbittiɬsáwwa"></a>kolbittiɬsáwwa</b> </font>
+<font size="+2">sifting basket with small holes</font>
+&nbsp; [/kolbi /ittiɬi /sáwwa]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kolboshayòoki"></a>kolboshayòoki</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#kolbishayòoki">kolbishayòoki</a>&nbsp;
+<br><font size="+2"><b><a name="kolboshayòoki taɬat pathàachi"></a>kolboshayòoki taɬat pathàachi</b> </font>
+<font size="+2">the flat bottom of a four-cornered basket</font>
+&nbsp; [/kolbi-osi /hayooki /taɬa-t /patha-chi<sup>1</sup>]
+<br><font size="+2"><b><a name="kolbosi"></a>kolbosi</b> </font>
+<font size="+2">shallow basket</font>
+&nbsp; [/kolbi-osi]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="k.htm#kolbi">kolbi</a>
+<br><font size="+2"><b><a name="kolkobi"></a>kolkobi</b> </font>
+<font size="+2">potholes, series of dips or valleys</font>
+&nbsp; [poss. reduplicated form of kolokbi]
+ ☞<a href="k.htm#kolokbi">kolokbi</a>
+<br><font size="+2"><b><a name="kolkohíkko"></a>kolkohíkko</b> </font>
+ Neg.
+ ☞<a href="k.htm#kolkohka">kolkohka</a>
+<br><font size="+2"><b><a name="kolkohka"></a>kolkohka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to thunder</font>
+&nbsp;2.&nbsp;
+<font size="+2">thunder</font>
+ (the Alabama language counterpart to the English idiom `lightning strikes' translates as the idiom `thunder strikes')
+<br>&nbsp;&nbsp;<i><a href="k.htm#kolkohíkko">kolkohíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="k.htm#kolkohka batatli">kolkohka batatli</a></i>
+&nbsp;for lightning to strike
+<br><font size="+2"><b><a name="kolkohka batatli"></a>kolkohka batatli</b> </font>
+<font size="+2">for lightning to strike</font>
+ <i>Usage: </i>Idiom.
+&nbsp;<font color="#800080" size="+1">3/CHA-</font>
+&nbsp; [/kolkohka /batat-li]
+&nbsp;<font face="Arial">«</font>Kolkohkak itton batatliti.
+ <i>Thunder (lightning) struck the tree.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kolkohka">kolkohka</a>
+<br><font size="+2"><b><a name="kolkohkachinto"></a>kolkohkachinto</b> </font>
+<font size="+2">harlequin snake, Mexican milk snake, coral snake, thunder snake </font>
+&nbsp;<font color="#080000">Cul:  They show up just before or after a thunderstorm.</font>&nbsp;
+&nbsp; [/kolkohka /chinto]
+ <i>Var: kolkohka inchinto</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kolkohkafoosi"></a>kolkohkafoosi</b> </font>
+<font size="+2">thunderbird</font>
+&nbsp; [/kolkohka /foosi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kolkohka inchinto"></a>kolkohka inchinto</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#kolkohkachinto">kolkohkachinto</a>&nbsp;
+<br><font size="+2"><b><a name="kolli"></a>kolli</b> </font>
+<font size="+2">to cut repeatedly, cut up (plural objects)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>kolchi, kolhili, kolhachi</i>)
+&nbsp; [/kol(of)-li]
+ [<i>dsfx1</i>]
+ ☞<a href="k.htm#koloffi">koloffi</a>
+<br><font size="+2"><b><a name="kollichi"></a>kollichi</b> </font>
+<font size="+2">to have (somebody) cut, let (somebody) cut</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>kolchichi, kolhilichi, kolhachichi</i>)
+&nbsp; [/kol(of)-li-chi<sup>2</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="k.htm#kolli">kolli</a>
+<br><font size="+2"><b><a name="koloffi"></a>koloffi</b> </font>
+<font size="+2">to cut once</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>kolofchi, kolofhili, kolofhachi</i>)
+&nbsp; [/kolof-li]
+&nbsp;<font face="Arial">«</font>Indian reservashikak talàakafòokon antaata imáapochòobotoomon koloffit istointalàatoolo, iyaanin.
+ <i>When the Indian Reservation was laid out, my father's grandmother-they cut off a piece of land and set it aside for her.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichookoloffi">ichookoloffi</a></i>
+&nbsp;to trim the beard; to cut the mouth
+<br>&nbsp;&nbsp;<i><a href="i2.htm#itakoloffi">itakoloffi</a></i>
+&nbsp;to mow
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittakoloffi">ittakoloffi</a></i>
+&nbsp;to cut in two
+<br>&nbsp;&nbsp;<i><a href="n.htm#nookoloffi">nookoloffi</a></i>
+&nbsp;to behead (sg.)
+<br>&nbsp;&nbsp;<i><a href="o.htm#onakoloffi">onakoloffi</a></i>
+&nbsp;to shorten
+<br>&nbsp;&nbsp;<i><a href="a.htm#alikchikoloffi">alikchikoloffi</a></i>
+&nbsp;to operate (on someone) (of a doctor)
+<br>&nbsp;&nbsp;<i><a href="k.htm#kolofka">kolofka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;cut
+&nbsp;2.&nbsp;
+&nbsp;to get cut
+<br>&nbsp;&nbsp;<i><a href="k.htm#kolli">kolli</a></i>
+&nbsp;to cut repeatedly
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#nookolli">nookolli</a></i>
+&nbsp;to behead (pl. obj.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittakolli">ittakolli</a></i>
+&nbsp;to cut up into pieces
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="k.htm#kollichi">kollichi</a></i>
+&nbsp;to have (somebody) cut
+<br><font size="+2"><b><a name="kolofka"></a>kolofka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">cut</font>
+&nbsp; [/kolof-ka<sup>1</sup>]
+&nbsp;2.&nbsp;
+<font size="+2">to get cut; to have a surgical operation </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="k.htm#koloffi">koloffi</a>
+<br><font size="+2"><b><a name="kolofkaschobahchi"></a>kolofkaschobahchi</b> </font>
+<font size="+2">cliff</font>
+&nbsp; [/kolof-ka<sup>1</sup> ist- /choba-hchi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kolokbi"></a>kolokbi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">deep hole; ditch; gulley, ravine, canyon</font>
+&nbsp;2.&nbsp;
+<font size="+2">to be deep (of a place)</font>
+<br>&nbsp;&nbsp;<i><a href="o.htm#ookolokbi">ookolokbi</a></i>
+&nbsp;valley
+<br>&nbsp;&nbsp;<i><a href="k.htm#kolkobi">kolkobi</a></i>
+&nbsp;series of dips
+<br><font size="+2"><b><a name="kolokbischoba"></a>kolokbischoba</b> </font>
+<font size="+2">canyon, ravine</font>
+&nbsp; [/kolokbi ist- /choba]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="koɬa"></a>koɬa</b> </font>
+<font size="+2">beyond, past (in time or space), over there</font>
+&nbsp;<font face="Arial">«</font>Kalwistiya Yosti koɬa ɬóppotli.
+ <i>Galveston is beyond Houston.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kóoɬàasi">kóoɬàasi</a></i>
+&nbsp;a little farther
+<br>&nbsp;&nbsp;<i><a href="k.htm#koɬaama">koɬaama</a></i>
+&nbsp;later
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maakoɬaama">maakoɬaama</a></i>
+&nbsp;on beyond
+<br>&nbsp;&nbsp;<i><a href="k.htm#koɬaaka">koɬaaka</a></i>
+&nbsp;previous
+<br><font size="+2"><b><a name="koɬaaka"></a>koɬaaka</b> </font>
+<font size="+2">previous, former, earlier, before</font>
+&nbsp; [/koɬa-ka<sup>2</sup>]
+&nbsp;<font face="Arial">«</font>Piyàako koɬaako.
+ <i>Day before yesterday.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Piyàako koɬaaka nihta hollooti.
+ <i>Day before yesterday was Sunday.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#koɬa">koɬa</a>
+<br><font size="+2"><b><a name="koɬaama"></a>koɬaama</b> </font>
+<font size="+2">later, after, following</font>
+&nbsp; [/koɬa-ma]
+&nbsp;<font face="Arial">«</font>Nìhta koɬaama.
+ <i>Day after tomorrow.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#koɬa">koɬa</a>
+<br><font size="+2"><b><a name="kombo"></a>kombo</b> </font>
+<font size="+2">okra </font>
+ <i>(Hibiscus esculentus)</i>
+ {&nbsp;English `gumbo'}
+<br><font size="+2"><b><a name="kómboksi"></a>kómboksi</b> </font>
+<font size="+2">to be a little short</font>
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Ilokfaya aasiililin kómboksiisti.
+ <i>I washed the dress and it shrank up a little.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#koboksi">koboksi</a>
+<br><font size="+2"><b><a name="kómboksìichi"></a>kómboksìichi</b> </font>
+<font size="+2">to shorten a little</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>kómboksìichitiska, kómboksìichitilka, kómboksìichitaska</i>)
+&nbsp; [/koboksi-chi<sup>1</sup>]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Ilokfan kómboksìichitiskaasaakáami.
+ <i>You shortened your dress didn't you?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ilokfan kómboksìichitiskahcho?
+ <i>Have you shortened your dress?</i><font face="Arial">»</font>
+ ☞<a href="k.htm#koboksichi">koboksichi</a>
+<br><font size="+2"><b><a name="komko"></a>komko</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#koⁿhko">koⁿhko</a>&nbsp;
+<br><font size="+2"><b><a name="komohlichi"></a>komohlichi</b> </font>
+<font size="+2">to ache, throb, hurt all over (as with the flu)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [prob. /komoh-li-chi<sup>2</sup>]
+ <i>Var: komoolichi</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Chakomohlichikáhchommo.
+ <i>I'm achy.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inkomoolichi">inkomoolichi</a></i>
+&nbsp;to have a pain in a body part
+<br><font size="+2"><b><a name="komoolichi"></a>komoolichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#komohlichi">komohlichi</a>&nbsp;
+<br><font size="+2"><b><a name="koⁿhko"></a>koⁿhko</b> </font>
+<font size="+2">congo snake, congo eel, amphiuma</font>
+&nbsp;<font size="0">(VC)</font>
+; <font size="+2">salamander</font>
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font color="#080000">Cul:  Believed to be very poisonous. If one hangs it on a tree it will rain and end a drought.</font>&nbsp;
+ <i>Var: komko</i>
+<br><font size="+2"><b><a name="kono"></a>kono</b> </font>
+<font size="+2">skunk </font>
+<br><font size="+2"><b><a name="kóoɬàasi"></a>kóoɬàasi</b> </font>
+<font size="+2">a little bit past, a little farther down, a little ways away</font>
+&nbsp; [/koɬa-osi]
+ [<i>fgr?</i>]
+&nbsp;<font face="Arial">«</font>Kóoɬàason hachàali.
+ <i>Stand a little farther away.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#koɬa">koɬa</a>
+<br><font size="+2"><b><a name="kóosi"></a>kóosi</b> </font>
+<font size="+2">aunt, mother's sister </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+<br><font size="+2"><b><a name="kóossòoba"></a>kóossòoba</b> </font>
+<font size="+2">greataunt, greatgrandmother, oldest sister of one's mother</font>
+&nbsp; [/kóosi /achòoba]
+&nbsp;<font face="Arial">«</font>Celizzie Henryk ankóossòobatoha.
+ <i>Celizzie Henry was my great-grandmother.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="kootíkko"></a>kootíkko</b> </font>
+ Neg.
+&nbsp;1.&nbsp;
+<font size="+2">to not whistle</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;2.&nbsp;
+<font size="+2">to not be able to whistle</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ ☞<a href="k.htm#kootka1">kootka<sup>1</sup></a>
+<br><font size="+2"><b><a name="kootka"></a>kootka</b><sup>1</sup> </font>
+<font size="+2">to whistle with the lips</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>kootiska, kootilka, kootaska</i>)
+&nbsp; [/koot-ka<sup>1</sup>]
+<br>&nbsp;&nbsp;<i><a href="k.htm#kootíkko">kootíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inkootka">inkootka</a></i>
+&nbsp;to whistle at to call
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maatinkootka">maatinkootka</a></i>
+&nbsp;to whistle to
+<br><font size="+2"><b><a name="kootka"></a>kootka</b><sup>2</sup> </font>
+<font size="+2">court of law</font>
+&nbsp; [/koot-ka<sup>3</sup>]
+ {&nbsp;English}
+<br>&nbsp;&nbsp;<i><a href="k.htm#kootka istíisa">kootka istíisa</a></i>
+&nbsp;to have a trial
+<br><font size="+2"><b><a name="kootka istíisa"></a>kootka istíisa</b> </font>
+<font size="+2">to have a trial, hold court</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/koot-ka<sup>3</sup> ist- /íisa]
+ ☞<a href="k.htm#kootka2">kootka<sup>2</sup></a>
+<br><font size="+2"><b><a name="Kòpa"></a>Kòpa</b> </font>
+<font size="+2">Cooper </font>
+&nbsp;<font color="#080000">Cul:  Chief (Bronson) Cooper Sylestine, First Chief from 1936-1969.</font>&nbsp;
+ {&nbsp;English}
+<br><font size="+2"><b><a name="kopi"></a>kopi</b> </font>
+<font size="+2">nest </font>
+&nbsp;<font face="Arial">«</font>Inkopi talbòoli.
+ <i>Build a nest.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kopiichi">kopiichi</a></i>
+&nbsp;to build a nest
+<br><font size="+2"><b><a name="kopihka"></a>kopihka</b> </font>
+<font size="+2">trash, dead tree limbs, brush, rubbish</font>
+&nbsp; [/kopih-ka<sup>1</sup>]
+ ☞<a href="k.htm#kopihli">kopihli</a>
+<br><font size="+2"><b><a name="kopihkaɬka"></a>kopihkaɬka</b> </font>
+<font size="+2">trash bag, trash box</font>
+&nbsp; [/kopih-ka<sup>1</sup> /aɬi-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kopihkastitapihka"></a>kopihkastitapihka</b> </font>
+<font size="+2">pitchfork </font>
+&nbsp; [/kopih-ka<sup>1</sup> ist-ita- /pih-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kopihli"></a>kopihli</b> </font>
+<font size="+2">to clear a field (of trash), gather (trash or rubbish) together to burn </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>kopihchi, kopihhili, kopihhachi</i>)
+&nbsp; [/kopih-li]
+&nbsp;<font face="Arial">«</font>Ihtofayon kopihlilào.
+ <i>I'm going to clear trash from the field.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ittoissin kopihlilào.
+ <i>I'm going to clear it of leaves.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kopihka">kopihka</a></i>
+&nbsp;rubbish
+<br><font size="+2"><b><a name="kopiichi"></a>kopiichi</b> </font>
+<font size="+2">to build a nest</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>kopiitiska, kopiitilka, kopiitaska</i>)
+&nbsp;(<i>kopiichiska, kopiichilka, kopiichaska</i>)
+&nbsp; [/kopi-chi<sup>1</sup>]
+ ☞<a href="k.htm#kopi">kopi</a>
+<br><font size="+2"><b><a name="kopli"></a>kopli</b><sup>1</sup> </font>
+<font size="+2">to graze on (of animals)</font>
+&nbsp;<font face="Arial">«</font>Koplit maatìiso.
+ <i>They're out there grazing.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Waakak hassin koplihchi.
+ <i>The cows are grazing on the grass.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="kopli"></a>kopli</b><sup>2</sup> </font>
+<font size="+2">glass container, drinking glass</font>
+<br><font size="+2"><b><a name="Kosaati"></a>Kosaati</b> </font>
+<font size="+2">Coushatta Indian </font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#Kosaatiha">Kosaatiha</a></i>
+&nbsp;Coushatta Indians
+<br><font size="+2"><b><a name="Kosaatiha"></a>Kosaatiha</b> </font>
+<font size="+2">Coushatta Indians, Coushatta tribe </font>
+&nbsp; [/kosaati-ha<sup>1</sup>]
+ ☞<a href="k.htm#Kosaati">Kosaati</a>
+<br><font size="+2"><b><a name="Kosaati innaaɬiilka"></a>Kosaati innaaɬiilka</b> </font>
+<font size="+2">Koasati language </font>
+&nbsp; [/kosaati in- /naaɬii&lt;il&gt;-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="kosapa"></a>kosapa</b> </font>
+<font size="+2">blackgum tree, black tupelo, prob. also water tupelo</font>
+ <i>(Nyssa sylvatica, N. aquatica)</i>
+&nbsp;<font color="#080000">Cul:  These trees are good places to hunt squirrels since they have berries on top that squirrels like.</font>&nbsp;
+&nbsp;<font size="0">(IB)</font>
+ <i>Var: kosapi</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: kosapo</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kosapi"></a>kosapi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#kosapa">kosapa</a>&nbsp;
+<br><font size="+2"><b><a name="kosapo"></a>kosapo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#kosapa">kosapa</a>&nbsp;
+<br><font size="+2"><b><a name="kosiba"></a>kosiba</b> </font>
+<font size="+2">pokeweed, poke salad </font>
+ <i>(Phytolacca americana)</i>
+&nbsp;<font color="#080000">Cul:  Used to make whiskey out of berries; a decoction of the leaves is good as emetic; white people eat the young shoots.</font>&nbsp;
+&nbsp;<font size="0">(VC)</font>
+ (the plant itself is sometimes identified by speakers as tabosso rather than kosiba)
+<br><font size="+2"><b><a name="koskalpi"></a>koskalpi</b> </font>
+<font size="+2">leather thongs </font>
+ <i>Usage: </i>Archaic.
+<br><font size="+2"><b><a name="kosokìimo"></a>kosokìimo</b> </font>
+ Neg.
+ ☞<a href="k.htm#kosooma">kosooma</a>
+<br><font size="+2"><b><a name="kosooma"></a>kosooma</b> </font>
+<font size="+2">to have an odor, to smell; to stink</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chayyik kosoomo.
+ <i>Oh, my feet smell.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kosokìimo">kosokìimo</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichokkosóoma">ichokkosóoma</a></i>
+&nbsp;to have the smell of (something) on one's breath
+<br>&nbsp;&nbsp;<i><a href="k.htm#kosòoma">kosòoma</a></i>
+&nbsp;1.&nbsp;
+&nbsp;onion
+&nbsp;2.&nbsp;
+&nbsp;to be smelly
+<br>&nbsp;&nbsp;<i><a href="k.htm#kóssòoma">kóssòoma</a></i>
+&nbsp;to smell a little bad
+<br>&nbsp;&nbsp;<i><a href="k.htm#kosoomachi">kosoomachi</a></i>
+&nbsp;to make something stink
+<br><font size="+2"><b><a name="kosòoma"></a>kosòoma</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">onion, garlic</font>
+&nbsp;2.&nbsp;
+<font size="+2">to be smelly</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Nàasok kosòoman hóofnalo.
+ <i>I smell something smelly.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kosooma">kosooma</a>
+<br><font size="+2"><b><a name="kosoomachi"></a>kosoomachi</b> </font>
+<font size="+2">to make something stink or smell bad</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>kosoomachiska, kosoomachilka, kosoomachaska</i>)
+&nbsp;(<i>kosoomachitiska, kosoomachitilka, kosoomachitaska</i>)
+&nbsp; [/kosooma-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Kosoomachisko.
+ <i>You made it smell bad.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kosoomachitiskánnà!
+ <i>Don't make it smelly!</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kosooma">kosooma</a>
+<br><font size="+2"><b><a name="kosòoma hissi okchákko"></a>kosòoma hissi okchákko</b> </font>
+<font size="+2">green onion</font>
+&nbsp; [/kosòoma /hissi /okchakko]
+<br><font size="+2"><b><a name="kosòoma hissi okchákkoya ilpa"></a>kosòoma hissi okchákkoya ilpa</b> </font>
+<font size="+2">green onion</font>
+&nbsp; [/kosòoma /hissi /okchakko il- /ipa]
+<br><font size="+2"><b><a name="kosòomahomma"></a>kosòomahomma</b> </font>
+<font size="+2">bermuda onion</font>
+&nbsp; [/kosòoma /homma]
+<br><font size="+2"><b><a name="kosòomatosooya"></a>kosòomatosooya</b> </font>
+<font size="+2">onion plant </font>
+&nbsp; [/kosòoma /tosoy-a]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="kóssòoma"></a>kóssòoma</b> </font>
+<font size="+2">to smell a little bad, start to stink</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Waakimpisiya kamoskataɬɬo kóssòomo.
+ <i>The milk is getting sour and smells a little bad.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kosooma">kosooma</a>
+<br><font size="+2"><b><a name="kostàɬɬa"></a>kostàɬɬa</b> </font>
+<font size="+2">on the far side of a certain location (of a place), on the other side of</font>
+&nbsp; [poss. /(ak)ka ost- /tàɬɬa]
+&nbsp;<font face="Arial">«</font>Jaspaya Wodfilka kostáɬɬapìnha.
+ <i>Jasper is on the other side of Woodville (from the Reservation).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Corsicanaya Dallaska kostàɬɬà.
+ <i>Corsicana is on the other side of Dallas.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tàɬɬa">tàɬɬa</a>
+<br><font size="+2"><b><a name="kostíini"></a>kostíini</b> </font>
+<font size="+2">to be sane, in one's right mind, be thinking clearly, to know right from wrong</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>lgr</i>]
+ <i>Var: kostíiⁿni</i>
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font face="Arial">«</font>Chakostíini istanìhtak sáhchooliimon sobàylilihchooti.
+ <i>I know what kind of day it is because I know right from wrong.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chikostíini?
+ <i>Are you thinking clearly?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Iiⁿ, chakostíino.
+ <i>Yes, I'm thinking clearly.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kostini">kostini</a>
+<br><font size="+2"><b><a name="kostini"></a>kostini</b> </font>
+<font size="+2">to be wise, intelligent, smart, have a good mind, be clever; to be sober; to be aware, knowing</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kostinitíkko">kostinitíkko</a></i>
+ Neg.
+&nbsp;to be mentally slow
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="k.htm#kostinitíkkokáhchi">kostinitíkkokáhchi</a></i>
+&nbsp;stupid person
+<br>&nbsp;&nbsp;<i><a href="k.htm#kostìnko">kostìnko</a></i>
+ Neg.
+&nbsp;to be crazy
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="k.htm#kostìnkokáhchi">kostìnkokáhchi</a></i>
+ Neg.
+&nbsp;to be acting peculiar
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="k.htm#kostínkochi">kostínkochi</a></i>
+&nbsp;to make someone crazy
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="k.htm#kostínkotíkko">kostínkotíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#inkostini">inkostini</a></i>
+&nbsp;to speak one's mind to
+<br>&nbsp;&nbsp;<i><a href="k.htm#kostinifìhnatíkkokáhchi">kostinifìhnatíkkokáhchi</a></i>
+&nbsp;stupid person
+<br>&nbsp;&nbsp;<i><a href="k.htm#kostinka">kostinka</a></i>
+&nbsp;thought
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="k.htm#kostinka istimalpískòssi">kostinka istimalpískòssi</a></i>
+&nbsp;to be mentally slow
+<br>&nbsp;&nbsp;<i><a href="k.htm#kostíini">kostíini</a></i>
+&nbsp;to be sane
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iskostini">iskostini</a></i>
+&nbsp;to have thought about a particular thing
+<br>&nbsp;&nbsp;<i><a href="a.htm#akostínko">akostínko</a></i>
+ Neg.
+&nbsp;to be not capable
+<br>&nbsp;&nbsp;<i><a href="a.htm#akostinitíkko">akostinitíkko</a></i>
+ Neg.
+&nbsp;1.&nbsp;
+&nbsp;to not know something
+&nbsp;2.&nbsp;
+&nbsp;to not be able to think
+<br>&nbsp;&nbsp;<i><a href="a.htm#akostinitilka">akostinitilka</a></i>
+&nbsp;understanding
+<br>&nbsp;&nbsp;<i><a href="i1.htm#imakostini">imakostini</a></i>
+&nbsp;to be capable
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imakostìini">imakostìini</a></i>
+&nbsp;to be careful
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istimakostini">istimakostini</a></i>
+&nbsp;to figure out a solution
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istakostínko">istakostínko</a></i>
+ Neg.
+&nbsp;to go crazy over
+<br>&nbsp;&nbsp;<i><a href="a.htm#akostiniichi">akostiniichi</a></i>
+&nbsp;to think about
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#akostiniitíkko">akostiniitíkko</a></i>
+ Neg.
+&nbsp;to not think about something
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istilakostinichilka">istilakostinichilka</a></i>
+&nbsp;something that helps one understand
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#akostiníichi">akostiníichi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to know
+&nbsp;2.&nbsp;
+&nbsp;to be thinking
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#akostínnìichi">akostínnìichi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to understand something (but not completely)
+&nbsp;2.&nbsp;
+&nbsp;to think about someone in the context of something
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#akostinìichi">akostinìichi</a></i>
+&nbsp;fortune teller
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imakostiniichi">imakostiniichi</a></i>
+&nbsp;to understand someone
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imakostínnìichi">imakostínnìichi</a></i>
+&nbsp;to think about what is best for someone
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imakostiníichi">imakostiníichi</a></i>
+&nbsp;to finally understand someone
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istakostínnìichi">istakostínnìichi</a></i>
+&nbsp;to have someone in mind
+<br><font size="+2"><b><a name="kostinifìhnatíkkokáhchi"></a>kostinifìhnatíkkokáhchi</b> </font>
+<font size="+2">stupid person</font>
+&nbsp; [/kostini-fíhna-tíkko-káhmi-hchi]
+ ☞<a href="k.htm#kostini">kostini</a>
+<br><font size="+2"><b><a name="kostinitíkko"></a>kostinitíkko</b> </font>
+ Neg.
+<font size="+2">to be mentally slow</font>
+ ☞<a href="k.htm#kostini">kostini</a>
+<br><font size="+2"><b><a name="kostinitíkkokáhchi"></a>kostinitíkkokáhchi</b> </font>
+<font size="+2">stupid person, fool, idiot</font>
+&nbsp; [/kostini-tíkko-káhmi-hchi]
+ ☞<a href="k.htm#kostinitíkko">kostinitíkko</a>
+<br><font size="+2"><b><a name="kostinka"></a>kostinka</b> </font>
+<font size="+2">mind, thinking, thought</font>
+&nbsp; [/kostini-ka<sup>1</sup>]
+ ☞<a href="k.htm#kostini">kostini</a>
+<br><font size="+2"><b><a name="kostinkachoba"></a>kostinkachoba</b> </font>
+<font size="+2">wisdom</font>
+&nbsp; [/kostini-ka<sup>1</sup> /choba]
+<br><font size="+2"><b><a name="kostinka istimalpískòssi"></a>kostinka istimalpískòssi</b> </font>
+<font size="+2">to be retarded, mentally slow</font>
+&nbsp;<font color="#800080" size="+1">AM-</font>
+&nbsp; [/kostini-ka<sup>1</sup> ist-im- /alpisa-ki-o<sup>2</sup>-osi-hchi]
+ ☞<a href="k.htm#kostinka">kostinka</a>
+<br><font size="+2"><b><a name="kostìnko"></a>kostìnko</b> </font>
+ Neg.
+<font size="+2">to be crazy, go crazy, act wild, be insane, say mean words, not be thinking right</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chikostíinkoomootònká.
+ <i>What are you, crazy? (you say when someone does something goofy).</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kostini">kostini</a>
+<br><font size="+2"><b><a name="kostínkochi"></a>kostínkochi</b> </font>
+<font size="+2">to make someone crazy, confuse someone, mix up someone's thinking (as by hitting on the head, doubletalk, or trickery)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>kostínkochiska, kostínkochilka, kostínkochaska</i>)
+&nbsp;(<i>kostínkochitiska, kostínkochitilka, kostínkochitaska</i>)
+&nbsp; [/kostínko-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chakostínkochiskaikáamo.
+ <i>You're going to make me crazy.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kostìnko">kostìnko</a>
+<br><font size="+2"><b><a name="kostìnkokáhchi"></a>kostìnkokáhchi</b> </font>
+ Neg.
+<font size="+2">to be not acting or thinking right, be acting peculiar, acting as though crazy</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/kostìnko-káhmi-hchi]
+&nbsp;<font face="Arial">«</font>Chakostìnkokáhchi.
+ <i>I'm not thinking right.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="k.htm#kostìnko">kostìnko</a>
+<br><font size="+2"><b><a name="kostínkotíkko"></a>kostínkotíkko</b> </font>
+ Neg.
+<font size="+2">to not be crazy</font>
+ ☞<a href="k.htm#kostìnko">kostìnko</a>
+<br><font size="+2"><b><a name="kotàali"></a>kotàali</b> </font>
+<font size="+2">to break or snap (a long solid object) into many pieces</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>kotàachi, kotàahili, kotàahachi</i>)
+&nbsp; [/kota(f)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="k.htm#kotaffi">kotaffi</a>
+<br><font size="+2"><b><a name="kotaffi"></a>kotaffi</b> </font>
+<font size="+2">to break once (a long solid object), snap apart</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>kotafchi, kotafhili, kotafhachi</i>)
+&nbsp; [/kotaf-li]
+<br>&nbsp;&nbsp;<i><a href="i2.htm#iskotaffi">iskotaffi</a></i>
+&nbsp;to break off at the stem
+<br>&nbsp;&nbsp;<i><a href="k.htm#kotafka">kotafka</a></i>
+&nbsp;to be broken apart
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="k.htm#kotafíkko">kotafíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="k.htm#kotàali">kotàali</a></i>
+&nbsp;to break or snap (a long solid object) into many pieces
+<br><font size="+2"><b><a name="kotafíkko"></a>kotafíkko</b> </font>
+ Neg.
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="k.htm#kotafka">kotafka</a>
+<br><font size="+2"><b><a name="kotafka"></a>kotafka</b> </font>
+<font size="+2">to be broken apart </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/kotaf-ka<sup>1</sup>]
+ <i>Neg: </i>kotafíkko
+ ☞<a href="k.htm#kotaffi">kotaffi</a>
+<br><font size="+2"><b><a name="kottabi"></a>kottabi</b> </font>
+<font size="+2">walking cane, walking stick</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#kottabiichi">kottabiichi</a></i>
+&nbsp;to brace oneself
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#iskottámbìichi">iskottámbìichi</a></i>
+&nbsp;to walk with (a cane)
+<br><font size="+2"><b><a name="kottabiichi"></a>kottabiichi</b> </font>
+<font size="+2">to brace oneself, prop up oneself (with a cane), lean on (a cane)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>kottabiitiska, kottabiitilka, kottabiitaska</i>)
+&nbsp; [/kottabi-chi<sup>1</sup>]
+ ☞<a href="k.htm#kottabi">kottabi</a>
+<br><font size="+2"><b><a name="kowaachi"></a>kowaachi</b> </font>
+<font size="+2">wildcat, bobcat </font>
+&nbsp; [poss. &nbsp;/kowi]
+ {possibly a modern reanalysis by back formation of /kowaachosi}
+<br>&nbsp;&nbsp;<i><a href="k.htm#kowaachosi">kowaachosi</a></i>
+&nbsp;wildcat; baby wildcat
+<br><font size="+2"><b><a name="kowaachosi"></a>kowaachosi</b> </font>
+<font size="+2">wildcat; baby wildcat, bobcat cub </font>
+ (some speakers identify this as the correct older way of saying `wildcat' and regard the usage `baby wildcat' as a reanalysis by modern speakers)
+&nbsp; [poss. /kowaachi-osi]
+ ☞<a href="k.htm#kowaachi">kowaachi</a>
+<br><font size="+2"><b><a name="kowakna"></a>kowakna</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#kawakna">kawakna</a>&nbsp;
+<br><font size="+2"><b><a name="kowaɬka"></a>kowaɬka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#kawaɬka">kawaɬka</a>&nbsp;
+<br><font size="+2"><b><a name="kowaɬɬi"></a>kowaɬɬi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#kawaɬɬi">kawaɬɬi</a>&nbsp;
+<br><font size="+2"><b><a name="kowàyki"></a>kowàyki</b> </font>
+ <i>Var. of</i>&nbsp;<a href="k.htm#kowwàyki">kowwàyki</a>&nbsp;
+<br><font size="+2"><b><a name="kowi"></a>kowi</b><sup>1</sup> </font>
+<font size="+2">cat (generic undomesticated); big cat, wild cat, panther</font>
+<br><font size="+2"><b><a name="kowi"></a>kowi</b><sup>2</sup> </font>
+<font size="+2">mile </font>
+<br><font size="+2"><b><a name="kowibasbaki"></a>kowibasbaki</b> </font>
+<font size="+2">tiger </font>
+&nbsp; [/kowi /basbaki]
+<br><font size="+2"><b><a name="kowicháffàaka"></a>kowicháffàaka</b> </font>
+<font size="+2">one mile </font>
+&nbsp; [/kowi /cháffàaka]
+<br><font size="+2"><b><a name="kowichokchoki"></a>kowichokchoki</b> </font>
+<font size="+2">leopard </font>
+&nbsp; [/kowi /chokchoki]
+<br><font size="+2"><b><a name="kowichoowoksi"></a>kowichoowoksi</b> </font>
+<font size="+2">lion </font>
+&nbsp; [/kowi ichoo- /woksi]
+&nbsp;<font face="Arial">«</font>Kowichoowoksik Afrikafan ìisahchi.
+ <i>There are lions in Africa.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="kowihókkìita"></a>kowihókkìita</b> </font>
+<font size="+2">half a mile, half-mile </font>
+&nbsp; [/kowi /hókkìita]
+<br><font size="+2"><b><a name="kowilocha"></a>kowilocha</b> </font>
+<font size="+2">panther </font>
+&nbsp; [/kowi /locha]
+<br><font size="+2"><b><a name="kowiɬahkachi"></a>kowiɬahkachi</b> </font>
+<font size="+2">tiger </font>
+&nbsp; [/kowi /ɬah-ka<sup>1</sup>-chi<sup>2</sup>]
+<br><font size="+2"><b><a name="kówwaɬɬi"></a>kówwaɬɬi</b> </font>
+<font size="+2">to crack (one long rigid object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>kówwaɬchi, kówwaɬhili, kówwaɬhachi</i>)
+&nbsp; [/kowaɬ-li]
+ [<i>ggr</i>]
+ ☞<a href="k.htm#kawaɬɬi">kawaɬɬi</a>
+<br><font size="+2"><b><a name="kowwàyki"></a>kowwàyki</b> </font>
+<font size="+2">quail, bobwhite </font>
+ <i>Var: kowwayki</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: kowàyki</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="kowwàykinchastoki"></a>kowwàykinchastoki</b> </font>
+<font size="+2">quail peas, English peas (coffee weed?) </font>
+&nbsp; [/kowwayki im- /chastoki]
+<br><font size="+2"><b><a name="koyaabi"></a>koyaabi</b> </font>
+<font size="+2">to be sickly, unwell, feeling bad chronically, in ill health; to be mortally wounded</font>
+ <i>Usage: </i>Older word.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chakoyaabikáhchommo.
+ <i>I'm not well.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="k.htm#koyaabitíkko">koyaabitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="k.htm#koyàabi">koyàabi</a></i>
+&nbsp;invalid
+<br>&nbsp;&nbsp;<i><a href="k.htm#koyaabichi">koyaabichi</a></i>
+&nbsp;to wound
+<br><font size="+2"><b><a name="koyàabi"></a>koyàabi</b> </font>
+<font size="+2">a person who feels sick all the time, invalid; a wounded deer</font>
+ [<i>fgr</i>]
+ ☞<a href="k.htm#koyaabi">koyaabi</a>
+<br><font size="+2"><b><a name="koyaabichi"></a>koyaabichi</b> </font>
+<font size="+2">to wound, cripple</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>koyaabichitiska, koyaabichitilka, koyaabichitaska</i>)
+&nbsp; [/koyaabi-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Foosin koyaabichitisko.
+ <i>You wounded the bird.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#koyaabi">koyaabi</a>
+<br><font size="+2"><b><a name="koyaabitíkko"></a>koyaabitíkko</b> </font>
+ Neg.
+ ☞<a href="k.htm#koyaabi">koyaabi</a>
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

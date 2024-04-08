@@ -1,0 +1,2257 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">S</font></center><br>
+<br><font size="+2"><b><a name="saalichi"></a>saalichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#sahlichi">sahlichi</a>&nbsp;
+<br><font size="+2"><b><a name="saama"></a>saama</b> </font>
+<font size="+2">salmon </font>
+ {&nbsp;English}
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="sàami"></a>sàami</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#sáhmi">sáhmi</a>&nbsp;
+<br><font size="+2"><b><a name="saamka"></a>saamka</b> </font>
+<font size="+2">psalm</font>
+&nbsp; [/saam-ka<sup>3</sup>]
+ {&nbsp;English}
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font face="Arial">«</font>Poolistóklon awah tótchìina saamkafa.
+ <i>Twenty-third psalm.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="saapoka"></a>saapoka</b> </font>
+<font size="+2">burden carried on the back, backpack</font>
+ <i>Usage: </i>Older word.
+&nbsp; [/saapo-ka<sup>1</sup> (?)]
+&nbsp;<font face="Arial">«</font>Aⁿsaapoka.
+ <i>My backpack.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="s.htm#saapola">saapola</a>
+<br><font size="+2"><b><a name="saapola"></a>saapola</b> </font>
+<font size="+2">burden, pack, backpack</font>
+&nbsp; [/saapol-a]
+&nbsp;<font face="Arial">«</font>Saapolan chínnìilit stàayati.
+ <i>He went along carrying a pack on his back.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Saapolon chiniililaho.
+ <i>I'm going to carry the pack on my back.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#saapoli">saapoli</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to carry on the back
+&nbsp;2.&nbsp;
+&nbsp;backpack
+<br>&nbsp;&nbsp;<i><a href="s.htm#saapoka">saapoka</a></i>
+&nbsp;burden carried on the back
+<br><font size="+2"><b><a name="saapoli"></a>saapoli</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to carry on the back</font>
+ <i>Usage: </i>For some speakers this can be used only as a variant for the noun saapola.
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>saapochi, saapohili, saapohachi</i>)
+&nbsp; [/saapo-li (?)]
+&nbsp;<font face="Arial">«</font>Saapoliliti.
+ <i>I carried it (on my back).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Saapohilihchi.
+ <i>We're carrying stuff on our backs.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">burden, pack, backpack</font>
+&nbsp;<font face="Arial">«</font>Saapolon chínnìililiti.
+ <i>I carried it on my back.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#saapola">saapola</a>
+<br><font size="+2"><b><a name="Sabìina"></a>Sabìina</b> </font>
+<font size="+2">Sabine River </font>
+ <i>Usage: </i>Older pronunciation.
+&nbsp;<font color="#080000">Cul:  River between Texas and Louisiana important in the migration of the Alabamas and Coushattas. During the fight for Texas' independence from Mexico, the Indians crossed back over the Sabine into Louisiana to avoid confrontation with Santa Ana's troops.</font>&nbsp;
+ {&nbsp;English}
+<br>&nbsp;&nbsp;<i><a href="s.htm#Sabìnka">Sabìnka</a></i>
+&nbsp;Sabine River
+<br><font size="+2"><b><a name="Sabìnka"></a>Sabìnka</b> </font>
+<font size="+2">Sabine River </font>
+ <i>Usage: </i>Newer pronunciation.
+&nbsp; [/sabìn-ka<sup>3</sup>]
+ {&nbsp;English}
+ ☞<a href="s.htm#Sabìina">Sabìina</a>
+<br><font size="+2"><b><a name="saffi"></a>saffi</b> </font>
+<font size="+2">to dig, drill into the ground</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>safchi, safhili, safhachi</i>)
+&nbsp; [/saf-li]
+<br>&nbsp;&nbsp;<i><a href="a.htm#apalokchi iⁿsaffi">apalokchi iⁿsaffi</a></i>
+&nbsp;to dig an oilwell
+<br>&nbsp;&nbsp;<i><a href="s.htm#safka">safka</a></i>
+&nbsp;to have been dug
+<br>&nbsp;&nbsp;<i><a href="i2.htm#issafka">issafka</a></i>
+&nbsp;shovel
+<br>&nbsp;&nbsp;<i><a href="i2.htm#itasaffi">itasaffi</a></i>
+&nbsp;to dig in the ground
+<br><font size="+2"><b><a name="safka"></a>safka</b> </font>
+<font size="+2">to have been dug </font>
+&nbsp; [/saf-ka<sup>1</sup>]
+ ☞<a href="s.htm#saffi">saffi</a>
+<br><font size="+2"><b><a name="safsahka"></a>safsahka</b> </font>
+<font size="+2">to snort (of a horse or deer) </font>
+&nbsp; [prob. /safsah-ka<sup>1</sup>]
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="sahkachi"></a>sahkachi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be skinned, shaved, scraped</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/sah-ka<sup>1</sup>-chi<sup>2</sup>]
+&nbsp;2.&nbsp;
+<font size="+2">skinning, shaving, scraping</font>
+&nbsp;<font face="Arial">«</font>Ichaffakchi sahkachiya intoliinochobaama.
+ <i>Scraping a deer is hard.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sahlichi">sahlichi</a>
+<br><font size="+2"><b><a name="sàhko"></a>sàhko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Sáhkoloolo.
+ <i>Nothing's going to happen.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhkoloolíin ommo.
+ <i>It doesn't matter, doesn't make any difference, whatever.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhkoolo.
+ <i>It isn't necessary, it doesn't matter.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasok sàhkobi.
+ <i>Nothing happened.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sáhmi">sáhmi</a>
+<br><font size="+2"><b><a name="sahlichi"></a>sahlichi</b> </font>
+<font size="+2">to scrape, scale (a fish); to scratch; to skin, shave (wood)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>sahchichi, sahhilichi, sahhachichi</i>)
+&nbsp; [/sah-li-chi<sup>2</sup>]
+ <i>Var: saalichi</i>
+&nbsp;<font face="Arial">«</font>∥aɬo sahlichi.
+ <i>Scale a fish.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>ínkoomon hiimaayáamifòokaya màchkáffìinakáamiiya ochoskiimok ochoskisàachit ittoobi ishislichistáskan akkáamifóot nákson onoyyat nahoyok saalichibáanan hohíichafòokok...
+ <i>Except sometimes around this time of year or sometime around March they have their babies up in hollow trees and where that happens, and when they can see where they have climbed and left scratches all over, then...</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬaɬo sahlichi">ɬaɬo sahlichi</a></i>
+&nbsp;to scrape scales off
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoosahlichi">ichoosahlichi</a></i>
+&nbsp;to shave (someone)
+<br>&nbsp;&nbsp;<i><a href="s.htm#sahkachi">sahkachi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be skinned
+&nbsp;2.&nbsp;
+&nbsp;scraping
+<br><font size="+2"><b><a name="sáhmi"></a>sáhmi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to do however, be however, happen however, be whatever, be any, be some</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>sáhchi, sáhhili, sáhhachi</i>)
+&nbsp; [/sa&lt;h&gt;mi]
+ [<i>hgr</i>]
+ <i>Var: sàami</i>
+&nbsp;<font face="Arial">«</font>Sáhchootoomok onáamihchi nàasi sáhtika.
+ <i>However it used to happen it is still the same today.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Náksáhchok òmmi?
+ <i>You doing that!? (expression of surprise at someone's actions); What DID you do?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Heɬak ilata nàasot sáhhilaski.
+ <i>Since Heather came, let's do something.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Sáhmin ommitonkan hohachinnaaɬiikaimpati' homankaton.
+ <i>They said, `For some reason they want to talk to you.'</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Saamálpìistok ommiima.
+ <i>However it ought to be.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhtoomok istamayosbaskanohchooti.
+ <i>Sometimes it seems like I always easily forget whatever happens.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Itto hochobat sáhmikáhtik waakayóolit stamaakahchoolikha.
+ <i>It didn't matter how big the logs were they would lift it and go off with it.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mafòokaya nàasi stinnáksáamoostíkkohchoolikha.
+ <i>At that time they used to not think a thing about it.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasi stoinnáksáamostíkko, eh?
+ <i>It used to not be anything to them, huh?</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to be why, what, how</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Ilhíicha chasàami?
+ <i>How do I look?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Náksok sáhmit sobáykan ommitoska?
+ <i>How did they find out what happened?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhmin akkáhtooliⁿ?
+ <i>Why did it happen?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhmin ommihchoⁿ?
+ <i>How did it happen?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chisáhmiⁿ?
+ <i>Hello, how are you?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Oow, sáhmi?!
+ <i>Oh, what's wrong, what happened?!</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Naksàamilaak àayahchiⁿ?
+ <i>What is she here for?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sàamikáhchohchoⁿ?
+ <i>How was it done?/What was it like?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhmìi?
+ <i>What is it?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhchòoⁿ?
+ <i>What happened?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhchihchòoⁿ?
+ <i>What did you do?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhmi mánkahchìiⁿ?
+ <i>What did he say about what happened?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Naksáhchok òmmi?
+ <i>Whatever happened?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Naksáhchok òmmok chittiɬik òmmi, chimokchakkoosok?
+ <i>Whatever did you do to get a black eye?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sàamit hoponchihchoⁿ?
+ <i>What were you doing when you cooked (e.g. standing, sitting)?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mootok sáamifíinon faykatok ommi? Sáhmin isnakaɬtok ommi?
+ <i>Well then, how long ago did it all stop? Why did it go away?</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#sàhko">sàhko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="s.htm#sàhmiláhkaamon">sàhmiláhkaamon</a></i>
+&nbsp;sometimes
+<br>&nbsp;&nbsp;<i><a href="s.htm#sáhmiima">sáhmiima</a></i>
+&nbsp;sometimes
+<br>&nbsp;&nbsp;<i><a href="s.htm#sáhmimáɬɬiiya">sáhmimáɬɬiiya</a></i>
+&nbsp;sometimes
+<br>&nbsp;&nbsp;<i><a href="s.htm#sáhmíffìina">sáhmíffìina</a></i>
+&nbsp;about what time
+<br>&nbsp;&nbsp;<i><a href="s.htm#sáhmifòoka">sáhmifòoka</a></i>
+&nbsp;when
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#sáhmifòokóot">sáhmifòokóot</a></i>
+&nbsp;sometime
+<br>&nbsp;&nbsp;<i><a href="s.htm#sáhmòosi">sáhmòosi</a></i>
+&nbsp;how much, what time
+<br>&nbsp;&nbsp;<i><a href="s.htm#samíhchi">samíhchi</a></i>
+&nbsp;to do something about; make somebody do something
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#sankíhcho">sankíhcho</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="c.htm#chisáhmíⁿ">chisáhmíⁿ</a></i>
+&nbsp;hello, how are you?
+<br>&nbsp;&nbsp;<i><a href="s.htm#sáhtík">sáhtík</a></i>
+&nbsp;anyhow
+<br><font size="+2"><b><a name="sáhmíffìina"></a>sáhmíffìina</b> </font>
+<font size="+2">about what time, about when</font>
+&nbsp; [/sá&lt;h&gt;mi-fíina]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Sáhmíffíina churchkaya ilatook ommooli.
+ <i>About what time did the church start here?</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhmíffìinon amislalòo?
+ <i>About what time are you coming here?</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sáhmi">sáhmi</a>
+<br><font size="+2"><b><a name="sáhmifòoka"></a>sáhmifòoka</b> </font>
+<font size="+2">when (what day) </font>
+&nbsp; [/sá&lt;h&gt;mi-fòoka]
+&nbsp;<font face="Arial">«</font>Sáhmifòokon akkáhchoⁿ?
+ <i>When did it happen?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáamifòokon choospaⁿ?
+ <i>When did you buy it?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhmifòokon oybalaak ommitonka?
+ <i>When is it going to rain?</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sáhmi">sáhmi</a>
+<br><font size="+2"><b><a name="sáhmifòokóot"></a>sáhmifòokóot</b> </font>
+<font size="+2">sometime, at some point (specific indefinite occasion)</font>
+&nbsp; [/sá&lt;h&gt;mi-fòoka-óot]
+&nbsp;<font face="Arial">«</font>Sáhmifòokóot ambiniiliha.
+ <i>Come visit me sometime.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sáhmifòoka">sáhmifòoka</a>
+<br><font size="+2"><b><a name="sáhmiima"></a>sáhmiima</b> </font>
+<font size="+2">sometimes (nonspecific indefinite occasion) </font>
+&nbsp; [/sá&lt;h&gt;mi-ma]
+&nbsp;<font face="Arial">«</font>Ankohchoolo sáhmiima.
+ <i>Sometimes I guess I'm that way.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhmiima oolimpooton chabànkohchooti.
+ <i>Sometimes I don't feel like eating.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sáhmi">sáhmi</a>
+<br><font size="+2"><b><a name="sàhmiláhkaamon"></a>sàhmiláhkaamon</b> </font>
+<font size="+2">sometimes </font>
+&nbsp; [/sà&lt;h&gt;mi /(i)la&lt;h&gt;-ka<sup>2</sup>-ma-o<sup>1</sup>-n (?)]
+ <i>Var: samiláhkaamon</i>
+&nbsp;<font face="Arial">«</font>Sàhmiláhkaamon chakáanotíkkokáhchooti.
+ <i>Sometimes I don't feel good.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sàhmiláhkaamon náksifaⁿ aaⁿɬiyooton chabànkoomohchooti.
+ <i>Sometimes I don't want to go anywhere.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Samiláhkaamon samiláhkaamon iskalaaⁿbaasot nampotíkkosot wansinskasi káamoosot stilahchon ommin.
+ <i>Sometimes, sometimes there wouldn't be as much as ten cents, just a penny is all he'd bring back.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+ ☞<a href="s.htm#sáhmi">sáhmi</a>
+<br><font size="+2"><b><a name="sáhmimáɬɬiiya"></a>sáhmimáɬɬiiya</b> </font>
+<font size="+2">sometimes, on occasion, once in a while </font>
+&nbsp; [/sa&lt;h&gt;mi-ma-áɬɬi-ya]
+&nbsp;<font face="Arial">«</font>Sáhmiimáɬɬiiya náksóot aɬɬalihchooti.
+ <i>Sometimes I go off somewhere.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Aatiⁿhoopachitoolo káasok sáamimáɬɬiiya.
+ <i>Yes, sometimes it (the bear) would hurt them.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+ ☞<a href="s.htm#sáhmi">sáhmi</a>
+<br><font size="+2"><b><a name="sáhmisáⁿhtik"></a>sáhmisáⁿhtik</b> </font>
+<font size="+2">anyhow</font>
+&nbsp; [/sa&lt;h&gt;mi /sa&lt;h&gt;mi-tika]
+<br><font size="+2"><b><a name="sáhmòosi"></a>sáhmòosi</b> </font>
+<font size="+2">how much, what amount; when (what time), whenever</font>
+&nbsp; [/sa&lt;h&gt;mi-osi]
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Sáhmòosin istálpìisamon oopihlok.
+ <i>Whenever it gets to be just about ready.</i> <font size="0">(PBB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Achihbat sáhmòosòoli?
+ <i>How much did it cost?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhmòosit aɬkòoliⁿ?
+ <i>How much is in it?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhmòosin amislàaⁿhi?
+ <i>When are you coming here?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhmòosin aaⁿɬiyaalo?
+ <i>What time shall we go?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhmòosin yon ischoospai chibanna?
+ <i>How much are you selling this for?</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sáhmi">sáhmi</a>
+<br><font size="+2"><b><a name="sáhmòosiswaliilka"></a>sáhmòosiswaliilka</b> </font>
+<font size="+2">speed limit</font>
+&nbsp; [/sá&lt;h&gt;mi-osi ist- /walii&lt;il&gt;-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="sahpa"></a>sahpa</b> </font>
+<font size="+2">to be wilted, dried out, dead (of plants)</font>
+<br><font size="+2"><b><a name="sáhtík"></a>sáhtík</b> </font>
+<font size="+2">anyhow, nevertheless, yet, although, despite; any kind of</font>
+&nbsp; [/sá&lt;h&gt;mi-tika]
+&nbsp;<font face="Arial">«</font>Aaholponi sáhtík mok ommoolo aahoponkaya.
+ <i>Any kind of cooking utensil, it will do for cooking in.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sáhmi">sáhmi</a>
+<br><font size="+2"><b><a name="sakàmpa"></a>sakàmpa</b> </font>
+<font size="+2">corner (inside or outside)</font>
+&nbsp;<font face="Arial">«</font>Sakàmpan hachàali.
+ <i>Stand in the corner!</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿsakámpachi">iⁿsakámpachi</a></i>
+&nbsp;to weave the corners
+<br><font size="+2"><b><a name="sakba"></a>sakba</b> </font>
+<font size="+2">arm </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ <i>Var: issakba</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="sakbachofkoni"></a>sakbachofkoni</b> </font>
+<font size="+2">arm bone</font>
+&nbsp; [/sakba /chofkoni]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="sakbafa holisso"></a>sakbafa holisso</b> </font>
+<font size="+2">skin tattoo</font>
+&nbsp; [/sakba-fa /ho&lt;li&gt;sso]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="sakbahokfa"></a>sakbahokfa</b> </font>
+<font size="+2">bracelet </font>
+&nbsp;<font color="#800080" size="+1">CHA-; AM-p</font>
+&nbsp; [/sakba /hokfa]
+<br><font size="+2"><b><a name="sakba istalsiya"></a>sakba istalsiya</b> </font>
+<font size="+2">armband</font>
+&nbsp; [/sakba ist- /a&lt;l&gt;sih-a]
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="sakbakonìiɬa"></a>sakbakonìiɬa</b> </font>
+<font size="+2">shoulder, upper arm </font>
+ (lower down than sakbapáana)
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/sakba -(/koniiɬa)]
+<br><font size="+2"><b><a name="sakban sòoli"></a>sakban sòoli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="i2.htm#issakban sòoli">issakban sòoli</a>&nbsp;
+<br><font size="+2"><b><a name="sakbapáana"></a>sakbapáana</b> </font>
+<font size="+2">arm (uppermost part), top of the shoulder, upper arm </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/sakba /páana]
+<br><font size="+2"><b><a name="sakbapakófka"></a>sakbapakófka</b> </font>
+<font size="+2">inside of elbow</font>
+&nbsp; [/sakba /pakof-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="sakcho"></a>sakcho</b> </font>
+<font size="+2">crawfish, crayfish </font>
+<br><font size="+2"><b><a name="sakchohachi"></a>sakchohachi</b> </font>
+<font size="+2">shrimp </font>
+&nbsp; [/sakcho /hachi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="sakchohomma"></a>sakchohomma</b> </font>
+<font size="+2">red crawfish </font>
+&nbsp; [/sakcho /homma]
+<br><font size="+2"><b><a name="sakcho imiisa"></a>sakcho imiisa</b> </font>
+<font size="+2">crawfish hole</font>
+&nbsp; [/sakcho im- /iisa]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="sakcho imitto"></a>sakcho imitto</b> </font>
+<font size="+2">common buttonbush tree </font>
+ <i>Lit: </i>crawfish's tree
+ <i>(Cephalanthus occidentalis)</i>
+&nbsp;<font color="#080000">Cul:  So named because it has a hollow place where crawfish can be found.</font>&nbsp;
+&nbsp; [/sakcho im- /itto]
+ <i>Var: sakchomitto</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="sakchomitto"></a>sakchomitto</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#sakcho imitto">sakcho imitto</a>&nbsp;
+<br><font size="+2"><b><a name="sakchopatha"></a>sakchopatha</b> </font>
+<font size="+2">crab </font>
+&nbsp; [/sakcho /patha]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="sakihpa"></a>sakihpa</b> </font>
+<font size="+2">weasel, mink, muskrat? </font>
+<br><font size="+2"><b><a name="sakla"></a>sakla</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be sheer, be perforated, have openings or holes (that can be seen through), be loosely woven </font>
+ (may refer to screen, mesh, open weave, sieve, sifter)
+&nbsp;<font face="Arial">«</font>Saklahchi.
+ <i>It has holes in it.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">basket (with holes), sifting basket; net; screen</font>
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittasakla">ittasakla</a></i>
+&nbsp;to be see-through
+<br>&nbsp;&nbsp;<i><a href="s.htm#saklachi">saklachi</a></i>
+&nbsp;to put small holes through
+<br><font size="+2"><b><a name="saklachi"></a>saklachi</b> </font>
+<font size="+2">to put a lot of small holes through something</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>saklachitiska, saklachitilka, saklachitaska</i>)
+&nbsp; [/sakla-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Saklachili.
+ <i>I made holes in it.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="s.htm#sakla">sakla</a>
+<br><font size="+2"><b><a name="saklapatha"></a>saklapatha</b> </font>
+<font size="+2">sifter </font>
+&nbsp;<font color="#080000">Cul:  A wide, wood-rimmed sifter for winnowing grain, usually store-bought today.</font>&nbsp;
+&nbsp; [/sakla /patha]
+<br><font size="+2"><b><a name="saklichi"></a>saklichi</b> </font>
+<font size="+2">sawyer beetle, black beetle, sawyer worm, pine beetle larva, small pine bark grub </font>
+<br><font size="+2"><b><a name="saklichi ochoski"></a>saklichi ochoski</b> </font>
+<font size="+2">grub, beetle larva </font>
+&nbsp; [/saklichi /ochoski]
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="saklittisáwwa"></a>saklittisáwwa</b> </font>
+<font size="+2">fine sifter basket</font>
+&nbsp; [/sakla itti- /sawwa]
+ [<i>fgr?</i>]
+<br><font size="+2"><b><a name="saksámpa"></a>saksámpa</b> </font>
+<font size="+2">large grub, beetle larva; any of various scarab beetles such as june bug </font>
+<br><font size="+2"><b><a name="salaaha"></a>salaaha</b> </font>
+<font size="+2">to be cold (of animates), feel cold</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>as with other verbs of this shape whose last syllable begins with /h/, /l/, or /y/ the place of infixation is irregular and the pattern is that of verbs with a closed penultimate syllable</i>]
+<br>&nbsp;&nbsp;<i><a href="s.htm#salakìiho">salakìiho</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="s.htm#salaliiha">salaliiha</a></i>
+&nbsp;cold, chills
+<br><font size="+2"><b><a name="salàali"></a>salàali</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#salahli">salahli</a>&nbsp;
+<br><font size="+2"><b><a name="salahli"></a>salahli</b> </font>
+<font size="+2">to slide (repeatedly or more than one); to ski</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>salahchi, salahhili, salahhachi</i>)
+&nbsp; [/sala&lt;h&gt;t-li]
+ [<i>dsfx2</i>]
+ <i>Var: salàali</i>
+&nbsp;<font face="Arial">«</font>Salahhachi.
+ <i>You (pl.) slid.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#salatli">salatli</a>
+<br><font size="+2"><b><a name="salakìiho"></a>salakìiho</b> </font>
+ Neg.
+ ☞<a href="s.htm#salaaha">salaaha</a>
+<br><font size="+2"><b><a name="salakla"></a>salakla</b> </font>
+<font size="+2">goose, swan </font>
+&nbsp;<font size="0">(VC, IB)</font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#salaklasi">salaklasi</a></i>
+&nbsp;gosling
+<br><font size="+2"><b><a name="salaklasi"></a>salaklasi</b> </font>
+<font size="+2">gosling, cygnet </font>
+&nbsp; [/salakla-osi]
+ ☞<a href="s.htm#salakla">salakla</a>
+<br><font size="+2"><b><a name="salaliiha"></a>salaliiha</b> </font>
+<font size="+2">cold, chills</font>
+&nbsp; [/sala&lt;li&gt;aha]
+ ☞<a href="s.htm#salaaha">salaaha</a>
+<br><font size="+2"><b><a name="salatka"></a>salatka</b> </font>
+<font size="+2">slide, a place to slide (on a playground or in red clay on a stream bank)</font>
+&nbsp; [/salat-ka<sup>1</sup>]
+ ☞<a href="s.htm#salatli">salatli</a>
+<br><font size="+2"><b><a name="salatli"></a>salatli</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to slide (once)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>salatchi, salathili, salathachi</i>)
+&nbsp; [/salat-li]
+&nbsp;<font face="Arial">«</font>Salatlili.
+ <i>I slid.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Salathili.
+ <i>We slid.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to slip once; to lurch forward (as a rider does when a mule or car stops suddenly)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chasalatli.
+ <i>I slipped.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Posalatli.
+ <i>We both slipped.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittosalatli">ittosalatli</a></i>
+&nbsp;small sledge
+<br>&nbsp;&nbsp;<i><a href="s.htm#salatlichi">salatlichi</a></i>
+&nbsp;to drag something
+<br>&nbsp;&nbsp;<i><a href="s.htm#salatka">salatka</a></i>
+&nbsp;a place to slide
+<br>&nbsp;&nbsp;<i><a href="i2.htm#issalatli">issalatli</a></i>
+&nbsp;to skid in a vehicle
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ispaasalatli">ispaasalatli</a></i>
+&nbsp;to skid (on mud or ice) in a vehicle
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#issalatlichi">issalatlichi</a></i>
+&nbsp;to slip on (something)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istiⁿsalatlichi">istiⁿsalatlichi</a></i>
+&nbsp;to slip on something
+<br>&nbsp;&nbsp;<i><a href="s.htm#salahli">salahli</a></i>
+&nbsp;to slide (rep.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istiⁿsalàalichi">istiⁿsalàalichi</a></i>
+&nbsp;to slip on something (pl.)
+<br><font size="+2"><b><a name="salatlichi"></a>salatlichi</b> </font>
+<font size="+2">to slide one thing along, pull (one object) and move it, drag</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>salatchichi, salathilichi, salathachichi</i>)
+&nbsp; [/salat-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chisalatlichili.
+ <i>I dragged you.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#salatli">salatli</a>
+<br><font size="+2"><b><a name="salbi"></a>salbi</b> </font>
+<font size="+2">to be wilting, drooping, limp (of plants)</font>
+<br><font size="+2"><b><a name="salikli"></a>salikli</b> </font>
+<font size="+2">hawk species like a small chicken hawk </font>
+<br><font size="+2"><b><a name="salosba"></a>salosba</b> </font>
+<font size="+2">to be slippery</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="samàaya"></a>samàaya</b> </font>
+<font size="+2">to ring (of the ears)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#samàayatíkko">samàayatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿsamàaya">iⁿsamàaya</a></i>
+&nbsp;to have one's ears ring
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿsamàayatíkko">iⁿsamàayatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿsamàayatilka">iⁿsamàayatilka</a></i>
+&nbsp;ringing of the ear
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿsamàalichi">iⁿsamàalichi</a></i>
+&nbsp;to make (the ears) ring
+<br><font size="+2"><b><a name="samàayatíkko"></a>samàayatíkko</b> </font>
+ Neg.
+ ☞<a href="s.htm#samàaya">samàaya</a>
+<br><font size="+2"><b><a name="samahka"></a>samahka</b> </font>
+<font size="+2">to tuck (the shirt) in</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>samahiska, samahilka, samahaska</i>)
+&nbsp; [/sama&lt;h&gt;t-ka<sup>1</sup>]
+ <i>Neg: </i>samaíkko
+&nbsp;<font face="Arial">«</font>Chimpaaholikfan ilaanikofka hayon samáhkoko.
+ <i>Tuck your shirt into your pants!</i><font face="Arial">»</font>
+ ☞<a href="s.htm#samatka2">samatka<sup>2</sup></a>
+<br><font size="+2"><b><a name="samahli"></a>samahli</b> </font>
+<font size="+2">to go in between, fit in between, stand in between (in a line) (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>-, samahhili, samahhachi</i>)
+&nbsp; [/sama&lt;h&gt;t-li]
+ ☞<a href="s.htm#samatli">samatli</a>
+<br><font size="+2"><b><a name="samahlichi"></a>samahlichi</b> </font>
+<font size="+2">to put (plural objects) in between </font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>samahchichi, samahhilichi, samahhachichi</i>)
+&nbsp; [/sama&lt;h&gt;t-li-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="s.htm#samahli">samahli</a>
+<br><font size="+2"><b><a name="samaíkko"></a>samaíkko</b> </font>
+ Neg.
+<font size="+2">to be untucked</font>
+ ☞<a href="s.htm#samahka">samahka</a>
+<br><font size="+2"><b><a name="samat-"></a>samat-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#samatli">samatli</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to go in between
+&nbsp;2.&nbsp;
+&nbsp;to be inserted
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿsamatli">iⁿsamatli</a></i>
+&nbsp;to have inserted in
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿsamatka">iⁿsamatka</a></i>
+&nbsp;to be put in between for someone
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istiⁿsamatli">istiⁿsamatli</a></i>
+&nbsp;battery
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#sámmatli">sámmatli</a></i>
+&nbsp;to be between (sg.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#samatka">samatka</a></i>
+&nbsp;to be put in between
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#samatlichi">samatlichi</a></i>
+&nbsp;to insert
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿsamatlichi">iⁿsamatlichi</a></i>
+&nbsp;to insert for
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#asamatli">asamatli</a></i>
+&nbsp;to get a splinter in oneself
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#asámmatli">asámmatli</a></i>
+&nbsp;to have a splinter sticking in one
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#samahli">samahli</a></i>
+&nbsp;to go in between (pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#sámmahli">sámmahli</a></i>
+&nbsp;to be between (pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istiⁿsamahli">istiⁿsamahli</a></i>
+&nbsp;batteries
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittasamahli">ittasamahli</a></i>
+&nbsp;to be interwoven
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#samahlichi">samahlichi</a></i>
+&nbsp;to put in between (pl. obj.)
+<br>&nbsp;&nbsp;<i><a href="s.htm#samatka">samatka</a></i>
+&nbsp;to put in between
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istiⁿsamatilka">istiⁿsamatilka</a></i>
+&nbsp;oven
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#samahka">samahka</a></i>
+&nbsp;to tuck in
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#samaíkko">samaíkko</a></i>
+ Neg.
+&nbsp;to be untucked
+<br><font size="+2"><b><a name="samatka"></a>samatka</b><sup>1</sup> </font>
+<font size="+2">to be put in between</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/samat-ka<sup>1</sup>]
+ ☞<a href="s.htm#samatli">samatli</a>
+<br><font size="+2"><b><a name="samatka"></a>samatka</b><sup>2</sup> </font>
+<font size="+2">to put in between (of one) </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>samatiska, -, -</i>)
+&nbsp; [/samat-ka<sup>1</sup>]
+ [<i>the semantic relationship among samatli, samatka, and samatlichi is irregular</i>]
+ <i>Pl: </i>samahka
+&nbsp;<font face="Arial">«</font>Holisson samatkaliti.
+ <i>I put the paper in between (the pages of the book).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tìmkak ìilok holisson samatko.
+ <i>Tim came and put the paper in between.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Aⁿsamatiskati.
+ <i>You put it in for me.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#samat-">samat-</a>
+<br><font size="+2"><b><a name="samatli"></a>samatli</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to go in between, fit in between, stand in between (in a line) (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>samatchi, -, -</i>)
+&nbsp; [/samat-li]
+ [<i>the semantic relationship among samatli, samatka, and samatlichi is irregular</i>]
+ <i>Pl: </i>samahli
+&nbsp;<font face="Arial">«</font>Abàksak iisalapaalikan samatlitoha.
+ <i>The chicken snake got in between the walls.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Oh, nàasok samatlo!
+ <i>Oh, something got in (through the crack)!</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Samatliliti.
+ <i>I went between.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to be inserted, end up between (of one)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chasamatli.
+ <i>I ended up between.</i><font face="Arial">»</font>
+&nbsp;3.&nbsp;
+<font size="+2">to have something get inside one's clothes</font>
+&nbsp;<font color="#800080" size="+1">3/CHA-</font>
+&nbsp;<font face="Arial">«</font>Iskanok chasamatlo.
+ <i>I have a bug in my clothes.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#samat-">samat-</a>
+<br><font size="+2"><b><a name="samatlichi"></a>samatlichi</b> </font>
+<font size="+2">to insert (one object), put in between two things</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>samatchichi, samathilichi, samathachichi</i>)
+&nbsp; [/samat-li-chi<sup>1</sup>]
+ [<i>the semantic relationship among samatli, samatka, and samatlichi is irregular</i>]
+ <i>Pl: </i>samahlichi
+&nbsp;<font face="Arial">«</font>Chisamatlichili.
+ <i>I put you in.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#samatli">samatli</a>
+<br><font size="+2"><b><a name="sambi"></a>sambi</b> </font>
+<font size="+2">to be dead, wilted, withered (of plants)</font>
+<br><font size="+2"><b><a name="samíhchi"></a>samíhchi</b> </font>
+<font size="+2">to do something about, with, or to; make somebody do something</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>sanchíhchi, saⁿhilíhchi, saⁿhachíhchi</i>)
+&nbsp; [/sami&lt;h&gt;-chi<sup>1</sup>]
+ [<i>hgr</i>]
+ <i>Neg: </i>sankíhcho
+&nbsp;<font face="Arial">«</font>Samíhchiⁿ?
+ <i>What did he do about it (e.g. the doctor you went to see)?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Heɬaya náason samíⁿhchiliimókkobi.
+ <i>I can't do anything with Heather.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Samíhchàalòoⁿ?
+ <i>What am I going to do with it?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>United Stateskak Saddam Husseinkan nàason samíhchiimókkon chókkòohchi.
+ <i>The US can't do anything about Saddam Hussein.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Donkaya náason samíhchiliimókkobi.
+ <i>I can't get Don to do anything.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chisamíhchàalo?
+ <i>What am I going to do with you?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Samíhchit hoponchihchoⁿ?
+ <i>How did you cook it (what method)?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nahoya màamin nitaya samíhchit oibihchootooli?
+ <i>Then how did they used to kill bears?</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+ ☞<a href="s.htm#sáhmi">sáhmi</a>
+<br><font size="+2"><b><a name="sámmahli"></a>sámmahli</b> </font>
+<font size="+2">to be between (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>-, sámmahhili, sámmahhachi</i>)
+&nbsp; [/sama&lt;h&gt;t-li]
+ [<i>ggr</i>]
+ ☞<a href="s.htm#samahli">samahli</a>
+<br><font size="+2"><b><a name="sámmatli"></a>sámmatli</b> </font>
+<font size="+2">to be between (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>sámmatchi, -, -</i>)
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Yon sámmatli.
+ <i>There's something in between there (the walls).</i><font face="Arial">»</font>
+ ☞<a href="s.htm#samatli">samatli</a>
+<br><font size="+2"><b><a name="sanaffi"></a>sanaffi</b> </font>
+<font size="+2">to wrinkle (something)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>sanafchi, sanafhili, sanafhachi</i>)
+&nbsp; [/sanaf-li]
+ [<i>there appears to have been mergers involving sanayli, saniffi, sanaffi</i>]
+&nbsp;<font size="0">(WP)</font>
+<br><font size="+2"><b><a name="sanayli"></a>sanayli</b> </font>
+<font size="+2">to wring once, twist</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>sanaychi, sanayhili, sanayhachi</i>)
+&nbsp; [/sanay-li]
+<br>&nbsp;&nbsp;<i><a href="a.htm#aatichoosanàyli">aatichoosanàyli</a></i>
+&nbsp;yaupon
+<br>&nbsp;&nbsp;<i><a href="o.htm#onasanayli">onasanayli</a></i>
+&nbsp;to screw in tight (sg.)
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoosanayka">ichoosanayka</a></i>
+&nbsp;to have one's mouth droop
+<br>&nbsp;&nbsp;<i><a href="s.htm#sannichi">sannichi</a></i>
+&nbsp;to wring (pl. obj. or rep.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#sankachi">sankachi</a></i>
+&nbsp;to be wrung out
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imosannichi">imosannichi</a></i>
+&nbsp;to screw back in
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#onasannichi">onasannichi</a></i>
+&nbsp;to screw in tight (pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istonasankachi">istonasankachi</a></i>
+&nbsp;bolt; wrench
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#oosannichi">oosannichi</a></i>
+&nbsp;to wring out water
+<br><font size="+2"><b><a name="sancho"></a>sancho</b> </font>
+<font size="+2">sand, dirt</font>
+<br><font size="+2"><b><a name="sancho albalikchosi"></a>sancho albalikchosi</b> </font>
+<font size="+2">little sand pillow used so babies won't become `long-headed'</font>
+&nbsp; [/sancho /albalikchi-osi]
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="sanchochoba"></a>sanchochoba</b> </font>
+<font size="+2">area of sandy soil</font>
+&nbsp; [/sancho /choba]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="saniffi"></a>saniffi</b> </font>
+<font size="+2">to shrink (something)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>sanifchi, sanifhili, sanifhachi</i>)
+ [<i>there appears to have been mergers involving sanayli, saniffi, sanaffi</i>]
+&nbsp;<font face="Arial">«</font>Ilokfan saniffilo.
+ <i>I shrank the dress.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(WP)</font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#sanifka">sanifka</a></i>
+&nbsp;to shrink
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ibiisanifka">ibiisanifka</a></i>
+&nbsp;to be wrinkled
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ibiisanífkàasi">ibiisanífkàasi</a></i>
+&nbsp;to have a wrinkled face; to be getting thin around the face
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoosaniffi">ichoosaniffi</a></i>
+&nbsp;to have one's mouth droop
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoosanni">ichoosanni</a></i>
+&nbsp;to weave the edges
+<br><font size="+2"><b><a name="sanifka"></a>sanifka</b> </font>
+<font size="+2">to shrink, draw up, get smaller (as a wet sweater)</font>
+&nbsp; [/sanif-ka<sup>1</sup>]
+&nbsp;<font size="0">(IB)</font>
+ ☞<a href="s.htm#saniffi">saniffi</a>
+<br><font size="+2"><b><a name="sankachi"></a>sankachi</b> </font>
+<font size="+2">to be wrung out </font>
+&nbsp; [/sanay-ka<sup>1</sup>-chi<sup>2</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="s.htm#sannichi">sannichi</a>
+<br><font size="+2"><b><a name="sankíhcho"></a>sankíhcho</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>(Sabìinan) ooɬopòoliimá hosankíhchoolaatáskan.
+ <i>Because if they crossed over (the Sabine river) they (the Mexicans) couldn't do anything to them.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+ ☞<a href="s.htm#samíhchi">samíhchi</a>
+<br><font size="+2"><b><a name="sannichi"></a>sannichi</b> </font>
+<font size="+2">to screw, twist, wring (more than once or several objects)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>sanchichi, sanhilichi, sanhachichi</i>)
+&nbsp; [/san(ay)-li-chi<sup>2</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="s.htm#sanayli">sanayli</a>
+<br><font size="+2"><b><a name="Santàana"></a>Santàana</b> </font>
+<font size="+2">Santa Ana</font>
+&nbsp;<font color="#080000">Cul:  Mexican general during the fight for Texas' independence from Mexico. The neutrality of the Alabama and Coushatta Indians was critical to its outcome and so the Indians were officially awarded the land by President Sam Houston.</font>&nbsp;
+ {&nbsp;English}
+<br><font size="+2"><b><a name="sapha"></a>sapha</b> </font>
+<font size="+2">flag</font>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="saphabitka"></a>saphabitka</b> </font>
+<font size="+2">flag dance</font>
+&nbsp; [/sapha /bit-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="sapona"></a>sapona</b> </font>
+<font size="+2">hookworm </font>
+&nbsp;<font size="0">(IB, VC)</font>
+<br><font size="+2"><b><a name="saska"></a>saska</b> </font>
+<font size="+2">masturbation</font>
+&nbsp; [/sas-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="s.htm#sasli">sasli</a>
+<br><font size="+2"><b><a name="sasli"></a>sasli</b> </font>
+<font size="+2">to masturbate</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>saschi, sashili, sashachi</i>)
+&nbsp; [/sas-li]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Saslilo.
+ <i>I masturbated.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#saska">saska</a></i>
+&nbsp;masturbation
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿsasli">iⁿsasli</a></i>
+&nbsp;to masturbate (someone)
+<br><font size="+2"><b><a name="satani"></a>satani</b> </font>
+<font size="+2">tick, esp. dog tick </font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#satanosi">satanosi</a></i>
+&nbsp;seed tick
+<br><font size="+2"><b><a name="satanichoba"></a>satanichoba</b> </font>
+<font size="+2">woodtick, tick sp. </font>
+&nbsp; [/satani /choba]
+<br><font size="+2"><b><a name="satanochoski"></a>satanochoski</b> </font>
+<font size="+2">tick (insect) </font>
+&nbsp; [/satani /ochoski]
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="satanosi"></a>satanosi</b> </font>
+<font size="+2">seed tick</font>
+&nbsp; [/satani-osi]
+&nbsp;<font size="0">(DB)</font>
+ ☞<a href="s.htm#satani">satani</a>
+<br><font size="+2"><b><a name="satanpatha"></a>satanpatha</b> </font>
+<font size="+2">tick </font>
+&nbsp; [/satani /patha]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="satapli"></a>satapli</b> </font>
+<font size="+2">to have a swollen stomach, be bloated (as the stomach or a dead animal) </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Chasataplihchommo.
+ <i>My stomach is bloated.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="satihpa"></a>satihpa</b> </font>
+<font size="+2">scabbing, dry, crusty skin sore </font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿsatihpa">iⁿsatihpa</a></i>
+&nbsp;to have a scabbing sore
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿsatihpat anooko">iⁿsatihpat anooko</a></i>
+&nbsp;to have a scab
+<br><font size="+2"><b><a name="satihpa aawihka"></a>satihpa aawihka</b> </font>
+<font size="+2">for sores to be all over one (as with chickenpox) </font>
+&nbsp;<font color="#800080" size="+1">3/CHA-</font>
+&nbsp; [/satihpa /aawihka]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Satihpok achaawihko.
+ <i>I have sores all over.</i><font face="Arial">»</font>
+ ☞<a href="a.htm#aawihka">aawihka</a>
+<br><font size="+2"><b><a name="satta"></a>satta</b> </font>
+<font size="+2">turtle </font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#sattapolo">sattapolo</a></i>
+&nbsp;box turtle
+<br>&nbsp;&nbsp;<i><a href="p.htm#paasatta">paasatta</a></i>
+&nbsp;armadillo
+<br><font size="+2"><b><a name="satta affakchi"></a>satta affakchi</b> </font>
+<font size="+2">turtle shell</font>
+&nbsp; [/satta /affakchi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="sattabaski"></a>sattabaski</b> </font>
+<font size="+2">type of water turtle (small but long) </font>
+&nbsp; [/satta /baski]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="sattapolo"></a>sattapolo</b> </font>
+<font size="+2">box turtle, esp. three-toed box turtle; terrapin, tortoise </font>
+&nbsp; [/satta (polo)]
+ ☞<a href="s.htm#satta">satta</a>
+<br><font size="+2"><b><a name="sattilbi"></a>sattilbi</b> </font>
+<font size="+2">May haw </font>
+ <i>(Crataegus aestivalis)</i>
+ <i>Lit: </i>turtle hand
+ <i>Usage: </i>Euphemism for chommilòmhi.
+&nbsp; [/satta il- /(i)bi]
+ {poss. &nbsp;Koasati}
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="sawa"></a>sawa</b> </font>
+<font size="+2">raccoon </font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ibiisawa">ibiisawa</a></i>
+&nbsp;to have a dirty face
+<br><font size="+2"><b><a name="sawaati"></a>sawaati</b> </font>
+<font size="+2">monkey, ape </font>
+&nbsp; [/sawa /aati]
+<br><font size="+2"><b><a name="sawaatisbakki"></a>sawaatisbakki</b> </font>
+<font size="+2">coconut</font>
+ <i>Usage: </i>Modern word.
+&nbsp; [/sawa /aati /isbakko]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: sawaatisbakko</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="sawimbaɬka"></a>sawimbaɬka</b> </font>
+<font size="+2">species of wild grape</font>
+ <i>Lit: </i>raccoon's grape
+&nbsp; [/sawa im- /baɬka]
+<br><font size="+2"><b><a name="sawwa"></a>sawwa</b> </font>
+<font size="+2">to be small (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Sawwahchoolo.
+ <i>These are too small.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istiⁿsawwa">istiⁿsawwa</a></i>
+&nbsp;to have things be too small
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittisáwwa">ittisáwwa</a></i>
+&nbsp;to have a lot of little holes
+<br>&nbsp;&nbsp;<i><a href="s.htm#sawwachi">sawwachi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;change (money)
+&nbsp;2.&nbsp;
+&nbsp;to make smaller
+<br>&nbsp;&nbsp;<i><a href="s.htm#sáwwàasi">sáwwàasi</a></i>
+&nbsp;to be very little (pl.)
+<br><font size="+2"><b><a name="sáwwàasi"></a>sáwwàasi</b> </font>
+<font size="+2">to be very little, tiny (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/sawwa-osi]
+ [<i>lgr?</i>]
+&nbsp;<font face="Arial">«</font>Sáwwàasin kolli.
+ <i>Cut it up real small.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sawwa">sawwa</a>
+<br><font size="+2"><b><a name="sáwwàasin ipa"></a>sáwwàasin ipa</b> </font>
+<font size="+2">to nibble</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [/sawwa-osi-n /(i)pa]
+ [<i>lgr</i>]
+ ☞<a href="i2.htm#ipa">ipa</a>
+<br><font size="+2"><b><a name="sawwachi"></a>sawwachi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">small change (money)</font>
+&nbsp; [/sawwa-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;2.&nbsp;
+<font size="+2">to make smaller, take up or alter (a garment), cut up into pieces; to make change</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>sawwachitiska, sawwachitilka, sawwachitaska</i>)
+ ☞<a href="s.htm#sawwa">sawwa</a>
+<br><font size="+2"><b><a name="sayki"></a>sayki</b> </font>
+<font size="+2">turkey vulture, buzzard </font>
+<br><font size="+2"><b><a name="saykichòoba"></a>saykichòoba</b> </font>
+<font size="+2">turkey vulture, buzzard </font>
+&nbsp; [/sayki /achòoba (?)]
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="sibapka"></a>sibapka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be splintered</font>
+&nbsp; [/sibap-ka<sup>1</sup>]
+&nbsp;2.&nbsp;
+<font size="+2">splinter</font>
+&nbsp;<font face="Arial">«</font>Aⁿsibapka.
+ <i>My splintered material.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sibapli">sibapli</a>
+<br><font size="+2"><b><a name="sibapli"></a>sibapli</b> </font>
+<font size="+2">to peel, pull a long strip off, break a long splinter off, strip (esp. bark)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>sibapchi, sibaphili, sibaphachi</i>)
+&nbsp; [/sibap-li]
+&nbsp;<font size="0">(VC)</font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#sibapka">sibapka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be splintered
+&nbsp;2.&nbsp;
+&nbsp;splinter
+<br>&nbsp;&nbsp;<i><a href="s.htm#sibaplichi">sibaplichi</a></i>
+&nbsp;to cause to splinter
+<br><font size="+2"><b><a name="sibaplichi"></a>sibaplichi</b> </font>
+<font size="+2">to cause to splinter</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>sibapchichi, sibaphilichi, sibaphachichi</i>)
+&nbsp; [/sibap-li-chi<sup>1</sup>]
+ ☞<a href="s.htm#sibapli">sibapli</a>
+<br><font size="+2"><b><a name="sichi"></a>sichi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be dewy</font>
+&nbsp;<font face="Arial">«</font>Sichichoolo.
+ <i>It's dewy.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">dew</font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#sichitíkko">sichitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="o.htm#onasichi">onasichi</a></i>
+&nbsp;to be have dew on the surface
+<br><font size="+2"><b><a name="sichitíkko"></a>sichitíkko</b> </font>
+ Neg.
+ ☞<a href="s.htm#sichi">sichi</a>
+<br><font size="+2"><b><a name="siffi"></a>siffi</b> </font>
+<font size="+2">to buck, jump; to throw a tantrum; to lie on the back and kick out</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>sifchi, sifhili, sifhachi</i>)
+&nbsp; [/sif-li]
+&nbsp;<font face="Arial">«</font>Siffili.
+ <i>I kicked out (as if someone spilled hot water on my foot).</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#siffichi">siffichi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to buck
+&nbsp;2.&nbsp;
+&nbsp;to make kick or buck
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#sifkìicho">sifkìicho</a></i>
+ Neg.
+<br><font size="+2"><b><a name="siffichi"></a>siffichi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to buck; to throw a tantrum; to lie on the back and kick out</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>sifchichi, sifhilichi, sifhachichi</i>)
+&nbsp; [/sif-li-chi<sup>2</sup>]
+ <i>Neg: </i>sifkìicho
+&nbsp;<font face="Arial">«</font>Siffichili.
+ <i>I'm kicking (on the ground) (someone grabbed me and held me down).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chichobak siffichiti.
+ <i>The horse bucked.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to make kick or buck (as by pouring hot water on the foot)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;<font face="Arial">«</font>Chisiffichili.
+ <i>I made you kick/buck (e.g. by pouring hot water on your foot).</i><font face="Arial">»</font>
+ ☞<a href="s.htm#siffi">siffi</a>
+<br><font size="+2"><b><a name="sifkìicho"></a>sifkìicho</b> </font>
+ Neg.
+ ☞<a href="s.htm#siffichi">siffichi</a>
+<br><font size="+2"><b><a name="sihkachi"></a>sihkachi</b> </font>
+<font size="+2">to come unravelled</font>
+&nbsp; [/sii&lt;h&gt;p-ka<sup>1</sup>-chi<sup>1</sup> (?)]
+ ☞<a href="s.htm#sihlichi">sihlichi</a>
+<br><font size="+2"><b><a name="sihlichi"></a>sihlichi</b> </font>
+<font size="+2">to card, comb (wool or cotton); to sew a hem stitch; to pull out loose threads, unravel (thread); to pull out all of (the teeth)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>sihchichi, sihhilichi, sihhachichi</i>)
+&nbsp; [/sii&lt;h&gt;p-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chanatin sihlichiliti.
+ <i>I had all my teeth pulled.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#siipka">siipka</a>
+<br><font size="+2"><b><a name="síhno"></a>síhno</b> </font>
+<font size="+2">to be old, elderly, ancient (of people)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Hosíhnofìina.
+ <i>They are real old.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máamin alìilamoolo, naho akkon aⁿfatchiiyok naho akkáhchon píila, aatihóssìinokáhmiyok naho akkáamit sáhchootoomon aⁿfatlilaon chabannahch onkaliti.
+ <i>Well then it is very good that you tell me those things, things just like that; I want the older people to tell me about how it used to be.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#silihno">silihno</a></i>
+&nbsp;old age
+<br>&nbsp;&nbsp;<i><a href="h.htm#hóssìhno">hóssìhno</a></i>
+&nbsp;older people
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istiⁿsíhno">istiⁿsíhno</a></i>
+&nbsp;to be an older sibling to
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istiⁿsíhnotíkko">istiⁿsíhnotíkko</a></i>
+ Neg.
+&nbsp;to be younger than
+<br>&nbsp;&nbsp;<i><a href="s.htm#síhnofìina">síhnofìina</a></i>
+&nbsp;to be very old
+<br><font size="+2"><b><a name="síhnofíina"></a>síhnofíina</b> </font>
+<font size="+2">to be very old</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/síhno-fíhna]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="s.htm#síhno">síhno</a>
+<br><font size="+2"><b><a name="Sihooki"></a>Sihooki</b> </font>
+<font size="+2">a girl's name</font>
+<br><font size="+2"><b><a name="siihka"></a>siihka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to come loose from, come off of (of more than one)</font>
+&nbsp; [/sii&lt;h&gt;p-ka<sup>1</sup>]
+&nbsp;2.&nbsp;
+<font size="+2">loose objects</font>
+ ☞<a href="s.htm#siipka">siipka</a>
+<br><font size="+2"><b><a name="siihli"></a>siihli</b> </font>
+<font size="+2">to pull off (clothes, shoes, etc.); to pull out (teeth)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>siihchi, siihhili, siihhachi</i>)
+&nbsp; [/sii&lt;h&gt;p-li]
+ ☞<a href="s.htm#siipli">siipli</a>
+<br><font size="+2"><b><a name="siip-"></a>siip-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#siipli">siipli</a></i>
+&nbsp;to pull off
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿsiipli">iⁿsiipli</a></i>
+&nbsp;to pull out for
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iliisiipli">iliisiipli</a></i>
+&nbsp;to take off
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#onasiipli">onasiipli</a></i>
+&nbsp;to loosen
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istonasiipli">istonasiipli</a></i>
+&nbsp;to unplug
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#siiplichi">siiplichi</a></i>
+&nbsp;to make someone take off (sg. obj.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#siihli">siihli</a></i>
+&nbsp;to pull off
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿsiihli">iⁿsiihli</a></i>
+&nbsp;to pull out for
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iliisiihli">iliisiihli</a></i>
+&nbsp;to undress
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istonasiili">istonasiili</a></i>
+&nbsp;to unplug (pl.)
+<br>&nbsp;&nbsp;<i><a href="s.htm#siipka">siipka</a></i>
+&nbsp;to come loose from; to stretch; to be loose
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paasiipka">paasiipka</a></i>
+&nbsp;to have (the shirt) come untucked
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#sihlichi">sihlichi</a></i>
+&nbsp;to card (cotton)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istiⁿsihlichi">istiⁿsihlichi</a></i>
+&nbsp;to take apart at the seams
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#sihkachi">sihkachi</a></i>
+&nbsp;to come unravelled
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istiⁿsihkachi">istiⁿsihkachi</a></i>
+&nbsp;to rip out, come undone (at a seam)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittasihlichi">ittasihlichi</a></i>
+&nbsp;to take apart
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#siihka">siihka</a></i>
+&nbsp;to come loose from
+<br><font size="+2"><b><a name="siipka"></a>siipka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to come loose from, come off (as handle of ax, tire of car, baby's shoes) (of one); to stretch (as rubber); to be loose, ready to come off (e.g. a broken handle, a loose tooth)</font>
+&nbsp; [/siip-ka<sup>1</sup>]
+ <i>Pl: </i>siihka
+&nbsp;<font face="Arial">«</font>Isbatkasik aapihchik siipkati.
+ <i>The handle came loose from the hammer.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ilaanikofkak siipka.
+ <i>He lost his pants.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">loose object</font>
+&nbsp;<font face="Arial">«</font>Aⁿsiipka.
+ <i>My loose thing (handle, tooth, etc.).</i><font face="Arial">»</font>
+ ☞<a href="s.htm#siip-">siip-</a>
+<br><font size="+2"><b><a name="siipli"></a>siipli</b> </font>
+<font size="+2">to pull off (one object, such a piece of clothing); to pull out (a tooth)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>siipchi, siiphili, siiphachi</i>)
+&nbsp; [/siip-li]
+ <i>Pl: </i>siihli
+ ☞<a href="s.htm#siip-">siip-</a>
+<br><font size="+2"><b><a name="siiplichi"></a>siiplichi</b> </font>
+<font size="+2">to make (someone) pull off, take off (one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>siipchichi, siiphilichi, siiphachichi</i>)
+&nbsp; [/siip-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Iwwilon siiplichilo.
+ <i>I made him take off his clothes.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#siipli">siipli</a>
+<br><font size="+2"><b><a name="sikhi"></a>sikhi</b> </font>
+<font size="+2">mountain</font>
+ <i>Usage: </i>Older word.
+<br>&nbsp;&nbsp;<i><a href="p.htm#paasìkhi">paasìkhi</a></i>
+&nbsp;camel
+<br><font size="+2"><b><a name="sikhilipli"></a>sikhilipli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#sikkilipli">sikkilipli</a>&nbsp;
+<br><font size="+2"><b><a name="sikipli"></a>sikipli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#sikkilipli">sikkilipli</a>&nbsp;
+<br><font size="+2"><b><a name="sikkilipli"></a>sikkilipli</b> </font>
+<font size="+2">to stand on tiptoe</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>sikkilipchi, sikkiliphili, sikkiliphachi</i>)
+&nbsp; [/sikkilip-li]
+ <i>Var: sikhilipli</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: sikipli</i>
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font face="Arial">«</font>Sikkilíplit hátchàali.
+ <i>Stand on tiptoe.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#sikkilíplit bitli">sikkilíplit bitli</a></i>
+&nbsp;to dance on tiptoe
+<br><font size="+2"><b><a name="sikkilíplit bitli"></a>sikkilíplit bitli</b> </font>
+<font size="+2">to ballet dance, dance on tiptoe</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/sikkilip-li-t /bit-li]
+ ☞<a href="s.htm#sikkilipli">sikkilipli</a>
+<br><font size="+2"><b><a name="sikóhpa"></a>sikóhpa</b> </font>
+<font size="+2">to be poorer</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>hgr</i>]
+ ☞<a href="s.htm#sikóopa">sikóopa</a>
+<br><font size="+2"><b><a name="sikóolpa"></a>sikóolpa</b> </font>
+<font size="+2">poverty</font>
+&nbsp; [/sikóo&lt;l&gt;pa]
+ ☞<a href="s.htm#sikóopa">sikóopa</a>
+<br><font size="+2"><b><a name="sikooⁿpaschi"></a>sikooⁿpaschi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#sikóopàssi">sikóopàssi</a>&nbsp;
+<br><font size="+2"><b><a name="sikóopa"></a>sikóopa</b> </font>
+<font size="+2">to be poor, be destitute, suffer hardship, be shabby; to be weak, feeble, sickly</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ {poss. from /sikóopa-a}
+&nbsp;<font face="Arial">«</font>Chasikóopaama.
+ <i>I am real poor.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#sikóolpa">sikóolpa</a></i>
+&nbsp;poverty
+<br>&nbsp;&nbsp;<i><a href="s.htm#sikóopàssi">sikóopàssi</a></i>
+&nbsp;to be poor
+<br>&nbsp;&nbsp;<i><a href="s.htm#sikóhpa">sikóhpa</a></i>
+&nbsp;to be poorer
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿsikóopa">iⁿsikóopa</a></i>
+&nbsp;to pray to
+<br>&nbsp;&nbsp;<i><a href="o.htm#onasikóopa">onasikóopa</a></i>
+&nbsp;to be dependent
+<br>&nbsp;&nbsp;<i><a href="s.htm#sikoopali">sikoopali</a></i>
+&nbsp;1.&nbsp;
+&nbsp;abused person
+&nbsp;2.&nbsp;
+&nbsp;to abuse
+<br><font size="+2"><b><a name="sikoopali"></a>sikoopali</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">abused victimized person, a person one is mean to and uncaring about, a person who is treated badly</font>
+ (may refer to a slave)
+ {poss. &nbsp;Choctaw; not related to sikóopa by any regular derivation}
+&nbsp;<font face="Arial">«</font>Aⁿsikoopali.
+ <i>My person I'm mean to.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;2.&nbsp;
+<font size="+2">to be mean to, abuse, beat up just to be mean, treat as a slave</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>sikoopalchi, sikoopalhili, sikoopalhachi</i>)
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Chasikoopalcho.
+ <i>You are real mean to me.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sikóopa">sikóopa</a>
+<br><font size="+2"><b><a name="sikóopàssi"></a>sikóopàssi</b> </font>
+<font size="+2">to be poor</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/sikóopa-osi-hchi]
+ <i>Var: sikooⁿpaschi</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="s.htm#sikóopa">sikóopa</a>
+<br><font size="+2"><b><a name="silaabachi"></a>silaabachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#silbacha">silbacha</a>&nbsp;
+<br><font size="+2"><b><a name="silbacha"></a>silbacha</b> </font>
+<font size="+2">foot bridge, foot log (a log across a creek used as a bridge)</font>
+ <i>Usage: </i>Older word.
+&nbsp;<font size="0">(DB, VC)</font>
+ <i>Var: silaabachi</i>
+&nbsp;<font size="0">(IB)</font>
+&nbsp;<font face="Arial">«</font>Poⁿsilbacha.
+ <i>Our foot log.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="silhoba"></a>silhoba</b> </font>
+<font size="+2">a tree similar to ash, poss. slippery elm? </font>
+ <i>(Ulmus rubra?)</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="silihno"></a>silihno</b> </font>
+<font size="+2">old age, age</font>
+&nbsp; [/si&lt;li&gt;hno]
+ ☞<a href="s.htm#síhno">síhno</a>
+<br><font size="+2"><b><a name="silikli"></a>silikli</b> </font>
+<font size="+2">type of small bird similar to a chicken hawk</font>
+<br><font size="+2"><b><a name="simbi"></a>simbi</b> </font>
+<font size="+2">to peel, strip (river cane), strip (bark) off</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>simchi, simhili, simhachi</i>)
+&nbsp; [/sib-li, prob. dsfx1 of /sibapli]
+ [<i>/m/ from /b/ does not assimilate to following consonant of pronoun</i>]
+ <i>Var: simmi</i>
+&nbsp;<font size="0">(WP)</font>
+&nbsp;<font face="Arial">«</font>Champoli simbi.
+ <i>Peel the sugarcane.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#símko">símko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="s.htm#simbitíkko">simbitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="s.htm#simka">simka</a></i>
+&nbsp;to be peeled
+<br><font size="+2"><b><a name="simbitíkko"></a>simbitíkko</b> </font>
+ Neg.
+ ☞<a href="s.htm#simbi">simbi</a>
+<br><font size="+2"><b><a name="simka"></a>simka</b> </font>
+<font size="+2">to be peeled, stripped (especially of cane)</font>
+&nbsp; [/sib-ka<sup>1</sup>]
+ {poss. dsfx1 of sibapli}
+ [<i>/m/ from /b/ does not assimilate to following consonant</i>]
+&nbsp;<font face="Arial">«</font>Champolaapihchik simko.
+ <i>The sugar cane is peeled.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#simbi">simbi</a>
+<br><font size="+2"><b><a name="símko"></a>símko</b> </font>
+ Neg.
+ ☞<a href="s.htm#simbi">simbi</a>
+<br><font size="+2"><b><a name="simmi"></a>simmi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#simbi">simbi</a>&nbsp;
+<br><font size="+2"><b><a name="simohka"></a>simohka</b> </font>
+<font size="+2">to be numb in a body part, have the circulation cut off in a part of the body, have a limb of the body fall asleep, be tingling, pins and needles </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#simohkatíkko">simohkatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿsimohka">iⁿsimohka</a></i>
+&nbsp;to be numb
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoosimohka">ichoosimohka</a></i>
+&nbsp;to have a numb mouth
+<br><font size="+2"><b><a name="simohkatíkko"></a>simohkatíkko</b> </font>
+ Neg.
+ ☞<a href="s.htm#simohka">simohka</a>
+<br><font size="+2"><b><a name="sinaphoba"></a>sinaphoba</b> </font>
+<font size="+2">a tree similar to ash, used in making horse medicine</font>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: sinaphooba</i>
+&nbsp;<font size="0">(IB)</font>
+ <i>Var: sinapohólba</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="s.htm#sinapo">sinapo</a>
+<br><font size="+2"><b><a name="sinaphooba"></a>sinaphooba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#sinaphoba">sinaphoba</a>&nbsp;
+<br><font size="+2"><b><a name="sinapo"></a>sinapo</b> </font>
+<font size="+2">any ash tree, esp. white ash </font>
+ <i>(Fraxinus spp. esp. F. americana)</i>
+<br>&nbsp;&nbsp;<i><a href="s.htm#sinaphoba">sinaphoba</a></i>
+&nbsp;a tree
+<br><font size="+2"><b><a name="sinapohólba"></a>sinapohólba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#sinaphoba">sinaphoba</a>&nbsp;
+<br><font size="+2"><b><a name="sinoktaɬayli"></a>sinoktaɬayli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#sonokkiɬayli">sonokkiɬayli</a>&nbsp;
+<br><font size="+2"><b><a name="sinoktiɬayli"></a>sinoktiɬayli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#sonokkiɬayli">sonokkiɬayli</a>&nbsp;
+<br><font size="+2"><b><a name="sista"></a>sista</b> </font>
+<font size="+2">eldest daughter, older daughter </font>
+ <i>Usage: </i>Hypocoristic.
+ {&nbsp;English}
+<br><font size="+2"><b><a name="sitoffi"></a>sitoffi</b> </font>
+<font size="+2">to untie (a restraint), unbutton (one button)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>sitofchi, sitofhili, sitofhachi</i>)
+&nbsp; [/sitof-li]
+&nbsp;<font face="Arial">«</font>Talikchon sitoffilo.
+ <i>I untied the rope.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿsitoffi">iⁿsitoffi</a></i>
+&nbsp;to untie for
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istiⁿsitoffi">istiⁿsitoffi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to untie (the laces)
+&nbsp;2.&nbsp;
+&nbsp;to pass gas
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istiⁿsitofka">istiⁿsitofka</a></i>
+&nbsp;to have (something) come untied
+<br>&nbsp;&nbsp;<i><a href="i2.htm#issitoffi">issitoffi</a></i>
+&nbsp;to unbutton (one's own clothes)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istimiisitoffi">istimiisitoffi</a></i>
+&nbsp;to unbutton (something) for
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istimiisitofka">istimiisitofka</a></i>
+&nbsp;to have one's clothes come undone
+<br>&nbsp;&nbsp;<i><a href="i1.htm#imiisitoffi">imiisitoffi</a></i>
+&nbsp;to untie from (a person or animal) for (someone)
+<br>&nbsp;&nbsp;<i><a href="s.htm#sitofka">sitofka</a></i>
+&nbsp;to be untied
+<br>&nbsp;&nbsp;<i><a href="s.htm#sitòoli">sitòoli</a></i>
+&nbsp;to untie (pl. obj.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#sitòoka">sitòoka</a></i>
+&nbsp;to be untied (pl.), come untied
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿsitòoli">iⁿsitòoli</a></i>
+&nbsp;to untie (pl.) for (a person or animal)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#issitòoli">issitòoli</a></i>
+&nbsp;to unbutton (pl. buttons of one's own clothes)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istimiisitòoli">istimiisitòoli</a></i>
+&nbsp;to untie (pl.) for
+<br><font size="+2"><b><a name="sitofka"></a>sitofka</b> </font>
+<font size="+2">to be untied (of one)</font>
+&nbsp; [/sitof-ka<sup>1</sup>]
+ <i>Pl: </i>sitòoka
+ ☞<a href="s.htm#sitoffi">sitoffi</a>
+<br><font size="+2"><b><a name="sitòoka"></a>sitòoka</b> </font>
+<font size="+2">to be untied, come untied (of more than one)</font>
+&nbsp; [/sito(f)-ka<sup>1</sup>]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="s.htm#sitòoli">sitòoli</a>
+<br><font size="+2"><b><a name="sitòoli"></a>sitòoli</b> </font>
+<font size="+2">to untie (more than one restraint)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>sitòochi, sitòohili, sitòohachi</i>)
+&nbsp; [/sito(f)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="s.htm#sitoffi">sitoffi</a>
+<br><font size="+2"><b><a name="siwaakola"></a>siwaakola</b> </font>
+<font size="+2">bald cypress, cypress tree </font>
+ <i>(Taxodium distinchum)</i>
+<br><font size="+2"><b><a name="siwaakola impisi"></a>siwaakola impisi</b> </font>
+<font size="+2">cypress knee</font>
+ <i>Lit: </i>cypress breast
+&nbsp;<font color="#080000">Cul:  Hollow base of the tree used for making drums and wooden utensils.</font>&nbsp;
+&nbsp; [/siwaakola im- /pisi]
+<br><font size="+2"><b><a name="siwaakola ittoɬpa"></a>siwaakola ittoɬpa</b> </font>
+<font size="+2">cypress knee</font>
+&nbsp;<font color="#080000">Cul:  Hollow base of the tree used for making drums and wooden utensils.</font>&nbsp;
+&nbsp; [/siwaakola /ittoɬpa]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="skalàoba"></a>skalàoba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="i2.htm#iskalàaba">iskalàaba</a>&nbsp;
+<br><font size="+2"><b><a name="skali"></a>skali</b> </font>
+ <i>Var. of</i>&nbsp;<a href="i2.htm#iskali">iskali</a>&nbsp;
+<br><font size="+2"><b><a name="skaytóklo"></a>skaytóklo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="i2.htm#iskalitóklo">iskalitóklo</a>&nbsp;
+<br><font size="+2"><b><a name="sɬaafka"></a>sɬaafka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tikbisɬaafka">tikbisɬaafka</a>&nbsp;
+<br><font size="+2"><b><a name="sna"></a>sna</b> </font>
+ <i>Var. of</i>&nbsp;<a href="i2.htm#isna">isna</a>&nbsp;
+<br><font size="+2"><b><a name="snafka"></a>snafka</b> </font>
+<font size="+2">snuff</font>
+&nbsp; [/snaf-ka<sup>3</sup>]
+ {&nbsp;English}
+<br><font size="+2"><b><a name="snafka ilpa"></a>snafka ilpa</b> </font>
+<font size="+2">snuff chewing</font>
+&nbsp; [/snaf-ka<sup>3</sup> il- /(i)pa]
+<br><font size="+2"><b><a name="snafka ipa"></a>snafka ipa</b> </font>
+<font size="+2">to dip snuff, chew snuff</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [/snaf-ka<sup>3</sup> /(i)pa]
+ ☞<a href="i2.htm#ipa">ipa</a>
+<br><font size="+2"><b><a name="sno"></a>sno</b> </font>
+ <i>Var. of</i>&nbsp;<a href="i2.htm#isno">isno</a>&nbsp;
+<br><font size="+2"><b><a name="snoktaɬayli"></a>snoktaɬayli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#sonokkiɬayli">sonokkiɬayli</a>&nbsp;
+<br><font size="+2"><b><a name="snoktaɬaylichoba"></a>snoktaɬaylichoba</b> </font>
+<font size="+2">yellow horsemint </font>
+&nbsp; [/snoktaɬayli /choba]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="sobáayka"></a>sobáayka</b> </font>
+<font size="+2">to be well known, known about for some time</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/sobay-ka<sup>1</sup>]
+ [<i>lgr</i>]
+ <i>Var: sobáyka</i>
+&nbsp;<font face="Arial">«</font>Dictionaryya onayintolíinooyok sobáaykat óohchahchoolo.
+ <i>We have been working on the dictionary and it has been known about for a long time.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Dictionaryya onayintolíinooyok óohchat sobáaykahchoolo.
+ <i>We have been working on the dictionary and it has been known about for a long time.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Dictionaryya onayintolíinootoomon óohchaayon sobáaykahchoolo.
+ <i>We have been working on the dictionary and it has been known about for a long time.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sobàyka">sobàyka</a>
+<br><font size="+2"><b><a name="sobáayli"></a>sobáayli</b> </font>
+<font size="+2">to know (already), recognize; to study</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>sobáaychi, sobáayhili, sobáayhachi</i>)
+ [<i>lgr</i>]
+ <i>Var: sobáyli</i>
+&nbsp;<font face="Arial">«</font>Austin College-kafa sobáaylilikìtto.
+ <i>I used to study at Austin College.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sobáaylo.
+ <i>He already knows it.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàksi imifooliimon sobáylilo.
+ <i>I know whose dog that is.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Choyyaposa istalàakaaya sobáaylilihchootóskan ìisaamok pontòoliimon ostòompat talóot hohótchat ìisat akkáhmin híichalihchoolikha.
+ <i>I remember there used to be a grove of pine trees there, and so whenever they were there and it got to be noontime, they would go eat and shoot marbles for a while and I always used to see them do that way.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Eh, sobáylilo ipalihchoolikha.
+ <i>Yes, I know about it; I used to eat it a lot.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hossochiiyok sobáylo.
+ <i>She already knows how to write.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chisobáylilo.
+ <i>I recognize you.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sobàyli">sobàyli</a>
+<br><font size="+2"><b><a name="sobayhíkko"></a>sobayhíkko</b> </font>
+ Neg.
+<font size="+2">to be unknown, secret, mysterious, strange</font>
+ <i>Var: sobayíkko</i>
+&nbsp;<font face="Arial">«</font>Akka sobayíkkohchoolin hokfahchootoolo.
+ <i>No one knew about that one, the one inside there.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+ ☞<a href="s.htm#sobàyka">sobàyka</a>
+<br><font size="+2"><b><a name="sobayíkko"></a>sobayíkko</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#sobayhíkko">sobayhíkko</a>&nbsp;
+<br><font size="+2"><b><a name="sobàyka"></a>sobàyka</b> </font>
+<font size="+2">to have been found out about; to be known, learned</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/sobay-ka<sup>1</sup>]
+ [<i>fgr</i>]
+ <i>Neg: </i>sobayhíkko
+ ☞<a href="s.htm#sobàyli">sobàyli</a>
+<br><font size="+2"><b><a name="sobáyka"></a>sobáyka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#sobáayka">sobáayka</a>&nbsp;
+<br><font size="+2"><b><a name="sobáyka báana"></a>sobáyka báana</b> </font>
+<font size="+2">to be well known, famous, known a long time</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/sobáay-ka<sup>1</sup> /báana]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Isna chisobáayka báanoolo.
+ <i>You are well known.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sobáayka">sobáayka</a>
+<br><font size="+2"><b><a name="sobàyko"></a>sobàyko</b> </font>
+ Neg.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Pokkotòolibíinok sáhmifòokon pokkotòokaimon sobàykoti.
+ <i>Even though he's a ballplayer, he doesn't know when the game is going to be.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máamok nàahon sobaychíkkohchóot ommoolín onkalo `paspoochiika' hokahchon.
+ <i>I guess you don't know about it, but they called it `paspoochiika'.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+ ☞<a href="s.htm#sobàyli">sobàyli</a>
+<br><font size="+2"><b><a name="sobàykohchi ilahoobachi"></a>sobàykohchi ilahoobachi</b> </font>
+<font size="+2">to avoid coming to terms with (a situation), not want to know about</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [/sobày-ki-o<sup>2</sup>-hchi ili- /ahoba-chi<sup>1</sup>]
+ ☞<a href="i1.htm#ilahoobachi">ilahoobachi</a>
+<br><font size="+2"><b><a name="sobayli"></a>sobayli</b> </font>
+<font size="+2">to find out about, learn, perceive, remember</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>sobaychi, sobayhili, sobayhachi</i>)
+&nbsp;<font face="Arial">«</font>Holtinan sobaylilihchi.
+ <i>I'm learning arithmetic.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chisobaylilihchi.
+ <i>I'm finding out about you.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#sobàyli">sobàyli</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to know
+&nbsp;2.&nbsp;
+&nbsp;student
+<br>&nbsp;&nbsp;<i><a href="s.htm#sobàyko">sobàyko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿsobàyko">iⁿsobàyko</a></i>
+&nbsp;to not have feeling in a body part
+<br>&nbsp;&nbsp;<i><a href="a.htm#aasobayli">aasobayli</a></i>
+&nbsp;schoolhouse
+<br>&nbsp;&nbsp;<i><a href="h.htm#holisson sobaylichi">holisson sobaylichi</a></i>
+&nbsp;to teach school
+<br>&nbsp;&nbsp;<i><a href="h.htm#holisso sobayli">holisso sobayli</a></i>
+&nbsp;to go to school
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoosobáyko">ichoosobáyko</a></i>
+ Neg.
+&nbsp;to have a numb mouth
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿsobàayli">iⁿsobàayli</a></i>
+&nbsp;to recognize something of someone's
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿsobáayli">iⁿsobáayli</a></i>
+&nbsp;to have the feeling come back to a body part
+<br>&nbsp;&nbsp;<i><a href="i2.htm#issobayli">issobayli</a></i>
+&nbsp;to find out about
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬakhani sobayli">ɬakhani sobayli</a></i>
+&nbsp;to take the blood pressure
+<br>&nbsp;&nbsp;<i><a href="s.htm#sómbàyli">sómbàyli</a></i>
+&nbsp;to remember; to know a little about something
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#sómbaylifìinakàhchi">sómbaylifìinakàhchi</a></i>
+&nbsp;to be nosey
+<br>&nbsp;&nbsp;<i><a href="s.htm#sobáayli">sobáayli</a></i>
+&nbsp;to know (already)
+<br>&nbsp;&nbsp;<i><a href="s.htm#sobàyka">sobàyka</a></i>
+&nbsp;to have been found out about
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#sobayhíkko">sobayhíkko</a></i>
+ Neg.
+&nbsp;to be unknown
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿsobàyka">iⁿsobàyka</a></i>
+&nbsp;acquaintance
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#sobáayka">sobáayka</a></i>
+&nbsp;to be known about for some time
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#sobáyka báana">sobáyka báana</a></i>
+&nbsp;to be well-known
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#sómbayka">sómbayka</a></i>
+&nbsp;to be known of
+<br><font size="+2"><b><a name="sobàyli"></a>sobàyli</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to know, have learned</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>sobàychi, sobàyhili, sobàyhachi</i>)
+&nbsp; [/sobay-li]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Hossochiiyok sobàylilo.
+ <i>I've already learned to write.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">learner, student</font>
+ ☞<a href="s.htm#sobayli">sobayli</a>
+<br><font size="+2"><b><a name="sobila"></a>sobila</b> </font>
+<font size="+2">lye</font>
+<br><font size="+2"><b><a name="sobohli"></a>sobohli</b> </font>
+<font size="+2">to be smoky, give off smoke (in more than one place or at various times)</font>
+&nbsp; [/sobo&lt;h&gt;t-li]
+ <i>Var: sobooli</i>
+&nbsp;<font face="Arial">«</font>Aatok maatibit aɬɬaton nàasok sobóoliison maahíichok aɬɬaton oɬatomóoskan.
+ <i>The man went hunting and he saw something smoking off in the distance and kept going until he arrived there.</i> <font size="0">(MBF1)</font><font face="Arial">»</font>
+ ☞<a href="s.htm#sobotli">sobotli</a>
+<br><font size="+2"><b><a name="sobooli"></a>sobooli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#sobohli">sobohli</a>&nbsp;
+<br><font size="+2"><b><a name="sobóotli"></a>sobóotli</b> </font>
+<font size="+2">to be smoke</font>
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Sobóotlo.
+ <i>There's smoke! (you just discover it).</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sobotli">sobotli</a>
+<br><font size="+2"><b><a name="sobotli"></a>sobotli</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">smoke</font>
+&nbsp; [/sobot-li]
+&nbsp;<font face="Arial">«</font>Sobotlihchon híichalo.
+ <i>I see smoke.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sobotlon hóofnalo.
+ <i>I smell smoke.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to (give off) smoke; to be smoky, smoggy; to be hazy, blurry (of vision)</font>
+&nbsp;<font face="Arial">«</font>Istamilhíichootok sobotliifíinoolo.
+ <i>My vision is getting blurry.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="a.htm#aasobotli">aasobotli</a></i>
+&nbsp;fireplace
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoosobotli">ichoosobotli</a></i>
+&nbsp;to exhale steam
+<br>&nbsp;&nbsp;<i><a href="m.htm#maasobòotli">maasobòotli</a></i>
+&nbsp;to be giving off smoke in the distance
+<br>&nbsp;&nbsp;<i><a href="s.htm#sómbotli">sómbotli</a></i>
+&nbsp;to be smoking
+<br>&nbsp;&nbsp;<i><a href="s.htm#sobóotli">sobóotli</a></i>
+&nbsp;to be smoke
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿsobotlichi">iⁿsobotlichi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to pass gas
+&nbsp;2.&nbsp;
+&nbsp;to smoke out (something), smoke (meat)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#nipon iⁿsobotlichi">nipon iⁿsobotlichi</a></i>
+&nbsp;to smoke meat
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#itaksobotlichi">itaksobotlichi</a></i>
+&nbsp;to stir up dust
+<br>&nbsp;&nbsp;<i><a href="o.htm#oⁿsobotlichi">oⁿsobotlichi</a></i>
+&nbsp;to smoke (meat)
+<br>&nbsp;&nbsp;<i><a href="s.htm#sobohli">sobohli</a></i>
+&nbsp;to give off smoke (pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#aasobohli">aasobohli</a></i>
+&nbsp;fireplace
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#oⁿsobohlichi">oⁿsobohlichi</a></i>
+&nbsp;to smoke (meats), smoke out (bees)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#oⁿsobohkachi">oⁿsobohkachi</a></i>
+&nbsp;to be smoked, smoked out
+<br><font size="+2"><b><a name="sóffòoli"></a>sóffòoli</b> </font>
+<font size="+2">to be beginning to swell, be slightly swollen</font>
+&nbsp; [/sofoh-li]
+ [<i>ggr</i>]
+ ☞<a href="s.htm#sofohli">sofohli</a>
+<br><font size="+2"><b><a name="sofka"></a>sofka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to fall (of leaves); to drain (down through something)</font>
+&nbsp; [poss. /sofi-ka<sup>1</sup>]
+ <i>Neg: </i>soofíkko
+&nbsp;2.&nbsp;
+<font size="+2">waste, things unneeded, things thrown away; lost items</font>
+ <i>Var: soofka</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="s.htm#soofi">soofi</a>
+<br><font size="+2"><b><a name="sòfko"></a>sòfko</b> </font>
+ Neg.
+ ☞<a href="s.htm#soofi">soofi</a>
+<br><font size="+2"><b><a name="sofohli"></a>sofohli</b> </font>
+<font size="+2">to swell, be swollen, rise</font>
+&nbsp; [/sofoh-li]
+ <i>Var: sofooli</i>
+&nbsp;<font face="Arial">«</font>Chalbik sofòolihchi.
+ <i>My arm is swelling.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chattiɬik aⁿsofohlihchi.
+ <i>I have a swollen eye.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿsofohli">iⁿsofohli</a></i>
+&nbsp;to manage to have something rise
+<br>&nbsp;&nbsp;<i><a href="i1.htm#impaasofooli">impaasofooli</a></i>
+&nbsp;to have a swollen place on the body
+<br>&nbsp;&nbsp;<i><a href="s.htm#sofohlichi">sofohlichi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to make rise
+&nbsp;2.&nbsp;
+&nbsp;yeast
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿsofohlichi">iⁿsofohlichi</a></i>
+&nbsp;to have a swollen body part
+<br>&nbsp;&nbsp;<i><a href="i2.htm#issofooli">issofooli</a></i>
+&nbsp;baking powder; yeast
+<br>&nbsp;&nbsp;<i><a href="s.htm#sóffòoli">sóffòoli</a></i>
+&nbsp;to be beginning to swell
+<br><font size="+2"><b><a name="sofohlichi"></a>sofohlichi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to make rise, cause to swell</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>sofohchichi, sofohhilichi, sofohhachichi</i>)
+&nbsp; [/sofoh-li-chi<sup>1</sup>]
+&nbsp;2.&nbsp;
+<font size="+2">yeast</font>
+ <i>Var: sofoolichi</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="s.htm#sofohli">sofohli</a>
+<br><font size="+2"><b><a name="sofooli"></a>sofooli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#sofohli">sofohli</a>&nbsp;
+<br><font size="+2"><b><a name="sofoolichi"></a>sofoolichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#sofohlichi">sofohlichi</a>&nbsp;
+<br><font size="+2"><b><a name="sofòolichi"></a>sofòolichi</b> </font>
+<font size="+2">to make a rustling or shuffling noise as of papers or leaves </font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>sofòochichi, sofòohilichi, sofòohachichi</i>)
+&nbsp; [/sofòo-li-chi<sup>2</sup>]
+<br>&nbsp;&nbsp;<i><a href="m.htm#maasofóolìichi">maasofóolìichi</a></i>
+&nbsp;to come making a rustling noise
+<br><font size="+2"><b><a name="sohkachi"></a>sohkachi</b> </font>
+<font size="+2">to be milled, sawed (of wood)</font>
+&nbsp; [/soh-ka<sup>1</sup>-chi<sup>2</sup>]
+ ☞<a href="s.htm#sohlichi">sohlichi</a>
+<br><font size="+2"><b><a name="sohlichi"></a>sohlichi</b> </font>
+<font size="+2">to saw, mill wood, rasp; to make a rasping noise </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>sohchichi, sohhilichi, sohhachichi</i>)
+&nbsp; [/soh-li-chi<sup>2</sup>]
+<br>&nbsp;&nbsp;<i><a href="s.htm#sohkachi">sohkachi</a></i>
+&nbsp;to be milled
+<br>&nbsp;&nbsp;<i><a href="i2.htm#issohkachi">issohkachi</a></i>
+&nbsp;saw
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#issohkachosi">issohkachosi</a></i>
+&nbsp;hand saw
+<br><font size="+2"><b><a name="sóhpa"></a>sóhpa</b> </font>
+<font size="+2">to be lighter</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>hgr</i>]
+ <i>Var: sókpa</i>
+ ☞<a href="s.htm#sokpa">sokpa</a>
+<br><font size="+2"><b><a name="sokaffi"></a>sokaffi</b> </font>
+<font size="+2">to scrape, peel off, scalp, skin, strip (bark) (once or one thing)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>sokafchi, sokafhili, sokafhachi</i>)
+&nbsp; [/sokaf-li]
+&nbsp;<font face="Arial">«</font>Nákson hachàatok batlit batatlit maapíɬkat sokáffit iswaliikahchootoha.
+ <i>Then, someone would be standing there and would hit him repeatedly and knock him down, scalp him, and run away with it.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittasokaffi">ittasokaffi</a></i>
+&nbsp;to pull apart (sg. obj.)
+<br>&nbsp;&nbsp;<i><a href="s.htm#sokafka">sokafka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;abrasion
+&nbsp;2.&nbsp;
+&nbsp;to get a scrape
+&nbsp;3.&nbsp;
+&nbsp;to flake off
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿsokafka">iⁿsokafka</a></i>
+&nbsp;to have a scrape in a certain place
+<br>&nbsp;&nbsp;<i><a href="s.htm#sokli">sokli</a></i>
+&nbsp;to remove the outer layer from (rep. or pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿsokli">iⁿsokli</a></i>
+&nbsp;to pry (pl. obj.) out
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istiⁿsokli">istiⁿsokli</a></i>
+&nbsp;to pry out from with (a tool)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#issokli">issokli</a></i>
+&nbsp;to remove the outer layer from (rep. or pl. obj.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istonasokli">istonasokli</a></i>
+&nbsp;to pull off, take apart
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#sokka">sokka</a></i>
+&nbsp;to get scraped up; to flake off
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿsokka">iⁿsokka</a></i>
+&nbsp;to have several scrapes on a body part
+<br><font size="+2"><b><a name="sokafka"></a>sokafka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">scrape, abrasion </font>
+&nbsp; [/sokaf-ka<sup>1</sup>]
+ <i>Pl: </i>sokka
+&nbsp;2.&nbsp;
+<font size="+2">to get a scrape</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;3.&nbsp;
+<font size="+2">to flake off, peel off</font>
+ ☞<a href="s.htm#sokaffi">sokaffi</a>
+<br><font size="+2"><b><a name="sokcha"></a>sokcha</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be loose, baggy</font>
+ <i>Usage: </i>Newer word.
+&nbsp;2.&nbsp;
+<font size="+2">sack, pocket, bag, pouch </font>
+&nbsp;3.&nbsp;
+<font size="+2">to look baggy because of wearing a loose garment</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Amilokfaya chasokchahchi.
+ <i>My dress is baggy on me.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ilokfa chisokchahchon hochíkfo.
+ <i>You have on a dress that's too baggy.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿsokcha">iⁿsokcha</a></i>
+&nbsp;to have something be too loose on one
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istiⁿsokcha">istiⁿsokcha</a></i>
+&nbsp;to be addicted to
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isilka istiⁿsokcha">isilka istiⁿsokcha</a></i>
+&nbsp;to be an alcoholic
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#pokkotòoli istiⁿsokcha">pokkotòoli istiⁿsokcha</a></i>
+&nbsp;to be a fan of playing ball
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#innochi istiⁿsokcha">innochi istiⁿsokcha</a></i>
+&nbsp;to be a sleepy-head
+<br>&nbsp;&nbsp;<i><a href="s.htm#sokchachi">sokchachi</a></i>
+&nbsp;to make a bag out of
+<br><font size="+2"><b><a name="sokchachi"></a>sokchachi</b> </font>
+<font size="+2">to make a bag out of (especially a skin); to loosen (something) that has been tight, make baggy</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>sokchachitiska, sokchachitilka, sokchachitaska</i>)
+&nbsp;(<i>sokchachiska, sokchachilka, sokchachaska</i>)
+&nbsp; [/sokcha-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Akkamíichit stamàakat, mok ichomáalon sooplit onáamin tafillimmit sokchachiifòokok nitokchin itayìibit ishopowátlichit nitokchin aapittat stilachihchootoolo.
+ <i>That's the way they went about it-deers too, they'd skin the whole thing itself, turn it inside out and when they had made a bag out of the skin, then they fried the bear they had killed for bear grease and put the grease in there and would take it along.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+ ☞<a href="s.htm#sokcha">sokcha</a>
+<br><font size="+2"><b><a name="sokcha istabatilka"></a>sokcha istabatilka</b> </font>
+<font size="+2">suitcase</font>
+&nbsp; [/sokcha ist- /tabat&lt;il&gt;-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="sokchapaɬakna"></a>sokchapaɬakna</b> </font>
+<font size="+2">tow sack, burlap sack</font>
+&nbsp; [/sokcha /paɬakna]
+<br><font size="+2"><b><a name="sokha"></a>sokha</b> </font>
+<font size="+2">pig, hog </font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#sokhasi">sokhasi</a></i>
+&nbsp;piglet
+<br>&nbsp;&nbsp;<i><a href="s.htm#sokhilli">sokhilli</a></i>
+&nbsp;to have a seizure
+<br><font size="+2"><b><a name="sokhàatka"></a>sokhàatka</b> </font>
+<font size="+2">opossum </font>
+&nbsp; [/sokha /hat-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="sokhàatkasi"></a>sokhàatkasi</b> </font>
+<font size="+2">baby opossum, small opossum</font>
+&nbsp; [/sokha /hat-ka<sup>1</sup>-osi]
+<br><font size="+2"><b><a name="sokhaffakchi"></a>sokhaffakchi</b> </font>
+<font size="+2">pork rind</font>
+&nbsp; [/sokha /affakchi]
+<br><font size="+2"><b><a name="sokhahatka"></a>sokhahatka</b> </font>
+<font size="+2">white pig</font>
+&nbsp; [/sokha /hat-ka<sup>1</sup>]
+ <i>Var: sokhahàtka</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="sokhahàtkasi"></a>sokhahàtkasi</b> </font>
+<font size="+2">white piglet, little opossum</font>
+&nbsp; [/sokha /hat-ka<sup>1</sup>-osi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="sokha ichokpaskachi"></a>sokha ichokpaskachi</b> </font>
+<font size="+2">hog jowls</font>
+&nbsp; [/sokha icho(k)- -/paskachi]
+<br><font size="+2"><b><a name="sokhamaɬatli"></a>sokhamaɬatli</b> </font>
+<font size="+2">wild hog </font>
+&nbsp; [/sokha /maɬat-li]
+<br><font size="+2"><b><a name="sokhanakchi"></a>sokhanakchi</b> </font>
+<font size="+2">spare ribs, pork ribs</font>
+&nbsp; [/sokha /nakchi]
+<br><font size="+2"><b><a name="sokhanipo"></a>sokhanipo</b> </font>
+<font size="+2">pork</font>
+&nbsp; [/sokha /nipo]
+<br><font size="+2"><b><a name="sokhaniya"></a>sokhaniya</b> </font>
+<font size="+2">pork cracklings</font>
+&nbsp; [/sokha /niya]
+<br><font size="+2"><b><a name="sokhasi"></a>sokhasi</b> </font>
+<font size="+2">piglet, shoat</font>
+&nbsp; [/sokha-osi]
+ ☞<a href="s.htm#sokha">sokha</a>
+<br><font size="+2"><b><a name="sokhasihàtka"></a>sokhasihàtka</b> </font>
+<font size="+2">white piglet</font>
+&nbsp; [/sokha-osi /hat-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="sokhilli"></a>sokhilli</b> </font>
+<font size="+2">to have epilepsy, have a seizure, have convulsions </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/sokha /illi]
+ {from the way a hog moves when it is killed}
+&nbsp;<font face="Arial">«</font>Chisokhilli.
+ <i>You had a seizure.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chisokhillihchi.
+ <i>You have epilepsy.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="s.htm#sokha">sokha</a>
+<br><font size="+2"><b><a name="sokhinchaabi"></a>sokhinchaabi</b> </font>
+<font size="+2">hog intestines</font>
+&nbsp; [/sokha im- /chaabi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="sokhobi"></a>sokhobi</b> </font>
+<font size="+2">ham</font>
+&nbsp; [/sokha /obi]
+<br><font size="+2"><b><a name="sokka"></a>sokka</b> </font>
+<font size="+2">to get scraped up, peeled, scalped; to flake off</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/sok(af)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="s.htm#sokli">sokli</a>
+<br><font size="+2"><b><a name="sokli"></a>sokli</b> </font>
+<font size="+2">to scrape, peel off, scalp, skin, strip (bark) (repeatedly or more than one), remove the outer layer from</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>sokchi, sokhili, sokhachi</i>)
+&nbsp; [/sok(af)-li]
+ [<i>dsfx1</i>]
+&nbsp;<font face="Arial">«</font>Iishayon sokliliti ittosohkachin.
+ <i>I pulled the lumber off the inside walls.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chìiska isbotòokan chalbin issokliti.
+ <i>I scraped my hands with the cheese grater.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sokaffi">sokaffi</a>
+<br><font size="+2"><b><a name="sokpa"></a>sokpa</b> </font>
+<font size="+2">to be light, lightweight, agile (as a gymnast)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿsokpa">iⁿsokpa</a></i>
+&nbsp;lungs
+<br>&nbsp;&nbsp;<i><a href="s.htm#sóhpa">sóhpa</a></i>
+&nbsp;to be lighter
+<br><font size="+2"><b><a name="sókpa"></a>sókpa</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#sóhpa">sóhpa</a>&nbsp;
+<br><font size="+2"><b><a name="sokpanòoli"></a>sokpanòoli</b> </font>
+<font size="+2">little black water insect, small black things floating in jelly on the surface of the water (mosquito larva?) </font>
+; <font size="+2">long-legged, red insects that move jerkily across surface of water</font>
+&nbsp;<font size="0">(VC)</font>
+; <font size="+2">tadpole</font>
+&nbsp;<font size="0">(DB)</font>
+ <i>Lit: </i>sounds like `eaten up lungs'
+<br><font size="+2"><b><a name="solkaffakchi"></a>solkaffakchi</b> </font>
+<font size="+2">snail shell</font>
+&nbsp; [/solko /affakchi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="solko"></a>solko</b> </font>
+<font size="+2">snail</font>
+<br><font size="+2"><b><a name="sollòkchi"></a>sollòkchi</b> </font>
+<font size="+2">spirit, soul, ghost</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chasollòkchóot amayokpàaliimok.
+ <i>He restoreth my soul.</i> <font size="0">(TTP)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="sollòota"></a>sollòota</b> </font>
+<font size="+2">cricket </font>
+<br><font size="+2"><b><a name="sóllotka"></a>sóllotka</b> </font>
+<font size="+2">to be slightly dried up, starting to dry up (of one)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>ggr</i>]
+ ☞<a href="s.htm#solotka">solotka</a>
+<br><font size="+2"><b><a name="solohka"></a>solohka</b> </font>
+<font size="+2">to be dry, thin (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/solo&lt;h&gt;t-ka<sup>1</sup>]
+ ☞<a href="s.htm#solotli">solotli</a>
+<br><font size="+2"><b><a name="solòoya"></a>solòoya</b> </font>
+<font size="+2">for to be a jingling, tinkling sound </font>
+&nbsp;<font size="0">(WP)</font>
+&nbsp;<font face="Arial">«</font>Solòoyan háalolo.
+ <i>I hear jingling.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#solòoyachi">solòoyachi</a></i>
+&nbsp;to make something jingle
+<br><font size="+2"><b><a name="solòoyachi"></a>solòoyachi</b> </font>
+<font size="+2">to make something jingle or tinkle (as a small bell)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>solòoyachitiska, solòoyachitilka, solòoyachitaska</i>)
+&nbsp;(<i>solòoyachiska, solòoyachilka, solòoyachaska</i>)
+&nbsp; [/solòoya-chi<sup>1</sup>]
+&nbsp;<font size="0">(WP)</font>
+ ☞<a href="s.htm#solòoya">solòoya</a>
+<br><font size="+2"><b><a name="solotka"></a>solotka</b> </font>
+<font size="+2">to be dry, dried, dried up, shriveled up, shrunken, wilted (as an old plant), skinny, wizened (of one); for there to be a drought</font>
+&nbsp; [/solot-ka<sup>1</sup>]
+ ☞<a href="s.htm#solotli">solotli</a>
+<br><font size="+2"><b><a name="solotli"></a>solotli</b> </font>
+<font size="+2">to dry</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>solotchi, solothili, solothachi</i>)
+&nbsp; [/solot-li]
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ilisolotli">ilisolotli</a></i>
+&nbsp;to dry oneself
+<br>&nbsp;&nbsp;<i><a href="i2.htm#itaksolotli">itaksolotli</a></i>
+&nbsp;to roast, dry by fire
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#itasolotka">itasolotka</a></i>
+&nbsp;anything roasted or dried
+<br>&nbsp;&nbsp;<i><a href="s.htm#solotka">solotka</a></i>
+&nbsp;to be dry
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittabisolotka">ittabisolotka</a></i>
+&nbsp;to have skinny legs
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#sóllotka">sóllotka</a></i>
+&nbsp;to be slightly dried up
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istasolotka">istasolotka</a></i>
+&nbsp;thickener
+&nbsp;to have the water boil out and dry up
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#noksolotka">noksolotka</a></i>
+&nbsp;to be hoarse
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#noksolotíkko">noksolotíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#noksolotkatíkko">noksolotkatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#obisolotka">obisolotka</a></i>
+&nbsp;to be weak-legged
+<br>&nbsp;&nbsp;<i><a href="s.htm#solohka">solohka</a></i>
+&nbsp;to be dry, thin
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#obaksolohka">obaksolohka</a></i>
+&nbsp;to be skinny-legged
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#obisolohka">obisolohka</a></i>
+&nbsp;to be weak-legged
+<br><font size="+2"><b><a name="sómbàyka"></a>sómbàyka</b> </font>
+<font size="+2">to be known of, have been heard of (as a famous person one has heard of but does not know personally)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>ggr</i>]
+ ☞<a href="s.htm#sobàyka">sobàyka</a>
+<br><font size="+2"><b><a name="sómbàyli"></a>sómbàyli</b> </font>
+<font size="+2">to remember; to know a little about something</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>sómbàychi, sómbàyhili, sómbàyhachi</i>)
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Sómbàyli.
+ <i>He knows a little about it.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasok máalok ommiimon sómbaylihchi.
+ <i>He's always supposed to know the truth.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkámòosin sómbaylilo.
+ <i>That's about all I know.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+ ☞<a href="s.htm#sobàyli">sobàyli</a>
+<br><font size="+2"><b><a name="sómbàylifìinakáhchi"></a>sómbàylifìinakáhchi</b> </font>
+<font size="+2">to be nosey</font>
+&nbsp; [/sobày-li-fìhna-káhmi-hchi]
+ [<i>ggr</i>]
+ ☞<a href="s.htm#sómbàyli">sómbàyli</a>
+<br><font size="+2"><b><a name="sómbotli"></a>sómbotli</b> </font>
+<font size="+2">to be smoking </font>
+&nbsp; [/sobot-li]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Sómbotloma.
+ <i>Somewhere there is smoke.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nákson ohatiklit ònkan sómbotlo.
+ <i>Somewhere someone set something afire and it's smoking.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sobotli">sobotli</a>
+<br><font size="+2"><b><a name="somo"></a>somo</b> </font>
+<font size="+2">moss, Spanish moss; lichen </font>
+<br><font size="+2"><b><a name="somofahka"></a>somofahka</b> </font>
+<font size="+2">spun Spanish moss</font>
+&nbsp; [/somo /fah-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="somofahli"></a>somofahli</b> </font>
+<font size="+2">to spin Spanish moss</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>somofahchi, somofahhili, somofahhachi</i>)
+&nbsp; [/somo /fah-li]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="f.htm#fahli">fahli</a>
+<br><font size="+2"><b><a name="somohatka"></a>somohatka</b> </font>
+<font size="+2">living Spanish moss (as opposed to somolocha)</font>
+&nbsp; [/somo /hatka]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="somo isfahka"></a>somo isfahka</b> </font>
+<font size="+2">tool used in spinning moss</font>
+&nbsp; [/somo ist- /fah-ka<sup>1</sup>]
+ <i>Var: somosfahka</i>
+&nbsp;<font size="0">(DB, VC)</font>
+<br><font size="+2"><b><a name="somo iyyispaska"></a>somo iyyispaska</b> </font>
+<font size="+2">Spanish moss doormat</font>
+&nbsp; [/somo /iyyi ist- /pas-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="somolocha"></a>somolocha</b> </font>
+<font size="+2">dried Spanish moss</font>
+&nbsp;<font color="#080000">Cul:  This refers to the blackened dry moss that has fallen off the tree and is used, for instance, in making the mixture of brains used to cure hide.</font>&nbsp;
+&nbsp; [/somo /locha]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="somopaapatka impaapatka"></a>somopaapatka impaapatka</b> </font>
+<font size="+2">Spanish moss saddle blanket</font>
+&nbsp; [/somo paa- /pat(àa)-ka<sup>1</sup> im-paa- /pat(àa)-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="somosfahka"></a>somosfahka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#somo isfahka">somo isfahka</a>&nbsp;
+<br><font size="+2"><b><a name="somospatka"></a>somospatka</b> </font>
+<font size="+2">Spanish moss mattress</font>
+&nbsp; [/somo ist- /pat(aa)-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="somotaɬka"></a>somotaɬka</b> </font>
+<font size="+2">woven Spanish moss </font>
+&nbsp;<font color="#080000">Cul:  Saddle blankets and doormats used to be made from this.</font>&nbsp;
+&nbsp; [/somo /taɬa-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="soⁿhoka"></a>soⁿhoka</b> </font>
+ Imp.
+ ☞<a href="s.htm#sonka">sonka</a>
+<br><font size="+2"><b><a name="sonka"></a>sonka</b> </font>
+<font size="+2">to suck</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>soiⁿska, soiⁿlka, soaⁿska</i>)
+&nbsp; [/som-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Akkamíhchiyáamok niposóot nàahotooma oipahchóot máhtot onkok chofkanóot hosonkahchootooli holibatli?
+ <i>So having done all that, if there was some meat they might eat it and if they did there might be some bones and then would they suck on them after they had cooked it?</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#soⁿhoka">soⁿhoka</a></i>
+ Imp.
+<br>&nbsp;&nbsp;<i><a href="h.htm#hakchommasonka">hakchommasonka</a></i>
+&nbsp;to smoke tobacco
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoksonka">ichoksonka</a></i>
+&nbsp;to kiss
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ichoksommichi">ichoksommichi</a></i>
+&nbsp;to hold someone up to be kissed
+<br><font size="+2"><b><a name="sonok"></a>sonok</b> </font>
+<font size="+2">money</font>
+ <i>Usage: </i>Older word.
+ {&nbsp;Mobilian?}
+<br><font size="+2"><b><a name="sonokchaf"></a>sonokchaf</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#sonokcháffàaka">sonokcháffàaka</a>&nbsp;
+<br><font size="+2"><b><a name="sonok chaffa"></a>sonok chaffa</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#sonokcháffàaka">sonokcháffàaka</a>&nbsp;
+<br><font size="+2"><b><a name="sonokcháffàaka"></a>sonokcháffàaka</b> </font>
+<font size="+2">dollar, dollar bill</font>
+&nbsp; [/sonok /cháffàa-ka<sup>1</sup>]
+ {variant &nbsp;Mobilian?}
+ <i>Var: sonok chaffa</i>
+ <i>Var: sonokchaf</i>
+&nbsp;<font size="0">(JS)</font>
+<br><font size="+2"><b><a name="sonokkiɬayli"></a>sonokkiɬayli</b> </font>
+<font size="+2">species of mint plant </font>
+&nbsp;<font color="#080000">Cul:  Used to make an aromatic medicinal herb drink. A bucketful is made before viewing the body of a dead person; the mourner faces east, drinks four times, washes the ears four times, and washes the face four times.</font>&nbsp;
+ <i>Var: sinoktiɬayli</i>
+ <i>Var: sinoktaɬayli</i>
+&nbsp;<font size="0">(IB)</font>
+ <i>Var: snoktaɬayli</i>
+&nbsp;<font size="0">(VC, DB)</font>
+ <i>Var: isnoktaɬayli</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="soobi"></a>soobi</b> </font>
+<font size="+2">to stoop over, bend over</font>
+ <i>Usage: </i>Older word; may have slightly vulgar connotations of the buttocks being in the air.
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>soobitiska, soobitilka, soobitaska</i>)
+<br>&nbsp;&nbsp;<i><a href="s.htm#soobìichi">soobìichi</a></i>
+&nbsp;to bend (someone) over
+<br>&nbsp;&nbsp;<i><a href="m.htm#maasóobi">maasóobi</a></i>
+&nbsp;to be bent over in the distance
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maasoobìichi">maasoobìichi</a></i>
+&nbsp;to have (someone) bend over at the waist
+<br><font size="+2"><b><a name="soobìichi"></a>soobìichi</b> </font>
+<font size="+2">to bend (someone) over</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>soobìichitiska, soobìichitilka, soobìichitaska</i>)
+&nbsp; [/soobi-chi<sup>1</sup>]
+ [<i>fgr</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="s.htm#soobi">soobi</a>
+<br><font size="+2"><b><a name="soofi"></a>soofi</b> </font>
+<font size="+2">to spill, throw, discard (more than one thing); to flush (the toilet)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>soofchi, soofhili, soofhachi</i>)
+&nbsp; [poss. /sofi]
+ {poss. originally sof-li}
+&nbsp;<font face="Arial">«</font>Maataaɬoilkan soofi.
+ <i>Flush the toilet.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#sòfko">sòfko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ilsoofi">ilsoofi</a></i>
+&nbsp;to bring and settle and leave
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬaɬon oosoofi">ɬaɬon oosoofi</a></i>
+&nbsp;to stock with fish
+<br>&nbsp;&nbsp;<i><a href="m.htm#maasoofi">maasoofi</a></i>
+&nbsp;to throw out
+<br>&nbsp;&nbsp;<i><a href="p.htm#paasoofi">paasoofi</a></i>
+&nbsp;to spill on, squirt on
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#poyatlit paasofka">poyatlit paasofka</a></i>
+&nbsp;to boil over
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#okipaasoofi">okipaasoofi</a></i>
+&nbsp;to baptize
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittapaasofka">ittapaasofka</a></i>
+&nbsp;to fall on one another
+<br>&nbsp;&nbsp;<i><a href="s.htm#sofka">sofka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to fall (of leaves); to drain (down through something)
+&nbsp;2.&nbsp;
+&nbsp;things unneeded
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#soofíkko">soofíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maasofka">maasofka</a></i>
+&nbsp;to fall at a distance
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#ossofka">ossofka</a></i>
+&nbsp;to be here and there
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#obalsofka">obalsofka</a></i>
+&nbsp;to be late
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#oosofka">oosofka</a></i>
+&nbsp;to drop into water
+<br><font size="+2"><b><a name="soofíkko"></a>soofíkko</b> </font>
+ Neg.
+ ☞<a href="s.htm#sofka">sofka</a>
+<br><font size="+2"><b><a name="soofka"></a>soofka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#sofka">sofka</a>&nbsp;
+<br><font size="+2"><b><a name="sooka"></a>sooka</b> </font>
+<font size="+2">to be held in the arms (as a baby or bag of groceries)</font>
+&nbsp; [/soo-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="s.htm#sòoli">sòoli</a>
+<br><font size="+2"><b><a name="sòoka"></a>sòoka</b> </font>
+<font size="+2">movie, picture show</font>
+&nbsp; [/sòo-ka<sup>3</sup>]
+ {&nbsp;English `show'}
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="sòoli"></a>sòoli</b> </font>
+<font size="+2">to hold in the arms, carry (as a baby), cradle in the arms</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>sòochi, sòohili, sòohachi</i>)
+&nbsp; [/sòo-li]
+&nbsp;<font face="Arial">«</font>Píila yaabannit sòolit ihto mintóot ibachasàakaimon holihtachòoba yiɬápliimok ìisaamon holihta háhpa stoɬàachit yaabannit oshopaapíɬkat istamaakahchoolikha.
+ <i>They would just carry it on their shoulder and carry it in the crook of their arms and if another field was to be added on to, then some would be there to tear down the old fence and some would be bringing the new fence rails on their shoulder and would go and stack them up.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#sooka">sooka</a></i>
+&nbsp;to be held in the arms
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iliisòoli">iliisòoli</a></i>
+&nbsp;to hug oneself against the cold
+<br>&nbsp;&nbsp;<i><a href="i2.htm#issakban sòoli">issakban sòoli</a></i>
+&nbsp;to cross the arms
+<br><font size="+2"><b><a name="soopli"></a>soopli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#sopli">sopli</a>&nbsp;
+<br><font size="+2"><b><a name="sopàali"></a>sopàali</b> </font>
+<font size="+2">to clean (more than one or repeatedly)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>sopàachi, sopàahili, sopàahachi</i>)
+&nbsp; [/sopa(t)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ <i>Var: sopahli</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="s.htm#sopatli">sopatli</a>
+<br><font size="+2"><b><a name="sopahli"></a>sopahli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="s.htm#sopàali">sopàali</a>&nbsp;
+<br><font size="+2"><b><a name="sopatka"></a>sopatka</b> </font>
+<font size="+2">to be cleaned, bare</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/sopat-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Aayampok sopátkàasin aasihliha.
+ <i>When you wash dishes get them real clean.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sopatli">sopatli</a>
+<br><font size="+2"><b><a name="sopátkàasi"></a>sopátkàasi</b> </font>
+<font size="+2">to be neat, clean</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/sopat-ka<sup>1</sup>-osi]
+ [<i>lgr?</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="s.htm#sopatka">sopatka</a>
+<br><font size="+2"><b><a name="sopatli"></a>sopatli</b> </font>
+<font size="+2">to get (something) clean</font>
+ <i>Usage: </i>Unlike Eng. `clean' this word is not used by itself; the method of cleaning must be specified.
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>sopatchi, sopathili, sopathachi</i>)
+&nbsp; [/sopat-li]
+&nbsp;<font face="Arial">«</font>Aayoolìmpafan paayaasihlit sopatlilo.
+ <i>I washed the top of the table and got it clean.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#sopatka">sopatka</a></i>
+&nbsp;to be cleaned, bare
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="s.htm#sopátkàasi">sopátkàasi</a></i>
+&nbsp;to be neat
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ibiisopatli">ibiisopatli</a></i>
+&nbsp;to clean the face
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ibiisopatka">ibiisopatka</a></i>
+&nbsp;to have a clean face
+<br>&nbsp;&nbsp;<i><a href="n.htm#noosopatli">noosopatli</a></i>
+&nbsp;to clean the neck of
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#noosopatka">noosopatka</a></i>
+&nbsp;to have a bare nape
+<br>&nbsp;&nbsp;<i><a href="p.htm#paasopatka">paasopatka</a></i>
+&nbsp;to be a clean surface
+<br>&nbsp;&nbsp;<i><a href="s.htm#sopàali">sopàali</a></i>
+&nbsp;to clean (pl. obj. or rep.)
+<br><font size="+2"><b><a name="sopiika"></a>sopiika</b> </font>
+<font size="+2">white sucker fish</font>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="sopli"></a>sopli</b> </font>
+<font size="+2">to skin (an animal), scrape, rub the skin off of (as shoes that are too small)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>sopchi, sophili, sophachi</i>)
+&nbsp; [/sop-li]
+ <i>Var: soopli</i>
+&nbsp;<font face="Arial">«</font>Sopliha!
+ <i>Skin it!</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Wilok chasopliiso.
+ <i>The shoes rubbed me.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ichóot ommiima ibi hopáhkitík ibìimok chinìilit albinafan stilachiifòokok sooplit, oaboslit, akkáamit ittanówwat nihtállo cháffàakahchóot ittanówwat ɬoyohkat ilachihchootoolo.
+ <i>If it was a deer, even though they killed it far away, when they killed it, they carried it on their backs and when they got it to their camp, they skinned it and barbecued it, that's the way they would go and would usually be gone for a week and then they would turn around and go back.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iliisopli">iliisopli</a></i>
+&nbsp;to shed
+<br><font size="+2"><b><a name="sowi"></a>sowi</b> </font>
+<font size="+2">to be thin, slim, slender, skinny (of people or animals); to be dry (of one); to lose weight</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Chiyahliliiyok ònko chasowìiyok.
+ <i>I've been walking and losing weight.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chasowit aɬɬo.
+ <i>I've been trying to get skinny.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chisowiimoolo.
+ <i>You're skinny.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Posowiimoolo.
+ <i>We're skinny.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="s.htm#sowiichi">sowiichi</a></i>
+&nbsp;to make lose weight
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iliisowiichi">iliisowiichi</a></i>
+&nbsp;to try to get skinny
+<br><font size="+2"><b><a name="sowiichi"></a>sowiichi</b> </font>
+<font size="+2">to make lose weight (as disease, diet pills, doctor's orders, etc.)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>sowiichitiska, sowiichitilka, sowiichitaska</i>)
+&nbsp; [/sowi-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="s.htm#sowi">sowi</a>
+<br><font size="+2"><b><a name="sowiisowi"></a>sowiisowi</b> </font>
+<font size="+2">locust, cicada; the whirring noise of a cicada </font>
+ {from the sound the insect makes}
+<br><font size="+2"><b><a name="stìitka"></a>stìitka</b> </font>
+<font size="+2">the State, the state of Texas</font>
+&nbsp; [/stìit-ka<sup>3</sup>]
+ {&nbsp;English}
+&nbsp;<font face="Arial">«</font>Stìitkayok ihaanin iⁿfaylihchok ommitoolo.
+ <i>The State (of Texas) let them have some land.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

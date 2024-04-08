@@ -1,0 +1,1841 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">A</font></center><br>
+<br><font size="+2"><b><a name="-a"></a>-a</b> </font>
+ <i>(Nom/Mid)</i>
+&nbsp;<i>(nonproductive) object nominalizing suffix or middle</i>
+ {prob. &nbsp;an old variant of *-ka<sup>1</sup> as found in modern Choctaw}
+&nbsp;<font face="Arial">«</font>Nokɬikis-li &gt; nokɬikiich-<b><i>a</i></b>.
+ <i>To scare &gt; to be scared.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Aayintolíhn<b><i>a</i></b>fa amáakayok pahkabáanat.
+ <i>They were going to the job site whooping it up.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="a-"></a>a-</b> </font>
+ <i>(Appl)</i>
+&nbsp;<i>(nonproductive) verb stem derivational prefix typically adding an object</i>
+&nbsp;<font face="Arial">«</font>Yosba &gt; <b><i>a</i></b>yosba.
+ <i>To be lost &gt; to forget.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kostini &gt; <b><i>a</i></b>kostini.
+ <i>To be wise, intelligent &gt; to know (something).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kano &gt; im<b><i>a</i></b>kanoochi.
+ <i>To be good &gt; to fix, tend, prepare for.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hicha &gt; <b><i>a</i></b>hicha.
+ <i>To see &gt; to watch over.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-aa"></a>-aa</b> </font>
+ <i>(Pron)</i>
+<font size="+2">I</font>
+&nbsp;<i>verb suffix indicating first person singular Control Subject in the future tense</i>
+&nbsp;<font face="Arial">«</font>`Chastokon achihl<b><i>aa</i></b>lak ommo', mankan.
+ <i>`I'm going to plant beans', he said.</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Chaafin talbòol<b><i>aa</i></b>lak ommo' mankan.
+ <i>`I'm going to fix the ax', he said.</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="aa-"></a>aa-</b> </font>
+ <i>(GenLoc)</i>
+<font size="+2">at, to</font>
+&nbsp;<i>verb stem derivational prefix indicating general location; derives nouns indicating the place where an action is performed</i>
+ <i>Var: aay- before vowels</i>
+&nbsp;<font face="Arial">«</font>Wakhachaahan `yon <b><i>aa</i></b>chokòoliiha áhhìichaha nakaaɬánnàha' homankok.
+ <i>They said to Crane, `Sit here and watch him so he doesn't take off.'</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Himóɬɬachon aatitayyichòobok <b><i>aa</i></b>sobòoli lapaaloson itachokóoⁿhchooton imiisafan máalon itachokóoⁿhchooton...
+ <i>Once there was an old woman who used to sit right beside the fire, she used to sit there in her house beside the fire.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...ɬóokat maatakanáhhilok churchka-fakáalon <b><i>aay</i></b>ìisat holisson sobáaylispotóobàapin...
+ <i>...again we moved over there and that's where we were, still at the church building and we went to school there for some time.</i> <font size="0">(NCS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Itto notaamáɬɬon <b><i>aa</i></b>sobaylit ìistilkan iissòoba impahchafóot aasobaylit ìistilkan...
+ <i>We had school under a tree or stayed under the porch of an old house.</i> <font size="0">(NCS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...<b><i>aay</i></b>intolíhnafa amáakayok pahkabáanat...
+ <i>They were going to the job site whooping it up.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-aaba"></a>-aaba</b> </font>
+ <i>(Modl)</i>
+&nbsp;<i>verb suffix indicating an opinion or belief or that the speaker is asking for confirmation of a belief, as in tag questions</i>
+&nbsp;<font face="Arial">«</font>`Nàasok híibilákk<b><i>àaba</i></b>' mankahchóot òmmok áffalìichoostóot ommoolo.
+ <i>`This thing doesn't look like it could kill me', he may have said, making fun of it.</i> <font size="0">(MBF1)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`óochatíkkolool<b><i>áabàa</i></b> káasok.'
+ <i>It's not going to be too long, is it?</i> <font size="0">(PMM)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máamok somisfáhkaya, somisfáhkaya ishíichatool<b><i>aaba</i></b>?
+ <i>Then the moss spinning outfit-you've seen that moss spinning outfit, haven't you?</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Màilok anchampóolilakkàaba.
+ <i>I don't think that (ice cream you mentioned) is going to taste good to me.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-áahosi"></a>-áahosi</b> </font>
+ <i>(Adv)</i>
+<font size="+2">almost</font>
+&nbsp;<i>verb suffix indicating near completion of an (unrealized) event</i>
+&nbsp; [-ahi-osi] 
+ [<i>lgr</i>]
+ <i>Var: -áaⁿosi</i>
+ <i>Var: -áaⁿhos- before apocopating suffixes</i>
+&nbsp;<font face="Arial">«</font>Ill<b><i>áahosi</i></b>t illiilayok tikbakók `ankatipa alliilamoolo, chall<b><i>áahoso</i></b>' immankatoha, aatikon.
+ <i>It was almost dead it was so hungry, so the fire said to the man, `feed me, I'm starving, I'm almost dead.'</i> <font size="0">(MBF2)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tikbakok aatiyon `ankatipa chanakaɬ<b><i>áaⁿhoso</i></b>' mankan.
+ <i>The fire said to the man `Feed me, I'm almost gone.'</i> <font size="0">(MBF1)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Paanifan oɬ<b><i>áaⁿhosi</i></b>fòokayok bássok, tamm<b><i>áaⁿhos</i></b>tik aɬíinat aɬíinat...
+ <i>He had almost gotten to the creek when he started getting weak and he almost fell down.</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Naho akkon akkamíhchit mottakitaskaafòokon ishohachibatl<b><i>áaⁿhosii</i></b>káhtíkko?
+ <i>When you made it known what happened weren't they about to whip y'all?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-áali"></a>-áali</b> </font>
+ <i>(Modf)</i>
+<font size="+2">the one, the very, the same, the exact; one's very own, one's own self</font>
+&nbsp;<i>suffix to pronouns, including demonstratives ya, ma, ka, akka and nouns after NLoc -fa, with particular meaning determined by what it is suffixed to</i>
+&nbsp;<font face="Arial">«</font>Anaak<b><i>áal</i></b>o.
+ <i>My own self.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Himáakaya sáamòosin stamánnòokan stamánnòokalaak ommoolo máskat sobaytakkóomo sobaytákkobi himáakaya an<b><i>áali</i></b>ya.
+ <i>Now I don't know when my time will end, I myself don't know now when my end will come, I don't know.</i> <font size="0">(NCS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkon ibisn<b><i>áal</i></b>ok talbòolimók stamaakahchommoolo.
+ <i>Then they made their own plans and used to carry them on through.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>íisan imiisafíinamon ohintállok ohintállin aalokòoli mók maaf<b><i>áal</i></b>on imiyaanifaam<b><i>áal</i></b>on hotállok...
+ <i>When they built his real house for him and built the church too in the same place, on his own land they built it.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Howiilit honahohchooti kaas<b><i>áal</i></b>ok, akkáamostoolo.
+ <i>They would hunt for it and make it, but for only that same amount (of money).</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Maafaakon ittom<b><i>áali</i></b>t talkoossòoba iⁿsamatlikáhchon yamíhchit issáalichit...
+ <i>There is that same stick with the old knife sort of stuck in it and you scrape like this with it.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkon iisan áɬkat homaɬatliista sáhkofòokayok askahíkkostáskat iisahayom<b><i>áal</i></b>otik ohitahoppolat anoostoolo.
+ <i>They were inside the house and were very afraid so they couldn't do anything and couldn't get out and were in there for a long time, so they had to defecate apparently.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Somoy<b><i>áal</i></b>ok yáhmit aɬɬatok atokl<b><i>áali</i></b> ittootámmatlit aɬɬasta.
+ <i>One piece of moss goes this way then the next goes the opposite way, in and out.</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Indian-kay<b><i>áal</i></b>ókkohchi tatkon ommitoolo íibitooma?
+ <i>That one wasn't an Indian but a white that he killed?</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...walìikay<b><i>áal</i></b>on maakok tanatlok waliikatóóóón...
+ <i>...the very minute it took off that one came down and ran and ran...</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Yáhmòosiy<b><i>áal</i></b>o íibilákkobi' mankáabíikatoha.
+ <i>`A l'il ole thing like this one couldn't kill me', he kept repeating.</i> <font size="0">(MBF2)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>∥óokat maak<b><i>áal</i></b>on yamíhchit yamíhchit istaɬat istaɬat atokl<b><i>áali</i></b> akkamíichit akkamíichit anoslihchommihchoolikha.
+ <i>Now again, to that one do like this, do like this, weave something through it, weave it through (crossways) a second time do it; that's the way they keep doing it until it's finished.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Onkatohatáskan aatik hoháalohchootohatáskat hosobáylistáskat ak<b><i>áalii</i></b>yon chokòolahiyon hobánkofòokayo.
+ <i>That's how they said it would be and the Indians heard it and knew about it and they didn't want anyone else living there.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Atokl<b><i>áali</i></b>t ɬóok kihchofak<b><i>áal</i></b>on maatáaɬok.
+ <i>Again, a second time, you put it back in that same mortar.</i> <font size="0">(PBB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>∥óok maak<b><i>áal</i></b>on intoonolaot áalot naaɬiikáaposkáamon.
+ <i>Then again he asked to take his same job up again where he'd left off and he talked about it.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mootok aɬíinaamon aɬíinaamon mafòokam<b><i>áali</i></b>n iⁿɬopotloosiiyon church-kayok aalokooliyon tallifòokon maafaayon ɬóokat maatakanáhhilok church-kafak<b><i>áal</i></b>on aayìisat...
+ <i>Then later on, some time right afterward that same time, the Church built a churchhouse, then again we moved over there and that's where we were, still at the same church.</i> <font size="0">(NCS)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-àapi"></a>-àapi</b> </font>
+ <i>(Adv)</i>
+<font size="+2">really, very; but</font>
+&nbsp;<i>verb suffix indicating emphasis or contrast, intensity, or duration, in subordinate clauses only or followed by copular -o<sup>4</sup> in an independent clause</i>
+&nbsp;<font face="Arial">«</font>Hasikon itton isbatatlit alwahlilaak ommitok isbatatl<b><i>àapi</i></b>n alwahíkkot yaafo ostistámmin.
+ <i>He was going to hit the sun against a tree and break it but although he really hit it against it, it didn't break but fell away over yonder.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Achihlilak iswìikahchommiti' homank<b><i>àapi</i></b>n.
+ <i>`He was going to plant them (the beans) and he's over there doing it', that's what they said and he really was.</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...ɬóokat maatakanáhhilok churchka-fakáalon aayìisat holisson sobáaylispotóob<b><i>àapi</i></b>n...
+ <i>...again we moved over there and that's where we were, still at the church building and we went to school there for some time.</i> <font size="0">(NCS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hátchaal<b><i>àap</i></b>ok lokbahchommiima, solotkaskanóhchoolikha.
+ <i>If it stands for a little while and it's hot and sunny then it dries easily.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkamíhchit kanochistóobas<b><i>áaⁿp</i></b>ok líiphat líiphat anookat, solotkat anookáama.
+ <i>One does that for a long time real carefully then it's finished curing when it's finished drying.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kaanootoomok wíikasta ostistiⁿfáyhil<b><i>àapi</i></b>n.
+ <i>McConico was still alive then so we did go to tell him.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máafon paatohnotík akkon hohochif<b><i>áap</i></b>oskáamon obaltámmin ommikha.
+ <i>But even though he pushed him and they even put his name down (on the ballot) he got behind.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Eh, mikkóot John Scott-kootoomok illifòokan wííík<b><i>àapi</i></b>fòokan lókba námpooya òoɬahchon ommiti Chaali Tamsootoomon ohisíhchommikha ɬóokat.
+ <i>When Chief John Scott died they waited a long time, I don't know how many years went by before they elected Charlie Thompson again.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkon oschókkòolit holissoot sobaylìich<b><i>àapi</i></b>tík istimanooka máamòosin assaliikok nakaɬtikáas ilaabíikakha.
+ <i>He lived over there and taught school until his term was over, but then he got out and was gone and goes off.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ayaanáak<b><i>àap</i></b>o.
+ <i>It is sloping a little.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>∥aɬon imokwàylil<b><i>áap</i></b>ok ampiyaafobi.
+ <i>I did fish but had bad luck.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chakàanobi, isn<b><i>àap</i></b>o?
+ <i>I'm fine, and you?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hompaniiyok ponn<b><i>àapi</i></b>.
+ <i>He sure knows how to play.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="aati-"></a>aati-</b> </font>
+ <i>(PlObj)</i>
+&nbsp;<i>verb prefix typically indicating a plural third person object, often unspecified, or occasionally a third person unspecified subject</i>
+ <i>Var: at-</i>
+&nbsp;<font face="Arial">«</font>Mootok ómmok oɬafòokan tayyihakon ohiⁿfaylitáskan tayyihakon <b><i>aat</i></b>apoɬóokàasit illitoha, homankahchoolimpakha.
+ <i>Then, at that time, since he had returned, they let him have the two women, and so he had just gone to bed with them when he died, so they always used to say.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ifak amáakan <b><i>aati</i></b>maatachakkiliton ibit hochíkkìiliifaamok paayoɬachiti.
+ <i>The dogs went and I followed them to where they had gone to kill (the animals).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font><b><i>At</i></b>hapkahchi.
+ <i>Somebody is bathing.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkàilok aatíibilákkàaba.
+ <i>That thing couldn't kill anybody.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-ahi"></a>-ahi</b> </font>
+ <i>(Asp)</i>
+&nbsp;<i>verb suffix indicating probable or intended unrealized events</i>
+ <i>Var: ai- in fast speech</i>
+&nbsp;<font face="Arial">«</font>Samíhch<b><i>ai</i></b>k hosobaykok nihtahchootok tankahchootok sobayk<b><i>ai</i></b>táskan máamòosin.
+ <i>How were they going to know when it was day or night, because they needed to know.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Hasi oslapaach<b><i>ai</i></b>mok náksool<b><i>ai</i></b>tonka?', homankan.
+ <i>`Who is going to go put the sun up?', they said.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkon solotk<b><i>ai</i></b>kát aɬɬaamon sahlichit yamíichit yamíichit sahlichit akkamíhchikát iswíikat nákson solotkat lapáffiimon...
+ <i>That one that is beginning to get dry, scrape it, do this way, do this way, scrape it, keep doing like that everywhere there is a dry place sticking to it.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Onkatohatáskan aatik hoháalohchootohatáskat hosobáylistáskat akkáaliiyon chokòol<b><i>ahi</i></b>yon hobánkofòokayo.
+ <i>That's how they said it would be and the Indians heard it and knew about it and they didn't want anyone else living there.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nihtakan<b><i>aah</i></b>o.
+ <i>It's going to be nice today.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-álpìisa"></a>-álpìisa</b> </font>
+ <i>(Modl)</i>
+<font size="+2">can, could, should, supposed to</font>
+&nbsp;<i>verb suffix indicating ability, speaker desire or assessment of obligation or necessity</i>
+&nbsp;<font face="Arial">«</font>...mok sáhkolahok hosankíhch<b><i>álpís</i></b>sóotoomoolín íisat ìisahchok ommoolo.
+ <i>Nothing would have happened then, they wouldn't have been able to do anything about it but then they lived here.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...yáalon chókkòolit hayoyon chókkòolilah<b><i>álpìisa</i></b>n mánkot...
+ <i>He could have lived here on the inside (of the reservation) but he did not.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Stanòokamok stanòokamon maafòokaya aatimaakok hopakíhchihch<b><i>álpìisa</i></b>táskan ostanòokan aɬɬaamon...
+ <i>The last one, that aforementioned man (thought) he should be far away because that's the last one he's going after.</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nákson sáhmit wíiskahchootoomok óyhan aⁿfatli, aⁿfatchihch<b><i>álpìis</i></b>o.
+ <i>Now tell me everything about how you used to live, I wish you would tell me.</i> <font size="0">(NCS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Eh, ten feet-kahch<b><i>álpìis</i></b>o, hobaskik ten feet-kan.
+ <i>Yeah, it's supposed to be about ten feet, ten feet long.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Pokkotooliyáɬɬok hotooliikástóoⁿbat hotòohch<b><i>álpìisaa</i></b>mok íksofòokon fayahtok onko.
+ <i>They kept on playing ball every now and then but then there weren't any people who could play so they quit.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhmoos<b><i>álpìis</i></b>tok ommiya naho hospital-ka hátchàali maatiyáamòosin italókkòoliimok nahofan choyyi hislíffìina akkàamiyon naho chimaníisi hátchàalifìinan...
+ <i>However it is supposed to be, wherever the hospital was, just a little ways from there the poles were standing and the others, just about where the bunch of pines are standing, about where the gymnasium stands...</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-áɬɬi"></a>-áɬɬi</b> </font>
+&nbsp;1.&nbsp;
+ <i>(Modf)</i>
+<font size="+2">the exact, the exclusive, just, the mere, only, each, the particular</font>
+&nbsp;<i>suffix on pronouns, including demonstratives ya, ma, ka, sa, akka and nouns, with the particular meaning determined by what it is suffixed to</i>
+&nbsp;<font face="Arial">«</font>Akk<b><i>áɬɬii</i></b>ya intoliino pontoonichitok onáamilahotik nàasi nàasooli aa ii sikooli mok pontóonochihchómmok toknaawóotik íksooma poɬaalíibíikakha míntamon.
+ <i>That's the job they were going to make us keep working on all the time, something, the IEC(W) was making us work and when there was no money, they would lay some of us off from the job.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tayyim<b><i>áɬɬ</i></b>ok chokóotok obáalóot maatachakkitook nákson oswìikatóot ómmin.
+ <i>The wife was the only one staying behind and then she followed him wherever he had gone to stay.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>M<b><i>áɬɬíi</i></b>ya istoiⁿlikitkáabíikakha.
+ <i>That's when they all started fussing at him.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+ <i>(Modl)</i>
+<font size="+2">only, exactly, every; alone</font>
+&nbsp;<i>suffix on verbs and predicate nominals indicating modality 2ila Anaas<b><i>áɬɬi</i></b></i>
+ <i>It's mine alone.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>An<b><i>áɬɬi</i></b>.
+ <i>I'm by myself.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Finsiyaas<b><i>áɬɬi</i></b>.
+ <i>It's Vincent's alone.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nihtalostóklohch<b><i>áɬɬ</i></b>on amaltobahchi.
+ <i>I get paid every two weeks.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="<as>"></a>&lt;as&gt;</b> </font>
+ <i>(Pron)</i>
+<font size="+2">you</font>
+&nbsp;<i>second person plural (control) Subject verb infix for stems of shape...VV-ka or VC-ka</i>
+ [<i>three active verbs ending in /ki/ or /ko/ follow this pattern as well, replacing the final /kV/ with /ka/ on analogy with the hundreds of active verbs ending in the suffix -ka</i>]
+ <i>Var: &lt;has&gt; after sonorants and /k/</i>
+&nbsp;<font face="Arial">«</font>Haɬapka &gt; haɬap<b><i>as</i></b>ka (/haɬap&lt;as&gt;ka/).
+ <i>Kick &gt; y'all kick.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Achakki &gt; achak<b><i>has</i></b>ka (/achak&lt;has&gt;ka/).
+ <i>Go with &gt; y'all go with.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-aski"></a>-aski</b> </font>
+ <i>(Coll)</i>
+&nbsp;<i>verb stem suffix specifying collective plural</i>
+&nbsp;<font face="Arial">«</font>...ahachàahil<b><i>aski</i></b>sta ahachàahil<b><i>aski</i></b>ton...
+ <i>...we used to charge it, we would charge it...</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+<center><font size="+4">B</font></center><br>
+<br><font size="+2"><b><a name="-ba"></a>-ba</b> </font>
+ <i>(Imp)</i>
+&nbsp;<i>verb suffix indicating polite (?) request</i>
+&nbsp;<font face="Arial">«</font>Mooliya stonáamòosin istitaɬopotli<b><i>ba</i></b> samíhchit talbòochihchootoomok onáamòosin máskat oopóofkat istaɬopotliha<b><i>ba</i></b> ostanoochimok oopofkat...
+ <i>Then just go through with the process, however you make the medicine, even the blowing, go on through with it until you finish blowing.</i> <font size="0">(PMM)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mooliya naho onaamíhchit nahoba óstaalìichit akkamíhchiha<b><i>ba</i></b> yok intalwaayok nàahon námpohchooliimon.
+ <i>Then, uh, do it all, like it was, all of it, make it four, do it that way, have the chant with it, however many it is do it all.</i> <font size="0">(PMM)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Himáakaya naho history-káhchon ɬóokat aⁿfatliha<b><i>ba</i></b>.
+ <i>Now then tell me again about the history.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`áhhichataskaya ishohachiⁿfaytohata. Hasnok ommoolo. Oshichatokáha<b><i>ba</i></b>.'
+ <i>`They appointed y'all to watch over it. Y'all are the ones. You are the ones to go see about it.'</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Councilka lokoolíffìinamón aⁿfatlok istaɬɬa<b><i>ba</i></b>.
+ <i>So start with the election of the Council and go on telling me from there.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sobáychiimok akkáamiyan aⁿfatli<b><i>ba</i></b>.
+ <i>If you know about it, that's the kind of thing I want you to tell me.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Iyyitika<b><i>bá</i></b>?
+ <i>Will you translate?</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-báana"></a>-báana</b> </font>
+ <i>(Asp)</i>
+<font size="+2">already</font>
+&nbsp;<i>verb suffix indicating perfective event</i>
+ <i>Var: -bán (before apocopating suffixes in fast speech)</i>
+&nbsp;<font face="Arial">«</font>...chokfik chóotli<b><i>báana</i></b>n talikáɬɬon chakoffit chaafiháhpakon alwáhlin alwahlit...
+ <i>...but the rabbit had already jumped off the rock and he just chopped the rock and broke the ax.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Okik ɬopotloosi<b><i>báana</i></b>t anookaama, mok yámmimok ómmin.
+ <i>When the liquid finishes going through all of it already then it will be ready to be treated.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Eh, `istíisi<b><i>báana</i></b>t mok istíisimootoolo' hokat `mikkomootoolo' homankat `ponchokóⁿhchonko', chintaata.
+ <i>Yes, `that one, he had already gotten it, so now he already has it,' they said, `he is the chief', they said, `he's sitting for us (in office)', your father.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mafòokaya poskooha sáwwa akkàamiya ayákhatíkkohchon ommin hótchòoba<b><i>báana</i></b>t maastìisan hìichalikha.
+ <i>At that time little children could not go near things like that and I saw the ones already grown attending off at a distance.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-bíika"></a>-bíika</b> </font>
+ <i>(Asp)</i>
+&nbsp;<i>verb suffix indicating repetitive action</i>
+&nbsp; [recent auxiliary which optionally retains auxiliary inflection of a verb with a final -kV; negative -biíkko] 
+&nbsp;<font face="Arial">«</font>∥akon aatik istàayaton nitakok ìisok istilitahkat hicháa<b><i>bíika</i></b>toha.
+ <i>The man carried an arrow which the bear took and kept stabbing himself with it to try it out.</i> <font size="0">(MBF2)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Yáhmòosiyáalo ìibilákkobi' mankáa<b><i>bíika</i></b>toha.
+ <i>`A l'il ole thing like this couldn't kill me', he kept on saying.</i> <font size="0">(MBF2)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...imiisafaakon oɬaa<b><i>bíik</i></b>ok ìisat óyhaayok aati nàasi istalaami akkáamiyok...
+ <i>...they kept coming to her house, they were all there, people, and animals like that...</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-bíino"></a>-bíino</b> </font>
+ <i>(Cntrst)</i>
+<font size="+2">even though, despite</font>
+ <i>Var: -bín (before apocopating suffixes) (?)</i>
+&nbsp;<font face="Arial">«</font>óhochayon istíisat námpo<b><i>bíino</i></b>k stíisastóobakha, óhchaamon.
+ <i>They did it for a long while, even though there would be several of them, it would take a long time, long ago.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máhmi<b><i>bín</i></b>toolo yók mafòokama.
+ <i>I imagine they did that then.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+<center><font size="+4">C</font></center><br>
+<br><font size="+2"><b><a name="cha-"></a>cha-</b> </font>
+ <i>(Pron)</i>
+<font size="+2">I, me</font>
+&nbsp;<i>first person singular (noncontrol) subject/object verb prefix</i>
+ <i>Var: a- before the dative prefix im-</i>
+&nbsp;<font face="Arial">«</font><b><i>cha</i></b>tammo.
+ <i>I fell.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="chi-"></a>chi-</b> </font>
+ <i>(Pron)</i>
+<font size="+2">you</font>
+&nbsp;<i>second person singular (noncontrol) subject/object verb prefix</i>
+&nbsp;<font face="Arial">«</font><b><i>chi</i></b>tammo.
+ <i>You fell.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="<chi>"></a>&lt;chi&gt;</b> </font>
+ <i>(Pron)</i>
+<font size="+2">you</font>
+&nbsp;<i>second person singular (control) subject verb infix for stems of shape...VCCV</i>
+ [<i>roots ending in /yV/ or /hV/ that would be expected to take &lt;s&gt; or -chi follow this pattern</i>]
+&nbsp;<font face="Arial">«</font>Ta<b><i>chi</i></b>lwo.
+ <i>You sang.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>àaya &gt; a<b><i>chìi</i></b>ya.
+ <i>Go around &gt; you go around.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-chi1"></a>-chi</b><sup>1</sup> </font>
+ <i>(Cs)</i>
+&nbsp;<i>verb suffix that derives causative stems or increases transitivity</i>
+ [<i>the vowel before -chi<sup>1</sup> lenghtens if the penultimate syllable of the stem is light (CV)</i>]
+&nbsp;<font face="Arial">«</font>Albina &gt; albinaa<b><i>chi</i></b>.
+ <i>Camp &gt; to make camp.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Naaɬiika &gt; naaɬiili<b><i>chi</i></b>.
+ <i>To talk &gt; to talk about.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-chi2"></a>-chi</b><sup>2</sup> </font>
+ <i>(Repet)</i>
+&nbsp;<i>(marginally productive) verb suffix that indicates inherently repetitive activities (such as repetitive noises or communicative events) and redundantly marks stems already marked for plurality</i>
+&nbsp;<font face="Arial">«</font>Wininihli<b><i>chi</i></b>.
+ <i>To rumble.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Wotòoli<b><i>chi</i></b>.
+ <i>To crunch with the teeth.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Wisisihli<b><i>chi</i></b>.
+ <i>To shake, quiver, tremble.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Achitìili &gt; achitli &gt; istachitli<b><i>chi</i></b>.
+ <i>To tie (SgObj) &gt; to tie (PlObj) &gt; to button up.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-chi3"></a>-chi</b><sup>3</sup> </font>
+ <i>(Pron)</i>
+<font size="+2">you</font>
+&nbsp;<i>second person singular (control) subject verb suffix for verbs of stem shape...VV] or...VC] or...VCV</i>
+&nbsp;<font face="Arial">«</font>Bat<b><i>chi</i></b>ti.
+ <i>You whipped him.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Walii<b><i>chi</i></b>chiti.
+ <i>You drove it.</i><font face="Arial">»</font>
+<center><font size="+4">F</font></center><br>
+<br><font size="+2"><b><a name="-fa"></a>-fa</b> </font>
+ <i>(NLoc)</i>
+<font size="+2">at, to; (the place) where</font>
+&nbsp;<i>suffix on nouns (usually followed by -n) and verbs of complement clauses indicating general location for an action</i>
+&nbsp;<font face="Arial">«</font>Ya nàahot tállàaka<b><i>faa</i></b>kon akkon maachotlit ostámmistobatoomóskat...
+ <i>It was there where they had put that down, that's where he usually goes to jump down from...</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...iⁿwwiilit nákson ooɬopóttoo<b><i>fa</i></b>n iⁿwwiilistóoⁿbat sánkot ikhíichok taɬɬon ooɬopóⁿtlok wiilistóobàapok lapaat wiilistòobàapok ikhìichok.
+ <i>It was looking for where he had crossed the water and it kept looking and couldn't find out how and it crossed to the other side and looked and looked up and down the bank but it couldn't find it (the crossing).</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Stachitìilok iyánnimók yaafon achíttìikon yaafa achíttìikat ittofalaktok lókkòostaskan yaa<b><i>faa</i></b>mok ostachitìilok yamíhchimon.
+ <i>Tie it down at the bottom all the way down here, it is tied down here, tie it all around those two forked sticks standing there, go and tie it, do it this way.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-fíhna"></a>-fíhna</b> </font>
+ <i>(Adv)</i>
+<font size="+2">exactly, right, very, really; too</font>
+&nbsp;<i>verb suffix indicating intensity, exactness or excessiveness of an event</i>
+&nbsp; [in ggr indicates `just about'] 
+ <i>Var: -fíina</i>
+ <i>Var: -fíh- before apocopating suffixes</i>
+ {from the verb ?fíhna}
+&nbsp;<font face="Arial">«</font>Hasi istitachókkoolìichikon stayakhaachistòobat stayakhaachistòobat stayakhaachi<b><i>fíina</i></b>t anoomon.
+ <i>The sun was sitting there in it on the ground and he kept getting nearer and nearer until he was right up to it.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Taɬa<b><i>fíin</i></b>aimok ittok mootonkata ittofalakto yáamòosikáhchon ɬóokat lokoolìichok.
+ <i>Right when she's ready to weave, she'd stand it up, usually a piece of wood, a forked stick about so big.</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Eh, hotchatok iⁿhoopachihchóot máamin akkáamiima ilapalaastáskat naho ifakáhchóotík iⁿhoopachit akkahchóot aatiyoolin iⁿhoopachi<b><i>fíh</i></b>tíkkot ifaya ibihchootoolimpahchooti.
+ <i>Yes, if they shoot him (the bear) and wound him, then if they do that then he gets mad, and then sometimes hurts the dogs, but he never hurts the people, but they used to always kill the dogs.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-fòoka"></a>-fòoka</b> </font>
+ <i>(Temp)</i>
+<font size="+2">when, while</font>
+&nbsp;<i>verb suffix marking a background clause as immediately preceding or overlapping with the action of the foregrounded clause</i>
+&nbsp; [prob. -fa-o<sup>3</sup>-ka<sup>2</sup>] 
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Tikbakon maastimaapitta<b><i>fòok</i></b>on nàasikok maatassalìikok ontiyok abáskiyàalon ìilok maachotlihchootohatáskat máafaakon.
+ <i>...when he took the fire and put it in the hole the thing came out and came toward them from up high there and went toward the place where he had been jumping.</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hotobiilachi<b><i>fòok</i></b>ok hotobiilachiton máafàamon kosibok hachàalitóok...
+ <i>When they had burned it, poke weed came up there where they had burned it...</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ila<b><i>fòoka</i></b>yok `nàason sanchíhchilak onchi' mankan.
+ <i>When he came there he said `what are you going to do?'</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>áachàason ohiⁿfayliton chókkòolit chokòolai<b><i>fòoka</i></b>yon ìisayon ibisnáalok ohintállok iisa ittihokfan ohintallin chókkòotok chókkostóobàapok.
+ <i>They let him live right outside, he was going to live there, they built him his own house, they built him a log cabin, and he lived there for a long time.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+<center><font size="+4">H</font></center><br>
+<br><font size="+2"><b><a name="-ha1"></a>-ha</b><sup>1</sup> </font>
+ <i>(NPl)</i>
+&nbsp;<i>plural noun suffix (usually refers to humans)</i>
+&nbsp;<font face="Arial">«</font>Máamin aatinaani<b><i>h</i></b>ok pokkon ohisiimon istittiɬoolihchootoolo, tayyi<b><i>ha</i></b>k istitayapkayyok.
+ <i>Then the men would get the ball and they would chase each other, especially the women would be trying to take it away.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kan nita ɬooli<b><i>ha</i></b> hoponnaya ohayákhatíkkotoolo.
+ <i>Then the ones that know how to chase bears would never get near them.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-ha2"></a>-ha</b><sup>2</sup> </font>
+ <i>(Imp)</i>
+&nbsp;<i>verb suffix usually indicating lack of immediacy expected in fulfilling the request; may also occur on verbs when reporting verbal coercion or fulfilled requests</i>
+&nbsp;<font face="Arial">«</font>`Ankánnahholòosi<b><i>ha</i></b> hachipaahachàalaalatoolo.'
+ <i>`Move a little away from me, I might step on you.'</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ilatokáa<b><i>ha</i></b>.
+ <i>Y'all come again.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasot aⁿfátli<b><i>ha</i></b>.
+ <i>Tell me something (in the future, e.g. over the phone).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Impoháalo<b><i>ha</i></b>.
+ <i>Listen for it.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kosòoma hissi okchákkohchon istamila<b><i>ha</i></b>?
+ <i>Would you bring me green onions (tomorrow)?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Intohnolaan atohnoli<b><i>háa</i></b>mon intohnobi.
+ <i>I kept on encouraging him to work and he did.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...aatin oⁿyyówwan aatitóklon ilapihlihamóot ommitoolo, ilapihlok Austinka pínhóot.
+ <i>...they called the tribe and picked two Indians, I guess they took them off to Austin.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ischilíitaliháamon onto.
+ <i>I kept on urging him to come and he came.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-ha3"></a>-ha</b><sup>3</sup> </font>
+ <i>(Deic)</i>
+&nbsp;<i>rare suffix on demonstrative roots referring to a previously mentioned participant</i>
+&nbsp;<font face="Arial">«</font>Maha.
+ <i>That one.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nákson ittocháhha ma<b><i>ha</i></b> hátchàalooli?
+ <i>Where is that tallest tree (that you heard about) standing?</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="hachi-"></a>hachi-</b> </font>
+ <i>(Pron)</i>
+<font size="+2">you, y'all</font>
+&nbsp;<i>second person plural (noncontrol) subject/object verb prefix</i>
+&nbsp;<font face="Arial">«</font><b><i>hachi</i></b>tammo.
+ <i>Y'all fell.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="<hachi>"></a>&lt;hachi&gt;</b> </font>
+ <i>(Pron)</i>
+<font size="+2">you, y'all</font>
+&nbsp;<i>second person plural (control) subject verb infix for verbs of stem shape...VCCV</i>
+ [<i>roots ending in /yV/ or /hV/ that would be expected to take &lt;has&gt; or -hachi follow this pattern</i>]
+&nbsp;<font face="Arial">«</font>Ta<b><i>hachi</i></b>lwo.
+ <i>Y'all sang.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>àaya &gt; a<b><i>achìi</i></b>ya.
+ <i>Go around &gt; y'all go around.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-hachi"></a>-hachi</b> </font>
+ <i>(Pron)</i>
+<font size="+2">you, y'all</font>
+&nbsp;<i>second person plural (control) subject verb suffix for verbs of stem shape...VV] or...VC] or...VCV</i>
+&nbsp;<font face="Arial">«</font>Bat<b><i>hachi</i></b>ti.
+ <i>Y'all whipped him.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Walii<b><i>hachi</i></b>chiti.
+ <i>Y'all drove them.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="has-"></a>has-</b> </font>
+ <i>(Pron)</i>
+<font size="+2">you, y'all</font>
+&nbsp;<i>second person plural (control) subject verb prefix for verbs of stem shape CV]</i>
+ [<i>three irregular verbs (haalo, hicha, nochi) follow this pattern</i>]
+&nbsp;<font face="Arial">«</font><b><i>has</i></b>pati.
+ <i>Y'all ate it.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="<has>"></a>&lt;has&gt;</b> </font>
+ <i>(Pron)</i>
+<font size="+2">you, y'all</font>
+&nbsp;<i>second person plural (control) subject verb infix for verbs of stem shape...VVCV</i>
+&nbsp;<font face="Arial">«</font>Choo<b><i>has</i></b>pa or cho<b><i>as</i></b>pa.
+ <i>Y'all buy.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-hchi"></a>-hchi</b> </font>
+ <i>(Asp)</i>
+&nbsp;<i>verb suffix indicating unbounded action or state, either progressive, habitual, general/universal, or noninstantiated (i.e. gerundives)</i>
+&nbsp; [causes apocopation of certain suffixes] 
+ <i>Var: -s or -si, frequently after -osi or -chi</i>
+&nbsp;<font face="Arial">«</font>Hoka<b><i>hch</i></b>ootoolimpakha.
+ <i>And that's what they always used to say.</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Himàakaya talkoosak halokpa<b><i>hch</i></b>oolaaho.
+ <i>The knife is going to be sharp from now on.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhmit chókkoo<b><i>hch</i></b>on onkatonka hayoyon àalok maatakinítkok híichalak.
+ <i>Crane wondered what he was doing sitting inside there so he peered in to see.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Talwaliiyok ischinkáhnoli<b><i>hchi</i></b>.
+ <i>I sing better than you.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ehe, taɬa<b><i>hchi</i></b>, somo taɬa<b><i>hchi</i></b>.
+ <i>Yes, weaving, moss weaving.</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasok íksofòokon íksokáamin assaliika<b><i>hchíi</i></b>saamon.
+ <i>When they didn't see anything happening one would apparently go out.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akká<b><i>hch</i></b>ókkota ommitoolo.
+ <i>...but then it was not like that.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Holiibaya kànko<b><i>hchi</i></b>.
+ <i>Stealing is wrong.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Russell-kaya chaaha<b><i>hchi</i></b>.
+ <i>Russell is tall.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="hi-"></a>hi-</b> </font>
+ <i>(Adv)</i>
+&nbsp;<i>(nonproductive) verb prefix which forms temporal expressions, indicating the number of times event occurs</i>
+&nbsp;<font face="Arial">«</font><b><i>hi</i></b>tokla.
+ <i>Twice.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="hii-"></a>hii-</b> </font>
+ <i>(Pron)</i>
+<font size="+2">me</font>
+&nbsp;<i>very rare verb prefix that seems to focus attention emphatically on the speaker and the speaker's opinion</i>
+ <i>Var: hi-</i>
+&nbsp;<font face="Arial">«</font><b><i>Hii</i></b>yaakáalo <b><i>hi</i></b>nochilao.
+ <i>As for me I'm going to sleep.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasok <b><i>hii</i></b>ⁿhoopáachilákkàaba.
+ <i>This thing couldn't hurt me.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Nàasok <b><i>hí</i></b>ibilákkàabaa' mankahchóot òmmok áffalìichoostóot ommoolo.
+ <i>`This thing doesn't look like it could kill me,' he may have said, making fun of it.</i> <font size="0">(MBF1)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-hili"></a>-hili</b> </font>
+ <i>(Pron)</i>
+<font size="+2">we</font>
+&nbsp;<i>first person plural (control) subject verb suffix for stems of shape...VC] or...VV] or...VCV</i>
+&nbsp;<font face="Arial">«</font>Bat<b><i>hili</i></b>ti.
+ <i>We beat him.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="ho-"></a>ho-</b> </font>
+ <i>(Dist)</i>
+&nbsp;<i>verb prefix for third person distributive plural subject or third person indefinite subject</i>
+ <i>Var: oh- before a vowel</i>
+&nbsp;<font face="Arial">«</font><b><i>Ho</i></b>kahchootoolimpakha.
+ <i>And that's what they always used to say.</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-holi"></a>-holi</b> </font>
+ <i>(PlImp)</i>
+&nbsp;<i>suffix on verbs with the shape...CVV-li, CVC-li,...VCV]</i>
+&nbsp;<font face="Arial">«</font>`Ankánnah<b><i>hol</i></b>òosiha hachipaahachàalaalatoolo.'
+ <i>`Move a little away from me, I might step on you all.'</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+<center><font size="+4">I</font></center><br>
+<br><font size="+2"><b><a name="ibaa-"></a>ibaa-</b> </font>
+ <i>(Comit)</i>
+&nbsp;<i>verb suffix indicating the addition of an object which accompanies subject in performance of event</i>
+<font size="+2">with</font>
+ <i>Var: ibaay- before vowels</i>
+&nbsp;<font face="Arial">«</font>Unh, naho tatkóot ilabíikat aatapihómmaya aatoh<b><i>ibaa</i></b>hompanitíkkohchootoska?
+ <i>Also, did the whites ever come over to play with them?</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Aatinaanihayon tayyihayon ohitt<b><i>ibaay</i></b>oompahchootoska?
+ <i>Did the men and women eat together?</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Eh, ohitt<b><i>ibaay</i></b>oompatoolo, óyhat itt<b><i>ibaa</i></b>tòolistaskaton.
+ <i>Yes, they ate with each other because they all played together.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="ibii-"></a>ibii-</b> </font>
+ <i>(Loc)</i>
+&nbsp;<i>verb prefix indicating location of event on the face or otherwise action pertaining to the face</i>
+ <i>Var: ibiiy- before vowels</i>
+&nbsp;<font face="Arial">«</font>Homma &gt; <b><i>ibii</i></b>homma.
+ <i>To be red &gt; to blush.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="ichoo-"></a>ichoo-</b> </font>
+ <i>(Loc)</i>
+&nbsp;<i>verb prefix indicating location of event on or in the mouth or otherwise action pertaining to the mouth, or by metaphorical extension the rim of an opening</i>
+ <i>Var: ichooy- before vowels</i>
+&nbsp;<font face="Arial">«</font>Homi &gt; <b><i>ichoo</i></b>homma.
+ <i>To be bitter &gt; to have a bitter taste in the mouth.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Homma &gt; il<b><i>ichoo</i></b>hommachi.
+ <i>To be red &gt; to apply lipstick.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="ik-"></a>ik-</b> </font>
+ <i>(Neg)</i>
+&nbsp;<i>verb prefix forming negative stems from roots of the shape CV</i>
+ [<i>three irregular verbs (haalo, hicha, nochi) follow this pattern</i>]
+&nbsp;<font face="Arial">«</font>Ipa &gt; <b><i>ìk</i></b>po (/ik-pa-o<sup>2</sup>/).
+ <i>Eat &gt; not eat.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="<ik>"></a>&lt;ik&gt;</b> </font>
+ <i>(Neg)</i>
+&nbsp;<i>verb infix forming negative stems from roots of the shape...VV-kV or...VC-kV</i>
+ <i>Var: &lt;hik&gt; after sonorants and /k/</i>
+&nbsp;<font face="Arial">«</font>Achakki &gt; achak<b><i>hík</i></b>ko (/achak&lt;hik&gt;ki-o<sup>2</sup>.
+ <i>Go with &gt; not go with.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kowaɬka &gt; kowaɬ<b><i>ík</i></b>ko.
+ <i>Broken &gt; not broken.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="il1-"></a>il-</b><sup>1</sup> </font>
+ <i>(Pron)</i>
+<font size="+2">we</font>
+&nbsp;<i>first person plural (control) subject verb prefix for stems of shape CV</i>
+ [<i>three irregular verbs (haalo, hicha, nochi) follow this pattern</i>]
+&nbsp;<font face="Arial">«</font>Ipa &gt; <b><i>il</i></b>pa (/il<sup>1</sup>-(i)pa/).
+ <i>Eat &gt; we eat.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="il2-"></a>il-</b><sup>2</sup> </font>
+ <i>(Nom/Mid)</i>
+&nbsp;<i>verb prefix deriving object or action nominals or marking a verb with root shape CV as passive middle</i>
+ [<i>three irregular verbs (haalo, hicha, nochi) follow this pattern</i>]
+&nbsp;<font face="Arial">«</font>Ipa &gt; <b><i>il</i></b>pa.
+ <i>To eat &gt; be eaten, food.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="<il1>"></a>&lt;il&gt;</b><sup>1</sup> </font>
+ <i>(Pron)</i>
+<font size="+2">we</font>
+&nbsp;<i>first person plural (control) subject verb infix for stems of shape...VV-ka or VC-ka</i>
+ [<i>three active verbs ending in /ki/ or /ko/ follow this pattern as well, replacing the final /kV/ with /ka/ on analogy with the hundreds of active verbs ending in the suffix -ka</i>]
+ <i>Var: &lt;hil<sup>1</sup>&gt; after sonorants and /k/</i>
+&nbsp;<font face="Arial">«</font>Haɬapka &gt; haɬap<b><i>il</i></b>ka (/haɬap&lt;il<sup>1</sup>&gt;ka/).
+ <i>Kick &gt; we kick.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Achakki &gt; achak<b><i>hil</i></b>ka (/achak&lt;hil&gt;ka/).
+ <i>Go with &gt; we go with.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="<il2>"></a>&lt;il&gt;</b><sup>2</sup> </font>
+ <i>(Nom/Mid)</i>
+&nbsp;<i>verb infix deriving object or action nominals or passive middles for stems of the shape...VV-ka or...VC-ka</i>
+ [<i>three active verbs ending in /ki/ or /ko/ follow this pattern as well, replacing the final /kV/ with /ka/ on analogy with the hundreds of active verbs ending in the suffix -ka</i>]
+ <i>Var: &lt;hil<sup>1</sup>&gt; after sonorants and /k/</i>
+&nbsp;<font face="Arial">«</font>Naaɬiika &gt; naaɬi<b><i>il</i></b>ka.
+ <i>To talk &gt; language, speech, news, message, report, etc.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Haɬapka &gt; haɬap<b><i>il</i></b>ka.
+ <i>To kick &gt; kicking, be kicked.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="ili-"></a>ili-</b> </font>
+ <i>(Refl)</i>
+<font size="+2">oneself</font>
+&nbsp;<i>verb prefix indicating action performed by, as well as directly affecting the agent</i>
+ <i>Var: ilii-</i>
+&nbsp;<font face="Arial">«</font>Ibi &gt; <b><i>ili</i></b>bi.
+ <i>To kill &gt; to commit suicide.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="ilt-"></a>ilt-</b> </font>
+ <i>(Dir)</i>
+<font size="+2">come and</font>
+&nbsp;<i>verb prefix indicating cislocative</i>
+ <i>Var: il- before consonants</i>
+&nbsp; [prob. from /ila-t] 
+&nbsp;<font face="Arial">«</font>Wíhlit wíhlit <b><i>il</i></b>soofitoomon...
+ <i>One would look and look for it (the moss), bring it back, and put it down.</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máaffìinamon akkok Tenneykahchok mok aɬíinamok àayat yáaliiyon ìilok ya aatin aat<b><i>ilt</i></b>imbalaakatok.
+ <i>About that time then the one called Tenney came around here, came here where the Indians lived and he slept over with them.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="im-"></a>im-</b> </font>
+ <i>(Dat)</i>
+&nbsp;<i>applicative verb prefix indicating a nonaffected object such as recipients, goals, benefactive/malefactive, possessors of affected objects</i>
+ <i>Var: assimilates to following consonants with variants in-, iⁿ-, il-, iw-, iy, and [ing-]; initial [i] is replaced by a preceding vowel</i>
+&nbsp;<font face="Arial">«</font>Akkon ɬahlilikha mootoskan ɬahlilimókkohchommo chasakbak a<b><i>ⁿ</i></b>hoopasta.
+ <i>I did tan hides then but now I can't tan hide anymore because my arms ache.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Sáhmin ommitonkan hohachi<b><i>n</i></b>naaɬiikaimpati' homankaton.
+ <i>They said, `I don't know why but they want to talk to y'all'.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="is-"></a>is-</b> </font>
+ <i>(Pron)</i>
+<font size="+2">you</font>
+&nbsp;<i>second person singular (control) subject verb prefix for roots of shape CV]</i>
+ [<i>three irregular verbs (haalo, hicha, nochi) follow this pattern</i>]
+&nbsp;<font face="Arial">«</font>Ispati.
+ <i>You ate it.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="<is>"></a>&lt;is&gt;</b> </font>
+ <i>(Pron)</i>
+<font size="+2">you</font>
+&nbsp;<i>second person singular (control) subject verb infix for stems of shape...VV-ka or VC-ka</i>
+ [<i>three active verbs ending in /ki/ or /ko/ follow this pattern as well, replacing the final /kV/ with /ka/ on analogy with the hundreds of active verbs ending in the suffix -ka</i>]
+ <i>Var: &lt;his&gt; after sonorants and /k/</i>
+&nbsp;<font face="Arial">«</font>Haɬapka &gt; haɬap<b><i>is</i></b>ka (/haɬap&lt;is&gt;ka/).
+ <i>Kick &gt; you kick.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Achakki &gt; achak<b><i>his</i></b>ka (/achak&lt;his&gt;ka/).
+ <i>Go with &gt; you go with.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="ist-"></a>ist-</b> </font>
+ <i>(Peri)</i>
+&nbsp;<i>applicative verb prefix, to add or imply a peripheral object (including propositions) of the verb, such as an implement, or a container in which the direct object is located; derives nouns for tools and implements; irregularly derives causative stems for a few (lexically marked) verbs</i>
+ <i>Var: is- before consonants</i>
+ <i>Var: s- before consonants, fast speech</i>
+&nbsp;<font face="Arial">«</font>Ilokfan aayampon <b><i>ist</i></b>immayyan <b><i>is</i></b>choopalo.
+ <i>I sold the shirts for more than the pots.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`...sokchan hóokfak paanifan ost<b><i>ist</i></b>achoomaachi' mankan.
+ <i>`...put me in a sack and throw me in the creek', he said.</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máamòosin sokchon hokfit <b><i>ist</i></b>ilatakàalok <b><i>ist</i></b>áɬɬatók paanifan <b><i>ist</i></b>aɬíinatòolin.
+ <i>Then he put him in the bag and hung it (over his back) and he was on his way with it to the creek.</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máamin aatinaanihok pokkon ohisiimon <b><i>ist</i></b>ittiɬoolihchootoolo, tayyihak <b><i>ist</i></b>itayapkayyok.
+ <i>Then the men would get the ball and they would chase each other, especially the women would be trying to take it away.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Dorcaskak talwalahon <b><i>is</i></b>chabanno.
+ <i>I want Dorcas to sing.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Afinapli &gt; <b><i>ist</i></b>afinapka.
+ <i>To open &gt; key.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="ita-"></a>ita-</b> </font>
+ <i>(Loc)</i>
+&nbsp;<i>verb derivational prefix indicating action performed on the ground or by a fire</i>
+ <i>Var: itay- before vowels</i>
+&nbsp;<font face="Arial">«</font>Ist<b><i>ita</i></b>hachàalit sobilak innàahooma sobilon okcholotlìichok okchotlichit istállàalit ooyaapittahchommihchoolikha.
+ <i>As it is sitting there on the fire, if the person has any lye, she strains and strains it, and has it set out there and would always put it in.</i> <font size="0">(PSF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkon iisan áɬkat homaɬatliista sáhkofòokayok askahíkkostáskat iisahayomáalotik oh<b><i>ita</i></b>hoppolat anoostoolo.
+ <i>They were inside the house and were very afraid so they couldn't do anything and couldn't get out and were in there for a long time, so they had to defecate apparently.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="itta-"></a>itta-</b> </font>
+ <i>(Loc)</i>
+&nbsp;<i>verb prefix indicating action occurring between two objects</i>
+&nbsp; [prob. itti-a-] 
+&nbsp;<font face="Arial">«</font>Máamok kapachiyókkoti pokko nahoⁿ, unh, nàasok poɬachíiyok istimoɬachi ittok hobáskihchok tóklot lókkòolin pokkon ist<b><i>itta</i></b>ɬopotliimáaɬok istibihchootoolo. [nhn].
+ <i>I don't mean the racquet now, the ball, something, the poɬachi, they would take it, the one with the ball goes through those two long poles standing upright and that's how they win.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="itti-"></a>itti-</b> </font>
+ <i>(Recp)</i>
+<font size="+2">each other</font>
+&nbsp;<i>verb prefix indicating action performed reciprocally by more than one agent</i>
+&nbsp;<font face="Arial">«</font>Balkaamáɬɬok <b><i>itti</i></b>ⁿfatliimok hàalot balkatáaton ostistanòolok `moolo' mankamok `tof tof tof tof tof' homankahchi.
+ <i>They would lie down and tell them to each other and they would lie there listening until the person had finished and said `That's all' and then they would say (spitting) `ptui ptui'.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máamin aatinaanihok pokkon ohisiimon ist<b><i>itti</i></b>ɬoolihchootoolo, tayyihak istitayapkayyok.
+ <i>Then the men would get the ball and they would chase each other, especially the women would be trying to take it away.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+<center><font size="+4">K</font></center><br>
+<br><font size="+2"><b><a name="-k"></a>-k</b> </font>
+ <i>(Disc)</i>
+&nbsp;<i>suffix occurring on nouns indicating a more central relationship to the proposition and on nonmain clause verbs indicating various discourse functions including identity of referent in a switch reference system</i>
+&nbsp;<font face="Arial">«</font>Iishayootik ìisat Chahtako<b><i>k</i></b> ìisat ìisaton ìisatok nihtafíinat anóokan...
+ <i>But the Choctaws were holed up inside a house and stayed and stayed and the Alabamas were still there when daylight came.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hátchaalàapo<b><i>k</i></b> lokbahchommiima, solotkaskanóhchoolikha.
+ <i>If it stands for a little while and it's hot and sunny then it dries easily.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkamíhchit kanochistóobasáaⁿpo<b><i>k</i></b> líiphat líiphat anookat, solotkat anookáama.
+ <i>One does that for a long time real carefully then it's finished curing when it's finished drying.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-ka1"></a>-ka</b><sup>1</sup> </font>
+ <i>(Nom/Mid)</i>
+&nbsp;<i>verb suffix deriving object or action nominals or passive middle verbs or marking inherently middle verbs</i>
+&nbsp;<font face="Arial">«</font>Batli &gt; batka &gt; isbat<b><i>ka</i></b>.
+ <i>To whip &gt; whipping/ to be whipped &gt; whip, club, bat.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-ka2"></a>-ka</b><sup>2</sup> </font>
+ <i>(Deic)</i>
+&nbsp;<i>noun suffix indicating the discourse status of proximal, known, prior mention; suffix on nonmain clauses indicating known information, reintroduced in the discourse</i>
+&nbsp; [lengthens preceding vowel of verb stems] 
+&nbsp; [prob. from /akka] 
+&nbsp;<font face="Arial">«</font>Mootok ómmok oɬafòokan tayyihakon ohiⁿfaylitáskan tayyiha<b><i>k</i></b>on aatapoɬóokàasit illitoha, homankahchoolimpakha.
+ <i>Then, at that time, since he had returned, they let him have the two women, and so he had just gone to bed with them when he died, so they always used to say.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máamòosin aati<b><i>k</i></b>ok nita ibahimok aɬɬatoha.
+ <i>And so the man went to kill the bear.</i> <font size="0">(MBF1)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ittohíisliiyon ittochakáawa<b><i>ka</i></b>t híisliiyon iskasóolichit yamíichit yamíichit kayohlichit.
+ <i>Some trees standing there, the rough gnarly trees standing there, you rub against them, do this way, this way rub it back and forth.</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chahtahaa<b><i>k</i></b>ok náasooton imakanoochii<b><i>ka</i></b>t stíisafòokan híichatáskat `amaahilkaski!' homankok.
+ <i>Since they noticed that the Choctaws seem to be fixing something they said `Let's go!'.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Naaɬiika chiⁿfatlilii<b><i>k</i></b>ok istammáaloolisti.
+ <i>That report I made to you, I guess I was right about.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>óhchaa<b><i>k</i></b>o.
+ <i>Long ago.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-ka3"></a>-ka</b><sup>3</sup> </font>
+ <i>(Frgn)</i>
+&nbsp;<i>noun suffix on foreign loans that end in consonants, or stressed long vowels, or are one syllable</i>
+ [<i>suffix does not take regular word-final accent</i>]
+&nbsp;<font face="Arial">«</font>Sue<b><i>ka</i></b>.
+ <i>Sue.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Austin<b><i>ka</i></b>.
+ <i>Austin.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mobìl<b><i>ka</i></b>.
+ <i>(auto)mobile.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Marie<b><i>ka</i></b>.
+ <i>Marie.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-káhmi"></a>-káhmi</b> </font>
+&nbsp;1.&nbsp;
+ <i>(Adv)</i>
+<font size="+2">sort of, kind of, like that, as if, just about, mainly</font>
+&nbsp;<i>verb suffix modulating the effect of the verb</i>
+&nbsp; [prob. from /akkáhmi] 
+ <i>Var: -káami</i>
+ <i>Var: -ká, -káⁿ before apocopating suffixes</i>
+&nbsp;<font face="Arial">«</font>Ooyíisok itton yamíhchit hachaalìichok intiilichii<b><i>ká</i></b>t nàahok isɬahkamok nàahohchoolikha.
+ <i>Then they'd take it out of the water and this is the way they would stand up a stick and brace it and then they would have available a tool we used for scraping.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Ischakostínko<b><i>ká</i></b>hchooti bitliliimok' mankaabíika.
+ <i>`I always act crazy when I dance', he kept saying.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chichoba paapatliyáɬɬok ommin. Akkamiyáɬɬon híichalihchoolikha. Chichoba hopaapatli<b><i>káhmi</i></b>yáɬɬon.
+ <i>They only put it on the horse, that's all I ever saw. They used to mainly put it on the horse.</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mooliiya akkok stanóokamoolii<b><i>káami</i></b>?
+ <i>Well then do you think that's just about the end of the story?</i> <font size="0">(PSF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkon istíikba<b><i>káhmi</i></b>n nàahok ma ichossaakakon oohokfit yamíichit sannichit mìnton yamít sannichit...
+ <i>While it is still kind of warm then get that skin and put it in there, do it like this (twist it), wring it, and another one do like this twisting it.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Taɬafíinaimok ittok mootonkata ittofalakto yáamòosi<b><i>ká</i></b>hchon ɬóokat lokoolìichok.
+ <i>Right when she's ready to weave, she'd stand it up, usually a piece of wood, a forked stick about so big.</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ittohochobat sáhmi<b><i>káh</i></b>tik waakayóolit stamaakahchoolikha.
+ <i>It didn't matter how big the logs were they would lift it and go off.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mók ommi<b><i>ká</i></b>hchooti.
+ <i>I believe that is so.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+ <i>(Modf)</i>
+<font size="+2">for instance, for example, such as, and the like, in the manner of (a), like (a)</font>
+&nbsp;<i>on nouns indicates the noun is an exemplar</i>
+&nbsp;<font face="Arial">«</font>Nàason istitabititlìichit itto<b><i>ká</i></b>hchot istabititlìichit...
+ <i>They would weight it down with something, weight it down, for instance, with a piece of wood.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Itto ittofalaktoyon hopáhkit hayweykafayáami<b><i>káami</i></b>n hislichiyók istóoɬok.
+ <i>Some sticks, forked sticks, take them and stake them down as far away, for instance as the highway is (from the house).</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Míntamok stoochóotlit tayyiha<b><i>ká</i></b>hchootok hoyaabanniimoohchoolikha.
+ <i>Some others would always jump down in the water with it and carry it over their shoulders in the manner of women.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Eh, máamiimon naho chofkoni<b><i>káami</i></b>ya, hollo<b><i>ká</i></b>hchókkootoolo?
+ <i>Yeah, well then, those bones and the like, weren't they sort of taboo?</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Naaniyáhmi<b><i>ká</i></b>hchi.
+ <i>She can do anything a man can.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-kha"></a>-kha</b> </font>
+ <i>(RemPst)</i>
+&nbsp;<i>main clause verb suffix indicating remote past tense of personal experience</i>
+&nbsp;<font face="Arial">«</font>∥óok mìnton mìnton akkamíichit ohakkamíhchihchommihchooli<b><i>kha</i></b>.
+ <i>Again do another one, do another one like that and that's the way they always used to do it.</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàason samíhchit ishonaho alíilókkohchooli<b><i>kha</i></b>, akkamít anosliimon.
+ <i>We never did wonder about what they used it for when they finished making it.</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hohátchalìichin akkáamit solotkaamon íisok ishòochihchommihchooli<b><i>kha</i></b>, máamok.
+ <i>They would have it stnding there and that's the way it would get dried and then they would take it and use it to pound with.</i> <font size="0">(PSF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkon ɬahlili<b><i>kha</i></b> mootoskan ɬahlilimókkohchommo chasakbak aⁿhoopasta.
+ <i>I did tan hides then but now I can't tan hide anymore because my arms ache.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...stapakfóotkat chòobàasiiyan hotállahchooli<b><i>kha</i></b>.
+ <i>They used to go around it, setting out a big fence.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chapasáaloosifòokok wìikalihchooli<b><i>kha</i></b>.
+ <i>When I was a little bitty boy I used to live there.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-ki"></a>-ki</b> </font>
+ <i>(Neg)</i>
+&nbsp;<i>verb suffix forming negative stems from roots of the shape...C],...VV], or...VCV]</i>
+&nbsp; [final stem vowel of VCV] stems apocopates before -ki] 
+&nbsp;<font face="Arial">«</font>Batatli &gt; batàt<b><i>k</i></b>o (/batat-ki-o<sup>2</sup>/).
+ <i>Hit &gt; not hit.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Waliilichi &gt; walii<b><i>kìi</i></b>cho (/walii-kìi-chi-o<sup>2</sup>/).
+ <i>Drive &gt; not drive.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="<ki>"></a>&lt;ki&gt;</b> </font>
+ <i>(Neg)</i>
+&nbsp;<i>verb infix forming negative stems from stems of the shape...VCCV] or...VVCV]</i>
+&nbsp; [infixes after head of penultimate syllable and assumes the length of the vowel of the penultimate syllable] 
+&nbsp;<font face="Arial">«</font>Talwa &gt; ta<b><i>kì</i></b>lwo (/ta&lt;ki&gt;lwa-o<sup>2</sup>/).
+ <i>Sing &gt; not sing.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Choopa &gt; cho<b><i>kìi</i></b>po (/cho&lt;kii&gt;pa-o<sup>2</sup>/).
+ <i>Buy &gt; not buy.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-kítta"></a>-kítta</b> </font>
+ <i>(Modf)</i>
+<font size="+2">the late, the former</font>
+&nbsp;<i>noun suffix which often marks references to deceased individuals in historical narratives</i>
+&nbsp;<font face="Arial">«</font>Willy Holda<b><i>kítt</i></b>ok wìikatáskan...
+ <i>The late Willy Holder was living then.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yostifa<b><i>kítt</i></b>on kanahhilitoha.
+ <i>We moved away from Houston.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-ko"></a>-ko</b> </font>
+ <i>(QCnf)</i>
+&nbsp;<i>verb suffix used to ask for confirmation of an immediately preceding statement; the identity of a previously mentioned noun may be confirmed by suffixing -o<sup>1</sup> first</i>
+&nbsp;<font face="Arial">«</font>Antoonichòobootoomo<b><i>ko</i></b>ⁿ?
+ <i>Old Antone?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Uh, akko<b><i>ko</i></b>ⁿ? Imayitikaⁿ?
+ <i>Oh, that one? The interpreter?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chiyanhaa<b><i>ko</i></b>?
+ <i>Oh, your fever went away?</i><font face="Arial">»</font>
+<center><font size="+4">L</font></center><br>
+<br><font size="+2"><b><a name="<l1>"></a>&lt;l&gt;</b><sup>1</sup> </font>
+ <i>(Nom/Mid)</i>
+&nbsp;<i>verb infix deriving object or action nominals or passive middles for verbs of root shape...VVCV]</i>
+&nbsp;<font face="Arial">«</font>Choopa &gt; choo<b><i>l</i></b>pa.
+ <i>Buy &gt; bought, sale.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="<l2>"></a>&lt;l&gt;</b><sup>2</sup> </font>
+ <i>(Pron)</i>
+<font size="+2">we</font>
+&nbsp;<i>first person plural (control) subject verb infix for stems of shape...VVCV</i>
+&nbsp;<font face="Arial">«</font>Choo<b><i>l</i></b>pa-ti.
+ <i>We bought it.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-la"></a>-la</b> </font>
+ <i>(Asp)</i>
+&nbsp;<i>verb suffix indicating an irrealis event</i>
+&nbsp; [may be the medial form of -laha, since the distinction from -lo is neutralized before a vowel] 
+&nbsp;<font face="Arial">«</font>`Chastokok nàahompan amitabáalhachin ìipalak àaya<b><i>l</i></b>aimpo' mankan.
+ <i>`There are some beans, I see, and y'all will cook them for me and I will eat them and be on my way.'</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkáami<b><i>laa</i></b>n akkok bíknoyáaliiyon iyaanin ohiⁿfaylifòokok tatkayok íkson nàasok íkson aatimíntakáhchi tribe-kóot chokòokolaon óonkafòokayon...
+ <i>That's the way it was going to be, that one (the reservation) before that time when they let them have the land, there were no whites, there was no one, no other kinds of people or tribes could live there, that's how they said it was going to be.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Intoliinon homankafòokan iyyamiitaasiikat aamaamáakahchoo<b><i>la</i></b>kha.
+ <i>Whenever they said `work' they got excited about going there.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Amaatiha óyhaayon amaatiha ìisaayon káanoosin ìisaayon imáppìilaa<b><i>la</i></b>k ìisaayon imáppìilaa<b><i>la</i></b>k.
+ <i>I want to help all my people living here well, I will help them...</i> <font size="0">(SCS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tayyihak pokkon íisitok aatinaanin ostínkok ichóot ibi<b><i>la</i></b>n onkatoofòokan amaakatoomok.
+ <i>The women have the ball and give it to the man, telling him to kill a deer and they would go off.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-laha"></a>-laha</b> </font>
+ <i>(Asp)</i>
+&nbsp;<i>word final verb suffix indicating an irrealis event</i>
+ <i>Var: -laa if followed by a suffix</i>
+&nbsp; [the distinction between -laha, -lahi, and -laho is neutralized before a vowel initial suffix] 
+&nbsp;<font face="Arial">«</font>Kano<b><i>laha</i></b>.
+ <i>It's going to get better.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Lokòoka<b><i>làa</i></b>.
+ <i>It's going to be a meeting.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yan tayyihatóklohchon ohiⁿfayli<b><i>laa</i></b>k onkatóon ommin.
+ <i>They were going to let him have these two women.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Bíkno aalokòolichòobootoomok hachàaliiyok bíknòosin mootoomok tatkayok ilchokòoko<b><i>láa</i></b>t ommitoolin.
+ <i>Before the old church house was standing, a little before that, it used to be that whites were not going to come live here.</i> <font size="0">(NPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...aatiyok ohaláyko<b><i>laa</i></b>n hokastóoban.
+ <i>The Indian (leaders) kept telling them not to touch it.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Himàakaya istiltootammihchíisa<b><i>laa</i></b>toolo.
+ <i>I guess nowdays they would probably go fall in the water.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-lahi"></a>-lahi</b> </font>
+ <i>(Asp)</i>
+&nbsp;<i>medial or final verb suffix indicating an irrealis event</i>
+ <i>Var: -lai</i>
+&nbsp; [poss. -la-ahi] 
+&nbsp; [the distinction between -laha, -lahi, and -laho is neutralized before a vowel initial suffix] 
+&nbsp;<font face="Arial">«</font>Pokkok isbakahkat akki lókkòoliiyon ɬopotli<b><i>láhi</i></b> ilkok aatik pokkon íisit isɬopotlichi ilkok sáhchi?
+ <i>Do you throw the ball between the goals or does the one with the ball carry it through or how is it?</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-laho"></a>-laho</b> </font>
+ <i>(Asp)</i>
+&nbsp;<i>medial or final verb suffix indicating an irrealis event</i>
+ <i>Var: -lao</i>
+&nbsp; [poss. -laha-o<sup>3</sup> or -la-ahi-o<sup>3</sup>] 
+&nbsp; [the distinction between -laha, -lahi, and -laho is neutralized before a vowel-initial suffix] 
+&nbsp;<font face="Arial">«</font>`...mikkon imonnaaɬaa<b><i>lah</i></b>oolin anok chabánkohchon sokchon hokfit ishochachókkòolìichihchommo.'
+ <i>`They want me to become the chief's son-in-law but I don't want to so they put me in a sack and left me sitting.'</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkáɬɬiiya intoliino pontoonichitok onáami<b><i>laho</i></b>tik nàasi nàasooli aa ii sikooli mok pontónnochihchómmok toknaawóotik íksooma poɬaalíibíikakha míntamon.
+ <i>That's the job they were going to make us keep working on all the time something, the IECW was making us work and when there was no money, they would lay some of us off from the job.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Aatisbisnooli<b><i>laaho</i></b>ⁿ?
+ <i>They were going to be their own, the Indians'?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mootok màakaya nàasi míntahchon chimaalochi<b><i>lao</i></b>.
+ <i>So then now I'm going to ask you something different.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máamin hopobatli<b><i>laho</i></b>toolo.
+ <i>Then they were going to whip us supposedly.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-li1"></a>-li</b><sup>1</sup> </font>
+ <i>(VExt)</i>
+&nbsp;<i>verb stem extender added to neutral verb stems that end in a consonant or a long vowel when no other level one suffix is added to satisfy the Verb Frame</i>
+ <i>Var: assimilates to certain preceding consonants with variants -mi, -ni, -wi, -ɬi, -fi, -bi; apocopates freely before apocopating suffixes where other phonological constraints are not violated</i>
+&nbsp;<font face="Arial">«</font>Chakaf<b><i>fi</i></b>.
+ <i>To chop.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chokòo<b><i>li</i></b>.
+ <i>To sit.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yim<b><i>mi</i></b>.
+ <i>To believe.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-li2"></a>-li</b><sup>2</sup> </font>
+ <i>(Pron)</i>
+<font size="+2">I</font>
+&nbsp;<i>first person singular (control) subject verb suffix</i>
+&nbsp;<font face="Arial">«</font>Choopa<b><i>li</i></b>ti.
+ <i>I bought it.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="<li1>"></a>&lt;li&gt;</b><sup>1</sup> </font>
+ <i>(Nom/Mid)</i>
+&nbsp;<i>verb infix deriving object or action nominals or passive middles for verbs of root shape...VCCV]</i>
+ [<i>roots ending in /yV/ or /hV/ that would be expected to take &lt;l&gt; follow this pattern</i>]
+&nbsp;<font face="Arial">«</font>Hosso &gt; ho<b><i>li</i></b>sso.
+ <i>To write &gt; book, writing, be written.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chaaha &gt; cha<b><i>lii</i></b>ha.
+<br><font size="+2"><b><a name="<li2>"></a>&lt;li&gt;</b><sup>2</sup> </font>
+ <i>(Pron)</i>
+<font size="+2">we</font>
+&nbsp;<i>first person plural (control) subject verb infix for stems of shape...VCCV]</i>
+ [<i>roots ending in /yV/ or /hV/ that would be expected to take &lt;l&gt; or -hili follow this pattern</i>]
+&nbsp;<font face="Arial">«</font>Takcho &gt; ta<b><i>li</i></b>kcho.
+ <i>Rope &gt; we rope.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>àaya &gt; a<b><i>lìi</i></b>ya.
+ <i>Go around &gt; we go around.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-lo"></a>-lo</b> </font>
+ <i>(Asp)</i>
+&nbsp;<i>verb suffix indicating probable future event, found frequently in quotations</i>
+&nbsp; [distinction from -la neutralized before a vowel] 
+&nbsp;<font face="Arial">«</font>Toknaawasóot pobannaimon `nihtalosmíntamon altobatilka<b><i>lo</i></b>, akka apohachaalìichiya' mankaton.
+ <i>When we wanted a little money we would say `we'll pay next week, charge it to us'.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Champolon talbòolilok stilaa<b><i>lo</i></b> lokòohiliimon.
+ <i>I'll make candy and bring it when we meet.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Immayyachitaska<b><i>lo</i></b> áalolo.
+ <i>I expect y'all to win.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ilchitámmok chiⁿhoopa<b><i>lo</i></b> mankaláapiti.
+ <i>I told you you were going to fall and hurt yourself.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-loho"></a>-loho</b> </font>
+ <i>(Imp)</i>
+&nbsp;<i>verb suffix indicating a command</i>
+ <i>Var: -lòo</i>
+&nbsp;<font face="Arial">«</font>`ɬóokat maatokaamáhlin ostìisok ankat ispa<b><i>lòo</i></b>.'
+ <i>`Again you will go to the south and get one to feed me with.'</i> <font size="0">(MBF2)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Ta! nàason stassaliiskaimóok istassaliiskaa<b><i>lòo</i></b>' mankok.
+ <i>`Ok, whatever you want to bring out you bring out', he said.</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Ichóot nàasóot ómmiimon akkáhchon isbi<b><i>loho</i></b>, akkáhchon istisla<b><i>lòo</i></b>' hokaafòokok.
+ <i>`Deer or anything else, you kill that kind and you bring that kind', they would say to him.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-loolo"></a>-loolo</b> </font>
+ <i>(Asp)</i>
+&nbsp;<i>verb suffix indicating strong assertion regarding a future event</i>
+&nbsp; [prob. -lo-ooli-o<sup>3</sup>] 
+&nbsp;<font face="Arial">«</font>Immayyachitaska<b><i>loolo</i></b> alíilobi.
+ <i>We expect y'all to win.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Sáhko<b><i>loolo</i></b> maahinaatàa' homankàamon.
+ <i>`Nothing will happen, lead us there', they kept on saying.</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Chokfi, Chokfi maasⁿka<b><i>loolo</i></b>, tahachilwàamok' mankan.
+ <i>`Rabbit, Rabbit y'all will say whenever y'all sing' he said.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Choospatíkko<b><i>loolo</i></b>.
+ <i>You won't buy it (implies `shouldn't').</i><font face="Arial">»</font>
+<center><font size="+4">M</font></center><br>
+<br><font size="+2"><b><a name="-ma"></a>-ma</b> </font>
+&nbsp;1.&nbsp;
+ <i>(Sbjnct)</i>
+<font size="+2">would, if, whenever</font>
+&nbsp;<i>subjunctive verb suffix indicating hypothetical or irrealis actions or other noninstantiated events; noun suffix indicating an unknown, nonspecific or generic participant</i>
+&nbsp; [lengthens preceding vowel of verb stems] 
+&nbsp; [from /ma] 
+&nbsp;<font face="Arial">«</font>Istitahachàalistóobàapok libatkatonkáa<b><i>m</i></b>on...
+ <i>It would stay on the fire like that for a long time until it was cooked.</i> <font size="0">(PBB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Indianka yáalókkohchi tatkon ommitoolo íibitoo<b><i>ma</i></b>?
+ <i>It wasn't an Indian but a white that he killed?</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Chibánnaa<b><i>ma</i></b> isnok ommi' mankan.
+ <i>`If you want, you can be the one', he said.</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Màakaya chinkanoo<b><i>m</i></b>ok ommoolo' mankok...
+ <i>`Now this would be good for me' he said.</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...isiimok istilaa<b><i>m</i></b>ok ilpiɬkok ɬoykaa<b><i>m</i></b>ok akkamíhchistòobasàapok...
+ <i>He would get one and bring him back and put him down and go back and he kept on doing that way many times.</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ooyíisok itton yamíhchit hachaalìichok intiilichiikát nàahok isɬahka<b><i>m</i></b>ok nàahohchoolikha.
+ <i>Then they'd take it out of the water and this is the way they would stand up a stick and brace it and then they would have available a tool used for scraping.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mok chalakíkboo<b><i>ma</i></b> mok liphaa<b><i>ma</i></b> solotkat anooka<b><i>ma</i></b> liphaa<b><i>ma</i></b> chalakíkbot solotkat anookaa<b><i>m</i></b>on.
+ <i>But if it didn't get stiff, then it's cured, when it finishes drying and it's soft, not hard, then it's through drying.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sokhaniya istilpak anoo<b><i>ma</i></b>.
+ <i>It would be eaten up along with pig cracklins.</i> <font size="0">(PBB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máskan Presbyterian-kayok iyaani yáhmit óochat hayo aboolis hayon pínhan íila<b><i>m</i></b>ókkohchóot ommitok...
+ <i>Then I suppose the Presbyterians would never have come way out here in the sticks, way out in the middle of the woods here, but...</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+ <i>(Deic)</i>
+<font size="+2">some, any, a, the alleged, the supposed</font>
+&nbsp;<font face="Arial">«</font>Oki<b><i>m</i></b>on ɬóok stohitahachaalìichok...
+ <i>Some water again put it on the fire.</i> <font size="0">(PBB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Waakisbakko<b><i>m</i></b>on hayíimossobaafon ohochókkolìichiisan híichalin.
+ <i>I found the (allegedly the same) bull's head in the big swamp where they had apparently put it.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ohíibok isbakko<b><i>m</i></b>on holomhiisan akkon oolomhiisan.
+ <i>They killed it and they must have hid the head there, hid it in the water.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Aatinákson ibitoolo? Aatiholchifaa<b><i>m</i></b>ok?
+ <i>Who was it that he killed and what was his name?</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nákson ittocháhhafìinàama hátchàalooli?
+ <i>Where is that (supposedly) tallest tree standing?</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-máaɬi-"></a>-máaɬi-</b> </font>
+ <i>(Modl)</i>
+<font size="+2">must, would; just, only, merely</font>
+&nbsp;<i>verb suffix indicating the only likely outcome under the circumstances</i>
+&nbsp; [from adverb /máaɬi `only, just'] 
+&nbsp;<font face="Arial">«</font>Nàasok aksobaachitok míntooliisok maatassalìikok ontitoo<b><i>màaɬ</i></b>ok.
+ <i>That thing made a noise and it was something different from what they expected that came out and started to come toward them.</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Eh, máamòosin liphaama káanòosit ɬahkatoo<b><i>máaɬ</i></b>ok.
+ <i>Yes, then if it's all fine-textured it was cured right.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Iyaaniyáɬɬok intalàakatoo<b><i>máaⁿɬi</i></b>n íisastóobasàapok intohnot ibisnáalok holihtóot tallichit náasóot achihlit oompayáɬɬok.
+ <i>They just had that land that was set aside, but that was all and they lived a long time like that, they worked, they built for example fences themselves, they planted things that they ate all the time.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Antachilwaa<b><i>máaɬ</i></b>on,' chokfikok, `bitlaalaatoolo', mankan.
+ <i>`If y'all will sing for me', said the rabbit, `I'll dance.'</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yáalon pàlkot íkson chichoba paachíikàasi<b><i>máaɬi</i></b>táskan atookóolit.
+ <i>There was no train here, all there was was just to ride horseback, so he took a shortcut.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máamok kapachiyókkoti pokko nahoⁿ, unh, nàasok poɬachíiyok istimoɬachi ittok hobáskihchok tóklot lókkòolin pokkon istittaɬopotlii<b><i>máaɬ</i></b>ok istibihchootoolo. [nhn].
+ <i>I don't mean the racquet now, the ball, something, the poɬachi, they would take it, the one with the ball goes through those two long poles standing upright and that's how they win.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-máami"></a>-máami</b> </font>
+ <i>(Adv)</i>
+&nbsp;<i>(very rare) verb suffix</i>
+&nbsp; [from /máhmi] 
+&nbsp;<font face="Arial">«</font>Aati agentka hachàalilímmòonootoo<b><i>máam</i></b>ok Samuel Roekahchootoha.
+ <i>The first Indian agent that served here, his name was Samuel Roe.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="maast-"></a>maast-</b> </font>
+ <i>(Dir)</i>
+&nbsp;<i>verb prefix combining the semantics of maat- and ist-, indicating an action performed at a distance involving or implying a peripheral or oblique object, such as a container that the affected object is in</i>
+&nbsp; [prob. from maat-ist-] 
+ <i>Var: mas- before a consonant</i>
+ <i>Var: mast-</i>
+&nbsp;<font face="Arial">«</font>Maatohno &gt; <b><i>maas</i></b>tohno.
+ <i>To send &gt; to send a letter.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="maat-"></a>maat-</b> </font>
+ <i>(Dir)</i>
+&nbsp;<i>verb derivational prefix indicating object is at a distance from the subject or subject of an action is at a distance from the speaker</i>
+ <i>Var: maa- before consonants</i>
+&nbsp; [poss. related to demonstrative /ma or /maachi] 
+&nbsp;<font face="Arial">«</font>Amáakastóobáapin `<b><i>maa</i></b>hopoɬoolilaatoolo'.
+ <i>They must have been gone for a while when they said, `they might chase after us'.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-mahilo"></a>-mahilo</b> </font>
+ <i>(Modl)</i>
+&nbsp;<i>verb suffix indicating speaker's strong belief in the likely result of a hypothetical action, also used in tag questions requesting confirmation of a belief</i>
+&nbsp;<font face="Arial">«</font>Ya mikko lokòolifòokon lokoohachìichifòokon 1936-káffìinotóska<b><i>mailo</i></b>?
+ <i>Then y'all elected the chiefs and then it was about 1936 when they were installed, wasn't it?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chaali Tamsootoomok illiifòokan mìnton lokoohachichihch ommitoska<b><i>mailo</i></b>?
+ <i>When Charlie Thompson died you all elected and installed another in his place, didn't you?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Yáhmoosin istassaliikalitok ommo. Maayáffaasot hotáahaasot stachoopiɬiskatoo<b><i>máilo</i></b>k nàasisáhtik istassaliikalaatoolo', chokfikok mankan.
+ <i>`This is how I came out. If you were to throw me farther out there closer to the middle, I could come out with everything', Rabbit said.</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-máɬɬi"></a>-máɬɬi</b> </font>
+ <i>(Adv)</i>
+<font size="+2">ever, always, whenever; never, only (?); to be ready to</font>
+&nbsp;<i>verb suffix indicating a customary activity</i>
+&nbsp; [prob. -ma-áɬɬi] 
+&nbsp; [lengthens preceding vowel of verb stems] 
+&nbsp;<font face="Arial">«</font>Akkáhchi nàasi óochafatliiya nihtaya fátkohchootaa<b><i>máɬɬ</i></b>on himayaamiiya nihtatik hofatlihchooti.
+ <i>That's the way it is with the old stories, they didn't ever use to tell them in the daytime, but nowdays they tell them in the daytime.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Balkaa<b><i>máɬɬ</i></b>ok ittiⁿfatliimok hàalot balkatáaton ostistanòolok `moolo' mankamok `tof tof tof tof tof' homankahchi.
+ <i>They would ever lie down and tell them to each other and they would lie there listening until the person had finished and said `That's all' and then they would say (spitting) `ptui ptui'.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Holissóotik choopa<b><i>máɬɬi</i></b>t íistilkatoolin.
+ <i>We bought our own books, that's how we did it.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chalbin istoonahlili<b><i>máɬɬ</i></b>on hoopamóohchooti.
+ <i>Whenever I reinjure my hand it hurts real bad.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Màakaya ohintoono<b><i>máɬɬ</i></b>óot oompamaaɬóot oompat nàasootík mottakiichiimok oompat íistook.
+ <i>Now they have to work somewhere else in order to eat, they have to find things to eat and get food to eat.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tayyi<b><i>máɬɬ</i></b>ok chokóotok obáalóot maatachakkitook nákson oswìikatóot ómmin.
+ <i>The wife was the only one staying behind and then she followed him wherever he had gone to stay.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Oolimpaya alpiso oolimpai<b><i>máɬɬ</i></b>oolo.
+ <i>The food is ready for us to eat.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-mo"></a>-mo</b> </font>
+ <i>(Modl)</i>
+<font size="+2">yet, whenever</font>
+&nbsp;<i>verb suffix indicating past subjunctive (hypothetical perfective?); negative verb suffix indicating the action hasn't happened yet</i>
+&nbsp; [lengthens preceding vowel of verb stems; causes negative stem accent to shift to the final -o<sup>2</sup>] 
+&nbsp; [poss. -ma-o<sup>3</sup>] 
+&nbsp;<font face="Arial">«</font>Tanowwastóobàapok sáamòosin stimálpìisaa<b><i>mo</i></b> ɬooyohkat ilachit.
+ <i>They'd be gone for a long time and whenever they had had enough they would come on back.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Himàakaya sáamòosin stamánnookan stamánnookalaak ommoolo maskat sobaytakkóo<b><i>mo</i></b> sobaytákkobi himáakaya anáaliya.
+ <i>Now I don't know when my time will end, I myself don't know yet when my end will come, I don't know.</i> <font size="0">(NCS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkok iksóo<b><i>mo</i></b>fòokaya binafkachikáhmiya oittimapíilastobahchoolikha.
+ <i>Before that existed around here, they always used to help each other with things like plowing.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Aayampon aasihtakkóo<b><i>mo</i></b>bi.
+ <i>I haven't washed the dishes yet.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasok iⁿsáhmin ommitoolo staɬíinayooliyok istoɬkóo<b><i>mo</i></b>t?
+ <i>Whatever happened to him while he was on his way when he hadn't gotten to the creek yet?</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-mooli"></a>-mooli</b> </font>
+ <i>(Adv)</i>
+<font size="+2">very, really</font>
+&nbsp;<i>verb suffix indicating intensity of action</i>
+&nbsp; [prob. ma-ooli] 
+&nbsp; [optionally (?) lengthens preceding vowel of verb stems] 
+&nbsp;<font face="Arial">«</font>Kanoo<b><i>mool</i></b>o.
+ <i>Thanks a lot.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Ankatipa, alliila<b><i>mool</i></b>o, challáahoso' immankatoha.
+ <i>`Feed me, I'm starving, I'm almost dead', he said.</i> <font size="0">(MBF2)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hoɬkayok aatapiihomma imilpafíina<b><i>moo</i></b>tooli.
+ <i>That sofkey used to be a real meal for the Indians.</i> <font size="0">(PSF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chalbin istoonahlilimáɬɬon hoopa<b><i>móo</i></b>hchooti.
+ <i>Whenever I reinjure my hand it hurts real bad.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kolkohkak tokaalii<b><i>moo</i></b>ti.
+ <i>The thunder really crashed.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-móska"></a>-móska</b> </font>
+ <i>(Purp)</i>
+<font size="+2">so, in order to</font>
+&nbsp;<i>verb suffix indicating the purpose clause of consecutive actions</i>
+&nbsp; [-ma-o<sup>4</sup>-ska] 
+&nbsp;<font face="Arial">«</font>Aatok maatibit aɬɬaton nàasok sobóoⁿliisan maahíichok aɬɬaton oɬatoo<b><i>móska</i></b>n.
+ <i>A man went hunting and saw something apparently smoking in the distance so he went in order to get to it.</i> <font size="0">(MBF2)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Itton maamaahilichaskii<b><i>móska</i></b>t koloffit maamaahilichaskii<b><i>móska</i></b>t ishilaskiloolo' homanko.
+ <i>`We are going to have to cut down the tree, we are going to have to cut it down in order to get him', they said.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Haatoliiyan ononkaliikalito<b><i>móska</i></b>t staⁿɬakoffiichok chatammiti.
+ <i>I climbed the steps, missed it and fell.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...náaskanohchooliisan máamòosin maatímmayyasin maalimitkato<b><i>móska</i></b>n aliilamooliisan maatìisok...
+ <i>It seemed to be something good so he went and swallowed a little more and it was real good so he drank it again...</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-mpa"></a>-mpa</b> </font>
+ <i>(Evid)</i>
+&nbsp;<i>reportative verb suffix indicating that the assertion is based on what someone has said; can occur on main clauses</i>
+&nbsp;<font face="Arial">«</font>`Mánko, allibathachai<b><i>mp</i></b>o' mankan.
+ <i>`No, y'all are supposed to cook them for me', he said.</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Aati boykahchok wìikaton chokfok ilatooli<b><i>mpa</i></b>ti.
+ <i>There once was a man who was hoeing when a rabbit apparently came by.</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...nahot sahkachit anookatooma liphaimok achikíibohchooli<b><i>mpa</i></b>kha.
+ <i>If it's been scraped real thoroughly then it's not hard to cure, I'm told.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Sáhmin ommitonkan hohachinnaaɬiikai<b><i>mpa</i></b>ti' homankaton.
+ <i>They said, `I don't know why but they say they want to talk to y'all'.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hiplik chihbichi<b><i>mpa</i></b>ti Californiafon.
+ <i>The snow is getting deep in California, they say.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Achakkilai<b><i>mpa</i></b>n amáalochiti.
+ <i>He asked me to go with him.</i><font face="Arial">»</font>
+<center><font size="+4">N</font></center><br>
+<br><font size="+2"><b><a name="-n"></a>-n</b> </font>
+ <i>(Disc)</i>
+&nbsp;<i>suffix occurring on nouns indicating a peripheral relationship to the proposition and on verbs indicating various discourse functions including switch of referent in a switch reference system</i>
+&nbsp;<font face="Arial">«</font>Naho ibisnóok naho nákso<b><i>n</i></b> istállaakat oompahcho<b><i>n</i></b>toha homanka<b><i>n</i></b> háalolihchootook onkalo.
+ <i>Then they were sitting somewhere over here and they themselves would eat, I heard them say.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Aatok maatibit aɬɬato<b><i>n</i></b> nàasok sobóoⁿliisa<b><i>n</i></b> maahíichok aɬɬato<b><i>n</i></b> oɬatoomóoska<b><i>n</i></b>.
+ <i>A man went hunting and saw something apparently smoking in the distance so he went in order to get to it.</i> <font size="0">(MBF2)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-nàa"></a>-nàa</b> </font>
+ <i>(Modl)</i>
+&nbsp;<i>verb suffix that marks a question that is in response to a previous remark by the addressee regarding a future action about which the speaker has certain expectations or which politely corrects an assertion about a past event</i>
+&nbsp; [prob. -na] 
+&nbsp;<font face="Arial">«</font>`Chintalilwaitonka<b><i>nàa</i></b>,' homanko.
+ <i>`Oh, are we going to sing for you?', they said.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Sáhmi mankat chintalilwaitonka<b><i>nàa</i></b>?' homanko.
+ <i>`How are we supposed to sing for you?' they said.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chakàanobi, isna chisáhmi<b><i>nàa</i></b>?
+ <i>I'm fine, how are you?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ponkatispaitonka<b><i>nàa</i></b>?
+ <i>Oh, did you say you were going to feed us?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chiyahkílkonàa?
+ <i>Didn't we walk? (correction to a remark).</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-ni"></a>-ni</b> </font>
+ <i>(Modl)</i>
+<font size="+2">should, ought to, supposed to; supposedly, supposed to have</font>
+&nbsp;<i>verb suffix indicating obligation or an event that was believed or intended to occur, whether it did or not; also used to offer a counter suggestion</i>
+&nbsp; [lengthens preceding vowel of verb stems] 
+&nbsp;<font face="Arial">«</font>Chiyahkílko<b><i>ni</i></b>?
+ <i>Why don't we walk? (in response to a suggestion to drive).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nákson oshashíichaa<b><i>ni</i></b>?
+ <i>Who were y'all supposed to go see?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ehe, mikkon yáɬɬon hohichahchoolíi<b><i>ni</i></b>.
+ <i>Yes, they were supposed to look up to the chief alone.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hopobatlilahotoolíi<b><i>ni</i></b> hopobátkokha.
+ <i>They were supposed to beat us up but they didn't.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Antahachílwa<b><i>ni</i></b>', chokfikok mankan.
+ <i>`Y'all should sing for me', he said.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Oh, akki waaknaani ohíibitoomo<b><i>ni</i></b>?
+ <i>Oh, that was the bull they killed, huh?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tatka iwwaakoolìi<b><i>ni</i></b>?
+ <i>Did the cow belong to a white?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máafo<b><i>ni</i></b>?
+ <i>Oh, theirs, huh?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yáafaayo<b><i>ní</i></b>?
+ <i>Was that it?/Is it here?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Iltochíino<b><i>ni</i></b>.
+ <i>Do your work first.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-nnàha"></a>-nnàha</b> </font>
+ <i>(NegImp)</i>
+&nbsp;<i>verb suffix; unlike with other imperatives the verb is inflected for person, but is not marked otherwise as a negative stem</i>
+&nbsp; [causes high tone on preceding vowel (ggr?)] 
+&nbsp; [prob. ggr of -nàa] 
+ <i>Var: -nnàa</i>
+&nbsp;<font face="Arial">«</font>Wakhachaahan `yon aachokòoliiha áhhìichaha nakaaɬá<b><i>nnahàa</i></b>' homankok.
+ <i>They said to the Crane `sit here and keep watch and don't let him get away'.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Aksobaataská<b><i>nnàa</i></b>!
+ <i>Don't make noise!</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="nok-"></a>nok-</b> </font>
+ <i>(Loc)</i>
+&nbsp;<i>verb prefix indicating location of event on or in the throat or otherwise action pertaining to the throat, or by metaphorical extension, the emotions</i>
+&nbsp;<font face="Arial">«</font><b><i>nok</i></b>hammi.
+ <i>To be in a rage at.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font><b><i>nok</i></b>sìilichi.
+ <i>To pierce the throat of an animal to drain the blood.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="noo-"></a>noo-</b> </font>
+ <i>(Loc)</i>
+&nbsp;<i>verb prefix indicating location of event on the neck or otherwise action pertaining to the neck</i>
+ <i>Var: nooy- before vowels</i>
+&nbsp;<font face="Arial">«</font>Chakaffi &gt; <b><i>noo</i></b>chakaffi.
+ <i>To chop &gt; to chop off at the neck.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Oksatli &gt; <b><i>nooy</i></b>oksatli.
+ <i>To swell &gt; to have swollen neck glands, as with mumps.</i><font face="Arial">»</font>
+<center><font size="+4">O</font></center><br>
+<br><font size="+2"><b><a name="-o1"></a>-o</b><sup>1</sup> </font>
+ <i>(Det)</i>
+&nbsp;<i>suffix on nouns generally indicating information status in the discourse</i>
+&nbsp;<font face="Arial">«</font>Tanahlok amaakatok Chahtahaak<b><i>o</i></b>k náasooton imakanoochiikat istíisafòokon híichataskat `Amahilkaski!' homankok.
+ <i>They got out and went over there and they noticed that the Choctaws seemed to be fixing something so they said `Let's go!'.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-o2"></a>-o</b><sup>2</sup> </font>
+ <i>(Neg)</i>
+&nbsp;<i>verb suffix to the ultimately derived stem in negatives</i>
+&nbsp;<font face="Arial">«</font>Batli &gt; bátk<b><i>o</i></b>.
+ <i>To hit &gt; not hit.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-o3"></a>-o</b><sup>3</sup> </font>
+ <i>(Asp)</i>
+&nbsp;<i>verb suffix indicating perfective events; can occur on main clauses and often used on nonfinal clauses to indicate sequencing of events</i>
+ <i>Var: -bi after /o/</i>
+&nbsp;<font face="Arial">«</font>`Isnon chibil<b><i>o</i></b> àaloliti' mankan.
+ <i>`I thought I had killed you', he said.</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Yáhmòosiyáalo íibilákko<b><i>bi</i></b>' mankáabíikatoha.
+ <i>`A l'il ole thing like this couldn't kill me', he kept repeating.</i> <font size="0">(MBF2)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chabapisiil<b><i>o</i></b>.
+ <i>He became my friend.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ya mikko lokòolifòok<b><i>o</i></b>n lokoohachìichifòok<b><i>o</i></b>n 1936-káffìinotóskamailo?
+ <i>Then y'all elected the chiefs and then it was about 1936 when they were installed, wasn't it?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tanahl<b><i>o</i></b>k amaakatok Chahtahaakok náasooton imakanoochiikat istíisafòok<b><i>o</i></b>n híichataskat `Amahilkaski!' homank<b><i>o</i></b>k.
+ <i>They got out and went over there and they noticed that the Choctaws seemed to be fixing something so they said `Let's go!'.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-o4"></a>-o</b><sup>4</sup> </font>
+ <i>(Cop)</i>
+&nbsp;<i>marks rheme/focus on nouns or verbs</i>
+ <i>Var: -oo</i>
+&nbsp;<font face="Arial">«</font>Paanifóot onk<b><i>oo</i></b>mok akkáamiifon piɬɬon áɬkat istittanówwatók Chahta imoolamok Chahta imoolóot ommitoolo.
+ <i>They were going around in a boat on a creek to what was supposedly the Choctaw town and it was the Choctaw town.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkáhmoosot ommoolo four feet-kafìinot onk<b><i>oo</i></b>mok.
+ <i>I guess that's about four feet wide.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ifak<b><i>óo</i></b>.
+ <i>There's the dog. (if you forgot about it).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>If<b><i>óo</i></b>k.
+ <i>There's a dog. (a strange dog).</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-oka"></a>-oka</b> </font>
+ <i>(PlImp)</i>
+&nbsp;<i>suffixes to verbs with a final -kV, replacing the -kV</i>
+&nbsp;<font face="Arial">«</font>Tooɬ<b><i>oka</i></b>!
+ <i>Run!</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-ókko"></a>-ókko</b> </font>
+ <i>(NegCop)</i>
+&nbsp;<i>verb suffix used in focus constructions to indicate `it is not the case that'; can be used to contradict an assertion or in the sense of a tag question seeking affirmation; suffixed to nouns to mean `it is not N'</i>
+&nbsp; [prob. the negative of the auxiliary oo-li or from -o<sup>4</sup> and a negative auxiliary] 
+&nbsp;<font face="Arial">«</font>Somoya háatkayon nákson atákkaabáanahch<b><i>ókko</i></b>?
+ <i>You know about the white moss that's hanging all over, don't you?</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máamòosin nitachóobakok hímmahk<b><i>ókko</i></b>hchon waliikat ɬopotlin hotchatok itamaalichitoha.
+ <i>Then the biggest bear lumbered slowly past the man and he shot at him and knocked him down.</i> <font size="0">(MBF2)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Eh, máamiimon naho chofkonikáamiya, hollokáhch<b><i>ókk</i></b>ootoolo?
+ <i>Yeah, well then, those bones, weren't they taboo?</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Eh, nita ɬooli ponn<b><i>ókkoo</i></b>ma yok máamakíilot imoɬahchóot imoɬahchóot máamiima máamifòokamon batatlóostik kowaɬɬit ibihchootoolo.
+ <i>If he (the dog) doesn't know how to chase bears, isn't aware of them, and would maybe come right up to it, if that happens the bear might just swat him and it will break him and kill them.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máamok kapachiy<b><i>ókko</i></b>ti pokko nahoⁿ, unh, nàasok poɬachíiyok istimoɬachi ittok hobáskihchok tóklot lókkòolin pokkon istittaɬopotliimáaɬok istibihchootoolo. [nhn].
+ <i>I don't mean the racquet now, the ball, something, the poɬachi, they would take it, the one with the ball goes through those two long poles standing upright and that's how they win.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-oko"></a>-oko</b> </font>
+ <i>(Imp)</i>
+&nbsp;<i>verb suffix, may be used in conjunction with the PlImp to exhort</i>
+&nbsp;<font face="Arial">«</font>Oɬachiifòokayok oolakanota `oolakanotohat maatilhíichask<b><i>oko</i></b>' homankok.
+ <i>When they arrived there, there was peace, so `since there is peace, let's go see them' they said.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Oomp<b><i>oko</i></b>!
+ <i>Eat!</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Oompatok<b><i>oko</i></b>!
+ <i>Eat y'all!</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Wilo iⁿhakchíisan háaɬ<b><i>oko</i></b>!
+ <i>Put on your boots!</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nákson aɬchiyahchiⁿ aⁿfátl<b><i>oko</i></b>!
+ <i>Tell me where you're going to go (e.g. to a teenager as a general rule about hypothetical actions).</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-ona"></a>-ona</b> </font>
+ <i>(Cust)</i>
+&nbsp;<i>verb suffix indicating customary activity; with derived nouns, customary object nominal</i>
+ <i>Var: -oona</i>
+&nbsp; [when preceded by -ma can take the ggr to mean `first Verbed', that is, the first occurrence of what will be a customary activity] 
+&nbsp;<font face="Arial">«</font>Aati agentka hachàalilímm<b><i>òon</i></b>ootoomáamok Samuel Roekahchootoha.
+ <i>The first Indian agent that served here, his name was Samuel Roe.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mikko ayaachímm<b><i>òon</i></b>ootooma...
+ <i>The first two chiefs to go...</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Aɬchiyámm<b><i>oona</i></b>toomok...
+ <i>When you first became..</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...nàahómm<b><i>óona</i></b>fòokayon Presbyteriyok...
+ <i>When they first had a Presbytery...</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Nàason ispahch<b><i>oona</i></b>?' mankan.
+ <i>`What do you usually eat?', he said.</i> <font size="0">(MBF2)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Máamòosin nàasok chimilp<b><i>óona</i></b>?' mankan.
+ <i>`Well then, what is your usual food?', he said.</i> <font size="0">(MBF1)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Agent-kóotik himàayáamiya ìisahchonk<b><i>ona</i></b> mootok mafòokamok agentkayok àayatok ommoolo.
+ <i>Agents are here now too but at that time there were agents around here also.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...hakchomma ilpóotík ohipahchónk<b><i>ona</i></b> akkáhchootik ipalihchootook...
+ <i>...tobacco chewing now, they would usually chew it, that's what I used to chew...</i> <font size="0">(NCS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ya aati íisaaya ontíichímm<b><i>òona</i></b>ma nákson sáhmit ontíichiitóot chasobáykobi.
+ <i>These Indians that live here, when they first came here, I don't know where they came from...</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tòolit istamaakáhim<b><i>oona</i></b>ma samíhchit tòolit honahohch ommihchootoska?
+ <i>When they start playing stickball, how did they used to start the game?</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="ona-"></a>ona-</b> </font>
+ <i>(Loc)</i>
+<font size="+2">on, at, to</font>
+&nbsp;<i>verb prefix indicating location of event on a (usually vertical) surface</i>
+ <i>Var: on- before vowels</i>
+&nbsp;<font face="Arial">«</font>Akkamíhchin lamátkòosit solotkahimon nàason itto lamátkòosin ahachaaliichok <b><i>ona</i></b>sihkat anoolit.
+ <i>They do it pretty straight and it's going to be dried so they stand up a straight piece of wood and tie it up to it.</i> <font size="0">(PSF)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="oo-"></a>oo-</b> </font>
+ <i>(Loc)</i>
+&nbsp;<i>verb prefix indicating action down in a liquid or something soft, or in the eye</i>
+ <i>Var: ooy- before vowels</i>
+&nbsp;<font face="Arial">«</font>`...sokchan hóokfok paanifan ostistach<b><i>oo</i></b>maachi', mankan.
+ <i>`Put me in a sack and take me and throw me in the creek', he said.</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...iⁿwwiilit nákson <b><i>oo</i></b>ɬopóttoofan iⁿwwiilistóoⁿbat sánkot ikhíichok taɬɬon <b><i>oo</i></b>ɬopóⁿtlok wiilistóobàapok lapaat wiilistòobàapok ikhìichok.
+ <i>It was looking for where he had crossed the water and it kept looking and couldn't find out how and it crossed to the other side and looked and looked up and down the bank but it couldn't find it (the crossing).</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-òo-"></a>-òo-</b> </font>
+ <i>(Repet)</i>
+&nbsp;<i>(nonproductive) verb suffix to primary stem to indicate repeated action</i>
+&nbsp; [poss. from &lt;*ho&gt;] 
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>∥akof-fi &gt; ɬakof<b><i>òo</i></b>lichi.
+&nbsp;<font face="Arial">«</font>Chil-li &gt; chil<b><i>òo</i></b>li.
+&nbsp;<font face="Arial">«</font>Hamof-fi &gt; iⁿhamof<b><i>òo</i></b>lichi.
+<br><font size="+2"><b><a name="-ooli"></a>-ooli</b> </font>
+&nbsp;1.&nbsp;
+ <i>(Evid)</i>
+&nbsp;<i>on verbs indicates the speaker's commitment to the assertion or a given proposition whose polarity is questioned</i>
+&nbsp; [prob. from an existential auxiliary (/oo-) with stem extender -li<sup>1</sup>] 
+ [<i>-ooli can be marked itself with Dist ho-</i>]
+ <i>Var: -oo before apocopating suffixes</i>
+&nbsp;<font face="Arial">«</font>`Ta! Himàakaya alíilaas<b><i>ool</i></b>o' mankok aatikok.
+ <i>`Aha!, Now everything is fine', said the man.</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ha! aatik maatibiiyok ittanowwat ittanowwat nàkson ostalbinaachihch<b><i>oo</i></b>ton ostalbinàachok ìisaton maatohibistáskat.
+ <i>OK, the men were going hunting together and they used to set up camp somewhere so they could stay around there and hunt.</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ah, nàasi mínt<b><i>oolii</i></b>san, hotchat, hotchastobat hoɬakoofolìichok intooɬkan.
+ <i>Uh, that thing that was other than they expected, they shot at it and kept shooting at it and missing it so they ran away from it.</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Ankánnahholòosiha hachipaahachaalaalat<b><i>ool</i></b>o.'
+ <i>`Move a little away from me, I might step on you.'</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mootooma tíkkìiliiyon yáamòostik ipastobat hakchommóot sóonkastobatákkobáanon himayáhmin íilahch<b><i>ool</i></b>o.
+ <i>And since that time I have never chewed or smoked tobacco all that time up to this day.</i> <font size="0">(NCS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkamít holiphachihchommihch<b><i>ooli</i></b>kha.
+ <i>That's the way they used to cure it.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkok naho hayiskoolka hayiskoolkok hachàal<b><i>ool</i></b>o.
+ <i>He was going to build a high school there he said.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>1936-kayootóokáal<b><i>ool</i></b>o.
+ <i>It was in fact 1936, I believe.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Iltánk<b><i>ool</i></b>o' homankat<b><i>ooli</i></b>mpakha.
+ <i>`He can't just be thrown out', they said.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ohimmíntah<b><i>ool</i></b>o.
+ <i>They are wrong.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkon ostooɬopoolichilahóot imalahkayon ossoofilahóot amaakahch<b><i>oo</i></b>t<b><i>ool</i></b>o.
+ <i>They were going to get them across and they went to take their family.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+ <i>(Exist)</i>
+&nbsp;<i>on nouns serves as a copula in a marked rheme/focus construction</i>
+&nbsp;<font face="Arial">«</font>Moolín maakaya atóklay<b><i>oolí</i></b>n mok Federalkayok akkok iⁿfaylihchok ómmok akkok 3,071 acres.
+ <i>Now then, it was this next time the Federal government let them have those 3,071 acres.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Sáhmahitonka niht<b><i>oo</i></b>tok tank<b><i>oo</i></b>tok sobayíkkon, sáhmahitonka', homanka.
+ <i>`What are we going to do about not knowing whether it is the day or the night, what are we going to do?' they said.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Nitak ayyáaɬ<b><i>oo</i></b>tok chafáylak nakaaɬan alliilayok challáahoso.'
+ <i>`The bear, he was my master, he left me and took off and I'm so hungry I'm about to die.'</i> <font size="0">(MBF2)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Itto hislihchi óstàakayok amilp<b><i>ool</i></b>o' mankan.
+ <i>`My food is four trees standing', he said.</i> <font size="0">(MBF1)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tatka iwwaak<b><i>oolii</i></b>ni?
+ <i>Was it a white man's cow?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tatka iwwaak<b><i>oo</i></b>t<b><i>ool</i></b>o.
+ <i>It was a white man's cow.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Antaat<b><i>oo</i></b>toha intaat<b><i>oo</i></b>toomok anchókkòot<b><i>oolii</i></b>san híichalihch<b><i>ooli</i></b>kha.
+ <i>My father's father used to live there and I used to see that.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Eh, hotchatok iⁿhoopachihchóot máamin akkáamiima ilapalaastáskat naho ifakáhch<b><i>óo</i></b>tík iⁿhoopachit akkahchóot aatiy<b><i>ooli</i></b>n iⁿhoopachifíhtíkkot ifaya ibihch<b><i>oo</i></b>t<b><i>ooli</i></b>mpahch<b><i>oo</i></b>ti.
+ <i>Yes, if they shoot him (the bear) and wound him, then if they do that then he gets mad, and then sometimes hurts the dogs, but he never hurts the people, but they used to always kill the dogs.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Fíit<b><i>òoli</i></b>?
+ <i>Is it a turkey?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>An<b><i>ool</i></b>o.
+ <i>That's mine.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-óot"></a>-óot</b> </font>
+ <i>(Det)</i>
+&nbsp;<i>noun suffix indicating a nonspecific nonidentifiable particular or a choice of particulars as in `X or Y' or one from a list</i>
+&nbsp; [poss. -o<sup>4</sup>-t or -oo(li)-t (in the lgr?)] 
+&nbsp;<font face="Arial">«</font>...nàahot nàahómmòonafòokayon Presbyteriyok hachàalay<b><i>óot</i></b> hobannahchoot ommitoolo.
+ <i>...when they first had a Presbytery, I guess they wanted a building.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...nitayok ittob<b><i>óot</i></b> alpittan tikb<b><i>óot</i></b> maastimaapittat askáalit ohibihchootoolo mootòok. [hpc].
+ <i>...bears usually are in holes in trees, so they would use something to put fire in them in order to make them come out and then they would kill them.</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...áhhìichat chokòolin chaaf<b><i>óot</i></b> nàasi itto iskoolka akáhmiyon howíilok...
+ <i>He sat and watched while they were looking for an axe or something like that to cut the tree with...</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mootooma tíkkìiliiyon yáamòostik ipastobat hakchomm<b><i>óot</i></b> sóonkastobatákkobáanon himayáhmin íilahchoolo.
+ <i>And since that time I have never chewed or smoked tobacco all that time up to this day.</i> <font size="0">(NCS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>∥óokat naho, máali icho sokhimaalokh<b><i>óot</i></b> icho imaalokha máal<b><i>óot</i></b> akkáhmin.
+ <i>Again then, it's the same thing, either deer or hog's brain, it's the same using either one.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...okif<b><i>óot</i></b> paanif<b><i>óot</i></b> staɬɬok paanosif<b><i>óot</i></b> nahoomon màafon istaɬɬok aasihlit anoolok.
+ <i>They would take it to the water, or creek, or little spring if there was one over there, they took it and washed it thoroughly.</i> <font size="0">(PBB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ya ilpa yakchiyok champoliiy<b><i>óot</i></b> ishohochifaton ommitooli?
+ <i>This food yakchi, is it that it tastes so good that it is called that?</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-osi"></a>-osi</b> </font>
+ <i>(Dim/Aug)</i>
+&nbsp;<i>verb suffix to indicate either intensity or extremity of an action or state or incomplete effect; with nouns has diminutive sense</i>
+ <i>Var: -si after /a/ and /o/</i>
+ <i>Var: -s- after /a/ and /o/ and before apocopating suffixes or vowels</i>
+&nbsp; [takes ggr, or fgr] 
+&nbsp;<font face="Arial">«</font>Ifa &gt; ifa<b><i>si</i></b>.
+ <i>Dog &gt; puppy.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Himóɬɬachon aatitayyichòobok aasobòoli lapaal<b><i>os</i></b>on itachokóoⁿhchooton imiisafan máalon itachokóoⁿhchooton...
+ <i>Once there was an old woman who used to sit right beside the fire, she used to sit there in her house beside the fire.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Ankánnahhol<b><i>òosi</i></b>ha hachipaahachàalaalatoolo.'
+ <i>`Move a little away from me, I might step on you.'</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Howiilit honahohchooti kaasáalok, akkáam<b><i>os</i></b>toolo.
+ <i>They would hunt for it and make it, but for only that much (money).</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Miɬɬichiimok miɬɬíiⁿch<b><i>òos</i></b>ok faytóok.
+ <i>They would rub it, rub it really well and then quit.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkáamiyon anóol<b><i>os</i></b>ok ommitooma káanot liphatoolo.
+ <i>If they did it all like that very thoroughly then it had just the right texture.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkáamin hoɬoolitóobàa<b><i>si</i></b>n aboolin maatatanátkat ohittimataplichistóoba<b><i>s</i></b>tik.
+ <i>So when it happened that way they (the Choctaws) chased after them but they (the Alabamas) turned off into the woods trying to trap them in a pincer movement.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-oska"></a>-oska</b> </font>
+ <i>(Consq)</i>
+&nbsp;<i>verb suffix indicating a causal relationship between two clauses</i>
+&nbsp; [-o<sup>4</sup>-ska] 
+&nbsp;<font face="Arial">«</font>∥óok maakáalon intoonolaot áalot naaɬiikáap<b><i>oskáa</i></b>mon...
+ <i>Then again he asked to take his job up again where he'd left off and he talked about it...</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Presbyterian-kayok íilamókkohchool<b><i>oskáa</i></b>mok himaayáamin íilatoolin himaayáamifòokaya ayákhan yáhmit ayakhaasiiyon reservashi hayoyókkohchootik naho church-ka mìntootik reservashi maatáyyakhayon nàahofòokon míntayok amaamaakahchonko máakaya akkáamiiya sáhmi assíilo?
+ <i>There would otherwise never have been any Presbyterian denomination here, yet at this time it did come and at this time near the reservation they are not inside the reservation but there are other churches near the reservation and other people have been going over there and what do you think about it?</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkáamit nahoomon aatinaanihayok máaɬok tayyihak libatlihch<b><i>óoska</i></b>n aatinaanihayok naho oolimpan aatistointallimok aatinaanihak ommihchok ómmin.
+ <i>This is the way they did when they were going to have it, only the men, since the women cooked it, it was the men who then set out the food for them.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-óska"></a>-óska</b> </font>
+ <i>(Modl)</i>
+&nbsp;<i>derogative noun suffix indicating a negative or disapproving attitude towards the object</i>
+&nbsp;<font face="Arial">«</font>Pàtkay<b><i>óska</i></b>t paawanhaamoolo.
+ <i>Oh, the bed is real hard.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akk<b><i>óska</i></b>t.
+ <i>That old thing.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Okiy<b><i>óska</i></b>t lochaamoolo.
+ <i>The water is real dirty.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Isn<b><i>óska</i></b>t yahiskaamoolo.
+ <i>Oh, you're crying too much! (to a baby).</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="ost-"></a>ost-</b> </font>
+ <i>(Dir)</i>
+<font size="+2">go and</font>
+&nbsp;<i>translocative verb prefix to indicate action performed at a distance from some reference point</i>
+ <i>Var: os- before consonants</i>
+&nbsp;<font face="Arial">«</font>`...sokchan hóokfok paanifan <b><i>ost</i></b>istachoomaachi', mankan.
+ <i>`Put me in a sack and take me and throw me in the creek', he said.</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mánkotooma, okifan <b><i>ost</i></b>oopiɬkatoomok nihta námpotoolo.
+ <i>But if it wasn't (cured right) it's taken back and put in the water for I don't know how many days.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+<center><font size="+4">P</font></center><br>
+<br><font size="+2"><b><a name="paa-"></a>paa-</b> </font>
+ <i>(Loc)</i>
+<font size="+2">on top</font>
+&nbsp;<i>verb prefix indicating action on top of a surface or on the human back</i>
+&nbsp; [poss. related to /páana] 
+&nbsp;<font face="Arial">«</font>`Ankánnahholòosiha hachi<b><i>paa</i></b>hachàalaalatoolo.'
+ <i>`Move a little away from me, I might step on you.'</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-palammi"></a>-palammi</b> </font>
+ <i>(Adv)</i>
+<font size="+2">really, very</font>
+&nbsp;<i>(rare) verb suffix indicating intensity of an action</i>
+&nbsp;<font face="Arial">«</font>Kano<b><i>palamm</i></b>oolo.
+ <i>Thanks very much.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hompaniiyok ponna<b><i>palammi</i></b>.
+ <i>He really knows how to play.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="po-"></a>po-</b> </font>
+ <i>(Pron)</i>
+<font size="+2">I, me</font>
+&nbsp;<i>first person plural (noncontrol) subject/object verb prefix</i>
+ <i>Var: ko-</i>
+ <i>Usage: </i>Some use the variant ko-, which is identical to the Koasati form.
+&nbsp;<font face="Arial">«</font><b><i>po</i></b>tammo.
+ <i>We fell.</i><font face="Arial">»</font>
+<center><font size="+4">S</font></center><br>
+<br><font size="+2"><b><a name="-s"></a>-s</b> </font>
+ <i>(Conn)</i>
+&nbsp;<i>verb suffix occurring most commonly before suffixes deriving from auxiliaries or on complement clauses especially before -t</i>
+&nbsp; [causes apocopation of certain suffixes] 
+&nbsp;<font face="Arial">«</font>`Amanoochi<b><i>s</i></b>ti' mankan.
+ <i>`You seem to have finished all mine up', he said.</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Maskan akkáamin akkok aatimíntayok yáaliiyon paanaaɬkan áalo<b><i>s</i></b> sáⁿhtik yáali ìisakok máaɬon `mànkobi' homankahchok ommiima.
+ <i>So then after that happened they wanted the other tribe to mix in here, just anybody live here, but if the ones living here had just said `no'...</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="<s1>"></a>&lt;s&gt;</b><sup>1</sup> </font>
+ <i>(PlSj)</i>
+&nbsp;<i>(nonproductive) plural formative probably related to -chi<sup>2</sup></i>
+&nbsp; [prob. &lt;ch&gt;] 
+&nbsp;<font face="Arial">«</font>Balàaka &gt; bala<b><i>s</i></b>ka.
+ <i>To lie down (sg) &gt; to lie down (dl).</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="<s2>"></a>&lt;s&gt;</b><sup>2</sup> </font>
+ <i>(Pron)</i>
+<font size="+2">you</font>
+&nbsp;<i>second person singular (control) subject verb infix for stems of shape...VVCV</i>
+&nbsp;<font face="Arial">«</font>Choo<b><i>s</i></b>pati.
+ <i>You bought it.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-sa"></a>-sa</b> </font>
+ <i>(Evid)</i>
+&nbsp;<i>verb suffix indicating past action deduced by the speaker from circumstantial evidence</i>
+&nbsp; [lengthens preceding vowel of verb stems] 
+&nbsp;<font face="Arial">«</font>Tikbok ommii<b><i>s</i></b>ok chokòolin oɬatoha.
+ <i>It was evidently Fire and it was sitting there when he arrived.</i> <font size="0">(MBF2)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máamòosok áayaa<b><i>sa</i></b>n híichafòokok `achassikíiloomok sokchan hóokfok paanifan ostistachoomachi!' mankan.
+ <i>Then when he had seen him around there (the rabbit) said: `If you don't like me put me in a sack and throw me in the creek!'</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Màakaya intolihno míntok nàahofòokaya máafóot intoliinoyok isnakaɬtikaa<b><i>s</i></b>áalok intoliino mínto sáhchootik maatassaliikaamon.
+ <i>Now different jobs have come into being (piecemeal) and they work there until the job plays out and then somehow different jobs appear.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Waakisbakkomon hayíimossobaafon ohochókkolìichii<b><i>sa</i></b>n híichalin.
+ <i>I found the bull's head in the big swamp where they had apparently put it.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasok íksofòokon íksokáamin assaliikahchíi<b><i>saa</i></b>mon.
+ <i>When they didn't see anything happening one would apparently go out.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mootik píila akkáamin Presbyterian-ka maa<b><i>s</i></b>áaⁿɬok chókkòolin reservashi hayooyon, tatkootik chokòokon aatimínta tribalka-káhchi míntootík chokòokon...
+ <i>But then just the Presbyterian denomination was the only kind staying inside the reservation, no whites could live here, and no other kind of Indian tribe could live here.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-ska"></a>-ska</b> </font>
+ <i>(Reas)</i>
+<font size="+2">since, because</font>
+&nbsp;<i>verb suffix indicating that the marked event is the reason or cause of some action</i>
+&nbsp;<font face="Arial">«</font>...àayahchommitok ɬoykat ila ila<b><i>skáa</i></b>mok máamòosin nokɬikiichahchootohat illihchóot ommitoolo.
+ <i>He had been going around and he returned and when he got back he was so scared and anxious that he died.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-sta"></a>-sta</b> </font>
+ <i>(Reas)</i>
+<font size="+2">since, because</font>
+&nbsp;<i>verb suffix indicating event as the reason or cause of some action</i>
+&nbsp; [prob. -s-ta] 
+&nbsp;<font face="Arial">«</font>Píila oolimpa akkáhmiiyon ahacháahilaski<b><i>sta</i></b>.
+ <i>Then we always used to just charge the groceries.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Somoyáalok yáhmit aɬɬatok atokláali ittootámmatlit aɬɬa<b><i>sta</i></b>.
+ <i>One piece of moss goes this way then the next goes the opposite way, in and out.</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkon ɬahlilikha mootoskan ɬahlilimókkohchommo chasakbak aⁿhoopa<b><i>sta</i></b>.
+ <i>I did tan hides then but now I can't tan hide anymore because my arms ache.</i> <font size="0">(PH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...onahochistóobaasaapi<b><i>sta</i></b> istitaliphat nahohchootonkan.
+ <i>Since you keep on pounding it for a long time they get ground up fine together, so you can't tell them apart.</i> <font size="0">(PBB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkon iisan áɬkat homaɬatlii<b><i>sta</i></b> sáhkofòokayok askahíkkostáskat iisahayomáalotik ohitahoppolat anoostoolo.
+ <i>They were inside the house and were very afraid so they couldn't do anything and couldn't get out and were in there for a long time, so they had to defecate apparently.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Askáakahchókkota homaɬatlii<b><i>sta</i></b> aatik aatik assaliikahchiisaama máamòosin ohibiyáɬɬihchon ommin.
+ <i>They couldn't go out because they were scared since if anyone went out they would always kill them.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-stoba"></a>-stoba</b> </font>
+ <i>(Asp)</i>
+&nbsp;<i>verb suffix indicating action performed over an extended period of time, either duratively or repetitively</i>
+&nbsp; [either ist- /toba or -s# /toba] 
+ {prob. from /toba}
+&nbsp; [can take the lgr, and noncontrol pronominal prefixes] 
+&nbsp;<font face="Arial">«</font>...ɬóokat maatakanáhhilok churchka-fakáalon aayìisat holisson sobáayli<b><i>s&lt;po&gt;tóob</i></b>àapin...
+ <i>...again we moved over there and that's where we were, still at the church building and we went to school there for some time.</i> <font size="0">(NCS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mootooma tíkkìiliiyon yáamòostik ipa<b><i>stoba</i></b>t hakchommóot sóonka<b><i>stoba</i></b>tákkobáanon himayáhmin íilahchoolo.
+ <i>And since that time I have never chewed or smoked tobacco all that time up to this day.</i> <font size="0">(NCS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...isiimok istilaamok ilpiɬkok ɬoykaamok akkamíhchi<b><i>stòobas</i></b>àapok...
+ <i>He would get one and bring him back and put him down and go back and he kept on doing that way many times.</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...iⁿwwiilit nákson ooɬopóttoofan iⁿwwiili<b><i>stóoⁿba</i></b>t sánkot ikhíichok taɬɬon ooɬopóⁿtlok wiili<b><i>stóob</i></b>àapok lapaat wiili<b><i>stòob</i></b>àapok ikhìichok.
+ <i>It was looking for where he had crossed the water and it kept looking and couldn't find out how and it crossed to the other side and looked and looked up and down the bank but it couldn't find it (the crossing).</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+<center><font size="+4">T</font></center><br>
+<br><font size="+2"><b><a name="-t"></a>-t</b> </font>
+ <i>(Disc)</i>
+&nbsp;<i>suffix occurring on nouns (especially in the complex suffix -óot) indicating relationship to the proposition and on nonfinite verbs indicating various discourse functions including identity of referent and simultaneity of events or adverbial modification of main proposition</i>
+&nbsp; [causes apocopation of certain preceding vowels or suffixes] 
+&nbsp;<font face="Arial">«</font>Wachíina<b><i>t</i></b> naaɬiika!
+ <i>Speak English!</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Aáti<b><i>t</i></b> naaɬiika!
+ <i>Speak in Indian!</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...iⁿwwiili<b><i>t</i></b> nákson ooɬopóttoofan iⁿwwiilistóoⁿba<b><i>t</i></b> sánkot ikhíichok taɬɬon ooɬopóⁿtlok wiilistóobàapok lapaa<b><i>t</i></b> wiilistòobàapok ikhìichok.
+ <i>It was looking for where he had crossed the water and it kept looking and couldn't find out how and it crossed to the other side and looked and looked up and down the bank but it couldn't find it (the crossing).</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Iishayootik ìisa<b><i>t</i></b> Chahtakok ìisa<b><i>t</i></b> ìisaton ìisatok nihtafíina<b><i>t</i></b> anóokan...
+ <i>But the Choctaws were holed up inside a house and stayed and stayed and the Alabamas were still there when daylight came.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkamíhchi<b><i>t</i></b> stamaafòokok naho akka<b><i>t</i></b> islokóoliifòokok oolimpan islokóolifòokok oompafòokok.
+ <i>That's the way they used to carry on, that's the way they got together, they brought the food together and they ate it.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máamin nahotáska<b><i>t</i></b> máalon ostootakli<b><i>t</i></b> ohipatóo<b><i>t</i></b> ommo.
+ <i>Then since they are that way (real hungry) they'd go over there and dip some out repeatedly and eat.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nakaɬtóo<b><i>t</i></b> ommo màakaya.
+ <i>I guess it's gone now.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Námpo<b><i>t</i></b> lokòolok laawa<b><i>t</i></b> lokòoli<b><i>t</i></b> hochakli<b><i>t</i></b> yakchi iⁿɬakófkotoolo káasok.
+ <i>More than a couple got together, many would get together, they cleared (fields) and they wouldn't miss out on the yakchi, however.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hoɬká<b><i>t</i></b> akaaká<b><i>t</i></b> náksifaakan ilpalo.
+ <i>We can eat sofkey or chicken, one of them.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-ta"></a>-ta</b> </font>
+ <i>(Cntg)</i>
+<font size="+2">since, because; so</font>
+&nbsp;<i>verb suffix indicating event on which some other action is contigent; a more general sense may be to place the marked clause in the context of an unmentioned but established proposition that is part of mutual knowledge at that point in the discourse</i>
+&nbsp;<font face="Arial">«</font>Ponkatispaitonka<b><i>ta</i></b>.
+ <i>So you're going to feed us.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Afaachíkko<b><i>ta</i></b>?
+ <i>So why don't you smile?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chiyahkílko<b><i>ta</i></b>?
+ <i>Why don't we walk?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chassiyon nàahoomok chassiyok óochayok howayáachihchootoha<b><i>ta</i></b>.
+ <i>Then they would have corn, because long ago they used to raise corn.</i> <font size="0">(PSF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Oɬachiifòokayok oolakano<b><i>ta</i></b> `oolakanotohat maatilhíichaskooko' homankok.
+ <i>When they arrived there, since there was peace, `there is peace, let's go see them' they said.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Askáakahchókko<b><i>ta</i></b> homaɬatliista aatik aatik assaliikahchiisaama máamòosin ohibiyáɬɬihchon ommin.
+ <i>They couldn't go out because they were scared since if anyone went out they would always kill them.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`áhhichataskaya ishohachiⁿfaytoha<b><i>ta</i></b>. Hasnok ommoolo. Oshichatokáhaba.
+ <i>`Since they appointed y'all to watch over it, y'all are the ones. You are the ones to go see about it.'</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Roykak ìilai<b><i>ta</i></b> achayokpo.
+ <i>I'm glad Roy is coming.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkáhchi nàasi óochafatliiya nihtaaya fátkohchoo<b><i>taa</i></b>máɬɬon himaayáamiiya nihtatík hofatlihchooti.
+ <i>That's the way it is with the old legends, they never used to tell them in the daytime, but these days they tell them even in the daytime.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Balkaamáɬɬok ittiⁿfatliimok hàalot balka<b><i>táa</i></b>ton ostistanòolok `moolo' mankamok `tof tof tof tof tof' homankahchi.
+ <i>They would lie down and tell them to each other and they would lie there listening until the person had finished and said `That's all and then they would say (spitting) `ptui ptui'.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Taɬafíinaimok ittok mootonka<b><i>ta</i></b> ittofalakto yáamòosikáhchon ɬóokat lokoolìichok.
+ <i>Right when she's ready to weave, she'd stand it up, usually a piece of wood, a forked stick about so big.</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkáhchókko<b><i>ta</i></b> ommitoolo.
+ <i>...but then it was not like that.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-taaka"></a>-taaka</b> </font>
+ <i>(Evid)</i>
+&nbsp;<i>verb suffix indicating the speaker makes the statement based on hearsay evidence</i>
+&nbsp;<font face="Arial">«</font>Altobatáska<b><i>taaka</i></b>ti.
+ <i>I hear y'all took his place.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tatkak naaɬiikalin ampíchihak hochaháalo<b><i>taaka</i></b>ti chanóochiyok.
+ <i>My parents heard me talking English in my sleep.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Iisan istabatapka<b><i>taak</i></b>o.
+ <i>I hear he ran into a house.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-taka"></a>-taka</b> </font>
+ <i>(Hort)</i>
+&nbsp;<i>verb suffix exhorting the hearer to allow the speaker to perform the event</i>
+&nbsp;<font face="Arial">«</font>Chimapìila<b><i>taka</i></b>.
+ <i>Let me help you.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nochi<b><i>taka</i></b>.
+ <i>Let me sleep.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-táska"></a>-táska</b> </font>
+ <i>(Reas)</i>
+&nbsp;<i>verb suffix indicating that event is the reason or cause of some past action</i>
+<font size="+2">because, so, on account of</font>
+&nbsp; [prob. -ta-ska] 
+&nbsp;<font face="Arial">«</font>Máamòosin tikbakok ipa<b><i>táska</i></b>t maafalankat anookok.
+ <i>Then the fire ate and so it finally came alive.</i> <font size="0">(MBF2)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Aatik maatibiiyok ittanowwat ittanowwat nákson ostalbinaachihchooton ostalbináachok íisaton maatohibis<b><i>táska</i></b>t.
+ <i>The men were going around hunting and they used to set up camp because they stayed around there hunting.</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Yók híiⁿchastoha<b><i>táska</i></b>t istaɬɬasbánkostòoban...
+ <i>Because he had seen all of it, he really didn't want to take them there.</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Maatakinítkok hìichalak nokbik baskis<b><i>táska</i></b>n maachokkalilìichok maahichatoomóskan.
+ <i>He was going to peek in to see and because his neck is so long he stuck it in there in order to see.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sahlichit sahlichit anoolok lochayon iⁿsoofit anoolok akkamíhchiimok talbòolikáamo<b><i>táska</i></b>n talbòolimok...
+ <i>They would scrape and finish scraping it and get rid of any black stuff, and do all that and keep working on it until it was finished being made.</i> <font size="0">(PSF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Eh, hotchatok iⁿhoopachihchóot máamin akkáamiima ilapalaas<b><i>táska</i></b>t naho ifakáhchóotík iⁿhoopachit akkahchóot aatiyoolin iⁿhoopachifíhtíkkot ifaya ibihchootoolimpahchooti.
+ <i>Yes, if they shoot him (the bear) and wound him, then if they do that then he gets mad, and then sometimes hurts the dogs, but he never hurts the people, but they used to always kill the dogs.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-ti"></a>-ti</b> </font>
+ <i>(Asp)</i>
+&nbsp;<i>proximal verb suffix indicating action in the recent past or future or narrative past</i>
+&nbsp; [causes apocopation of certain preceding vowels or suffixes] 
+&nbsp;<font face="Arial">«</font>...aatikok stayóoⁿkat stayokpatoolimpaa<b><i>ti</i></b>.
+ <i>The man was evidently very happy about it.</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Sáhmin ommitonkan hohachinnaaɬiikaimpa<b><i>ti</i></b>' homankaton.
+ <i>They said, `I don't know why but they want to talk to y'all'.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máamok kapachiyókko<b><i>ti</i></b> pokko nahoⁿ, unh, nàasok poɬachíiyok istimoɬachi ittok hobáskihchok tóklot lókkòolin pokkon istittaɬopotliimáaɬok istibihchootoolo. [nhn].
+ <i>I don't mean the racquet now, the ball, something, the poɬachi, they would take it, the one with the ball goes through those two long poles standing upright and that's how they win.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nákson sáhmi<b><i>ti</i></b>?
+ <i>How did it happen?</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hiiyaakáalok istiltokhabòosilkoo<b><i>ti</i></b>.
+ <i>I guess I myself would probably be diving right in also.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhchootoomon aⁿfatlilaon chabannahchonkali<b><i>ti</i></b>.
+ <i>I want the older people to tell me about how it used to be.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-tika1"></a>-tika</b><sup>1</sup> </font>
+ <i>(Hort)</i>
+&nbsp;<i>verb suffix exhorting the hearer to allow some third person to perform the event</i>
+&nbsp; [causes apocopation of certain preceding vowels or suffixes] 
+&nbsp;<font face="Arial">«</font>Máakaya ɬóokat nàasi mìnton, fatliba, Hanaabiya Chobóo<b><i>tika</i></b>.
+ <i>Now then, tell me another one again, let it be the Big Lizard.</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chimapìil<b><i>tika</i></b>.
+ <i>Let him help you.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ila<b><i>tika</i></b>.
+ <i>Let him come.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhchoo<b><i>tika</i></b>, náksok maatibi<b><i>tika</i></b> homankahchóot akkáamikáamiya.
+ <i>This is how it's going to be done, who is going to do the hunting, that kind of thing, who used to say it?</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ifa nòochiya balàaka<b><i>tika</i></b>.
+ <i>Let sleeping dogs lie.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-tika2"></a>-tika</b><sup>2</sup> </font>
+ <i>(Cntrst)</i>
+<font size="+2">but, even though, although, even</font>
+&nbsp;<i>verb suffix indicating a semantic contrast between marked event and some other</i>
+ <i>Var: -tik</i>
+ <i>Var: -tík</i>
+&nbsp; [causes apocopation of certain preceding vowels or suffixes] 
+&nbsp;<font face="Arial">«</font>Ohintoonostóobáapi<b><i>tik</i></b>.
+ <i>But only that for all that work.</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mooliya alíilasoolo aⁿfatchitáskan akkamos<b><i>tík</i></b> ommaikáamo.
+ <i>Well then, it is good that you told me this, but I think this is all I want to do.</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Moo<b><i>tik</i></b> lokíikbomat solóotíkkootoolo.
+ <i>But then if it's not sunny it doesn't dry as it should.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máafon paatohno<b><i>tík</i></b> akkon hohochifáaposkáamon obaltámmin ommikha.
+ <i>But even though he pushed him and they put his name down (on the ballot) he got behind.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...nàasi sáh<b><i>tik</i></b>...
+ <i>...everything else...</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ana annàahostobaa<b><i>tík</i></b> óyhat stamanookókko sáamòosiiya toknaacháⁿhkaasiiya stamilastobaabíikahchoolikha.
+ <i>I still had a little bit but he would use up all of mine and used to just bring me back a dollar.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>óochaya amalahkaha ampíchiyok antaata ìisafòokaya hachàalit akostinitákkot àayali<b><i>tík</i></b> chachipíiⁿlaasifòokaya aalokoolifan àayalihchootoolo.
+ <i>In the old days my family, my mother, my father, when they were living, I didn't know a thing, or think about anything but I used to go even though I was real little, I attended church.</i> <font size="0">(NCS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mottáaki hopáhki<b><i>tik</i></b>.
+ <i>It can be seen even though it is far.</i><font face="Arial">»</font>
+ <i>Cháffáⁿhkastik tóklostik istálpìiso.</i><font face="Arial">»</font>
+ <i>One or two would be enough.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-tíkko"></a>-tíkko</b> </font>
+ <i>(Neg)</i>
+&nbsp;<i>negative stem suffix on certain verbs, especially those ending in -chi (not -li-chi) and those with unusual stem shapes</i>
+&nbsp;<font face="Arial">«</font>Owwatta &gt; owwatta<b><i>tíkko</i></b>.
+ <i>To hunt &gt; not hunt.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-tíkkó"></a>-tíkkó</b> </font>
+ <i>(Contra)</i>
+<font size="+2">rather, to the contrary</font>
+&nbsp;<i>verb suffix indicating the speaker is denying a prior assertion or presupposition</i>
+&nbsp;<font face="Arial">«</font>Istittimíibihchi hoka<b><i>tíkkó</i></b>...
+ <i>(Rather), they usually say then that they win.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hacháa<b><i>tákkó</i></b>ⁿ!
+ <i>Well, I'm here to stand in (someone says there is noone to take his or her place).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkok mikkofìinókkochóot ommitoolo. Fultik hachàa<b><i>tíkkó</i></b>ⁿ chintaatak intokìinoomok, Fultik hachàaliimon akkok akkáhchootoolo John Scott-kootoomok.
+ <i>But he wasn't the real (`first') chief. Rather, Fulton is standing there (as second chief), so if your father can't work, Fulton will stand in and that's the kind John Scott was.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-to"></a>-to</b> </font>
+ <i>(Pst)</i>
+&nbsp;<i>verb suffix indicating a past action in a nonmain clause</i>
+&nbsp; [causes apocopation of certain preceding vowels or suffixes] 
+&nbsp;<font face="Arial">«</font>Bitli<b><i>to</i></b>máaɬok istitahaatánnatlit yáhmit istitahaatánnatlit wìikat.
+ <i>He began to dance and turned around like this and kept on turning around.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mánkostoba<b><i>to</i></b>mat lapáaffiimok chalakbíima máskat...
+ <i>If you don't do that, it would stick to it then it would get really hard and tough.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máamiimok atakàa<b><i>to</i></b>n náahot solotkáamon...
+ <i>Then they hung it up and it stays there until it dries.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Askaíkkofòokayok akkáh<b><i>to</i></b>káhchon ohonkahchoolikha.
+ <i>When they couldn't get out, that's what happened, they used to say.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akka intolihnok nàahofòokan isnakaɬ<b><i>to</i></b>káhch ommihchooti.
+ <i>When that job came here they just left off that way of doing things, I guess.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-toha"></a>-toha</b> </font>
+ <i>(NarPst)</i>
+&nbsp;<i>verb suffix referring to remote past events especially in historical narratives or legends, can occur medially before consequential suffixes or finally</i>
+&nbsp; [causes apocopation of certain preceding vowels or suffixes] 
+&nbsp;<font face="Arial">«</font>`Ostistachoomaachichi<b><i>toha</i></b>t áalon yáhmòosin istassaliikalitok ommo.'
+ <i>`Yes, you did try to throw me in and this is how I came out, with (all this stuff).'</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Yáhmòosiyáalo íibilákkobi' mankáabíika<b><i>toha</i></b>.
+ <i>`A l'il ole thing like this couldn't kill me', he kept repeating.</i> <font size="0">(MBF2)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chassiyon nàahoomok chassiyok óochayok howayáachihchoo<b><i>toha</i></b>ta.
+ <i>Then they would have corn because long ago they used to raise corn.</i> <font size="0">(PSF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Batlit batatlit maapíɬkat sokáffit iswaliikahchoo<b><i>toha</i></b>.
+ <i>One would hit him repeatedly and knock him down and scalp him and run off with it.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`áhhichataskaya ishohachiⁿfay<b><i>toha</i></b>ta. Hasnok ommoolo. Oshichatokáhaba.'
+ <i>`They appointed y'all to watch over it. Y'all are the ones. You are the ones to go see about it.'</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Naho ibisnóok naho nákson istállaakat oompahchon<b><i>toha</i></b> homankan háalolihchootook onkalo.
+ <i>Then they were sitting somewhere over here and they themselves would eat, I heard them say.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-toho"></a>-toho</b> </font>
+ <i>(PstSq)</i>
+&nbsp;<i>verb suffix on nonmain clauses indicating a completed action that is prior to the action of some other clause, similar to a past perfect</i>
+ <i>Var: -too</i>
+&nbsp;<font face="Arial">«</font>Wíhlit wíhlit ilsoofi<b><i>too</i></b>mon...
+ <i>One would look and look for it (the moss), bring it back, and put it down.</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkáamiyon anóolosok ommi<b><i>too</i></b>ma káanot liphatoolo.
+ <i>If they had done it all like that very thoroughly then it had just the right texture.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mánko<b><i>too</i></b>ma, okifan ostoopiɬka<b><i>too</i></b>mok nihta námpotoolo.
+ <i>But if it wasn't (cured right) it's taken back and put in the water for I don't know how many days.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Howayáachifòokak honàaho<b><i>tóo</i></b>k chassin chilohkat chilohkat anooliimok kíhchon máakon, kíhcho háhpakon áaɬok.
+ <i>When they were raising it they had it and they would finish shelling the corn and that mortar, they would put it in the new mortar.</i> <font size="0">(PSF)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-toka"></a>-toka</b> </font>
+ <i>(PlImp)</i>
+&nbsp;<i>verb suffix to stems ending in a final -ka indicating a command</i>
+&nbsp;<font face="Arial">«</font>`áhhichataskaya ishohachiⁿfaytohata. Hasnok ommoolo. Oshicha<b><i>toká</i></b>haba.
+ <i>`They appointed y'all to watch over it. Y'all are the ones. You are the ones to go see about it.'</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-toska"></a>-toska</b> </font>
+ <i>(Consq)</i>
+&nbsp;<i>verb suffix indicating a past condition for a subsequent action, used mainly in questions</i>
+&nbsp; [poss. -to-ska] 
+&nbsp;<font face="Arial">«</font>Stoittinkánkokáhchommi<b><i>toska</i></b>ⁿ?
+ <i>Why was it that they seemed not to be getting along?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sáhmin ómmin isnakaaɬa akkáhchommi<b><i>toska</i></b>?
+ <i>Then why was it that they seemed to just abandon them like that?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkon ɬahlilikha moo<b><i>toska</i></b>n ɬahlilimókkohchommo chasakbak aⁿhoopasta.
+ <i>I did tan hides then but now I can't tan hide anymore because my arms ache.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàason honahohch ommihchoo<b><i>toska</i></b> akkamíhchit anosliimok?
+ <i>What would they use it for when they had finished it.</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Moo<b><i>toska</i></b>n màakaya sobilaya amíksohchon ommin akkantakíhchohchooti.
+ <i>Since that time, now, I don't have any lye so I don't do it that way.</i> <font size="0">(PSF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>óochaya `koskalpi' homankahchon waakaffakchi chaɬkok nàahohchoo<b><i>toska</i></b>n akkáamiya íksobáanok ommoolo.
+ <i>A long time ago they used to call them `koskalpi' and they were made from strips of cowhide, they used to use them, but now they haven't had them for a long time.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ya mikko lokòolifòokon lokoohachìichifòokon 1936-káffìino<b><i>tóska</i></b>mailo?
+ <i>Then y'all elected the chiefs and then it was about 1936 when they were installed, wasn't it?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+<center><font size="+4">Y</font></center><br>
+<br><font size="+2"><b><a name="-y-"></a>-y-</b> </font>
+ <i>(Disc)</i>
+&nbsp;<i>poss. afterthought topic</i>
+&nbsp;<font face="Arial">«</font>...ɬóokat ìisok aɬíhchi<b><i>y</i></b>yon nahotalkooson stiⁿɬombit aɬihchin stiⁿɬombit stiⁿɬombit anootok...
+ <i>Again, take it down, on the ends again make holes with a knife, make holes on the edges, finish making all the holes.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Paspoochiikaya món nahon, histok ittatobiila nahó<b><i>y</i></b>yon naho, okon istitahachaalìichok...
+ <i>Now, for the bluebread dumplings, they used wood ashes, put water on the fire...</i> <font size="0">(PBB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máamin aatinaanihok pokkon ohisiimon istittiɬoolihchootoolo, tayyihak istitayapka<b><i>y</i></b>yok.
+ <i>Then the men would get the ball and they would chase each other, especially the women would be trying to take it away.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Homma<b><i>y</i></b>yon amalostihchoolo.
+ <i>I like red.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-ya"></a>-ya</b> </font>
+ <i>(Deic)</i>
+&nbsp;<i>as a noun suffix marks new topic, including resumptive and afterthought topics; as a verb suffix marks background clauses with given information</i>
+&nbsp; [lengthens the final vowel of verb stems] 
+&nbsp;<font face="Arial">«</font>Imbalàakatoha homankan homanka<b><i>ya</i></b> háalolihchoolo.
+ <i>I used to hear them say he spent the night.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Talok, talok' káhchi istanóoka<b><i>ya</i></b>.
+ <i>`Talok, talok' is what they say at the end.</i> <font size="0">(PMM)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Oopofka<b><i>ya</i></b>?
+ <i>Blowing in the water?</i> <font size="0">(PMM)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máamin aatinaanihok pokkon ohisiimon istittiɬoolihchootoolo, tayyihak istitayapkay<b><i>y</i></b>ok.
+ <i>Then the men would get the ball and they would chase each other, especially the women would be trying to take it away.</i> <font size="0">(NSB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasok iⁿsáhmin ommitoolo staɬíinayooli<b><i>y</i></b>ok istoɬkóomot?
+ <i>Whatever happened to him while he was on his way before he got there with it?</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Itto ittofalakto<b><i>y</i></b>on hopáhkit highway-kafayáamikáamin hislichi<b><i>y</i></b>ók istóoɬok.
+ <i>Some sticks, forked sticks, take them and stake them down as far away, for instance as the highway is (from the house).</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Somisfáhka<b><i>ya</i></b> ishíichatoolaaba?
+ <i>You've seen that moss spinning outfit, haven't you?</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hasik chokòoton níhtaa<b><i>y</i></b>ok tankaa<b><i>y</i></b>ok akkáamit aɬɬaton.
+ <i>The sun sat there and that's the way it is going to be with the day and night.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkáhchi nàasi óochafatliiya nihta<b><i>ya</i></b> fátkohchootaamáɬɬon himayaamiiya nihtatik hofatlihchooti.
+ <i>That's the way it is with the old stories, they didn't ever use to tell them in the daytime, but nowdays they tell them in the daytime.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kistapi<b><i>y</i></b>on ɬóokat itto máalon koloffok naho, taɬkat taɬkat apihchifa<b><i>y</i></b>on iⁿsaalichit anoolok.
+ <i>Now then, as for the pestle, again wood is also cut, then they shave and shave off at the handle and finish scraping it.</i> <font size="0">(PSF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chassi<b><i>y</i></b>on nàahoomok chassi<b><i>y</i></b>ok óocha<b><i>y</i></b>ok howayáachihchootohata.
+ <i>Then they would have corn because long ago they used to raise corn.</i> <font size="0">(PSF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hoɬka<b><i>y</i></b>ok aatapiihomma imilpafíinamootooli.
+ <i>That sofkey used to be a real meal for the Indians.</i> <font size="0">(PSF)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Paspoochiika<b><i>y</i></b>ók talbòolit ishíichahchooli?
+ <i>As for the bluebread dumplings, did you used to make them yourself?</i> <font size="0">(PBB)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-yáali"></a>-yáali</b> </font>
+&nbsp;1.&nbsp;
+ <i>(Adv)</i>
+&nbsp;<i>verb suffix indicating intensity of event or punctual action</i>
+<font size="+2">very, really; upon, the very minute</font>
+&nbsp; [-ya-áali] 
+&nbsp; [lengthens the final vowel of verb stems] 
+&nbsp;<font face="Arial">«</font>Chayosbaa<b><i>yáal</i></b>o.
+ <i>I'm really lost.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ifasik wooksii<b><i>yáal</i></b>o.
+ <i>The dog is real furry.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...walìika<b><i>yáal</i></b>on maakok tanatlok waliikatóóón...
+ <i>...the minute it took off that one came down and ran and ran...</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Maskat óohchaasi<b><i>yáal</i></b>oolo.
+ <i>It's been a long time since then.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...okimon ɬóok istoitahachaalìichok akkon okik poyatli<b><i>yáal</i></b>on maakon ointaklok istitahátchàaliikok poyatliimon táklok...
+ <i>They would put on some water again and as soon as it boils again they would dip out what had been put on to boil.</i> <font size="0">(PBB)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+ <i>(Modf)</i>
+<font size="+2">the very one, the one itself</font>
+&nbsp;<i>noun suffix that emphatically identifies a unique particular</i>
+&nbsp;<font face="Arial">«</font>Somo<b><i>yáal</i></b>ok yáhmit aɬɬatok atokláali ittootámmatlit aɬɬasta.
+ <i>One piece of moss goes this way then the next goes the opposite way, in and out.</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Indian-ka<b><i>yáal</i></b>ókkohchi tatkon ommitoolo íibitooma?
+ <i>It wasn't an Indian but a white that he killed?</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>`Yáhmòosi<b><i>yáal</i></b>o íibilákkobi' mankáabíikatoha.
+ <i>`A l'il ole thing like this couldn't kill me', he kept repeating.</i> <font size="0">(MBF2)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Láppaaloosi<b><i>yáal</i></b>on yamít sannichit sannichit óyhàasin akkamíhchit anoolit.
+ <i>Then the one (piece) right next to it there, do this way, wring it, wring it, do it that way until it's done.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Affakchi<b><i>yáal</i></b>on sokcha tobáachit?
+ <i>They made a bag out of the skin itself?</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máskat aati<b><i>yáal</i></b>on imbalàkatoha, imbalaakatoha homankan.
+ <i>But then he spent the night with an Indian, he spent the night, they said.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>∥óokat aati<b><i>yáalii</i></b>yok ohonkáama Taloola hokáhchootoha.
+ <i>Again, if the Indians themselves said it they called it `Taloola'.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-yáami"></a>-yáami</b> </font>
+&nbsp;1.&nbsp;
+ <i>(Modf)</i>
+&nbsp;<i>noun suffix indicating something is exactly like the noun in a certain respect</i>
+&nbsp; [&nbsp;/yáhmi] 
+&nbsp;<font face="Arial">«</font>Maakon nàasimaalokha somo alposoohaakon nahot aamatlit anoolit naho staabohka<b><i>yáami</i></b>t pakpakit nàahon.
+ <i>That brain thing that's already been spread with moss, you finish crumbling it up and it will become frothy like soap bubbling in there.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nahoya nitaya sokha<b><i>yáami</i></b>t sokhayáastáskan istilachiik mok ohaboslitóot ommoono mok ohaboslit honahotóofòokok onayakchichit ohipahchootoolo, chofkonikáamiya.
+ <i>Well, a bear is like a pig, so since it's like a pig they would bring it and roast it all I suppose and then use it to make yakchi and that's how they'd eat it with the bones.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Itto ittofalaktoyon hopáhkit hayweykafa<b><i>yáami</i></b>káamin hislichiyók istóoɬok.
+ <i>Some sticks, forked sticks, take them and stake them down as far away, for instance as the highway is (from the house).</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+ <i>(Adv)</i>
+&nbsp;<i>verb suffix indicating exactly that action (?)</i>
+&nbsp;<font face="Arial">«</font>Istapofilkan ochana kolofka istapofilkahchon stapofkat stapofkat akkamíhchi<b><i>yáam</i></b>ok.
+ <i>Then they would blow on it with a piece of cut metal blowing tube and keep blowing and that's how they would do it.</i> <font size="0">(PSF)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="-yáɬɬi"></a>-yáɬɬi</b> </font>
+&nbsp;1.&nbsp;
+ <i>(Adv)</i>
+<font size="+2">always, only, ever</font>
+&nbsp;<i>verb suffix indicating the exclusivity of the action</i>
+&nbsp;<font face="Arial">«</font>Chichoba paapatli<b><i>yáɬɬ</i></b>ok ommin. Akkami<b><i>yáɬɬ</i></b>on híichalihchoolikha. Chichoba hopaapatlikáhmi<b><i>yáɬɬ</i></b>on.
+ <i>They only put it on the horse, that's all I ever saw. They always used to put it on the horse.</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>óyhàasiiyok hoɬoolin swaliikastóobaasin hoɬooli<b><i>yáɬɬi</i></b>n...
+ <i>They all chased him and he kept on running and they just kept chasing him.</i> <font size="0">(RAS)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Askáakahchókkota homaɬatliista aatik aatik assaliikahchiisaama máamòosin ohibi<b><i>yáɬɬi</i></b>hchon ommin.
+ <i>They couldn't go out because they were scared since if anyone went out they would always kill them.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hichasbannaayok ilachitík ohikhíicho<b><i>yáɬɬi</i></b>stóobaasáapok.
+ <i>They wanted to see them so they went but they never did see them.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+ <i>(Modf)</i>
+&nbsp;<i>noun (or demonstrative pronoun) suffix indicating the noun alone</i>
+&nbsp;<font face="Arial">«</font>Mootoolín naaɬiilka háhpakáami<b><i>yáɬɬii</i></b>ya íksotoolin.
+ <i>But then there never was any of those newer kinds of preaching around here.</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Holokoochiimon mikko<b><i>yáɬɬ</i></b>on hohichahch ommihchootoska?
+ <i>When they elected a chief, did they used to look up to the chief alone?</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Iyaani<b><i>yáɬɬ</i></b>ok intalàakatoomáaⁿɬin íisastóobasáapok intohnot ibisnáalok holihtóot tallichit náasóot achihlitoompa<b><i>yáɬɬ</i></b>ok.
+ <i>They just had that land that was set aside, but that was all and they lived a long time like that, they worked, they built for example fences themselves, they planted things that they ate all the time.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasalchiyootok isnakaaɬan holisso sobayka<b><i>yáɬɬ</i></b>ok nàahon ìisahchonko himàkaya.
+ <i>The planting was gone and the only thing they had was the school and that's the way they lived up to this day.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

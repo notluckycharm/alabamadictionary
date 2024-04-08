@@ -1,0 +1,3075 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">P</font></center><br>
+<br><font size="+2"><b><a name="paabalàaka"></a>paabalàaka</b> </font>
+<font size="+2">to lie down on one's side (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>paabalàahiska, -, -</i>)
+&nbsp; [paa- /balaa-ka<sup>1</sup>]
+ [<i>fgr</i>]
+ ☞<a href="b.htm#balàaka">balàaka</a>
+<br><font size="+2"><b><a name="paabalàali"></a>paabalàali</b> </font>
+<font size="+2">to lay (one object) down on top of</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paabalàachi, paabalàahili, paabalàahachi</i>)
+&nbsp; [paa- /balaa-li]
+ [<i>fgr</i>]
+ ☞<a href="b.htm#balàali">balàali</a>
+<br><font size="+2"><b><a name="paabállàali"></a>paabállàali</b> </font>
+<font size="+2">to have (one object) lying on top of something, have propped up </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>paabállàachi, paabállàahili, paabállàahachi</i>)
+&nbsp; [paa- /balaa-li]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Iyyin nàason paabállàalihchi.
+ <i>She has her feet propped up on something.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#paabalàali">paabalàali</a>
+<br><font size="+2"><b><a name="paabokanta"></a>paabokanta</b> </font>
+<font size="+2">to be humpbacked, hunchbacked, stooped</font>
+ <i>Usage: </i>Older word.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [paa- (/bokanta)]
+ <i>Var: paabokonta</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="paabokíyyo"></a>paabokíyyo</b> </font>
+ Neg.
+ ☞<a href="p.htm#paaboyya">paaboyya</a>
+<br><font size="+2"><b><a name="paabokko"></a>paabokko</b> </font>
+<font size="+2">to be hunchbacked, humpbacked</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [paa- /bokko]
+ ☞<a href="b.htm#bokko">bokko</a>
+<br><font size="+2"><b><a name="paabokonta"></a>paabokonta</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#paabokanta">paabokanta</a>&nbsp;
+<br><font size="+2"><b><a name="paabonotka"></a>paabonotka</b> </font>
+<font size="+2">to be round-shouldered, bent over, hunchbacked, have a crooked back</font>
+ <i>Usage: </i>Newer word.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [paa- /bonot-ka<sup>1</sup>]
+ ☞<a href="b.htm#bonotka">bonotka</a>
+<br><font size="+2"><b><a name="paaboyya"></a>paaboyya</b> </font>
+<font size="+2">to walk over, walk across a span</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>paabochiyya, paaboliyya, paabohachiyya</i>)
+&nbsp; [paa- -/boyya]
+&nbsp;<font face="Arial">«</font>Ittopatasin paabochiyyoⁿ?
+ <i>Did you cross over the footbridge?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ispaaboyyat spaaɬopótlit stamamàakahchoolikha, paani tàɬɬot ommiimon.
+ <i>They walked on top of it crossing over and that is how they used to go, if it was on the other side of the creek.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#paabokíyyo">paabokíyyo</a></i>
+ Neg.
+<br><font size="+2"><b><a name="paachaaha"></a>paachaaha</b> </font>
+<font size="+2">to be over full, overloaded</font>
+&nbsp; [paa- /chaaha]
+ <i>Var: paacháaha</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="c.htm#chaaha">chaaha</a>
+<br><font size="+2"><b><a name="paachakissa"></a>paachakissa</b> </font>
+<font size="+2">to be sticky on top (as a table)</font>
+&nbsp; [paa- /chakissa]
+ ☞<a href="c.htm#chakissa">chakissa</a>
+<br><font size="+2"><b><a name="paachakissachi"></a>paachakissachi</b> </font>
+<font size="+2">to glue, cement on (as formica on top of a counter)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>paachakissachiska, paachakissachilka, paachakissachaska</i>)
+&nbsp;(<i>paachakissachitiska, paachakissachitilka, paachakissachitaska</i>)
+&nbsp; [paa- /chakissa-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#paachakissa">paachakissa</a>
+<br><font size="+2"><b><a name="paachanahki"></a>paachanahki</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">backbone, spinal column </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [paa- /chanahki]
+&nbsp;2.&nbsp;
+<font size="+2">to be so skinny the backbone protrudes</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Paachanáhkòosi.
+ <i>He's real skinny.</i><font face="Arial">»</font>
+ ☞<a href="c.htm#chanahki">chanahki</a>
+<br><font size="+2"><b><a name="paachìika"></a>paachìika</b> </font>
+<font size="+2">to perch on, sit on top of, alight on (of several)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>-, paachìihilka, paachìihaska</i>)
+&nbsp; [paa- /chii-ka<sup>1</sup>]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Chichoba paachìikásimáaɬitáskan...
+ <i>All there was was just to ride horse back so....</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+ ☞<a href="c.htm#chiika2">chiika<sup>2</sup></a>
+<br><font size="+2"><b><a name="paachikìika"></a>paachikìika</b> </font>
+<font size="+2">to perch on, sit on top of, alight on (of a few)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>-, paachikìihilka, paachikìihaska</i>)
+&nbsp; [paa- /chikìi-ka<sup>1</sup>]
+ [<i>fgr</i>]
+ ☞<a href="c.htm#chikìika">chikìika</a>
+<br><font size="+2"><b><a name="paachikìili"></a>paachikìili</b> </font>
+<font size="+2">to lay down (a few things)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paachikìichi, paachikìihili, paachikìihachi</i>)
+&nbsp; [paa- /chikìi-li]
+ ☞<a href="c.htm#chikìili">chikìili</a>
+<br><font size="+2"><b><a name="paachíkkìika"></a>paachíkkìika</b> </font>
+<font size="+2">to ride, sit on top of (of a few)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>paachíkkìihiska, paachíkkìihilka, paachíkkìihaska</i>)
+&nbsp; [paa- /chikìi-ka<sup>1</sup>]
+ [<i>ggr</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#paachikìika">paachikìika</a>
+<br><font size="+2"><b><a name="paachókbaski"></a>paachókbaski</b> </font>
+<font size="+2">pew, any long bench</font>
+ <i>Usage: </i>Older word.
+&nbsp; [paa- /chokòo-ka<sup>1</sup> /baski]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: paachokókbaski</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="paachókkolìichi"></a>paachókkolìichi</b> </font>
+<font size="+2">to have left (one thing) sitting out on</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paachókkochìichi, paachókkohilìichi, paachókkohachìichi</i>)
+&nbsp; [paa- /chokoo-li-chi<sup>1</sup>]
+ [<i>ggr</i>]
+ ☞<a href="p.htm#paachokoolichi">paachokoolichi</a>
+<br><font size="+2"><b><a name="paachókkòoli"></a>paachókkòoli</b> </font>
+<font size="+2">to ride (a horse), sit on top of, be settled on, ride in a car, be perched on (as a bird) (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>paachókkòochi, -, -</i>)
+&nbsp; [paa- /chokoo-li]
+ [<i>ggr</i>]
+ ☞<a href="p.htm#paachokòoli">paachokòoli</a>
+<br><font size="+2"><b><a name="paachokókbaski"></a>paachokókbaski</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#paachókbaski">paachókbaski</a>&nbsp;
+<br><font size="+2"><b><a name="paachokòoka"></a>paachokòoka</b> </font>
+<font size="+2">anything for sitting on</font>
+ (may refer to chair, piano bench, couch)
+&nbsp; [paa- /chokoo-ka<sup>1</sup>]
+ [<i>fgr</i>]
+ <i>Var: paachòoka</i>
+&nbsp;<font face="Arial">«</font>Paachòokan paachokòoli.
+ <i>Sit on the chair.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#paachokòoli">paachokòoli</a>
+<br><font size="+2"><b><a name="paachokòoka baski"></a>paachokòoka baski</b> </font>
+<font size="+2">any long piece of sitting furniture</font>
+ (couch, divan, sofa, bench, pew)
+ <i>Usage: </i>Newer word.
+&nbsp; [paa- /chokoo-ka<sup>1</sup> /baski]
+<br><font size="+2"><b><a name="paachokòoka baskosi"></a>paachokòoka baskosi</b> </font>
+<font size="+2">loveseat</font>
+&nbsp; [paa- /chokoo-ka<sup>1</sup> /baski-osi]
+<br><font size="+2"><b><a name="paachokòoka chaahasi"></a>paachokòoka chaahasi</b> </font>
+<font size="+2">highchair</font>
+&nbsp; [paa- /chokoo-ka<sup>1</sup> /chaaha-osi]
+<br><font size="+2"><b><a name="paachokòoka choba"></a>paachokòoka choba</b> </font>
+<font size="+2">any long sitting furniture</font>
+ (may refer to couch, sofa, divan)
+ <i>Usage: </i>Modern word.
+&nbsp; [paa- /chokoo-ka<sup>1</sup> /choba]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="paachokòoka ilbipaabalàaka"></a>paachokòoka ilbipaabalàaka</b> </font>
+<font size="+2">chair arm, armrest</font>
+&nbsp; [paa- /chokoo-ka<sup>1</sup> /ilbi paa- /balàa-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="paachokòoka imachanàilka"></a>paachokòoka imachanàilka</b> </font>
+<font size="+2">back of a chair</font>
+&nbsp; [paa- /chokoo-ka<sup>1</sup> im- /achanàa&lt;il&gt;-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="paachokòoka intonòoli íisa"></a>paachokòoka intonòoli íisa</b> </font>
+<font size="+2">wheelchair</font>
+&nbsp; [paa- /chokoo-ka<sup>1</sup> im- /tono(t)-li /(i)sa]
+<br><font size="+2"><b><a name="paachokòoka istiyyabooli"></a>paachokòoka istiyyabooli</b> </font>
+<font size="+2">seat of a chair</font>
+&nbsp; [paa- /chokoo-ka<sup>1</sup> ist-im- /yaboh-li]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="paachokòoka iswinàaka"></a>paachokòoka iswinàaka</b> </font>
+<font size="+2">rocking chair</font>
+&nbsp; [paa- /chokoo-ka<sup>1</sup> ist- /winàa-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: paachòoka iswinàaka</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="paachokòoka ittabi"></a>paachokòoka ittabi</b> </font>
+<font size="+2">chair leg</font>
+&nbsp; [paa- /chokoo-ka<sup>1</sup> /ittabi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="paachokòokasi"></a>paachokòokasi</b> </font>
+<font size="+2">stool</font>
+&nbsp; [paa- /chokoo-ka<sup>1</sup>-osi]
+<br><font size="+2"><b><a name="paachokòokasi iyyi paachikìika"></a>paachokòokasi iyyi paachikìika</b> </font>
+<font size="+2">foot stool</font>
+&nbsp; [paa- /chokoo-ka<sup>1</sup>-osi /iyyi paa- /chikìi-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="paachokòoli"></a>paachokòoli</b> </font>
+<font size="+2">to sit on top of, perch, alight (as a bird), mount (a horse) (of one) </font>
+ <i>Usage: </i>Newer word.
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paachokòochi, -, -</i>)
+&nbsp; [paa- /chokoo-li]
+ [<i>fgr</i>]
+ ☞<a href="c.htm#chokòoli">chokòoli</a>
+<br><font size="+2"><b><a name="paachokoolichi"></a>paachokoolichi</b> </font>
+<font size="+2">to set (one object), seat on top of, to put on top of (e.g. a rock on a stump, a biscuit on the table)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-/3</font>
+&nbsp;(<i>paachokoochichi, paachokoohilichi, paachokoohachichi</i>)
+&nbsp; [paa- /chokoo-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Mobìlkan paachokooliichok staɬɬo.
+ <i>He put them in the car and took them.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#paachokòoli">paachokòoli</a>
+<br><font size="+2"><b><a name="paachòoka"></a>paachòoka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#paachokòoka">paachokòoka</a>&nbsp;
+<br><font size="+2"><b><a name="paachòoka iswinàaka"></a>paachòoka iswinàaka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#paachokòoka iswinàaka">paachokòoka iswinàaka</a>&nbsp;
+<br><font size="+2"><b><a name="paachootli"></a>paachootli</b> </font>
+<font size="+2">to jump on, attack (one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paachotchi, paachothili, paachothachi</i>)
+&nbsp; [prob. paa- /chofot-li]
+ ☞<a href="c.htm#chootli">chootli</a>
+<br><font size="+2"><b><a name="paafihka"></a>paafihka</b> </font>
+<font size="+2">to spray with (e.g. hair spray or insecticide), spread with</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paafihiska, paafihilka, paafihaska</i>)
+&nbsp; [paa- /fih-ka<sup>1</sup>]
+ <i>Neg: </i>paafiíkko
+&nbsp;<font face="Arial">«</font>Chihissin paafiiska.
+ <i>You sprayed your hair.</i><font face="Arial">»</font>
+ ☞<a href="f.htm#fihka">fihka</a>
+<br><font size="+2"><b><a name="paafiíkko"></a>paafiíkko</b> </font>
+ Neg.
+ ☞<a href="p.htm#paafihka">paafihka</a>
+<br><font size="+2"><b><a name="paahaaɬi"></a>paahaaɬi</b> </font>
+<font size="+2">to put on (overshoes) </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>paahaɬchi, paahaɬhili, paahaɬhachi</i>)
+&nbsp; [poss. paa- /haɬi]
+ ☞<a href="h.htm#haaɬi">haaɬi</a>
+<br><font size="+2"><b><a name="paahachàali"></a>paahachàali</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to step on, climb (steps or rungs); to do someone wrong, put down someone (of one)</font>
+ <i>Usage: </i>Second definition is idiomatic.
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paahachàachi, paahachàahili, paahachàahachi</i>)
+&nbsp; [paa- /hachaa-li]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Haatoliiyan paahachàastobalitok ɬakoffìichitok ilchatammiti.
+ <i>I tried to climb up the ladder but I missed my step and fell off.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">baseman </font>
+ ☞<a href="h.htm#hachàali">hachàali</a>
+<br><font size="+2"><b><a name="paahachaalichi"></a>paahachaalichi</b> </font>
+<font size="+2">to put or set (one object) down on (as a shelf)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-/3</font>
+&nbsp;(<i>paahachaachichi, paahachaahilichi, paahachaahachichi</i>)
+&nbsp; [paa- /hachaa-li-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#paahachàali">paahachàali</a>
+<br><font size="+2"><b><a name="paahahpa"></a>paahahpa</b> </font>
+<font size="+2">to be renovated, be made like new; to be renewed (as a license)</font>
+&nbsp;<font color="#800080" size="+1">3; CHA-</font>
+&nbsp; [paa- /hahpa]
+&nbsp;<font face="Arial">«</font>Paahahpatíkko.
+ <i>It's not renewed yet (they haven't fixed it yet, haven't started on it or haven't finished with it).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Paahakíhpo.
+ <i>They haven't renovated it yet (they finished with it but haven't fixed the problem).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chipaahahpoolo `born again'katískaama.
+ <i>You can be renovated if you are `born again'</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="h.htm#hahpa">hahpa</a>
+<br><font size="+2"><b><a name="paahahpachi"></a>paahahpachi</b> </font>
+<font size="+2">to make like new, completely overhaul, rebuild, renovate</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>paahahpachitiska, paahahpachitilka, paahahpachitaska</i>)
+&nbsp;(<i>paahahpachiska, paahahpachilka, paahahpachaska</i>)
+&nbsp; [paa- /hahpa-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chimpaahahpachili.
+ <i>I renewed it for you.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#paahahpa">paahahpa</a>
+<br><font size="+2"><b><a name="paahamoffi"></a>paahamoffi</b> </font>
+<font size="+2">to have a dislocation, sprain (in the upper body) </font>
+&nbsp;<font color="#800080" size="+1">3/CHA-</font>
+&nbsp; [paa- /hamof-li]
+&nbsp;<font face="Arial">«</font>Chawakhak chapaahamoffitoha.
+ <i>My shoulder is sprained.</i><font face="Arial">»</font>
+ ☞<a href="h.htm#hamoffi">hamoffi</a>
+<br><font size="+2"><b><a name="paahátchàali"></a>paahátchàali</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be standing on</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>paahátchàachi, paahátchàahili, paahátchàahachi</i>)
+&nbsp; [paa- /hachaa-li]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Trophy piyaana páanan paahátchàalin.
+ <i>The trophy's on the piano.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">baseman </font>
+&nbsp;<font face="Arial">«</font>Fasbeyskafaayon paahátchàali.
+ <i>I'm a first baseman.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#paahachàali">paahachàali</a>
+<br><font size="+2"><b><a name="paahátchalìichi"></a>paahátchalìichi</b> </font>
+<font size="+2">to rest on (the elbows)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>paahátchachìichi, paahátchahilìichi, paahátchahachìichi</i>)
+&nbsp; [paa- /hachaa-li-chi<sup>1</sup>]
+ [<i>ggr</i>]
+ ☞<a href="p.htm#paahachaalichi">paahachaalichi</a>
+<br><font size="+2"><b><a name="paahipli"></a>paahipli</b> </font>
+<font size="+2">for there to be snow on top of</font>
+&nbsp; [paa- /hip-li]
+ ☞<a href="h.htm#hipli">hipli</a>
+<br><font size="+2"><b><a name="paahísli"></a>paahísli</b> </font>
+<font size="+2">to be standing on something</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>paahíssi, paahíshili, paahíshachi</i>)
+&nbsp; [paa- /his-li]
+ [<i>lgr</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="h.htm#híisli">híisli</a>
+<br><font size="+2"><b><a name="paahislichi"></a>paahislichi</b> </font>
+<font size="+2">to put (plural objects) on a shelf</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paahissichi, paahishilichi, paahishachichi</i>)
+&nbsp; [paa- /his-li-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="h.htm#hislichi">hislichi</a>
+<br><font size="+2"><b><a name="paaholikfa"></a>paaholikfa</b> </font>
+<font size="+2">shirt, blouse, over-garment, outer wear </font>
+&nbsp; [paa- /ho&lt;li&gt;kfa]
+&nbsp;<font face="Arial">«</font>Chimpaaholikfak chipaasiipko.
+ <i>Your shirt is coming untucked.</i><font face="Arial">»</font>
+ ☞<a href="h.htm#holikfa">holikfa</a>
+<br><font size="+2"><b><a name="paaholisso"></a>paaholisso</b> </font>
+<font size="+2">to be written on, filled out, signed</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [paa- /ho&lt;li&gt;sso]
+&nbsp;<font face="Arial">«</font>Paaholissobáano.
+ <i>There's writing on it.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#paahosso">paahosso</a>
+<br><font size="+2"><b><a name="paahoopa"></a>paahoopa</b> </font>
+<font size="+2">to have a lame back, have a backache </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [paa- /hoopa]
+&nbsp;<font face="Arial">«</font>Chapaahoopa.
+ <i>I have a backache.</i><font face="Arial">»</font>
+ ☞<a href="h.htm#hoopa">hoopa</a>
+<br><font size="+2"><b><a name="paahosso"></a>paahosso</b> </font>
+<font size="+2">to fill out (a form)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paahochisso, paaholisso, paahohachisso</i>)
+&nbsp; [paa- /hosso]
+&nbsp;<font face="Arial">«</font>Istimalóotlit anòolok máamok chiholchifan paahosso.
+ <i>Fill it all out and sign your name to it.</i><font face="Arial">»</font>
+ ☞<a href="h.htm#hosso">hosso</a>
+<br><font size="+2"><b><a name="paahossochi"></a>paahossochi</b> </font>
+<font size="+2">to rewrite; to transcribe, translate</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paahossochitiska, paahossochitilka, paahossochitaska</i>)
+&nbsp; [paa- /hosso-chi<sup>2</sup>]
+ ☞<a href="h.htm#hossochi">hossochi</a>
+<br><font size="+2"><b><a name="paahoyya"></a>paahoyya</b> </font>
+<font size="+2">to drip on</font>
+&nbsp;<font color="#800080" size="+1">3/CHA-</font>
+&nbsp; [paa- /hoyya]
+ ☞<a href="h.htm#hoyya">hoyya</a>
+<br><font size="+2"><b><a name="paahoyyachi"></a>paahoyyachi</b> </font>
+<font size="+2">to cause to drip on</font>
+&nbsp;<font color="#800080" size="+1">-LI/3/CHA-</font>
+&nbsp;(<i>paahoyyachitiska, paahoyyachitilka, paahoyyachitaska</i>)
+&nbsp; [paa- /hoyya-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chapaahoyyachitisko.
+ <i>You're dripping it on me.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#paahoyya">paahoyya</a>
+<br><font size="+2"><b><a name="paakalli"></a>paakalli</b> </font>
+<font size="+2">to erase; to sign (one's name); to correct in writing </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>paakalchi, paakalhili, paakalhachi</i>)
+&nbsp; [paa- /kal(af)-li]
+ [<i>dsfx1</i>]
+ ☞<a href="k.htm#kalaffi">kalaffi</a>
+<br><font size="+2"><b><a name="paakasohka"></a>paakasohka</b> </font>
+<font size="+2">to massage the back, rub the back</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paakasohiska, paakasohilka, paakasohaska</i>)
+&nbsp; [paa- /kasoh-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chipaakasohkalihchi.
+ <i>I'm massaging your back.</i><font face="Arial">»</font>
+ ☞<a href="k.htm#kasohka">kasohka</a>
+<br><font size="+2"><b><a name="paalapaachi"></a>paalapaachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#paalapaalichi">paalapaalichi</a>&nbsp;
+<br><font size="+2"><b><a name="paalapàali"></a>paalapàali</b> </font>
+<font size="+2">to get on the back or top of (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paalapàachi, -, -</i>)
+&nbsp; [paa- /lapah-li]
+&nbsp;<font face="Arial">«</font>Chapaalapàachínnàa!
+ <i>Don't get on me!</i><font face="Arial">»</font>
+ ☞<a href="l.htm#lapahli">lapahli</a>
+<br><font size="+2"><b><a name="paalapaalichi"></a>paalapaalichi</b> </font>
+<font size="+2">to applique; to put (one object) on the back of</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>paalapaachichi, paalapaahilichi, paalapaahachichi</i>)
+&nbsp; [paa- /lapaa-li-chi<sup>1</sup>]
+ <i>Var: paalapaachi</i>
+&nbsp;<font face="Arial">«</font>Aahoponka obáalosin paalapaachi.
+ <i>Put it on the back of the stove.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#paalapàali">paalapàali</a>
+<br><font size="+2"><b><a name="paalatíkko"></a>paalatíkko</b> </font>
+ Neg.
+ ☞<a href="p.htm#paalatka">paalatka</a>
+<br><font size="+2"><b><a name="paalatka"></a>paalatka</b> </font>
+<font size="+2">to trample, step on, stomp on</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paalatiska, paalatilka, paalataska</i>)
+&nbsp; [paa- /lat(as)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ <i>Neg: </i>paalatíkko
+ ☞<a href="l.htm#latka">latka</a>
+<br><font size="+2"><b><a name="pàalki"></a>pàalki</b> </font>
+<font size="+2">railroad train</font>
+ [<i>fgr</i>]
+ <i>Var: pàlki</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Yáalon pálkot íkson...
+ <i>There wasn't a train around here and so...</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Pàalkok óontitonkok páahko.
+ <i>There's a train coming, it's whistling.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#palki">palki</a>
+<br><font size="+2"><b><a name="paaɬiifka"></a>paaɬiifka</b> </font>
+<font size="+2">to strain one's back </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [paa- /ɬiif-ka<sup>1</sup>]
+ ☞<a href="ll.htm#ɬiiffi">ɬiiffi</a>
+<br><font size="+2"><b><a name="paaɬinitli"></a>paaɬinitli</b> </font>
+<font size="+2">to bruise the back </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [paa- /ɬinitli]
+ ☞<a href="ll.htm#ɬinitli">ɬinitli</a>
+<br><font size="+2"><b><a name="paaɬinko"></a>paaɬinko</b> </font>
+<font size="+2">to have a smooth top surface (as a table)</font>
+&nbsp; [paa- /ɬim(ich)ko]
+ [<i>dsfx1</i>]
+ ☞<a href="ll.htm#ɬinko">ɬinko</a>
+<br><font size="+2"><b><a name="paamaalichi"></a>paamaalichi</b> </font>
+<font size="+2">to throw down on top of</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-/3</font>
+&nbsp;(<i>paamaachichi, paamaahilichi, paamaahachichi</i>)
+&nbsp; [paa- /maa-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Siwaakolon yáamòosin hopaapatàalok chaklit hopaamaalìichok holihtàachin híichalikha.
+ <i>They would lay down a cypress about so long; I've seen them chop it down and throw it down to make a fence.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="m.htm#maalichi">maalichi</a>
+<br><font size="+2"><b><a name="páana"></a>páana</b> </font>
+<font size="+2">top side </font>
+&nbsp;<font face="Arial">«</font>Chasbakpáana.
+ <i>On top of my head.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Paayolimpa páanan paapiɬka.
+ <i>Put in on the top of the table.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Páanafìina.
+ <i>The very topmost (e.g. shelf).</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="m.htm#maapáanàasi">maapáanàasi</a></i>
+&nbsp;to be above
+<br><font size="+2"><b><a name="paanaɬi"></a>paanaɬi</b> </font>
+<font size="+2">to put in with, mix (one object) in</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paanaɬchi, paanaɬhili, paanaɬhachi</i>)
+&nbsp; [poss. /páana /aɬi]
+&nbsp;<font face="Arial">«</font>Champolin paanaɬiliti.
+ <i>I put sugar in it.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#paanaɬka">paanaɬka</a></i>
+&nbsp;to intermingle with
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittapaanaɬi">ittapaanaɬi</a></i>
+&nbsp;to mix (two together)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittapaanáɬko">ittapaanáɬko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittapaanaɬka">ittapaanaɬka</a></i>
+&nbsp;to be mixed together
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittapaanaɬíkko">ittapaanaɬíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="m.htm#maatittapaanaɬka">maatittapaanaɬka</a></i>
+&nbsp;to multiply
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittapaanakahlichi">ittapaanakahlichi</a></i>
+&nbsp;to mix together (more than two)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittapaanakaakachi">ittapaanakaakachi</a></i>
+&nbsp;to be mixed together
+<br><font size="+2"><b><a name="paanaɬka"></a>paanaɬka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to intermingle with, mix with (of one or one group)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paanaɬiska, -, -</i>)
+&nbsp; [/paanaɬi-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Akkok maapopaanaɬkakáhmin...
+ <i>That group came and kind of mixed with us.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to be mixed together (of different kinds of things); to be racially integrated</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#paanaɬi">paanaɬi</a>
+<br><font size="+2"><b><a name="paani"></a>paani</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#pahni">pahni</a>&nbsp;
+<br><font size="+2"><b><a name="paani achosòoli"></a>paani achosòoli</b> </font>
+<font size="+2">confluence of a stream or river (where it enters the sea)</font>
+&nbsp; [/paani /achosòo-li]
+<br><font size="+2"><b><a name="paanichoba"></a>paanichoba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#pahnichoba">pahnichoba</a>&nbsp;
+<br><font size="+2"><b><a name="paanilapaalika"></a>paanilapaalika</b> </font>
+<font size="+2">river bank</font>
+&nbsp; [/paani /lapaalika]
+<br><font size="+2"><b><a name="paanochi"></a>paanochi</b> </font>
+<font size="+2">to roost</font>
+&nbsp; [paa- /nochi]
+&nbsp;<font face="Arial">«</font>Foosik ittofan hopaanochi.
+ <i>The birds are roosting in a tree.</i><font face="Arial">»</font>
+ ☞<a href="n.htm#nochi">nochi</a>
+<br><font size="+2"><b><a name="paapasli"></a>paapasli</b> </font>
+<font size="+2">to wipe off the top of (to clean)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paapassi, paapashili, paapashachi</i>)
+&nbsp; [paa- /pas-li]
+&nbsp;<font face="Arial">«</font>Aayoolìmpafan aayampon paakanáalìichok paapasli.
+ <i>Clear the dishes from the table and wipe the top.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#pasli">pasli</a>
+<br><font size="+2"><b><a name="paapatàaka"></a>paapatàaka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be spread over the top of (of one)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [paa- /patàa-ka<sup>1</sup>]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Paapatkakáhchi impaapatáakok ommihchi ilkok...?
+ <i>Is it usually spread out for the saddle?</i> <font size="0">(PMB)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">asphalt, blacktop material</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#paapatàali">paapatàali</a>
+<br><font size="+2"><b><a name="paapatàali"></a>paapatàali</b> </font>
+<font size="+2">to spread over the top of</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>paapatàachi, paapatàahili, paapatàahachi</i>)
+&nbsp; [paa- /patàa-li]
+ <i>Pl: </i>paapatli
+&nbsp;<font face="Arial">«</font>Siwaakolon yáamòosin hopaapatàalok chaklit hopaamaalìichok holihtàachin híichalikha.
+ <i>They would lay down a cypress about so long; I've seen them chop it down and throw it down to make a fence.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="p.htm#patàali">patàali</a>
+<br><font size="+2"><b><a name="paapatka"></a>paapatka</b> </font>
+<font size="+2">saddle</font>
+&nbsp; [paa- /pat(àa)-ka<sup>1</sup>]
+ ☞<a href="p.htm#paapatli">paapatli</a>
+<br><font size="+2"><b><a name="paapatka imbahta"></a>paapatka imbahta</b> </font>
+<font size="+2">saddlebags</font>
+&nbsp; [paa- /pat(àa)-ka<sup>1</sup> im- /bahta]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="paapatka impaapatkachi"></a>paapatka impaapatkachi</b> </font>
+<font size="+2">saddle blanket</font>
+&nbsp; [paa- /pat(àa)-ka<sup>1</sup> im-paa- /pat(àa)-ka<sup>1</sup>-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="paapatka lapàali"></a>paapatka lapàali</b> </font>
+<font size="+2">saddle crunch, silver trim on a saddle</font>
+&nbsp; [paa- /pat(àa)-ka<sup>1</sup> /lapaa-li]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="paapatli"></a>paapatli</b> </font>
+<font size="+2">to saddle (a horse)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>paapatchi, paapathili, paapathachi</i>)
+&nbsp; [paa- /pat(àa)-li]
+&nbsp;<font face="Arial">«</font>Chichoban paapatlilo.
+ <i>I saddled the horse.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#patli">patli</a>
+<br><font size="+2"><b><a name="paapiɬka"></a>paapiɬka</b> </font>
+<font size="+2">to put down (one object) on top of</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-/3</font>
+&nbsp;(<i>paapiɬiska, paapiɬilka, paapiɬaska</i>)
+&nbsp; [paa- /piɬ-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Píila yaabannit sòolit ihto mintóot ibachasàakaimon holihtachòoba yiɬápliimok ìisaamon holihta háhpa stoɬàachit yaabannit oshopaapíɬkat istamaakahchoolikha.
+ <i>They would just carry it on their shoulder and carry it in the crook of their arms and if another field was to be added on to, then some would be there to tear down the old fence and some would be bringing the new fence rails on their shoulder and would go and stack them up.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="p.htm#piɬka">piɬka</a>
+<br><font size="+2"><b><a name="paapoochka"></a>paapoochka</b> </font>
+<font size="+2">to squirt on (something or someone)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paapoochiska, paapoochilka, paapoochaska</i>)
+&nbsp; [paa- /pooch-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chipaapoochkali.
+ <i>I squirted on you.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#poochka">poochka</a>
+<br><font size="+2"><b><a name="paasatta"></a>paasatta</b> </font>
+<font size="+2">armadillo </font>
+&nbsp; [paa- /satta]
+ ☞<a href="s.htm#satta">satta</a>
+<br><font size="+2"><b><a name="paasiipka"></a>paasiipka</b> </font>
+<font size="+2">to have (the shirt) come untucked</font>
+&nbsp;<font color="#800080" size="+1">3/CHA-</font>
+&nbsp; [paa- /siip-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chimpaaholikfak chipaasiipko.
+ <i>Your shirt is coming untucked.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#siipka">siipka</a>
+<br><font size="+2"><b><a name="paasìkhi"></a>paasìkhi</b> </font>
+<font size="+2">camel </font>
+&nbsp; [paa- /sìkhi]
+ ☞<a href="s.htm#sikhi">sikhi</a>
+<br><font size="+2"><b><a name="paasoofi"></a>paasoofi</b> </font>
+<font size="+2">to spill (a liquid) on, squirt on; to baptize with the hand</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paasoofchi, paasoofhili, paasoofhachi</i>)
+&nbsp; [prob. paa- /sofi]
+ ☞<a href="s.htm#soofi">soofi</a>
+<br><font size="+2"><b><a name="paasopatka"></a>paasopatka</b> </font>
+<font size="+2">to be bald, cleared off on top, have a clean surface</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [paa- /sopat-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Paasopatko, màakaya.
+ <i>The top is clean now.</i><font face="Arial">»</font>
+ ☞<a href="s.htm#sopatli">sopatli</a>
+<br><font size="+2"><b><a name="paatalàaka"></a>paatalàaka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to have just been set out or put on top of (of one)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [paa- /talàa-ka<sup>1</sup>]
+&nbsp;2.&nbsp;
+<font size="+2">anything to put something on or in</font>
+ (may refer to cup, plate, bucket, table, blocks)
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#talàali">talàali</a>
+<br><font size="+2"><b><a name="paatalbòoli"></a>paatalbòoli</b> </font>
+<font size="+2">to fix, repair, renovate</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>paatalbòochi, paatalbòohili, paatalbòohachi</i>)
+&nbsp; [paa- /talbòo-li]
+ ☞<a href="t.htm#talbòoli">talbòoli</a>
+<br><font size="+2"><b><a name="paatállàaka"></a>paatállàaka</b> </font>
+<font size="+2">to be located on top of something (of one)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [paa- /talàa-ka<sup>1</sup>]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Aayoolìmpafan paatállàakahchi.
+ <i>The coffee cup is set out on the top of the table.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#paatalàaka">paatalàaka</a>
+<br><font size="+2"><b><a name="paatilìika"></a>paatilìika</b> </font>
+<font size="+2">to spray with, pour (water) on, water (e.g. the lawn)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paatilìihiska, paatilìihilka, paatilìihaska</i>)
+&nbsp; [paa- /tilìi-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Okin paatilìikalaahó hassin.
+ <i>I'm going to water the grass.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Okin paatilìiskahchoⁿ?
+ <i>Did you water?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàaspakaalin okin paatilìika.
+ <i>Water the flowers.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tilìika">tilìika</a>
+<br><font size="+2"><b><a name="paatobiila"></a>paatobiila</b> </font>
+<font size="+2">to be burned on top</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [paa- /tobiila]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#tobiila">tobiila</a>
+<br><font size="+2"><b><a name="paatobiilachi"></a>paatobiilachi</b> </font>
+<font size="+2">to burn the top of (especially in baking) </font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paatobiilchichi, paatobiilhilichi, paatobiilhachichi</i>)
+&nbsp; [prob. paa- /tobila-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#paatobiila">paatobiila</a>
+<br><font size="+2"><b><a name="paatofka"></a>paatofka</b> </font>
+<font size="+2">to spit on</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paatofiska, paatofilka, paatofaska</i>)
+&nbsp; [paa- /tof-ka<sup>1</sup>]
+ ☞<a href="t.htm#tofka">tofka</a>
+<br><font size="+2"><b><a name="paatohno"></a>paatohno</b> </font>
+<font size="+2">to urge forward, push forward, send (a messenger), delegate, get someone to do something</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paatochihno, paatohilihno, paatohachihno</i>)
+&nbsp; [paa- /tohno]
+&nbsp;<font face="Arial">«</font>Philipkan Roykan Sallin innaaɬiikalaan paatohnotoha.
+ <i>Philip sent Roy to talk to Sally.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máafon paatohnotík akkon hohochifáaposkáamon oobaltámmin ommikha.
+ <i>That one he was pushing, but even though his name was on the ballot, he got behind.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#paatokíhno">paatokíhno</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="m.htm#maapaatohno">maapaatohno</a></i>
+&nbsp;to send (someone) as a messenger to
+<br><font size="+2"><b><a name="paatokíhno"></a>paatokíhno</b> </font>
+ Neg.
+ ☞<a href="p.htm#paatohno">paatohno</a>
+<br><font size="+2"><b><a name="paatokɬoyotli"></a>paatokɬoyotli</b> </font>
+<font size="+2">to drool on, slobber on</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paatokɬoyotchi, paatokɬoyothili, paatokɬoyothachi</i>)
+&nbsp; [paa- /tokɬoyot-li]
+ ☞<a href="t.htm#tokɬolotli">tokɬolotli</a>
+<br><font size="+2"><b><a name="paatoɬopli"></a>paatoɬopli</b> </font>
+<font size="+2">to have dandruff </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [paa- /toɬop-li]
+&nbsp;<font face="Arial">«</font>Ampaatoɬopli.
+ <i>My kid has dandruff.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chapaatoɬopli.
+ <i>I have dandruff.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#toɬopli">toɬopli</a>
+<br><font size="+2"><b><a name="paawoksi"></a>paawoksi</b> </font>
+<font size="+2">to have the hair or feathers stand up</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [paa- /woksi]
+&nbsp;<font size="0">(IB)</font>
+ ☞<a href="w.htm#wooksi">wooksi</a>
+<br><font size="+2"><b><a name="paayaamatli"></a>paayaamatli</b> </font>
+<font size="+2">to scatter (e.g. clothes or papers) around on a surface</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paayaamatchi, paayaamathili, paayaamathachi</i>)
+&nbsp; [paa- /aamat-li]
+ <i>Var: paayahamatli</i>
+&nbsp;<font size="0">(DB)</font>
+ ☞<a href="a.htm#aamatli">aamatli</a>
+<br><font size="+2"><b><a name="paayaasihli"></a>paayaasihli</b> </font>
+<font size="+2">to rinse</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paayaasihchi, paayaasihhili, paayaasihhachi</i>)
+&nbsp; [paa- /aasih-li]
+ ☞<a href="a.htm#aasihli">aasihli</a>
+<br><font size="+2"><b><a name="paayàaya"></a>paayàaya</b> </font>
+<font size="+2">to get on (someone's back or head), be located on (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paayachìiya</i>)
+&nbsp; [paa- /aya]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Chapaayàayo.
+ <i>It's on my back.</i><font face="Arial">»</font>
+ ☞<a href="a.htm#àaya">àaya</a>
+<br><font size="+2"><b><a name="paayahamatli"></a>paayahamatli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#paayaamatli">paayaamatli</a>&nbsp;
+<br><font size="+2"><b><a name="paayalotka"></a>paayalotka</b> </font>
+<font size="+2">to fill an area, take up all the space</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>paayalotiska, paayalotilka, paayalotaska</i>)
+&nbsp; [paa- /alot-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Mootok mootoholín paayalotkaláot ommoolo.
+ <i>But now (the people) might be going to fill it (the land) up.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+ ☞<a href="a.htm#alotka">alotka</a>
+<br><font size="+2"><b><a name="paayíisa"></a>paayíisa</b> </font>
+<font size="+2">to be located on top of something, live on a certain spot (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>-, paayíisatilka, paayíisataska</i>)
+&nbsp; [paa- /(i)sa]
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Albaamo-Kosaatihaya ihaani paayíisan kovmintkak iⁿfaylitoha.
+ <i>The Alabama-Coushatta live on top of this land that the government let them have.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Foosik aayoolìmpafan paayíisat oipahchommo, imilpan.
+ <i>The birds are on the table and eating the food.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#paayisa">paayisa</a>
+<br><font size="+2"><b><a name="paayíkso"></a>paayíkso</b> </font>
+ Neg.
+<font size="+2">to be lacking on top, missing on top, gone on top</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ ☞<a href="p.htm#paayisa">paayisa</a>
+<br><font size="+2"><b><a name="paayisa"></a>paayisa</b> </font>
+<font size="+2">to settle on, perch on, alight (as birds) (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, paayisatilka, paayisataska</i>)
+&nbsp; [paa- /(i)sa]
+ <i>Neg: </i>paayíkso
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Foosik aayoolìmpafan paayisati.
+ <i>The birds lighted on the table.</i><font face="Arial">»</font>
+ ☞<a href="i2.htm#isa">isa</a>
+<br><font size="+2"><b><a name="paayisaachi"></a>paayisaachi</b> </font>
+<font size="+2">to scatter, spread, or put on top of</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paayisaatiska, paayisaatilka, paayisaataska</i>)
+&nbsp; [paa- /(i)sa-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Holisson aayoolímpafan paayisaachi.
+ <i>Put the book on the table.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#paayisa">paayisa</a>
+<br><font size="+2"><b><a name="paayoɬa"></a>paayoɬa</b> </font>
+<font size="+2">to come right up to, approach</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>paayoɬchi, paayoɬhili, paayoɬhachi</i>)
+&nbsp; [paa- /oɬa]
+ ☞<a href="o.htm#oɬa">oɬa</a>
+<br><font size="+2"><b><a name="pachi"></a>pachi</b> </font>
+<font size="+2">pigeon, dove </font>
+<br><font size="+2"><b><a name="pachi alpooba"></a>pachi alpooba</b> </font>
+<font size="+2">dove, domesticated pigeon</font>
+&nbsp; [/pachi /a&lt;l&gt;poyba]
+ <i>Var: pachi alpoyba</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: pachalpooba</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: pachalpoyba</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="pachi alpoyba"></a>pachi alpoyba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#pachi alpooba">pachi alpooba</a>&nbsp;
+<br><font size="+2"><b><a name="pachinaaɬíika"></a>pachinaaɬíika</b> </font>
+<font size="+2">parrot </font>
+&nbsp; [/pachi /naaɬii-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="pachiyòsba"></a>pachiyòsba</b> </font>
+<font size="+2">dove, mourning dove, pigeon </font>
+&nbsp; [/pachi /yosba]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="paffichi"></a>paffichi</b> </font>
+<font size="+2">to take out, take away, pick, pull out, pluck</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>pafchichi, pafhilichi, pafhachichi</i>)
+&nbsp; [prob. /paf-li-chi<sup>2</sup>]
+&nbsp;<font face="Arial">«</font>Aatok sobáykon paffichiti.
+ <i>He embezzled, pilfered, stole (the money).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chintaatachòoba ittàasa nàasi alpooba káamiyon hopaffichiiyon sokhakáhchóot ahichamon hopolokoolìichon alìiyahchooton akkon ilhíichok ommikha.
+ <i>Your old daddy and I were appointed to watch over the livestock, such as the pigs, because they might take away some of them, so we went around looking after them.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#impaffichi">impaffichi</a></i>
+&nbsp;to take away from
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#impaffìichi">impaffìichi</a></i>
+&nbsp;catcher
+<br>&nbsp;&nbsp;<i><a href="o.htm#oopaffichi">oopaffichi</a></i>
+&nbsp;to take out of water
+<br><font size="+2"><b><a name="pahka"></a>pahka</b> </font>
+<font size="+2">to neigh, bray; to whoop, whistle (as a train)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>pahiska, pahilka, pahaska</i>)
+&nbsp; [/pah-ka$]
+&nbsp;<font face="Arial">«</font>Oiyyamíitaason ònkatok aatik páhkabáanat aayintolíhnafa amàakaayok pahkabáanat, aamaamàakat, ittimapiilat itto howakaykóot ommiimon ittoyaabanàakoot ommiimon howaakayòolit yaabanàalit ispaaɬopotlit.
+ <i>They would get very excited and everyone would whoop; when they were on their way to their place of work, they whooped; they whooped along the way there. They helped one another, when there were logs to lift and carry, they lifted and carried and lay them down across it (the creek)...</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ispahka">ispahka</a></i>
+&nbsp;to holler
+<br>&nbsp;&nbsp;<i><a href="p.htm#pahlichi">pahlichi</a></i>
+&nbsp;to honk (a car horn)
+<br><font size="+2"><b><a name="pahlichi"></a>pahlichi</b> </font>
+<font size="+2">to honk, blow (a car horn)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>pahchichi, pahhilichi, pahhachichi</i>)
+&nbsp; [/pah-li-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#pahka">pahka</a>
+<br><font size="+2"><b><a name="pahni"></a>pahni</b> </font>
+<font size="+2">creek, stream, bayou</font>
+ <i>Var: paani</i>
+<br>&nbsp;&nbsp;<i><a href="p.htm#pahnosi">pahnosi</a></i>
+&nbsp;creek
+<br><font size="+2"><b><a name="pahnichoba"></a>pahnichoba</b> </font>
+<font size="+2">river, esp. the Trinity River</font>
+&nbsp; [/pahni /choba]
+ <i>Var: paanichoba</i>
+<br><font size="+2"><b><a name="pahnosi"></a>pahnosi</b> </font>
+<font size="+2">creek</font>
+&nbsp; [/pahni-osi]
+&nbsp;<font size="0">(IB)</font>
+ ☞<a href="p.htm#pahni">pahni</a>
+<br><font size="+2"><b><a name="pahnosi ostachóssòoli"></a>pahnosi ostachóssòoli</b> </font>
+<font size="+2">tributary stream</font>
+&nbsp; [/pahni-osi ost- /achosòo-li]
+<br><font size="+2"><b><a name="pakaalakomahli"></a>pakaalakomahli</b> </font>
+<font size="+2">honeysuckle </font>
+ <i>(Lonicera spp)</i>
+&nbsp; [/pakaali /akomah-li]
+<br><font size="+2"><b><a name="pakaali"></a>pakaali</b> </font>
+<font size="+2">flower, blossom, bloom, cotton </font>
+<br><font size="+2"><b><a name="pakaali aaboyotlichi"></a>pakaali aaboyotlichi</b> </font>
+<font size="+2">cotton gin </font>
+&nbsp; [/pakaali aa- /boyot-li-chi<sup>1</sup>]
+ <i>Var: pakaali aaboyotli</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="pakaali bomboki"></a>pakaali bomboki</b> </font>
+<font size="+2">cotton boll</font>
+&nbsp; [/pakaali /bomboki]
+<br><font size="+2"><b><a name="pakaali hatka"></a>pakaali hatka</b> </font>
+<font size="+2">cotton </font>
+&nbsp; [/pakaali /hat-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="pakaali ilokfa"></a>pakaali ilokfa</b> </font>
+<font size="+2">cotton cloth; flowered cloth, material</font>
+&nbsp; [/pakaali /ilokfa]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="pakaali ittalòopa istalbòoka"></a>pakaali ittalòopa istalbòoka</b> </font>
+<font size="+2">cotton quilt batting</font>
+&nbsp; [/pakaali /ittalòopa ist- /talbòo-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="pakaali tanáyka"></a>pakaali tanáyka</b> </font>
+<font size="+2">cotton bat (in a roll, for quilting)</font>
+&nbsp; [/pakaali /tanay-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="pakaama"></a>pakaama</b> </font>
+<font size="+2">to be tame, gentle, domesticated; to be brave</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#pakakìimo">pakakìimo</a></i>
+ Neg.
+&nbsp;to be wild
+<br>&nbsp;&nbsp;<i><a href="p.htm#pakáamàasi">pakáamàasi</a></i>
+&nbsp;to be tame
+<br>&nbsp;&nbsp;<i><a href="p.htm#pakáamàssi">pakáamàssi</a></i>
+&nbsp;to be very tame
+<br>&nbsp;&nbsp;<i><a href="p.htm#pakaamachi">pakaamachi</a></i>
+&nbsp;to tame
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#pakaamachitilka">pakaamachitilka</a></i>
+&nbsp;taming
+<br><font size="+2"><b><a name="pakáamàasi"></a>pakáamàasi</b> </font>
+<font size="+2">to be tame, gentle</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/pakaama-osi]
+ [<i>lgr?</i>]
+ ☞<a href="p.htm#pakaama">pakaama</a>
+<br><font size="+2"><b><a name="pakaamachi"></a>pakaamachi</b> </font>
+<font size="+2">to tame (an animal), break (a horse)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>pakaamachitiska, pakaamachitilka, pakaamachitaska</i>)
+&nbsp;(<i>pakaamachiska, pakaamachilka, pakaamachaska</i>)
+&nbsp; [/pakaama-chi<sup>1</sup>]
+ ☞<a href="p.htm#pakaama">pakaama</a>
+<br><font size="+2"><b><a name="pakaamachitilka"></a>pakaamachitilka</b> </font>
+<font size="+2">taming </font>
+&nbsp; [/pakaama-chi<sup>1</sup>-tilka]
+ ☞<a href="p.htm#pakaamachi">pakaamachi</a>
+<br><font size="+2"><b><a name="pakáamàssi"></a>pakáamàssi</b> </font>
+<font size="+2">to be very tame, gentle, not a bit wild</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/pakaama-osi-hchi]
+ [<i>lgr?</i>]
+ ☞<a href="p.htm#pakaama">pakaama</a>
+<br><font size="+2"><b><a name="pakakìimo"></a>pakakìimo</b> </font>
+ Neg.
+<font size="+2">to be wild, not tame</font>
+ ☞<a href="p.htm#pakaama">pakaama</a>
+<br><font size="+2"><b><a name="pakfo"></a>pakfo</b> </font>
+<font size="+2">to be decayed, dried up, ruined, deteriorated, lifeless</font>
+<br><font size="+2"><b><a name="pakílko"></a>pakílko</b> </font>
+ Neg.
+<font size="+2">to be slow</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ ☞<a href="p.htm#palki">palki</a>
+<br><font size="+2"><b><a name="pakof-"></a>pakof-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#pakoffi">pakoffi</a></i>
+&nbsp;to fold
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ilichoopakoffi">ilichoopakoffi</a></i>
+&nbsp;to purse the lips
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#pakofka">pakofka</a></i>
+&nbsp;to be folded
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ichoopakofka">ichoopakofka</a></i>
+&nbsp;hem
+<br>&nbsp;&nbsp;<i><a href="p.htm#pakofka">pakofka</a></i>
+&nbsp;to close up (of a flower); to have pneumonia
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ibiipakohka">ibiipakohka</a></i>
+&nbsp;to curl up (one edge)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ibiipakohkachi">ibiipakohkachi</a></i>
+&nbsp;to curl up (more than one)
+<br>&nbsp;&nbsp;<i><a href="p.htm#pakohlichi">pakohlichi</a></i>
+&nbsp;to fold up
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#pakohkìicho">pakohkìicho</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ilbipakohlichi">ilbipakohlichi</a></i>
+&nbsp;to flex the hand
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ilbipakohkachi">ilbipakohkachi</a></i>
+&nbsp;to be closed (of the hand)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#pakohkachi">pakohkachi</a></i>
+&nbsp;to be folded up
+<br><font size="+2"><b><a name="pakoffi"></a>pakoffi</b> </font>
+<font size="+2">to fold, bend (one flexible object) with the hands; to close (a pocket knife)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>pakofchi, pakofhili, pakofhachi</i>)
+&nbsp; [/pakof-li]
+ ☞<a href="p.htm#pakof-">pakof-</a>
+<br><font size="+2"><b><a name="pakofka"></a>pakofka</b><sup>1</sup> </font>
+<font size="+2">to be folded, be bent, be closed up (of a pocket knife)</font>
+&nbsp; [/pakof-ka<sup>1</sup>]
+ ☞<a href="p.htm#pakoffi">pakoffi</a>
+<br><font size="+2"><b><a name="pakofka"></a>pakofka</b><sup>2</sup> </font>
+<font size="+2">to close up (of a flower); to have pneumonia </font>
+&nbsp;<font color="#800080" size="+1">CHA-; 3</font>
+&nbsp; [/pakof-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chapakofkatoolimpahchooti.
+ <i>I had pneumonia a long time ago I guess.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Pakaalik pakofkati.
+ <i>The flower closed up.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#pakof-">pakof-</a>
+<br><font size="+2"><b><a name="pakohkachi"></a>pakohkachi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be folded up, be pleated, be crossed (of the arms); to zig-zag; to be crooked</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/pako&lt;h&gt;f-ka<sup>1</sup>-chi<sup>2</sup>]
+&nbsp;<font face="Arial">«</font>Màakaya sakbak pakohkachit hoyamíhchihch onko.
+ <i>Nowdays their arms are folded like this.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">pleat</font>
+ ☞<a href="p.htm#pakohlichi">pakohlichi</a>
+<br><font size="+2"><b><a name="pakohkìicho"></a>pakohkìicho</b> </font>
+ Neg.
+ ☞<a href="p.htm#pakohlichi">pakohlichi</a>
+<br><font size="+2"><b><a name="pakohlichi"></a>pakohlichi</b> </font>
+<font size="+2">to fold up, bend (plural objects) backwards, pleat (material); to cross (the arms), bend (the knees), close (the hands); to roll up (e.g. sleeves)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>pakohchichi, pakohhilichi, pakohhachichi</i>)
+&nbsp; [/pako&lt;h&gt;f-li-chi<sup>2</sup>]
+ <i>Neg: </i>pakohkìicho
+ <i>Var: pakoolichi</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Ilokfasakban pakòolichilo.
+ <i>I rolled up my sleeves.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hatkàasin pakohlichiliti.
+ <i>I folded the sheets.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ittóoɬpan pakohlichi.
+ <i>Bend your knees.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#pakof-">pakof-</a>
+<br><font size="+2"><b><a name="pakoolichi"></a>pakoolichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#pakohlichi">pakohlichi</a>&nbsp;
+<br><font size="+2"><b><a name="pakpáaki"></a>pakpáaki</b> </font>
+<font size="+2">to be frothy, bubbly </font>
+ [<i>lgr</i>]
+&nbsp;<font size="0">(IB)</font>
+ ☞<a href="p.htm#pakpaki">pakpaki</a>
+<br><font size="+2"><b><a name="pakpaki"></a>pakpaki</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to foam, bubble, froth; to be soft and fluffy (as cotton); to be sudsy, bubbly</font>
+&nbsp;2.&nbsp;
+<font size="+2">froth, foam, suds, beer foam, gas from fermented berries, fermentation</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#pakpáaki">pakpáaki</a></i>
+&nbsp;to be frothy
+<br>&nbsp;&nbsp;<i><a href="p.htm#pakpakiichi">pakpakiichi</a></i>
+&nbsp;to make foamy
+<br>&nbsp;&nbsp;<i><a href="p.htm#pakpakitíkko">pakpakitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoopakpaki">ichoopakpaki</a></i>
+&nbsp;to foam at the mouth
+<br><font size="+2"><b><a name="pakpakiichi"></a>pakpakiichi</b> </font>
+<font size="+2">to make something foamy, sudsy, bubbly</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>pakpakiichiska, pakpakiichilka, pakpakiichaska</i>)
+&nbsp;(<i>pakpakiichitiska, pakpakiichitilka, pakpakiichitaska</i>)
+&nbsp; [/pakpaki-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#pakpaki">pakpaki</a>
+<br><font size="+2"><b><a name="pakpakitíkko"></a>pakpakitíkko</b> </font>
+ Neg.
+ ☞<a href="p.htm#pakpaki">pakpaki</a>
+<br><font size="+2"><b><a name="pakpakpak"></a>pakpakpak</b> </font>
+<font size="+2">noise made by an automatic weapon </font>
+<br><font size="+2"><b><a name="pakto"></a>pakto</b> </font>
+<font size="+2">mushroom; bottle cork</font>
+ <i>Usage: </i>Old word for `cork'
+<br><font size="+2"><b><a name="palatlichi"></a>palatlichi</b> </font>
+<font size="+2">to annoy</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>palatchichi, palathilichi, palathachichi</i>)
+&nbsp; [/palat-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Heɬa, chapalatchicho amalchichiiyok.
+ <i>Heather, you annoy me with all these questions.</i><font face="Arial">»</font>
+ ☞<a href="i1.htm#impalatka">impalatka</a>
+<br><font size="+2"><b><a name="pali"></a>pali</b> </font>
+<font size="+2">flying squirrel, bat </font>
+<br><font size="+2"><b><a name="palíkko"></a>palíkko</b> </font>
+ Neg.
+<font size="+2">to be slow</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ ☞<a href="p.htm#palki">palki</a>
+<br><font size="+2"><b><a name="palíkkotíkko"></a>palíkkotíkko</b> </font>
+ Neg.
+<font size="+2">to be not slow</font>
+ ☞<a href="p.htm#palíkko">palíkko</a>
+<br><font size="+2"><b><a name="palki"></a>palki</b> </font>
+<font size="+2">to be fast</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Ana waliikalik chapalkihchoolo.
+ <i>I run fast.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ana waliika pálkoolo.
+ <i>I'm a fast runner.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ana waliika pálkok chalo.
+ <i>I'm a fast runner.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#pàlkichi">pàlkichi</a></i>
+&nbsp;to speed (something) up
+<br>&nbsp;&nbsp;<i><a href="p.htm#palíkko">palíkko</a></i>
+ Neg.
+&nbsp;to be slow
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#palíkkotíkko">palíkkotíkko</a></i>
+ Neg.
+&nbsp;to not be slow
+<br>&nbsp;&nbsp;<i><a href="p.htm#pakílko">pakílko</a></i>
+ Neg.
+&nbsp;to be slow
+<br>&nbsp;&nbsp;<i><a href="p.htm#pàalki">pàalki</a></i>
+&nbsp;train
+<br><font size="+2"><b><a name="pàlki aatistàaya"></a>pàlki aatistàaya</b> </font>
+<font size="+2">passenger train </font>
+&nbsp; [/palki aat-ist- /aya]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="pàlki aatwihàachi"></a>pàlki aatwihàachi</b> </font>
+<font size="+2">passenger train </font>
+&nbsp; [/palki aat- /wiha-chi<sup>1</sup>]
+ <i>Var: pálki aatwiyàachi</i>
+<br><font size="+2"><b><a name="pálki aatwiyàachi"></a>pálki aatwiyàachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#pàlki aatwihàachi">pàlki aatwihàachi</a>&nbsp;
+<br><font size="+2"><b><a name="pàlki áppiilìichi"></a>pàlki áppiilìichi</b> </font>
+<font size="+2">train conductor</font>
+&nbsp; [/palki /apih-li-chi<sup>1</sup>]
+<br><font size="+2"><b><a name="pàlkibaski"></a>pàlkibaski</b> </font>
+<font size="+2">freight train </font>
+&nbsp; [/palki /baski]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="palkichi"></a>palkichi</b> </font>
+<font size="+2">to be loud</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>palkichiska, palkichilka, palkichaska</i>)
+&nbsp;(<i>palkichitiska, palkichitilka, palkichitaska</i>)
+&nbsp; [poss. /palki-chi<sup>2</sup>]
+&nbsp;<font face="Arial">«</font>Isna tachilwaayok palkichitiskaamoolo.
+ <i>You sang loudly.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#palkichitíkko">palkichitíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="pàlkichi"></a>pàlkichi</b> </font>
+<font size="+2">to speed (something) up, make (something) go fast; to advance or set forward (a timepiece)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>pàlkichiska, pàlkichilka, pàlkichaska</i>)
+&nbsp;(<i>pàlkichitiska, pàlkichitilka, pàlkichitaska</i>)
+&nbsp; [/palki-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Pàlkichit tachilwo.
+ <i>You sang very fast.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#palki">palki</a>
+<br><font size="+2"><b><a name="palkichitíkko"></a>palkichitíkko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Palkichitíkko talwa.
+ <i>He didn't sing loudly.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#palkichi">palkichi</a>
+<br><font size="+2"><b><a name="pàlkichoba"></a>pàlkichoba</b> </font>
+<font size="+2">railroad train</font>
+&nbsp; [/palki /choba]
+<br><font size="+2"><b><a name="pàlki ibisaani"></a>pàlki ibisaani</b> </font>
+<font size="+2">train cowcatcher</font>
+&nbsp; [/palki /ibisaani]
+<br><font size="+2"><b><a name="pàlki nàaswihàachi"></a>pàlki nàaswihàachi</b> </font>
+<font size="+2">freight train</font>
+&nbsp; [/palki /nàasi /wiha-chi<sup>1</sup>]
+ <i>Var: pàlki nàaswiyàachi</i>
+<br><font size="+2"><b><a name="pàlki nàaswiyàachi"></a>pàlki nàaswiyàachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#pàlki nàaswihàachi">pàlki nàaswihàachi</a>&nbsp;
+<br><font size="+2"><b><a name="pàlkiⁿhini"></a>pàlkiⁿhini</b> </font>
+<font size="+2">railroad tracks</font>
+&nbsp; [/pàlki im- /hini]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="pàlkiⁿhini inchiika"></a>pàlkiⁿhini inchiika</b> </font>
+<font size="+2">railroad ties</font>
+&nbsp; [/palki im- /hini im- /chii-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="pàlkiⁿhini istachoopa"></a>pàlkiⁿhini istachoopa</b> </font>
+<font size="+2">railroad spike</font>
+&nbsp; [/palki /hini ist- /achoopa]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="pàlkiⁿhini istachoska"></a>pàlkiⁿhini istachoska</b> </font>
+<font size="+2">railroad spike</font>
+&nbsp; [/pàlki im- /hini ist- /achos(òo)-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="pallìkchi"></a>pallìkchi</b> </font>
+<font size="+2">sleet</font>
+; <font size="+2">chaff, hulls</font>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: pallíkchi</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="paɬakna"></a>paɬakna</b> </font>
+<font size="+2">to be rough, coarse (in texture)</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#paɬaknatíkko">paɬaknatíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="paɬaknatíkko"></a>paɬaknatíkko</b> </font>
+ Neg.
+ ☞<a href="p.htm#paɬakna">paɬakna</a>
+<br><font size="+2"><b><a name="paɬatka"></a>paɬatka</b> </font>
+<font size="+2">to be split in two</font>
+&nbsp; [/paɬat-ka<sup>1</sup>]
+ ☞<a href="p.htm#paɬatli">paɬatli</a>
+<br><font size="+2"><b><a name="paɬatli"></a>paɬatli</b> </font>
+<font size="+2">to split in two, split in half</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>paɬatchi, paɬathili, paɬathachi</i>)
+&nbsp; [/paɬat-li]
+&nbsp;<font face="Arial">«</font>Okchaakon paɬatlilo-ipatoka.
+ <i>I split the watermelon-eat it.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#paɬatka">paɬatka</a></i>
+&nbsp;to be split in two
+<br>&nbsp;&nbsp;<i><a href="i1.htm#impaɬatli">impaɬatli</a></i>
+&nbsp;to split something with someone
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istitapaɬatka">istitapaɬatka</a></i>
+&nbsp;fire stirring stick
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittapaɬatli">ittapaɬatli</a></i>
+&nbsp;to split in two
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittapaɬatka">ittapaɬatka</a></i>
+&nbsp;to be split in two (sg.)
+<br>&nbsp;&nbsp;<i><a href="p.htm#paɬɬi">paɬɬi</a></i>
+&nbsp;to split several things in two
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paɬka">paɬka</a></i>
+&nbsp;to be split in two (pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittapaɬɬi">ittapaɬɬi</a></i>
+&nbsp;to split up repeatedly
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittapaɬka">ittapaɬka</a></i>
+&nbsp;to be split in two (pl.)
+<br><font size="+2"><b><a name="paɬka"></a>paɬka</b> </font>
+<font size="+2">to be split in more than two pieces, splintered</font>
+&nbsp; [/paɬ(at)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+&nbsp;<font face="Arial">«</font>Ittopaɬka iisispaatalka.
+ <i>Split shingles from pine (not hardwood).</i><font face="Arial">»</font>
+ ☞<a href="p.htm#paɬɬi">paɬɬi</a>
+<br><font size="+2"><b><a name="paɬɬi"></a>paɬɬi</b> </font>
+<font size="+2">to split (several things) in two; to cut something open in more than one place </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>paɬchi, paɬhili, paɬhachi</i>)
+&nbsp; [/paɬ(at)-li]
+ [<i>dsfx1</i>]
+&nbsp;<font face="Arial">«</font>Ampíchootoomok antaatootoomok nakaaɬafòokon akkok chokóolifòokama ihton hotalàalimok holihtan hopaɬɬista.
+ <i>My late mother and father are gone now, but when they were still living there, when they would lay out a field, they would make split-rail fences.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="p.htm#paɬatli">paɬatli</a>
+<br><font size="+2"><b><a name="panay-"></a>panay-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#panayli">panayli</a></i>
+&nbsp;to wind
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittapanayli">ittapanayli</a></i>
+&nbsp;to weave (the edge)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittapanayka">ittapanayka</a></i>
+&nbsp;to be twisted
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#nokpanayli">nokpanayli</a></i>
+&nbsp;to wring the neck (sg.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#nokpanayka">nokpanayka</a></i>
+&nbsp;to have a wrenched neck
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#nokpanni">nokpanni</a></i>
+&nbsp;to wring the necks (pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#nokpànnichi">nokpànnichi</a></i>
+&nbsp;to wring the necks (pl.)
+<br>&nbsp;&nbsp;<i><a href="p.htm#panayka">panayka</a></i>
+&nbsp;to curled up
+<br>&nbsp;&nbsp;<i><a href="p.htm#pànnichi">pànnichi</a></i>
+&nbsp;to keep twisting
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#apànnichi">apànnichi</a></i>
+&nbsp;to reel in
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#apànkachi">apànkachi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;vine
+&nbsp;2.&nbsp;
+&nbsp;to be wound
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#apànkachitíkko">apànkachitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istapankachi">istapankachi</a></i>
+&nbsp;spool
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittapànnichi">ittapànnichi</a></i>
+&nbsp;to tangle
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittapànkachi">ittapànkachi</a></i>
+&nbsp;to be tangled
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#onapànnichi">onapànnichi</a></i>
+&nbsp;to wind around something
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#pànkachi">pànkachi</a></i>
+&nbsp;to be twisted
+<br><font size="+2"><b><a name="panayka"></a>panayka</b> </font>
+<font size="+2">to have a sprained or turned ankle; to warp (as new lumber left out in the weather); to be curled up (as a cat or dog)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/panay-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Panaykaakát balàakok nochi.
+ <i>It's curled up asleep.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#panay-">panay-</a>
+<br><font size="+2"><b><a name="panayli"></a>panayli</b> </font>
+<font size="+2">to wind, twist, turn, make (one object) crooked</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>panaychi, panayhili, panayhachi</i>)
+&nbsp; [/panay-li]
+ <i>Pl: </i>pànnichi
+ ☞<a href="p.htm#panay-">panay-</a>
+<br><font size="+2"><b><a name="pànkachi"></a>pànkachi</b> </font>
+<font size="+2">to be twisted, turned, coiled, crooked, gnarled, curved, warped, spiraled, wrung, serpentine </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/pan(ay)-ka<sup>1</sup>-chi<sup>2</sup>]
+ [<i>dsfx1</i>]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Chintok pànkachit aɬɬahchi.
+ <i>The snake is going along wiggling.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#pànnichi">pànnichi</a>
+<br><font size="+2"><b><a name="pànnichi"></a>pànnichi</b> </font>
+<font size="+2">to keep twisting, coil</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>pànchichi, pànhilichi, pànhachichi</i>)
+&nbsp; [/pan(ay)-li-chi<sup>2</sup>]
+ [<i>dsfx1</i>]
+ <i>Var: pannichi</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Pànnichichiti.
+ <i>You twisted it up.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chapannichi.
+ <i>Someone twisted me (e.g. my arm).</i><font face="Arial">»</font>
+ ☞<a href="p.htm#panay-">panay-</a>
+<br><font size="+2"><b><a name="pas!"></a>pas!</b> </font>
+<font size="+2">boom! sound of a thunder clap</font>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="pasàali"></a>pasàali</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be unkempt, messy, dirty, caked with mud; to be a little boy</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>...chapasáaⁿlòosifòokok wìikalihchoolikha.
+ <i>We used to live there when I was just a little bitty boy.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">boy, ruffian, dirty one, child</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#impasàali">impasàali</a></i>
+&nbsp;boyfriend
+<br>&nbsp;&nbsp;<i><a href="p.htm#pasàalosi">pasàalosi</a></i>
+&nbsp;boy
+<br><font size="+2"><b><a name="pasàalistimalíiya"></a>pasàalistimalíiya</b> </font>
+<font size="+2">boyfriend </font>
+&nbsp; [/pasàali ist-im- /àa&lt;lii&gt;ya (?)]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="pasàalosi"></a>pasàalosi</b> </font>
+<font size="+2">boy</font>
+&nbsp; [/pasàali-osi]
+ ☞<a href="p.htm#pasàali">pasàali</a>
+<br><font size="+2"><b><a name="pasàaya"></a>pasàaya</b> </font>
+<font size="+2">to make a loud crashing, boomming noise in the distance (especially a clap of thunder); to be a loud cacophonous noise</font>
+&nbsp;<font face="Arial">«</font>Kolkohkak pasàayaamoolo.
+ <i>I heard thunder crashing.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Pasàayan háalolo.
+ <i>I hear a big noise in the distance.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="pasahli"></a>pasahli</b> </font>
+<font size="+2">to make a sizzling noise (as of bacon frying) </font>
+<br><font size="+2"><b><a name="pasli"></a>pasli</b> </font>
+<font size="+2">to wipe (to clean), sweep, brush; to curry (a horse)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>passi, pashili, pashachi</i>)
+&nbsp; [/pas-li]
+<br>&nbsp;&nbsp;<i><a href="p.htm#paapasli">paapasli</a></i>
+&nbsp;to wipe off the top of
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ilichoopasli">ilichoopasli</a></i>
+&nbsp;to wipe one's mouth
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istilichoopaska">istilichoopaska</a></i>
+&nbsp;napkin
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ilibiipasli">ilibiipasli</a></i>
+&nbsp;to wipe the face
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istilibiipaska">istilibiipaska</a></i>
+&nbsp;towel
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istitapaska">istitapaska</a></i>
+&nbsp;broom
+<br><font size="+2"><b><a name="paspa"></a>paspa</b> </font>
+<font size="+2">bread, patty</font>
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ispaspaakáhmit">ispaspaakáhmit</a></i>
+&nbsp;to be shaped into a patty
+<br><font size="+2"><b><a name="paspa bosilka"></a>paspa bosilka</b> </font>
+<font size="+2">bread dough</font>
+&nbsp; [/paspa /bos&lt;il&gt;-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="paspa chakáawa"></a>paspa chakáawa</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#paspa chakàawa">paspa chakàawa</a>&nbsp;
+<br><font size="+2"><b><a name="paspa chakàawa"></a>paspa chakàawa</b> </font>
+<font size="+2">cornbread</font>
+&nbsp; [/paspa /chakaawa]
+ [<i>fgr</i>]
+ <i>Var: paspa chakáawa</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: chakáawa</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="paspa chàmpoli"></a>paspa chàmpoli</b> </font>
+<font size="+2">cake</font>
+&nbsp; [/paspa /champoli]
+<br><font size="+2"><b><a name="paspa chámpolosi"></a>paspa chámpolosi</b> </font>
+<font size="+2">cookies, sweet rolls, doughnuts</font>
+&nbsp; [/paspa /champoli-osi]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: paspa chàmpolosi</i>
+<br><font size="+2"><b><a name="paspachoba"></a>paspachoba</b> </font>
+<font size="+2">loaf of bread; light bread, white bread</font>
+&nbsp; [/paspa /choba]
+<br><font size="+2"><b><a name="paspachoba istaachoolpa"></a>paspachoba istaachoolpa</b> </font>
+<font size="+2">bakery store</font>
+&nbsp; [/paspa /choba ist-aa- /choo&lt;l&gt;pa]
+<br><font size="+2"><b><a name="paspachoba solotka"></a>paspachoba solotka</b> </font>
+<font size="+2">light bread toast</font>
+&nbsp; [/paspa /choba /solot-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="paspa kamoska"></a>paspa kamoska</b> </font>
+<font size="+2">sour cornbread</font>
+&nbsp; [/paspa /kamoska]
+&nbsp;<font color="#080000">Cul:  Made from grated dried corn added to a mush made with the chaff and allowed to sit overnight.</font>&nbsp;
+<br><font size="+2"><b><a name="paspa libatka"></a>paspa libatka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be baked</font>
+&nbsp; [/paspa /libat-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;2.&nbsp;
+<font size="+2">oven</font>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="paspa libàtli"></a>paspa libàtli</b> </font>
+<font size="+2">baker</font>
+&nbsp; [/paspa /libat-li]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="paspa niposi istiⁿsamatli"></a>paspa niposi istiⁿsamatli</b> </font>
+<font size="+2">any kind of meat sandwich</font>
+&nbsp; [/paspa /nipo-osi ist-im- /samat-li]
+ <i>Var: paspa niposi istiⁿsámmatli</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="paspa niposi istiⁿsámmatli"></a>paspa niposi istiⁿsámmatli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#paspa niposi istiⁿsamatli">paspa niposi istiⁿsamatli</a>&nbsp;
+<br><font size="+2"><b><a name="paspapatha"></a>paspapatha</b> </font>
+<font size="+2">pancake</font>
+&nbsp; [/paspa /patha]
+<br><font size="+2"><b><a name="paspasàwwa"></a>paspasàwwa</b> </font>
+<font size="+2">cracker</font>
+&nbsp; [/paspa /sawwa]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="paspa sofohli"></a>paspa sofohli</b> </font>
+<font size="+2">biscuit, baking powder biscuit</font>
+&nbsp; [/paspa /sofoh-li]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="paspa sofoolichi"></a>paspa sofoolichi</b> </font>
+<font size="+2">baking powder</font>
+&nbsp; [/paspa /sofoo-li-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="paspa solotka"></a>paspa solotka</b> </font>
+<font size="+2">stale bread</font>
+&nbsp; [/paspa /solot-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="paspastiⁿsamatilka"></a>paspastiⁿsamatilka</b> </font>
+<font size="+2">oven</font>
+&nbsp; [/paspa ist-im- /samat&lt;il&gt;-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="paspa tiliko"></a>paspa tiliko</b> </font>
+<font size="+2">biscuit</font>
+&nbsp; [/paspa /tiliko]
+<br><font size="+2"><b><a name="paspispoyatli"></a>paspispoyatli</b> </font>
+<font size="+2">fry bread</font>
+&nbsp; [/paspa ist- /poyat-li]
+<br><font size="+2"><b><a name="paspistimpaalapàali"></a>paspistimpaalapàali</b> </font>
+<font size="+2">pie</font>
+&nbsp; [/paspa ist-im-paa- /lapàa-li]
+ <i>Var: istimpaalapàali</i>
+<br><font size="+2"><b><a name="paspistoopatka"></a>paspistoopatka</b> </font>
+<font size="+2">fry bread</font>
+&nbsp; [/paspa ist-oo- /patàa-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="paspitaksolotka"></a>paspitaksolotka</b> </font>
+<font size="+2">toasted bread</font>
+&nbsp; [/paspa ita(k)- /solot-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="paspokchakko"></a>paspokchakko</b> </font>
+<font size="+2">boiled blue cornbread dumplings</font>
+&nbsp;<font color="#080000">Cul:  Traditional food often eaten with salt pork grease.</font>&nbsp;
+&nbsp; [/paspa /okchakko]
+<br><font size="+2"><b><a name="paspoochiika"></a>paspoochiika</b> </font>
+<font size="+2">bluebread corn dumpling, corncake</font>
+&nbsp;<font color="#080000">Cul:  Traditional food made from cornmeal mixed with a little flour and water shaped into patties, boiled and served with bacon grease.</font>&nbsp;
+&nbsp;<font size="0">(VC)</font>
+&nbsp; [/paspa oo- /chii-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="paspóolmo"></a>paspóolmo</b> </font>
+<font size="+2">bread dough</font>
+&nbsp; [/paspa /oo&lt;l&gt;mo]
+&nbsp;<font face="Arial">«</font>Paspóolmok istállàako.
+ <i>The bread is sitting there mixed.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="passalapíkko"></a>passalapíkko</b> </font>
+ Neg.
+ ☞<a href="p.htm#passalapka">passalapka</a>
+<br><font size="+2"><b><a name="passalapka"></a>passalapka</b> </font>
+<font size="+2">to buckle, warp (especially as a wet wood floor); to be sway-backed</font>
+&nbsp;<font color="#800080" size="+1">3; CHA-</font>
+&nbsp;<font face="Arial">«</font>Passalapkaakát àayo.
+ <i>He goes around sway-backed.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#passalapíkko">passalapíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="p.htm#passalapkatíkko">passalapkatíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="passalapkatíkko"></a>passalapkatíkko</b> </font>
+ Neg.
+ ☞<a href="p.htm#passalapka">passalapka</a>
+<br><font size="+2"><b><a name="pastàali"></a>pastàali</b> </font>
+<font size="+2">Assembly of God Church </font>
+ {&nbsp;English `apostolic'}
+&nbsp;<font size="0">(VC)</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#pastàaliha">pastàaliha</a></i>
+&nbsp;members of the Assembly of God Church
+<br><font size="+2"><b><a name="pastàaliha"></a>pastàaliha</b> </font>
+<font size="+2">members of the Assembly of God Church</font>
+&nbsp; [/pastàali-ha<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#pastàali">pastàali</a>
+<br><font size="+2"><b><a name="pata"></a>pata</b> </font>
+<font size="+2">floor, porch</font>
+&nbsp; [prob. from /pat(aa)-a]
+ ☞<a href="p.htm#patli">patli</a>
+<br><font size="+2"><b><a name="patàaka"></a>patàaka</b> </font>
+<font size="+2">to be flat, be put, be placed, be set out, be laid out, be spread out (of one)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/patàa-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Intakbak patàaka.
+ <i>He has a flat stomach.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#patàali">patàali</a>
+<br><font size="+2"><b><a name="patàali"></a>patàali</b> </font>
+<font size="+2">to spread out, lay over, lay out, set out (one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>patàachi, patàahili, patàahachi</i>)
+&nbsp; [/patàa-li]
+<br>&nbsp;&nbsp;<i><a href="p.htm#paapatàali">paapatàali</a></i>
+&nbsp;to spread over the top of
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paapatàaka">paapatàaka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be spread over the top of
+&nbsp;2.&nbsp;
+&nbsp;asphalt
+<br>&nbsp;&nbsp;<i><a href="p.htm#patàaka">patàaka</a></i>
+&nbsp;to be spread out
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#páttàaka">páttàaka</a></i>
+&nbsp;to lie flat
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#impatàaka">impatàaka</a></i>
+&nbsp;slab foundation
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ispatàaka">ispatàaka</a></i>
+&nbsp;mattress
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#itapatàaka">itapatàaka</a></i>
+&nbsp;floor covering
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#itapáttàakàasi">itapáttàakàasi</a></i>
+&nbsp;to be close to the ground
+<br>&nbsp;&nbsp;<i><a href="p.htm#patli">patli</a></i>
+&nbsp;to lay over
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#impatli">impatli</a></i>
+&nbsp;to fix a bed for (someone)
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istimpatli">istimpatli</a></i>
+&nbsp;to set a trap
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istimpatka">istimpatka</a></i>
+&nbsp;steel trap
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istoopatli">istoopatli</a></i>
+&nbsp;to put in with something else
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istoopatka">istoopatka</a></i>
+&nbsp;dumpling
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paapatli">paapatli</a></i>
+&nbsp;to saddle
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paapatka">paapatka</a></i>
+&nbsp;saddle
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#patka">patka</a></i>
+&nbsp;bed; base
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#patkasi">patkasi</a></i>
+&nbsp;cot
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#pata">pata</a></i>
+&nbsp;floor
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ispata">ispata</a></i>
+&nbsp;floor
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#itapata">itapata</a></i>
+&nbsp;floor
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ispataaya">ispataaya</a></i>
+&nbsp;floor
+<br><font size="+2"><b><a name="patafa imatakka"></a>patafa imatakka</b> </font>
+<font size="+2">porch awning</font>
+&nbsp; [/pata-fa im- /atak(àa)-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="patassi"></a>patassi</b> </font>
+<font size="+2">sunfish, panfish, bream, bluegill, `perch', goldfish</font>
+ {poss. related to /pata or /patha-osi}
+<br><font size="+2"><b><a name="patassi laana"></a>patassi laana</b> </font>
+<font size="+2">any of various yellowish sunfish, yellow bluegill, yellow bream </font>
+&nbsp; [/patassi /laana]
+<br><font size="+2"><b><a name="patha"></a>patha</b> </font>
+<font size="+2">to be wide and flat, broad</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#pathachi">pathachi</a></i>
+&nbsp;to flatten
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#itapathachi">itapathachi</a></i>
+&nbsp;to spread out on the ground
+<br>&nbsp;&nbsp;<i><a href="m.htm#maapáthàasi">maapáthàasi</a></i>
+&nbsp;to be wider
+<br><font size="+2"><b><a name="pathachi"></a>pathachi</b> </font>
+<font size="+2">to flatten, spread out, spread (as a bird its wings), widen, open out flat (as a newspaper)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>pathachiska, pathachilka, pathachaska</i>)
+&nbsp;(<i>pathachitiska, pathachitilka, pathachitaska</i>)
+&nbsp; [/patha-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Pathachit ihánnoosiimók yamít...
+ <i>Flatten it out down toward the bottom like so...</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chalbin hopathachili.
+ <i>I'm spreading out my hands.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#patha">patha</a>
+<br><font size="+2"><b><a name="patka"></a>patka</b> </font>
+<font size="+2">mattress, bed; base, foundation</font>
+&nbsp; [/pat(àa)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="p.htm#patli">patli</a>
+<br><font size="+2"><b><a name="patkaɬipìika"></a>patkaɬipìika</b> </font>
+<font size="+2">bedspread</font>
+&nbsp; [/pat(àa)-ka<sup>1</sup> /ɬipìi-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="patkan oohoswa"></a>patkan oohoswa</b> </font>
+<font size="+2">to wet the bed </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [/patka-n oo- /hoswa]
+ ☞<a href="h.htm#hoswa">hoswa</a>
+<br><font size="+2"><b><a name="patkasi"></a>patkasi</b> </font>
+<font size="+2">cot</font>
+&nbsp; [/pat(àa)-ka<sup>1</sup>-osi]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#patka">patka</a>
+<br><font size="+2"><b><a name="patkaspatàaka"></a>patkaspatàaka</b> </font>
+<font size="+2">mattress</font>
+&nbsp; [/pat(àa)-ka<sup>1</sup> ist- /patàa-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="patli"></a>patli</b> </font>
+<font size="+2">to spread, lay over, set out (plural objects)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>patchi, pathili, pathachi</i>)
+&nbsp; [/pat(àa)-li]
+ [<i>dsfx1</i>]
+ ☞<a href="p.htm#patàali">patàali</a>
+<br><font size="+2"><b><a name="patna"></a>patna</b> </font>
+<font size="+2">partner, spouse; black person, African-American</font>
+ {&nbsp;English}
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="páttàaka"></a>páttàaka</b> </font>
+<font size="+2">to lie flat (of one)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/patàa-ka<sup>1</sup>]
+ [<i>ggr</i>]
+&nbsp;<font size="0">(IB)</font>
+ ☞<a href="p.htm#patàaka">patàaka</a>
+<br><font size="+2"><b><a name="payìili"></a>payìili</b> </font>
+<font size="+2">to bend (something); to dent in more than two places, dent all over</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>payìichi, payìihili, payìihachi</i>)
+&nbsp; [/payìi-li]
+&nbsp;<font size="0">(VC)</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoopayìili">ichoopayìili</a></i>
+&nbsp;to bend the rim of
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ichoopáyyìili">ichoopáyyìili</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to bend the edge
+&nbsp;2.&nbsp;
+&nbsp;to hurt the lip
+<br><font size="+2"><b><a name="payoffi"></a>payoffi</b> </font>
+<font size="+2">to dent in one place, bend (once)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>payofchi, payofhili, payofhachi</i>)
+&nbsp; [/payof-li]
+&nbsp;<font face="Arial">«</font>Ammobìlkan payoffiliti.
+ <i>I put a dent in my car.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#impayoffi">impayoffi</a></i>
+&nbsp;to put a dent in (something belonging to someone else)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#impayofka">impayofka</a></i>
+&nbsp;to have something get a dent in it
+<br>&nbsp;&nbsp;<i><a href="p.htm#payofka">payofka</a></i>
+&nbsp;to have a dent
+<br>&nbsp;&nbsp;<i><a href="p.htm#payòoli">payòoli</a></i>
+&nbsp;to dent (rep.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ilichoopayòoli">ilichoopayòoli</a></i>
+&nbsp;to pucker the lips
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ichoopayòokachi">ichoopayòokachi</a></i>
+&nbsp;to be puckered
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#payòolichi">payòolichi</a></i>
+&nbsp;to wad up
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#payòoka">payòoka</a></i>
+&nbsp;to be warped
+<br><font size="+2"><b><a name="payofka"></a>payofka</b> </font>
+<font size="+2">to have a dent, be dented, be bent </font>
+&nbsp; [/payof-ka<sup>1</sup>]
+ <i>Pl: </i>payòoka
+&nbsp;<font face="Arial">«</font>Ammobìlkak payofkaasti.
+ <i>My car got a dent in it.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#payoffi">payoffi</a>
+<br><font size="+2"><b><a name="payòoka"></a>payòoka</b> </font>
+<font size="+2">to be warped, bent, crooked, not fit to use </font>
+&nbsp; [/payo(f)-ka<sup>1</sup>]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="p.htm#payòoli">payòoli</a>
+<br><font size="+2"><b><a name="payòoli"></a>payòoli</b> </font>
+<font size="+2">to dent (repeatedly), bend</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>payòochi, payòohili, payòohachi</i>)
+&nbsp; [/payo(f)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="p.htm#payoffi">payoffi</a>
+<br><font size="+2"><b><a name="payòolichi"></a>payòolichi</b> </font>
+<font size="+2">to wad up (paper)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>payòochichi, payòohilichi, payòohachichi</i>)
+&nbsp; [/payo(f)-li-chi<sup>2</sup>]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="p.htm#payòoli">payòoli</a>
+<br><font size="+2"><b><a name="pihaako"></a>pihaako</b> </font>
+<font size="+2">yesterday </font>
+ <i>Var: piyaako</i>
+&nbsp;<font face="Arial">«</font>Pihaakon lokòokak nàahoti.
+ <i>There was a meeting yesterday.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#pihaako koɬaako">pihaako koɬaako</a></i>
+&nbsp;day before yesterday
+<br>&nbsp;&nbsp;<i><a href="p.htm#pihaako niɬálli">pihaako niɬálli</a></i>
+&nbsp;yesterday morning
+<br>&nbsp;&nbsp;<i><a href="p.htm#pihaako pontókkòoli">pihaako pontókkòoli</a></i>
+&nbsp;yesterday at noon
+<br><font size="+2"><b><a name="pihaako koɬaako"></a>pihaako koɬaako</b> </font>
+<font size="+2">day before yesterday </font>
+&nbsp; [/pihaako /koɬa-ka<sup>2</sup>-o<sup>3</sup>]
+ <i>Var: piyaako koɬaako</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#pihaako">pihaako</a>
+<br><font size="+2"><b><a name="pihaako niɬálli"></a>pihaako niɬálli</b> </font>
+<font size="+2">yesterday morning </font>
+&nbsp; [/pihaako /niɬálli]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#pihaako">pihaako</a>
+<br><font size="+2"><b><a name="pihaako pontókkòoli"></a>pihaako pontókkòoli</b> </font>
+<font size="+2">yesterday at noon </font>
+&nbsp; [/pihaako /pontókkòo-li]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Pihaako pontókkòoliikon oolimpati.
+ <i>We ate yesterday at noon.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#pihaako">pihaako</a>
+<br><font size="+2"><b><a name="pihka"></a>pihka</b> </font>
+<font size="+2">to be picked up and taken (of more than one); to be arrested (of several people)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/pih-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#pihli">pihli</a>
+<br><font size="+2"><b><a name="pihli"></a>pihli</b> </font>
+<font size="+2">to take (more than one thing)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>pihchi, pihhili, pihhachi</i>)
+&nbsp; [/pih-li]
+ [<i>Irr: </i>SgStem=isi]
+ <i>Var: piili</i>
+<br>&nbsp;&nbsp;<i><a href="p.htm#pìihli">pìihli</a></i>
+&nbsp;to carry (pl. obj.)
+<br>&nbsp;&nbsp;<i><a href="i1.htm#impihli">impihli</a></i>
+&nbsp;to take (pl. obj.) away from
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istimpihli">istimpihli</a></i>
+&nbsp;to take (things in a container) from
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#impìihli">impìihli</a></i>
+&nbsp;to carry (something) for
+<br>&nbsp;&nbsp;<i><a href="p.htm#pihka">pihka</a></i>
+&nbsp;to be picked up and taken (pl. obj.)
+<br>&nbsp;&nbsp;<i><a href="a.htm#apihlichi">apihlichi</a></i>
+&nbsp;to drive
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#apiikachi">apiikachi</a></i>
+&nbsp;to be driven
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#áppiilìichi">áppiilìichi</a></i>
+&nbsp;driver
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#apiilìichi">apiilìichi</a></i>
+&nbsp;driver
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ilapihli">ilapihli</a></i>
+&nbsp;to lead
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ilapìili">ilapìili</a></i>
+&nbsp;leader
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istilapìili">istilapìili</a></i>
+&nbsp;superintendent
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istiláppìili">istiláppìili</a></i>
+&nbsp;superintendent
+<br>&nbsp;&nbsp;<i><a href="i2.htm#itapihli">itapihli</a></i>
+&nbsp;to pick up
+<br>&nbsp;&nbsp;<i><a href="n.htm#noopihli">noopihli</a></i>
+&nbsp;to remove from the throat
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maanoopihli">maanoopihli</a></i>
+&nbsp;to remove from the throat
+<br>&nbsp;&nbsp;<i><a href="o.htm#oopihli">oopihli</a></i>
+&nbsp;to take (pl. obj.) out of water
+<br>&nbsp;&nbsp;<i><a href="o.htm#ospihli">ospihli</a></i>
+&nbsp;to go pick up (pl. obj.)
+<br><font size="+2"><b><a name="piichi"></a>piichi</b> </font>
+<font size="+2">mother </font>
+ <i>Usage: </i>Hypocoristic term of address.
+ [<i>first vowel is long and unaccented in address form and citation, but short and accented when possessor expressed</i>]
+<br>&nbsp;&nbsp;<i><a href="i1.htm#impíchi">impíchi</a></i>
+&nbsp;mother
+<br><font size="+2"><b><a name="pìihli"></a>pìihli</b> </font>
+<font size="+2">to carry (plural objects)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>pìihchi, pìihhili, pìihhachi</i>)
+&nbsp; [/pih-li]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Nàasi oolimpasóotik oinkan hopìiliimok...
+ <i>They (the Alabamas) gave them (the Texans) a little something to eat and they took it with them...</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+ ☞<a href="p.htm#pihli">pihli</a>
+<br><font size="+2"><b><a name="pìika"></a>pìika</b> </font>
+<font size="+2">the letter `P'</font>
+&nbsp; [/pìi-ka<sup>3</sup>]
+<br><font size="+2"><b><a name="piila"></a>piila</b> </font>
+<font size="+2">to be free, gratis (not cost anything)</font>
+<br><font size="+2"><b><a name="pìila"></a>pìila</b> </font>
+<font size="+2">to be bothered about, worried, distracted</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/pila]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Roykak pìilahchoolo.
+ <i>Roy is bothered.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#impìila">impìila</a></i>
+&nbsp;to have something bothering one
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istimpìila">istimpìila</a></i>
+&nbsp;to have plans go wrong
+<br>&nbsp;&nbsp;<i><a href="p.htm#pilàachi">pilàachi</a></i>
+&nbsp;to bother; to have sexual intercourse with
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tayyihon pilàachi">tayyihon pilàachi</a></i>
+&nbsp;to rape
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#píllàachi">píllàachi</a></i>
+&nbsp;to be a bother to
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istimpilaachi">istimpilaachi</a></i>
+&nbsp;to interrupt
+<br><font size="+2"><b><a name="píila"></a>píila</b> </font>
+<font size="+2">just, merely, only</font>
+&nbsp;<font face="Arial">«</font>Píila kalihchonkaliti.
+ <i>I was just saying it (jokingly).</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="píilanaaɬiilka"></a>píilanaaɬiilka</b> </font>
+<font size="+2">gossip</font>
+&nbsp; [/píila /naaɬii&lt;il&gt;-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="piili"></a>piili</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#pihli">pihli</a>&nbsp;
+<br><font size="+2"><b><a name="pìiɬka"></a>pìiɬka</b> </font>
+<font size="+2">to keep, save (one thing)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>pìiɬiska, pìiɬilka, pìiɬaska</i>)
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Píiɬkàa.
+ <i>Save this.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#piɬka">piɬka</a>
+<br><font size="+2"><b><a name="pikayo"></a>pikayo</b> </font>
+<font size="+2">nickel, five cents </font>
+ {&nbsp;French `picaillon' or English `picayune'}
+<br><font size="+2"><b><a name="pilàachi"></a>pilàachi</b> </font>
+<font size="+2">to bother, distract, worry, heckle, pester; to have sexual intercourse with</font>
+ <i>Usage: </i>Polite word for sexual intercourse.
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>pilàatiska, pilàatilka, pilàataska</i>)
+&nbsp; [/pila-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chapilàatiskamoolo.
+ <i>You are bothering me.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Toɬɬoilkak chapilaachihchon ommo.
+ <i>My cold is bothering me.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàasok chipilàachi káhmi?
+ <i>What is bothering you?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chapilàatiskánnàa!
+ <i>Don't bother me!</i><font face="Arial">»</font>
+ ☞<a href="p.htm#pìila">pìila</a>
+<br><font size="+2"><b><a name="píllàachi"></a>píllàachi</b> </font>
+<font size="+2">to be a bother to, keep bothering, be annoying, keep pestering, be irritating to; to get on someone's nerves by doing little things occasionally, not constantly but intermittently</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>píllàatiska, píllàatilka, píllàataska</i>)
+&nbsp; [/pila-chi<sup>1</sup>]
+ [<i>ggr</i>]
+ ☞<a href="p.htm#pilàachi">pilàachi</a>
+<br><font size="+2"><b><a name="piɬíkko"></a>piɬíkko</b> </font>
+ Neg.
+ ☞<a href="p.htm#piɬka">piɬka</a>
+<br><font size="+2"><b><a name="piɬka"></a>piɬka</b> </font>
+<font size="+2">to leave, set aside, lay (something) down, put aside (one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>piɬiska, piɬilka, piɬaska</i>)
+&nbsp; [/piɬ-ka<sup>1</sup>]
+<br>&nbsp;&nbsp;<i><a href="p.htm#piɬíkko">piɬíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="p.htm#pìiɬka">pìiɬka</a></i>
+&nbsp;to keep
+<br>&nbsp;&nbsp;<i><a href="i1.htm#illikitkat piɬka">illikitkat piɬka</a></i>
+&nbsp;to bawl out
+<br>&nbsp;&nbsp;<i><a href="ll.htm#ɬoylíichit piɬka">ɬoylíichit piɬka</a></i>
+&nbsp;to put back
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ilpiɬka">ilpiɬka</a></i>
+&nbsp;to go get and put down
+<br>&nbsp;&nbsp;<i><a href="i1.htm#impiɬka">impiɬka</a></i>
+&nbsp;to put aside for
+<br>&nbsp;&nbsp;<i><a href="m.htm#maapiɬka">maapiɬka</a></i>
+&nbsp;to throw down
+<br>&nbsp;&nbsp;<i><a href="o.htm#oopiɬka">oopiɬka</a></i>
+&nbsp;to put in water (one thing)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maatoopiɬka">maatoopiɬka</a></i>
+&nbsp;to lower to the ground
+<br>&nbsp;&nbsp;<i><a href="o.htm#ospiɬka">ospiɬka</a></i>
+&nbsp;to take back home
+<br>&nbsp;&nbsp;<i><a href="p.htm#paapiɬka">paapiɬka</a></i>
+&nbsp;to put down on top of
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ispaapiɬka">ispaapiɬka</a></i>
+&nbsp;to put down on top of
+<br><font size="+2"><b><a name="piɬɬa"></a>piɬɬa</b> </font>
+<font size="+2">boat, canoe</font>
+<br><font size="+2"><b><a name="piɬɬabaski"></a>piɬɬabaski</b> </font>
+<font size="+2">large ship, sea vessel</font>
+&nbsp; [/piɬɬa /baski]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="piɬɬa imooyìistilka"></a>piɬɬa imooyìistilka</b> </font>
+<font size="+2">boat dock</font>
+&nbsp; [/piɬɬa im-oo- /ìisa-tilka]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="piɬɬa istapiikachi"></a>piɬɬa istapiikachi</b> </font>
+<font size="+2">paddle, oar</font>
+&nbsp; [/piɬɬa ist- /apih-ka<sup>1</sup>-chi<sup>1</sup>]
+<br><font size="+2"><b><a name="piɬɬa kolboshayòoki"></a>piɬɬa kolboshayòoki</b> </font>
+<font size="+2">canoe basket</font>
+&nbsp; [/piɬɬa /kolbi-osi /hayooki]
+<br><font size="+2"><b><a name="piɬɬawakáyka"></a>piɬɬawakáyka</b> </font>
+<font size="+2">airplane</font>
+&nbsp; [/piɬɬa /wakay-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="pináaki"></a>pináaki</b> </font>
+<font size="+2">to bring one's lunch</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i></i>)
+ [<i>lgr</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#pinaki">pinaki</a>
+<br><font size="+2"><b><a name="pinaki"></a>pinaki</b> </font>
+<font size="+2">any meal prepared to be eaten later</font>
+ (may refer to sack lunch, box lunch, provisions for a trip, lunch box)
+&nbsp;<font face="Arial">«</font>Pinaki íkson aɬchiyaⁿ?
+ <i>Are you without a lunch?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akkáamit ittanowwat amaakáhifòokok mafòokaya chassóot honàahoostáskat chassin apaylit hohochit hopinakistóobáapifòokamok amaakaamok...
+ <i>If they were going to make a trip, just before they left, since they had corn, they'd roast some corn and pound it to pack for camping food and then they'd go off...</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#pináaki">pináaki</a></i>
+&nbsp;to bring one's lunch
+<br>&nbsp;&nbsp;<i><a href="p.htm#pinakiichi">pinakiichi</a></i>
+&nbsp;to pack food
+<br><font size="+2"><b><a name="pinakiichi"></a>pinakiichi</b> </font>
+<font size="+2">to pack food for camping, make a sack lunch</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>pinakiichiska, pinakiichilka, pinakiichaska</i>)
+&nbsp;(<i>pinakiitiska, pinakiitilka, pinakiitaska</i>)
+&nbsp; [/pinaki-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chassin apaylit hohochit hopinakiichistóobàapifòokamok amaakok...
+ <i>They would roast corn and grind it and pack it for camping and go.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Pinakíichiskáⁿ?
+ <i>Did you bring your lunch?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chimpinakìichiⁿ?
+ <i>Did she fix your lunch?</i><font face="Arial">»</font>
+ ☞<a href="p.htm#pinaki">pinaki</a>
+<br><font size="+2"><b><a name="pínha"></a>pínha</b> </font>
+<font size="+2">far away</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#pínhàasi">pínhàasi</a></i>
+&nbsp;a little far away, farther
+<br>&nbsp;&nbsp;<i><a href="h.htm#hopàaki pínha">hopàaki pínha</a></i>
+&nbsp;to be way off
+<br>&nbsp;&nbsp;<i><a href="m.htm#maapínha">maapínha</a></i>
+&nbsp;aways over there
+<br><font size="+2"><b><a name="pínhàasi"></a>pínhàasi</b> </font>
+<font size="+2">a little far away, farther</font>
+&nbsp; [/pínha-osi]
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Pínhàasin oswihli.
+ <i>Look a little bit farther.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#pínha">pínha</a>
+<br><font size="+2"><b><a name="pisi"></a>pisi</b> </font>
+<font size="+2">breast, nipple, teat, breast milk </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#impisi">impisi</a></i>
+&nbsp;to suckle
+<br>&nbsp;&nbsp;<i><a href="p.htm#pisiichi">pisiichi</a></i>
+&nbsp;to breastfeed
+<br><font size="+2"><b><a name="pisifayli"></a>pisifayli</b> </font>
+<font size="+2">to be weaning, weaned</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>pisifaychi, pisifayhili, pisifayhachi</i>)
+&nbsp; [/pisi /fay-li]
+&nbsp;<font face="Arial">«</font>Poskòosik pisifaylihchi.
+ <i>The baby is weaning.</i><font face="Arial">»</font>
+ ☞<a href="f.htm#fayli">fayli</a>
+<br><font size="+2"><b><a name="pisifaylichi"></a>pisifaylichi</b> </font>
+<font size="+2">to wean (an infant)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>pisifaychichi, pisifayhilichi, pisifayhachichi</i>)
+&nbsp; [/pisi /fay-li-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#pisifayli">pisifayli</a>
+<br><font size="+2"><b><a name="pisiichi"></a>pisiichi</b> </font>
+<font size="+2">to nurse (a child), breastfeed, give milk to</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>pisiitiska, pisiitilka, pisiitaska</i>)
+&nbsp; [/pisi-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Pisiichik faylichihchi.
+ <i>She is weaning him from nursing.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Lynnkak Evankan pisiichihchi.
+ <i>Lynn is nursing Evan.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#pisi">pisi</a>
+<br><font size="+2"><b><a name="piskachàali"></a>piskachàali</b> </font>
+ <i>Var. of</i>&nbsp;<a href="a.htm#aatimpiskachàali">aatimpiskachàali</a>&nbsp;
+<br><font size="+2"><b><a name="pissìila"></a>pissìila</b> </font>
+<font size="+2">lesser earless lizard </font>
+<br><font size="+2"><b><a name="piyaafi"></a>piyaafi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#piyaafo">piyaafo</a>&nbsp;
+<br><font size="+2"><b><a name="piyaafo"></a>piyaafo</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to miss out on (something) entirely, be shut out of (especially in hunting or scoring points)</font>
+&nbsp;<font color="#800080" size="+1">AM-/3; CHA-/3</font>
+ <i>Var: piyaafi</i>
+&nbsp;<font size="0">(IB)</font>
+ <i>Var: poyawfo</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: poyaafo</i>
+&nbsp;<font face="Arial">«</font>Ipɬon ampiyaafobi.
+ <i>I didn't get any squirrels in hunting.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chapiyaafo.
+ <i>I didn't get a thing.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to have bad luck, misfortune, be unlucky</font>
+&nbsp;<font color="#800080" size="+1">CHA-; AM-</font>
+&nbsp;<font face="Arial">«</font>∥aɬon imokwáyliláapok ampiyaafobi.
+ <i>I went fishing and had bad luck.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#piyaafotíkko">piyaafotíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="piyaafotíkko"></a>piyaafotíkko</b> </font>
+ Neg.
+ <i>Var: poyaafotíkko</i>
+ ☞<a href="p.htm#piyaafo">piyaafo</a>
+<br><font size="+2"><b><a name="piyaako"></a>piyaako</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#pihaako">pihaako</a>&nbsp;
+<br><font size="+2"><b><a name="piyaako koɬaako"></a>piyaako koɬaako</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#pihaako koɬaako">pihaako koɬaako</a>&nbsp;
+<br><font size="+2"><b><a name="piyàano"></a>piyàano</b> </font>
+<font size="+2">piano </font>
+ {&nbsp;English}
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="pochka"></a>pochka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#poochka">poochka</a>&nbsp;
+<br><font size="+2"><b><a name="poffichi"></a>poffichi</b> </font>
+<font size="+2">to inflate, pump up (a flat tire)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>pofchichi, pofhilichi, pofhachichi</i>)
+&nbsp; [/pof-li-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#pofka">pofka</a>
+<br><font size="+2"><b><a name="pofíkko"></a>pofíkko</b> </font>
+ Neg.
+ ☞<a href="p.htm#pofka">pofka</a>
+<br><font size="+2"><b><a name="pofilka"></a>pofilka</b> </font>
+<font size="+2">pipe for blowing; flute, whistle, police officer's whistle, mouth harp, harmonica </font>
+&nbsp; [/pof&lt;il&gt;-ka<sup>1</sup>]
+ ☞<a href="p.htm#pofka">pofka</a>
+<br><font size="+2"><b><a name="pofilkasi"></a>pofilkasi</b> </font>
+<font size="+2">whistle</font>
+&nbsp; [/pof&lt;il&gt;-ka<sup>1</sup>-osi]
+ ☞<a href="p.htm#pofilka">pofilka</a>
+<br><font size="+2"><b><a name="pofka"></a>pofka</b> </font>
+<font size="+2">to blow (air), blow (a bubble)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>poofiska, poofilka, poofaska</i>)
+&nbsp; [/pof-ka<sup>1</sup>, /poof-ka<sup>1</sup> (?)]
+&nbsp;<font face="Arial">«</font>Poofiskánna.
+ <i>Don't blow.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#pofíkko">pofíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="p.htm#póofka">póofka</a></i>
+&nbsp;to be playing a horn
+<br>&nbsp;&nbsp;<i><a href="p.htm#pofkat alotli">pofkat alotli</a></i>
+&nbsp;to blow up balloons
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#póofkat alotli">póofkat alotli</a></i>
+&nbsp;to blow up balloons
+<br>&nbsp;&nbsp;<i><a href="p.htm#pofkat chobachi">pofkat chobachi</a></i>
+&nbsp;to inflate
+<br>&nbsp;&nbsp;<i><a href="p.htm#pofilka">pofilka</a></i>
+&nbsp;pipe for blowing
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#pofilkasi">pofilkasi</a></i>
+&nbsp;whistle
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ibiipofka">ibiipofka</a></i>
+&nbsp;to blow in someone's face
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istapofka">istapofka</a></i>
+&nbsp;to blow air on using an instrument
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istapofilka">istapofilka</a></i>
+&nbsp;blow tube
+<br>&nbsp;&nbsp;<i><a href="o.htm#onapofka">onapofka</a></i>
+&nbsp;to blow on
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#onapoffichi">onapoffichi</a></i>
+&nbsp;to spray on
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istompoffichi">istompoffichi</a></i>
+&nbsp;spray
+<br>&nbsp;&nbsp;<i><a href="o.htm#oopofka">oopofka</a></i>
+&nbsp;to blow into water
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istoopofilka">istoopofilka</a></i>
+&nbsp;cane tube used for blowing
+<br>&nbsp;&nbsp;<i><a href="p.htm#poffichi">poffichi</a></i>
+&nbsp;to inflate
+<br><font size="+2"><b><a name="pofkat alotli"></a>pofkat alotli</b> </font>
+<font size="+2">to blow up balloons</font>
+ (refers to blowing them up all at once)
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [/pof-ka<sup>1</sup> /alot-li]
+ ☞<a href="p.htm#pofka">pofka</a>
+<br><font size="+2"><b><a name="pofkat chobachi"></a>pofkat chobachi</b> </font>
+<font size="+2">to blow up with air, inflate</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [/pof-ka<sup>1</sup>-t /choba-chi<sup>1</sup>]
+ ☞<a href="p.htm#pofka">pofka</a>
+<br><font size="+2"><b><a name="pofotli"></a>pofotli</b> </font>
+<font size="+2">to crumble, disintegrate, fall apart; to evaporate (of a liquid)</font>
+&nbsp; [/pofot-li]
+&nbsp;<font face="Arial">«</font>Paspachámpolik pofotliimoolo.
+ <i>The cake is real crumbly.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Okik pofottanooka.
+ <i>The water all evaporated.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#pofotlichi">pofotlichi</a></i>
+&nbsp;to crumble up
+<br><font size="+2"><b><a name="pofotlichi"></a>pofotlichi</b> </font>
+<font size="+2">to crumble up</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>pofotchichi, pofothilichi, pofothachichi</i>)
+&nbsp; [/pofot-li-chi<sup>1</sup>]
+ ☞<a href="p.htm#pofotli">pofotli</a>
+<br><font size="+2"><b><a name="pohaalo"></a>pohaalo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#ponhaalo">ponhaalo</a>&nbsp;
+<br><font size="+2"><b><a name="pokínno"></a>pokínno</b> </font>
+ Neg.
+ ☞<a href="p.htm#ponna">ponna</a>
+<br><font size="+2"><b><a name="pokkaatòoka"></a>pokkaatòoka</b> </font>
+<font size="+2">ball field, ball park</font>
+&nbsp; [/pokko aa- /too-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="pokkachi"></a>pokkachi</b> </font>
+<font size="+2">cow horn</font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+&nbsp; [prob. /pok-ka<sup>1</sup>-chi<sup>2</sup>]
+&nbsp;<font face="Arial">«</font>Ampokkachi.
+ <i>My horn.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#poklichi">poklichi</a>
+<br><font size="+2"><b><a name="pokko"></a>pokko</b> </font>
+<font size="+2">ball</font>
+<br><font size="+2"><b><a name="pokkobàatli"></a>pokkobàatli</b> </font>
+<font size="+2">batter (in a ballgame)</font>
+&nbsp; [/pokko /bat(at)-li]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="pokkobatka"></a>pokkobatka</b> </font>
+<font size="+2">volleyball; baseball</font>
+&nbsp; [/pokko /bat(at)-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="pokkochoba"></a>pokkochoba</b> </font>
+<font size="+2">basketball</font>
+&nbsp; [/pokko /choba]
+<br><font size="+2"><b><a name="pokkochoffi"></a>pokkochoffi</b> </font>
+<font size="+2">solid rubber ball; basketball</font>
+&nbsp; [/pokko /chof(ot)-li]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="pokkohaɬilka"></a>pokkohaɬilka</b> </font>
+<font size="+2">soccer ball; football</font>
+&nbsp; [/pokko /haɬ(ap)&lt;il&gt;-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="pokko ispafkachi"></a>pokko ispafkachi</b> </font>
+<font size="+2">baseball glove, catcher's mitt</font>
+&nbsp; [/pokko ist- /paf-ka<sup>1</sup>-chi<sup>1</sup>]
+<br><font size="+2"><b><a name="pókkòolawah cháffàaka"></a>pókkòolawah cháffàaka</b> </font>
+<font size="+2">the number eleven, to be eleven in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pókkòo-li /awah /cháffàa-ka<sup>1</sup>]
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="pókkòolawah chákkàali"></a>pókkòolawah chákkàali</b> </font>
+<font size="+2">the number nineteen, to be nineteen in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pókkòo-li /awah /chákkàa-li]
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="pókkòolawah hánnàali"></a>pókkòolawah hánnàali</b> </font>
+<font size="+2">the number sixteen, to be sixteen in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pókkòo-li /awah /hánnàa-li]
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="pókkòolawah onóstàaka"></a>pókkòolawah onóstàaka</b> </font>
+<font size="+2">the number eighteen, to be eighteen in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pókkòo-li /awah ona- /óstàa-ka<sup>1</sup>]
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="pókkòolawah ontòklo"></a>pókkòolawah ontòklo</b> </font>
+<font size="+2">the number seventeen, to be seventeen in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pókkòo-li /awah ona- /tòklo]
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="pókkòolawah óstàaka"></a>pókkòolawah óstàaka</b> </font>
+<font size="+2">the number fourteen, to be fourteen in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pókkòo-li /awah /óstàa-ka<sup>1</sup>]
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="pókkòolawah táɬɬàapi"></a>pókkòolawah táɬɬàapi</b> </font>
+<font size="+2">the number fifteen, to be fifteen in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pókkòo-li /awah /táɬɬàapi]
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="pókkòolawah tòklo"></a>pókkòolawah tòklo</b> </font>
+<font size="+2">the number twelve, to be twelve in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pókkòo-li /awah /tòklo]
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="pókkòolawah tótchìina"></a>pókkòolawah tótchìina</b> </font>
+<font size="+2">the number thirteen, to be thirteen in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pókkòo-li /awah /tótchìina]
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="pókkòoli"></a>pókkòoli</b> </font>
+<font size="+2">the number ten, to be ten in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>pókkòolitiska, pókkòolitilka, pókkòolitaska</i>)
+&nbsp; [/pókkòo-li]
+ [<i>The contraction of pókkòoli to pooli is usually used for multiples of ten beyond nineteen, and most often in higher numbers. The contraction of pooli-hchi to pooli-s before number stems beginning with consonants is optional for multiples of ten up to one hundred and preferred for higher numbers. The connective /-awah is used for single digits added to ten; the full construction includes pókkòoli followed by the syntactic suffix -n, then the connective awah followed by the single digit number (pókkòolin awah cháffàaka `eleven'). This very careful pronunciation is used only in such contexts as teaching the numbers. The more common casual pronunciation contracts to pókkòolawah leading some speakers to reanalyze /awah as /-lawah</i>]
+ <i>Var: pooli-</i>
+&nbsp;<font face="Arial">«</font>Máamiimon tóklohchóot stick-kaamá poolischáffàakahchok òmmin.
+ <i>Then again, two sticks (turned over) makes one ten.</i> <font size="0">(PPT)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Pókkòolitilko.
+ <i>There are ten of us.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Takkoosawa pókkòolit nàahobi.
+ <i>There are ten plums here.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ispókkòoli">ispókkòoli</a></i>
+&nbsp;to be tenth
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istapókkòoli">istapókkòoli</a></i>
+&nbsp;ten times
+<br>&nbsp;&nbsp;<i><a href="p.htm#pókkòolichi">pókkòolichi</a></i>
+&nbsp;to do ten times
+<br>&nbsp;&nbsp;<i><a href="p.htm#pókkòolawah cháffàaka">pókkòolawah cháffàaka</a></i>
+&nbsp;eleven
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ispókkòolawah cháffàaka">ispókkòolawah cháffàaka</a></i>
+&nbsp;to be eleventh
+<br>&nbsp;&nbsp;<i><a href="p.htm#pókkòolawah tòklo">pókkòolawah tòklo</a></i>
+&nbsp;twelve
+<br>&nbsp;&nbsp;<i><a href="p.htm#pókkòolawah tótchìina">pókkòolawah tótchìina</a></i>
+&nbsp;thirteen
+<br>&nbsp;&nbsp;<i><a href="p.htm#pókkòolawah óstàaka">pókkòolawah óstàaka</a></i>
+&nbsp;fourteen
+<br>&nbsp;&nbsp;<i><a href="p.htm#pókkòolawah táɬɬàapi">pókkòolawah táɬɬàapi</a></i>
+&nbsp;fifteen
+<br>&nbsp;&nbsp;<i><a href="p.htm#pókkòolawah hánnàali">pókkòolawah hánnàali</a></i>
+&nbsp;sixteen
+<br>&nbsp;&nbsp;<i><a href="p.htm#pókkòolawah ontòklo">pókkòolawah ontòklo</a></i>
+&nbsp;seventeen
+<br>&nbsp;&nbsp;<i><a href="p.htm#pókkòolawah onóstàaka">pókkòolawah onóstàaka</a></i>
+&nbsp;eighteen
+<br>&nbsp;&nbsp;<i><a href="p.htm#pókkòolawah chákkàali">pókkòolawah chákkàali</a></i>
+&nbsp;nineteen
+<br>&nbsp;&nbsp;<i><a href="p.htm#poolihchitóklo">poolihchitóklo</a></i>
+&nbsp;twenty
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ispoolistóklo">ispoolistóklo</a></i>
+&nbsp;to be twentieth
+<br>&nbsp;&nbsp;<i><a href="p.htm#poolihchitótchìina">poolihchitótchìina</a></i>
+&nbsp;thirty
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#poolihchitótchìinan awah táɬɬàapi">poolihchitótchìinan awah táɬɬàapi</a></i>
+&nbsp;thirty-five
+<br>&nbsp;&nbsp;<i><a href="p.htm#poolihchóstàaka">poolihchóstàaka</a></i>
+&nbsp;forty
+<br>&nbsp;&nbsp;<i><a href="p.htm#poolihchitáɬɬàapi">poolihchitáɬɬàapi</a></i>
+&nbsp;fifty
+<br>&nbsp;&nbsp;<i><a href="p.htm#poolihchihánnàali">poolihchihánnàali</a></i>
+&nbsp;sixty
+<br>&nbsp;&nbsp;<i><a href="p.htm#poolihchontóklo">poolihchontóklo</a></i>
+&nbsp;seventy
+<br>&nbsp;&nbsp;<i><a href="p.htm#poolihchontótchìina">poolihchontótchìina</a></i>
+&nbsp;eighty
+<br>&nbsp;&nbsp;<i><a href="p.htm#poolihchichákkàali">poolihchichákkàali</a></i>
+&nbsp;ninety
+<br>&nbsp;&nbsp;<i><a href="p.htm#poolispókkòoli">poolispókkòoli</a></i>
+&nbsp;one hundred
+<br>&nbsp;&nbsp;<i><a href="p.htm#poolispókkòolawah tóklo">poolispókkòolawah tóklo</a></i>
+&nbsp;two hundred
+<br>&nbsp;&nbsp;<i><a href="p.htm#poolispókkòolawah tótchìina">poolispókkòolawah tótchìina</a></i>
+&nbsp;three hundred
+<br>&nbsp;&nbsp;<i><a href="p.htm#poolispókkòolawah óstàaka">poolispókkòolawah óstàaka</a></i>
+&nbsp;four hundred
+<br>&nbsp;&nbsp;<i><a href="p.htm#poolispókkòolawah táɬɬàapi">poolispókkòolawah táɬɬàapi</a></i>
+&nbsp;five hundred
+<br>&nbsp;&nbsp;<i><a href="p.htm#poolispókkòolawah hánnàali">poolispókkòolawah hánnàali</a></i>
+&nbsp;six hundred
+<br>&nbsp;&nbsp;<i><a href="p.htm#poolispókkòolawah ontóklo">poolispókkòolawah ontóklo</a></i>
+&nbsp;seven hundred
+<br>&nbsp;&nbsp;<i><a href="p.htm#poolispókkòolawah ontótchìina">poolispókkòolawah ontótchìina</a></i>
+&nbsp;eight hundred
+<br>&nbsp;&nbsp;<i><a href="p.htm#poolispókkòolawah chákkàali">poolispókkòolawah chákkàali</a></i>
+&nbsp;nine hundred
+<br><font size="+2"><b><a name="pókkòolichi"></a>pókkòolichi</b> </font>
+<font size="+2">to do ten times, make ten, score ten points</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>pókkòolichitiska, pókkòolichitilka, pókkòolichitaska</i>)
+&nbsp; [/pókkòo-li-chi<sup>1</sup>]
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="pókkòolischákkàali"></a>pókkòolischákkàali</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#poolihchichákkàali">poolihchichákkàali</a>&nbsp;
+<br><font size="+2"><b><a name="pókkòolishánnàali"></a>pókkòolishánnàali</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#poolihchihánnàali">poolihchihánnàali</a>&nbsp;
+<br><font size="+2"><b><a name="pókkòolistáɬɬàapi"></a>pókkòolistáɬɬàapi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#poolihchitáɬɬàapi">poolihchitáɬɬàapi</a>&nbsp;
+<br><font size="+2"><b><a name="pókkòolistóklo"></a>pókkòolistóklo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#poolihchitóklo">poolihchitóklo</a>&nbsp;
+<br><font size="+2"><b><a name="pókkòolistótchìina"></a>pókkòolistótchìina</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#poolihchitótchìina">poolihchitótchìina</a>&nbsp;
+<br><font size="+2"><b><a name="pokkotòoli"></a>pokkotòoli</b> </font>
+<font size="+2">ball player</font>
+&nbsp; [/pokko /tòo-li]
+ [<i>fgr</i>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="pokkotòoliha"></a>pokkotòoliha</b> </font>
+<font size="+2">ball team</font>
+&nbsp; [/pokko /tòo-li-ha<sup>1</sup>]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="pokkotòoli istiⁿsokcha"></a>pokkotòoli istiⁿsokcha</b> </font>
+<font size="+2">to be a fan of, crazy about playing ball</font>
+ <i>Usage: </i>Idiomatic.
+&nbsp;<font color="#800080" size="+1">3/AM-</font>
+&nbsp; [/pokko /tòo-li ist-im- /sokcha]
+ [<i>fgr</i>]
+ ☞<a href="i2.htm#istiⁿsokcha">istiⁿsokcha</a>
+<br><font size="+2"><b><a name="pokkowanha"></a>pokkowanha</b> </font>
+<font size="+2">baseball</font>
+&nbsp; [/pokko /wanha]
+<br><font size="+2"><b><a name="poklichi"></a>poklichi</b> </font>
+<font size="+2">to blow a hunting horn (to call dogs)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>pokchichi, pokhilichi, pokhachichi</i>)
+&nbsp; [poss. /pok-li-chi<sup>2</sup>]
+<br>&nbsp;&nbsp;<i><a href="i1.htm#impoklichi">impoklichi</a></i>
+&nbsp;to call (dogs) by blowing (a horn)
+<br>&nbsp;&nbsp;<i><a href="p.htm#pokkachi">pokkachi</a></i>
+&nbsp;cow horn
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittapoklichi">ittapoklichi</a></i>
+&nbsp;to clap
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imittapoklichi">imittapoklichi</a></i>
+&nbsp;to applaud
+<br><font size="+2"><b><a name="poksi"></a>poksi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to bulge, protrude, pooch out</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;2.&nbsp;
+<font size="+2">bump, lump, bulge, protrusion</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#impoksi">impoksi</a></i>
+&nbsp;knuckle
+<br>&nbsp;&nbsp;<i><a href="n.htm#noopoksi">noopoksi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to have a pouched throat
+&nbsp;2.&nbsp;
+&nbsp;larynx
+<br><font size="+2"><b><a name="pokta"></a>pokta</b> </font>
+<font size="+2">twin, twins</font>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Chaafipokta.
+ <i>Double-edged ax.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#poktasiiha">poktasiiha</a></i>
+&nbsp;twin babies
+<br>&nbsp;&nbsp;<i><a href="i1.htm#impokta">impokta</a></i>
+&nbsp;to be a partner to
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittimpokta">ittimpokta</a></i>
+&nbsp;to be on opposite sides
+<br><font size="+2"><b><a name="poktasiiha"></a>poktasiiha</b> </font>
+<font size="+2">twin babies </font>
+&nbsp; [/pokta-osi-ha<sup>1</sup>]
+ ☞<a href="p.htm#pokta">pokta</a>
+<br><font size="+2"><b><a name="pokyo"></a>pokyo</b> </font>
+<font size="+2">to be curled, curly (of hair)</font>
+&nbsp;<font face="Arial">«</font>Chahissik pokyohchi.
+ <i>My hair is curly.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#pokyochi">pokyochi</a></i>
+&nbsp;to curl (hair)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="h.htm#hissi pokyòochi">hissi pokyòochi</a></i>
+&nbsp;hairdresser; to work on hair
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#impokyochi">impokyochi</a></i>
+&nbsp;to curl (the hair) for (someone)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="h.htm#hissi impokyochi">hissi impokyochi</a></i>
+&nbsp;to get a permanent
+<br><font size="+2"><b><a name="pokyochi"></a>pokyochi</b> </font>
+<font size="+2">to curl (hair)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>pokyochitiska, pokyochitilka, pokyochitaska</i>)
+&nbsp;(<i>pokyochiska, pokyochilka, pokyochaska</i>)
+&nbsp; [/pokyo-chi<sup>1</sup>]
+ ☞<a href="p.htm#pokyo">pokyo</a>
+<br><font size="+2"><b><a name="pokyoh-"></a>pokyoh-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#pokyohlichi">pokyohlichi</a></i>
+&nbsp;to wad into a ball
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#pokyohkachi">pokyohkachi</a></i>
+&nbsp;to be wrinkled
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#pokyohkáachosi">pokyohkáachosi</a></i>
+&nbsp;to be wrinkled
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#pokyohkáachòssi">pokyohkáachòssi</a></i>
+&nbsp;to be slightly wrinkled
+<br>&nbsp;&nbsp;<i><a href="p.htm#pokyohkachi">pokyohkachi</a></i>
+&nbsp;to be curled up flat
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ibipokyohkachi">ibipokyohkachi</a></i>
+&nbsp;to have a wrinkled face
+<br><font size="+2"><b><a name="pokyohkáachosi"></a>pokyohkáachosi</b> </font>
+<font size="+2">to be wrinkled </font>
+&nbsp; [/pokyoh-ka<sup>1</sup>-chi<sup>2</sup>-osi]
+ [<i>lgr</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#pokyohkachi1">pokyohkachi<sup>1</sup></a>
+<br><font size="+2"><b><a name="pokyohkáachòssi"></a>pokyohkáachòssi</b> </font>
+<font size="+2">to be slightly wrinkled</font>
+&nbsp; [/pokyoh-ka<sup>1</sup>-chi<sup>2</sup>-osi-hchi]
+ [<i>lgr</i>]
+ ☞<a href="p.htm#pokyohkachi1">pokyohkachi<sup>1</sup></a>
+<br><font size="+2"><b><a name="pokyohkachi"></a>pokyohkachi</b><sup>1</sup> </font>
+<font size="+2">to be wrinkled (as paper, clothes, etc.)</font>
+&nbsp; [/pokyoh-ka<sup>1</sup>-chi<sup>2</sup>]
+ ☞<a href="p.htm#pokyohlichi">pokyohlichi</a>
+<br><font size="+2"><b><a name="pokyohkachi"></a>pokyohkachi</b><sup>2</sup> </font>
+<font size="+2">to be coiled, curled up flat (as a snake)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/pokyoh-ka<sup>1</sup>-chi<sup>2</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#pokyoh-">pokyoh-</a>
+<br><font size="+2"><b><a name="pokyohlichi"></a>pokyohlichi</b> </font>
+<font size="+2">to wad into a ball, fold up, crumple up, wrinkle</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>pokyohchichi, pokyohhilichi, pokyohhachichi</i>)
+&nbsp; [/pokyoh-li-chi<sup>2</sup>]
+ <i>Var: pokyoolichi</i>
+ <i>Var: poyoolichi</i>
+&nbsp;<font face="Arial">«</font>Pokyòolichit maachi.
+ <i>Wad it up and throw it away.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Pokyòolichit anòolok maachi.
+ <i>Wad it all up and throw it away.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#pokyoh-">pokyoh-</a>
+<br><font size="+2"><b><a name="pokyoolichi"></a>pokyoolichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#pokyohlichi">pokyohlichi</a>&nbsp;
+<br><font size="+2"><b><a name="policha"></a>policha</b> </font>
+<font size="+2">preacher, minister</font>
+ {&nbsp;English}
+ <i>Var: polichi</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="polichi"></a>polichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#policha">policha</a>&nbsp;
+<br><font size="+2"><b><a name="polichi impaawìlka"></a>polichi impaawìlka</b> </font>
+<font size="+2">pulpit</font>
+&nbsp; [/polichi im-paa- /wìi&lt;il&gt;-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="poliika"></a>poliika</b> </font>
+<font size="+2">to pray</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>poliihiska, poliihilka, poliihaska</i>)
+&nbsp; [/polii-ka<sup>1</sup>]
+ {&nbsp;English `pray'}
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="poloma"></a>poloma</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#polooma">polooma</a>&nbsp;
+<br><font size="+2"><b><a name="polooma"></a>polooma</b> </font>
+<font size="+2">to need sex, be amorous, sexually aroused, impassioned; to be virile</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: poloma</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Poloomamóotòoli.
+ <i>He must be virile. (what you might say about a man who has a lot of children).</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="a.htm#apolooma">apolooma</a></i>
+&nbsp;to become sexually aroused
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#apoloomachi">apoloomachi</a></i>
+&nbsp;to fondle to sexually arouse
+<br><font size="+2"><b><a name="poɬachi"></a>poɬachi</b> </font>
+<font size="+2">stickball goal posts</font>
+<br><font size="+2"><b><a name="poɬoíⁿkko"></a>poɬoíⁿkko</b> </font>
+ Neg.
+ ☞<a href="p.htm#poɬonka">poɬonka</a>
+<br><font size="+2"><b><a name="poɬommi"></a>poɬommi</b> </font>
+<font size="+2">to bend into a curve or hook</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>poɬonchi, poɬoⁿhili, poɬoⁿhachi</i>)
+&nbsp; [/poɬom-li]
+<br>&nbsp;&nbsp;<i><a href="p.htm#poɬonka">poɬonka</a></i>
+&nbsp;to be hooked
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#poɬoíⁿkko">poɬoíⁿkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#poɬonkatíkko">poɬonkatíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="poɬonka"></a>poɬonka</b> </font>
+<font size="+2">to be hooked, curved, curled up (like a baby)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/poɬom-ka<sup>1</sup>]
+ <i>Neg: </i>poɬoíⁿkko
+ <i>Neg: </i>poɬonkatíkko
+ ☞<a href="p.htm#poɬommi">poɬommi</a>
+<br><font size="+2"><b><a name="poɬonkatíkko"></a>poɬonkatíkko</b> </font>
+ Neg.
+ ☞<a href="p.htm#poɬonka">poɬonka</a>
+<br><font size="+2"><b><a name="ponhaalo"></a>ponhaalo</b> </font>
+<font size="+2">to be quiet, still</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>ponhaalotiska, ponhaalotilka, ponhaalotaska</i>)
+&nbsp; [(pon-) /haalo]
+ {poss. compound verb from /ponna /haalo or &nbsp;Creek `talk' (o)pona-yita}
+ <i>Var: poⁿhaalo</i>
+ <i>Var: pohaalo</i>
+&nbsp;<font face="Arial">«</font>Ponhaalo.
+ <i>It's real quiet (outside, as before a tornado.).</i><font face="Arial">»</font>
+ ☞<a href="h.htm#haalo">haalo</a>
+<br><font size="+2"><b><a name="poⁿhaalo"></a>poⁿhaalo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#ponhaalo">ponhaalo</a>&nbsp;
+<br><font size="+2"><b><a name="ponhaalotíkko"></a>ponhaalotíkko</b> </font>
+ Neg.
+ ☞<a href="p.htm#ponhaalo">ponhaalo</a>
+<br><font size="+2"><b><a name="ponhaalotoka"></a>ponhaalotoka</b> </font>
+ Imp.
+ ☞<a href="p.htm#ponhaalo">ponhaalo</a>
+<br><font size="+2"><b><a name="ponna"></a>ponna</b> </font>
+<font size="+2">to know how to; to learn how</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Máskat hoponnahchóot ommoolo.
+ <i>They really learn a lot these days.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ifok nita ɬoolihchok ponnahchi.
+ <i>The dog knows how to chase bears.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hompaniiyok palammi ponnàapìi.
+ <i>He sure knows how to play.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Eh, nita ɬooli ponnókkooma yok máami akìilot imoɬahchóot máamiimá máamifòokamon batatlóostík kowaɬɬit ibihchootoolo.
+ <i>If the dog doesn't know how to chase bears, isn't aware of it, then if that happens, the bear might just swat them and it will break and kill them.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Kan nita ɬooliha hoponnaya oayakhatíkkotoolo.
+ <i>Then the ones that knew how to chase bears never would get near them.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#pokínno">pokínno</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#imponna">imponna</a></i>
+&nbsp;to know how to do something
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istimponna">istimponna</a></i>
+&nbsp;to be used to
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="h.htm#holisso imponna">holisso imponna</a></i>
+&nbsp;to be educated
+<br>&nbsp;&nbsp;<i><a href="p.htm#ponnachi">ponnachi</a></i>
+&nbsp;to impart knowledge
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imponnachi">imponnachi</a></i>
+&nbsp;to teach (a skill) to
+<br><font size="+2"><b><a name="ponnachi"></a>ponnachi</b> </font>
+<font size="+2">to teach (a subject or theory), make learn (a subject), impart knowledge to</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-/3</font>
+&nbsp;(<i>ponnachitiska, ponnachitilka, ponnachitaska</i>)
+&nbsp;(<i>ponnachiska, ponnachilka, ponnachaska</i>)
+&nbsp; [/ponna-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chiponnachimoolo.
+ <i>She teaches you real well.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Holtinan chiponnachiimoolo.
+ <i>She taught you math.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#ponna">ponna</a>
+<br><font size="+2"><b><a name="pontókkòoli"></a>pontókkòoli</b> </font>
+<font size="+2">noontime, mid-day</font>
+ <i>Usage: </i>Answers `what time is it?' or `at what time?'
+&nbsp; [/pontókkòo-li]
+ [<i>The contracted variant pontòoli is similar to the contraction of pókkòoli to pooli in higher numbers</i>]
+ <i>Var: pontòoli</i>
+&nbsp;<font face="Arial">«</font>Pontókkòolo.
+ <i>It's dinner time.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Pontòolàhoso.
+ <i>It's almost noon.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Pontòot abanatlo.
+ <i>It's past noon.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Pontoot taɬoffo.
+ <i>It's afternoon.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Pontòolit taɬoffo.
+ <i>It's afternoon.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Pontókkòot ɬopotlo.
+ <i>It's afternoon.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Pontoot táɬɬóffòosin.
+ <i>In early afternoon.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Pontókkòot taɬoffi.
+ <i>It's afternoon (older word).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Choyyaposa istalàakaaya sobáaylilihchootóskan ìisaamok pontòoliimon ostòompat talóot hohótchat ìisat akkáhmin híichalihchoolikha.
+ <i>I remember there used to be a grove of pine trees there, and so whenever they were there and it got to be noontime, they would go eat and shoot marbles for a while and I always used to see them do that way.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#pontòoko">pontòoko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="pontókkòoli oolimpa"></a>pontókkòoli oolimpa</b> </font>
+<font size="+2">lunch, dinner</font>
+&nbsp; [/pontókkòo-li /oo&lt;li&gt;mpa]
+ <i>Var: pontóoloolimpa</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Pontóoliya oolimpati.
+ <i>We've already eaten lunch.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="pontòoko"></a>pontòoko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Pontokóomooso.
+ <i>It's not quite lunch time.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#pontókkòoli">pontókkòoli</a>
+<br><font size="+2"><b><a name="pontòoli"></a>pontòoli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#pontókkòoli">pontókkòoli</a>&nbsp;
+<br><font size="+2"><b><a name="pontòolilpa"></a>pontòolilpa</b> </font>
+<font size="+2">lunch, mid-day dinner</font>
+&nbsp; [/pontòo-li il- /(i)pa]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="pontóoloolimpa"></a>pontóoloolimpa</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#pontókkòoli oolimpa">pontókkòoli oolimpa</a>&nbsp;
+<br><font size="+2"><b><a name="poochka"></a>poochka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to squirt; to spray or spew water with the mouth</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>poochiska, poochilka, poochaska</i>)
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: pochka</i>
+&nbsp;<font size="0">(IB, DB)</font>
+&nbsp;<font face="Arial">«</font>Poochkali.
+ <i>I squirted.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Poochiska.
+ <i>You squirted.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Achimpochkalòo!
+ <i>I'm going to squirt you!</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to have uncontrollable severe diarrhea</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font size="0">(DB)</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#paapòochka">paapòochka</a></i>
+&nbsp;to squirt on (something or someone)
+<br><font size="+2"><b><a name="póofka"></a>póofka</b> </font>
+<font size="+2">to be playing a horn instrument (such as a trumpet) </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>póofiska, póofilka, póofaska</i>)
+ [<i>lgr</i>]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Póofkahchìisan háalolo.
+ <i>I hear someone blowing a horn.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#pofka">pofka</a>
+<br><font size="+2"><b><a name="póofkat alotli"></a>póofkat alotli</b> </font>
+<font size="+2">to blow up balloons</font>
+ (blown up slowly or over a period of time, not all at once)
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [/pof-ka<sup>1</sup>-t /alot-li]
+ [<i>lgr</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#pofkat alotli">pofkat alotli</a>
+<br><font size="+2"><b><a name="pooli-"></a>pooli-</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#pókkòoli">pókkòoli</a>&nbsp;
+<br><font size="+2"><b><a name="poolihchichákkàali"></a>poolihchichákkàali</b> </font>
+<font size="+2">the number ninety, to be ninety in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pooli-hchi /chákkàa-li]
+ <i>Var: poolischákkàali</i>
+ <i>Var: pókkòolischákkàali</i>
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="poolihchihánnàali"></a>poolihchihánnàali</b> </font>
+<font size="+2">the number sixty, to be sixty in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pooli-hchi /hánnàa-li]
+ <i>Var: poolishánnàali</i>
+ <i>Var: pókkòolishánnàali</i>
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="poolihchitáɬɬàapi"></a>poolihchitáɬɬàapi</b> </font>
+<font size="+2">the number fifty, to be fifty in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pooli-hchi /táɬɬàapi]
+ <i>Var: poolistáɬɬàapi</i>
+ <i>Var: pókkòolistáɬɬàapi</i>
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="poolihchitóklo"></a>poolihchitóklo</b> </font>
+<font size="+2">the number twenty, to be twenty in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pooli-hchi /tóklo]
+ <i>Var: poolistóklo</i>
+ <i>Var: pókkòolistóklo</i>
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="poolihchitótchìina"></a>poolihchitótchìina</b> </font>
+<font size="+2">the number thirty, to be thirty in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pókkòo-li ist- /tótchìina]
+ <i>Var: poolistótchìina</i>
+ <i>Var: pókkòolistótchìina</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="poolihchitótchìinan awah táɬɬàapi"></a>poolihchitótchìinan awah táɬɬàapi</b> </font>
+<font size="+2">the number thirty-five, to be thirty-five in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pókkòo-li ist- /tótchìina-n /awah /táɬɬàapi]
+&nbsp;<font size="0">(DB)</font>
+ ☞<a href="p.htm#poolihchitótchìina">poolihchitótchìina</a>
+<br><font size="+2"><b><a name="poolihchontóklo"></a>poolihchontóklo</b> </font>
+<font size="+2">the number seventy, to be seventy in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pooli-hchi /ona- /tóklo]
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="poolihchontótchìina"></a>poolihchontótchìina</b> </font>
+<font size="+2">the number eighty, to be eighty in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pooli-hchi ona- /tótchìina]
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="poolihchóstàaka"></a>poolihchóstàaka</b> </font>
+<font size="+2">the number forty, to be forty in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pooli-hchi /óstàa-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Poolihchóstàakatilko.
+ <i>There are forty of us.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="poolischákkàali"></a>poolischákkàali</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#poolihchichákkàali">poolihchichákkàali</a>&nbsp;
+<br><font size="+2"><b><a name="poolishánnàali"></a>poolishánnàali</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#poolihchihánnàali">poolihchihánnàali</a>&nbsp;
+<br><font size="+2"><b><a name="poolispókkòolawah chákkàali"></a>poolispókkòolawah chákkàali</b> </font>
+<font size="+2">the number nine hundred, to be nine hundred in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pooli-hchi /pókkòo-li /awah /chákkàa-li]
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="poolispókkòolawah hánnàali"></a>poolispókkòolawah hánnàali</b> </font>
+<font size="+2">the number six hundred, to be six hundred in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pooli-hchi /pókkòo-li /awah /hánnàa-li]
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="poolispókkòolawah ontóklo"></a>poolispókkòolawah ontóklo</b> </font>
+<font size="+2">the number seven hundred, to be seven hundred in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pooli-hchi /pókkòo-li /awah ona- /tóklo]
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="poolispókkòolawah ontótchìina"></a>poolispókkòolawah ontótchìina</b> </font>
+<font size="+2">the number eight hundred, to be eight hundred in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pooli-hchi /pókkòo-li /awah ona- /tótchìina]
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="poolispókkòolawah óstàaka"></a>poolispókkòolawah óstàaka</b> </font>
+<font size="+2">the number four hundred, to be four hundred in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pooli-hchi /pókkòo-li /awah /óstàa-ka<sup>1</sup>]
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="poolispókkòolawah táɬɬàapi"></a>poolispókkòolawah táɬɬàapi</b> </font>
+<font size="+2">the number five hundred, to be five hundred in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pooli-hchi /pókkòo-li /awah /táɬɬàapi]
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="poolispókkòolawah tóklo"></a>poolispókkòolawah tóklo</b> </font>
+<font size="+2">the number two hundred, to be two hundred</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pooli-hchi /pókkòo-li /awah /tóklo]
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="poolispókkòolawah tótchìina"></a>poolispókkòolawah tótchìina</b> </font>
+<font size="+2">the number three hundred, to be three hundred in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/pooli-hchi /pókkòo-li /awah /tótchìina]
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="poolispókkòoli"></a>poolispókkòoli</b> </font>
+<font size="+2">the number one hundred, to be one hundred in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>poolispókkòolitiska, poolispókkòolitilka, poolispókkòolitaska</i>)
+&nbsp; [/pooli-hchi /pókkòo-li]
+ ☞<a href="p.htm#pókkòoli">pókkòoli</a>
+<br><font size="+2"><b><a name="poolistáɬɬàapi"></a>poolistáɬɬàapi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#poolihchitáɬɬàapi">poolihchitáɬɬàapi</a>&nbsp;
+<br><font size="+2"><b><a name="poolistóklo"></a>poolistóklo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#poolihchitóklo">poolihchitóklo</a>&nbsp;
+<br><font size="+2"><b><a name="poolistótchìina"></a>poolistótchìina</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#poolihchitótchìina">poolihchitótchìina</a>&nbsp;
+<br><font size="+2"><b><a name="pooɬi"></a>pooɬi</b> </font>
+<font size="+2">seeds (for planting), winter seed</font>
+&nbsp;<font face="Arial">«</font>Nàasi pooɬiya chimanootákkooso?
+ <i>Didn't I finish off all of your seeds?</i> <font size="0">(RAF)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="póosi"></a>póosi</b> </font>
+<font size="+2">to be powdered</font>
+ [<i>lgr</i>]
+ ☞<a href="p.htm#possi">possi</a>
+<br><font size="+2"><b><a name="poska"></a>poska</b> </font>
+<font size="+2">fence post</font>
+&nbsp; [/pos-ka<sup>3</sup>]
+ {&nbsp;English}
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="poskanahka"></a>poskanahka</b> </font>
+<font size="+2">to act like a baby or child, act spoiled</font>
+ (refers to a child or adult wanting to be held and cuddled all the time crying for attention)
+&nbsp;<font color="#800080" size="+1">-LI; CHA-</font>
+&nbsp;(<i>poskanahiska, poskanahilka, poskanahaska</i>)
+ <i>Var: poskonahka</i>
+&nbsp;<font size="0">(WP)</font>
+&nbsp;<font face="Arial">«</font>Chiposkanahka.
+ <i>You're acting like a baby.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chaposkanahka.
+ <i>I'm acting like a baby.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Poskanahkali.
+ <i>I'm acting like a baby.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#poskanahkachi">poskanahkachi</a></i>
+&nbsp;to make someone act like a baby
+<br><font size="+2"><b><a name="poskanahkachi"></a>poskanahkachi</b> </font>
+<font size="+2">to make someone act like a baby; to spoil (someone)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>poskanahkachiska, poskanahkachilka, poskanahkachaska</i>)
+&nbsp;(<i>poskanahkachitiska, poskanahkachitilka, poskanahkachitaska</i>)
+&nbsp; [/poskanahka-chi<sup>1</sup>]
+ <i>Var: poskonahkachi</i>
+&nbsp;<font size="0">(WP)</font>
+&nbsp;<font face="Arial">«</font>Chiposkanahkachili.
+ <i>I spoiled you.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Poskonahkachiskalòo.
+ <i>You're going to spoil that child.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#poskanahka">poskanahka</a>
+<br><font size="+2"><b><a name="poskanka"></a>poskanka</b> </font>
+<font size="+2">hunger, craving for meat </font>
+&nbsp; [/poskano-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Poskankaya álpìiso.
+ <i>He has a bad craving for meat.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#poskano">poskano</a>
+<br><font size="+2"><b><a name="poskánko"></a>poskánko</b> </font>
+ Neg.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chaposkánkobi, ipɬoya.
+ <i>I don't want squirrel.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#poskano">poskano</a>
+<br><font size="+2"><b><a name="poskano"></a>poskano</b> </font>
+<font size="+2">to crave (a certain kind of food esp. meat), hunger (for meat)</font>
+&nbsp;<font color="#800080" size="+1">CHA-/3</font>
+&nbsp;<font face="Arial">«</font>Ipɬon chaposkanoomoolo.
+ <i>I want squirrel real bad.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#poskánko">poskánko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="p.htm#poskanotíkko">poskanotíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="p.htm#poskanka">poskanka</a></i>
+&nbsp;craving for meat
+<br><font size="+2"><b><a name="poskanotíkko"></a>poskanotíkko</b> </font>
+ Neg.
+ ☞<a href="p.htm#poskano">poskano</a>
+<br><font size="+2"><b><a name="poskastiⁿsafka"></a>poskastiⁿsafka</b> </font>
+<font size="+2">posthole digger </font>
+&nbsp; [/pos-ka<sup>3</sup> ist-im- /saf-ka<sup>1</sup>]
+ {&nbsp;English}
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="poskoha"></a>poskoha</b> </font>
+<font size="+2">children, babies </font>
+&nbsp; [(/posko-)-ha<sup>1</sup>]
+ ☞<a href="p.htm#poskòosi">poskòosi</a>
+<br><font size="+2"><b><a name="poskoha imaawinàaka"></a>poskoha imaawinàaka</b> </font>
+<font size="+2">playground swing, seesaw</font>
+&nbsp; [(/posko-)-ha<sup>1</sup> im-aa- /winàa-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="poskoha imìistilka"></a>poskoha imìistilka</b> </font>
+<font size="+2">day care center</font>
+&nbsp; [(/posko-)-ha<sup>1</sup> im- /ìisa-tilka]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="poskohastalahka"></a>poskohastalahka</b> </font>
+<font size="+2">orphan </font>
+&nbsp; [(/posko-)-ha<sup>1</sup> ist- /alah-ka<sup>1</sup>]
+ <i>Pl: </i>poskohastalahkaha
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="poskohastalahkaha"></a>poskohastalahkaha</b> </font>
+<font size="+2">orphans</font>
+&nbsp; [(/posko-)-ha<sup>1</sup> ist- /alah-ka<sup>1</sup>-ha<sup>1</sup>]
+<br><font size="+2"><b><a name="poskonahka"></a>poskonahka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#poskanahka">poskanahka</a>&nbsp;
+<br><font size="+2"><b><a name="poskonahkachi"></a>poskonahkachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#poskanahkachi">poskanahkachi</a>&nbsp;
+<br><font size="+2"><b><a name="poskoohasi"></a>poskoohasi</b> </font>
+<font size="+2">infants, little babies </font>
+&nbsp; [(/posko-)-ha<sup>1</sup>-osi]
+&nbsp;<font size="0">(WP)</font>
+ ☞<a href="p.htm#poskoha">poskoha</a>
+<br><font size="+2"><b><a name="poskòosi"></a>poskòosi</b> </font>
+<font size="+2">child, baby</font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+&nbsp; [prob. (/posko-)-osi]
+ [<i>prob. fgr</i>]
+<br>&nbsp;&nbsp;<i><a href="p.htm#poskòososi">poskòososi</a></i>
+&nbsp;infant
+<br>&nbsp;&nbsp;<i><a href="p.htm#poskoha">poskoha</a></i>
+&nbsp;babies
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#poskoohasi">poskoohasi</a></i>
+&nbsp;infants
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iliiposkochiichi">iliiposkochiichi</a></i>
+&nbsp;to act like a baby
+<br><font size="+2"><b><a name="poskòosi ilapìili"></a>poskòosi ilapìili</b> </font>
+<font size="+2">baby sitter</font>
+&nbsp; [/poskòosi /ilapih-li]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="poskòosi imaawinàaka"></a>poskòosi imaawinàaka</b> </font>
+<font size="+2">baby swing, sling for a baby made with rope tied to the porch posts or a tree, fashioned out of sticks and a bedsheet</font>
+&nbsp;<font color="#080000">Cul:  It is said that one should never leave a baby in a swing when the sun goes down or something bad will happen.</font>&nbsp;
+&nbsp; [/poskòosi im-aa- /winàa-ka<sup>1</sup>]
+ ☞<a href="a.htm#aawinàaka">aawinàaka</a>
+<br><font size="+2"><b><a name="poskòosi innaaɬiilka"></a>poskòosi innaaɬiilka</b> </font>
+<font size="+2">babble, prattle, baby talk</font>
+&nbsp; [/poskòosi im- /naaɬii&lt;il&gt;-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="poskòosi intaata sobayíkko"></a>poskòosi intaata sobayíkko</b> </font>
+<font size="+2">illegitimate child, bastard </font>
+ <i>Lit: </i>child whose father is not known
+&nbsp; [/poskòosi im- /taata /sobay&lt;ík&gt;-ka<sup>1</sup>-o<sup>2</sup>]
+<br><font size="+2"><b><a name="poskòosimbalailka"></a>poskòosimbalailka</b> </font>
+<font size="+2">crib, cradle</font>
+&nbsp; [/poskòosi im- /balaa&lt;il&gt;-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="poskòosin nakaɬaachi"></a>poskòosin nakaɬaachi</b> </font>
+<font size="+2">to have an abortion</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [/poskòosi-n /nakaɬa-chi<sup>1</sup>]
+ ☞<a href="n.htm#nakaɬaachi">nakaɬaachi</a>
+<br><font size="+2"><b><a name="poskòososi"></a>poskòososi</b> </font>
+<font size="+2">infant, little baby</font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+&nbsp; [/poskòosi-osi]
+ ☞<a href="p.htm#poskòosi">poskòosi</a>
+<br><font size="+2"><b><a name="posna"></a>posna</b> </font>
+<font size="+2">we, us</font>
+&nbsp;<font face="Arial">«</font>Mootok istaɬíinan ya holihtayon talàalifòokak posna aayachíhhilaskihchoolikha.
+ <i>Then later on when this fence was built we used to always plant there.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#posnaakáali">posnaakáali</a></i>
+&nbsp;ourselves
+<br>&nbsp;&nbsp;<i><a href="p.htm#posnáɬɬi">posnáɬɬi</a></i>
+&nbsp;to be by ourselves
+<br>&nbsp;&nbsp;<i><a href="p.htm#posno">posno</a></i>
+&nbsp;our
+<br>&nbsp;&nbsp;<i><a href="p.htm#posnooli">posnooli</a></i>
+&nbsp;to be ours, our
+<br>&nbsp;&nbsp;<i><a href="p.htm#posnókko">posnókko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="posnaakáali"></a>posnaakáali</b> </font>
+<font size="+2">our own self, by ourselves</font>
+&nbsp; [/posna-ka<sup>2</sup>-áali]
+ ☞<a href="p.htm#posna">posna</a>
+<br><font size="+2"><b><a name="posnáɬɬi"></a>posnáɬɬi</b> </font>
+<font size="+2">by ourselves</font>
+&nbsp; [/posna-áɬɬi]
+ ☞<a href="p.htm#posna">posna</a>
+<br><font size="+2"><b><a name="posno"></a>posno</b> </font>
+<font size="+2">our</font>
+&nbsp; [/posna-o<sup>1</sup>]
+ ☞<a href="p.htm#posna">posna</a>
+<br><font size="+2"><b><a name="posnókko"></a>posnókko</b> </font>
+ Neg.
+ ☞<a href="p.htm#posna">posna</a>
+<br><font size="+2"><b><a name="posnooli"></a>posnooli</b> </font>
+<font size="+2">to be ours, our</font>
+&nbsp; [/posna-ooli]
+ ☞<a href="p.htm#posna">posna</a>
+<br><font size="+2"><b><a name="possali"></a>possali</b> </font>
+<font size="+2">to be sickly, weak, puny (of a baby) </font>
+&nbsp;<font color="#080000">Cul:  Characterized by diarrhea and loss of weight, the condition is said to result from the touch of an adulterous parent.</font>&nbsp;
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Poskòosik possalihchi.
+ <i>The baby is sickly.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#possalitíkko">possalitíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="possalitíkko"></a>possalitíkko</b> </font>
+ Neg.
+ ☞<a href="p.htm#possali">possali</a>
+<br><font size="+2"><b><a name="possi"></a>possi</b> </font>
+<font size="+2">to be fine in consistency or texture, finely ground (of meal), powdery</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#impossi">impossi</a></i>
+&nbsp;powder
+<br>&nbsp;&nbsp;<i><a href="p.htm#póosi">póosi</a></i>
+&nbsp;to be powdered
+<br><font size="+2"><b><a name="possilaana"></a>possilaana</b> </font>
+<font size="+2">sulpher</font>
+&nbsp; [/possi /laana]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="potli"></a>potli</b> </font>
+<font size="+2">to touch or feel (plural objects or repeatedly); to fondle, caresse</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>potchi, pothili, pothachi</i>)
+&nbsp; [/pot(òo)-li]
+ [<i>dsfx1</i>]
+&nbsp;<font face="Arial">«</font>Chapotli.
+ <i>He's fondling me.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#potòoli">potòoli</a>
+<br><font size="+2"><b><a name="potòoka"></a>potòoka</b> </font>
+<font size="+2">to be touched once</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/potòo-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Potòokak bànkohchi.
+ <i>He doesn't like to be touched.</i><font face="Arial">»</font>
+ ☞<a href="p.htm#potòoli">potòoli</a>
+<br><font size="+2"><b><a name="potòoko"></a>potòoko</b> </font>
+ Neg.
+ ☞<a href="p.htm#potòoli">potòoli</a>
+<br><font size="+2"><b><a name="potòoli"></a>potòoli</b> </font>
+<font size="+2">to touch, feel (something) once</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>potòochi, potòohili, potòohachi</i>)
+&nbsp; [/potòo-li]
+ [<i>fgr</i>]
+<br>&nbsp;&nbsp;<i><a href="p.htm#potòoko">potòoko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="p.htm#póttòoli">póttòoli</a></i>
+&nbsp;to have one's hand on (something)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#póttòoliiso">póttòoliiso</a></i>
+&nbsp;handprint
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittipóttòoli">ittipóttòoli</a></i>
+&nbsp;to come together
+<br>&nbsp;&nbsp;<i><a href="p.htm#potòoka">potòoka</a></i>
+&nbsp;to be touched
+<br>&nbsp;&nbsp;<i><a href="p.htm#potli">potli</a></i>
+&nbsp;to touch or feel (rep. or pl. obj.)
+<br>&nbsp;&nbsp;<i><a href="a.htm#apotòoli">apotòoli</a></i>
+&nbsp;to join together
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#apotòoka">apotòoka</a></i>
+&nbsp;to be put next to
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittapotòoka">ittapotòoka</a></i>
+&nbsp;to be put next to
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#apotka">apotka</a></i>
+&nbsp;to be touching (pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#apòotka">apòotka</a></i>
+&nbsp;to be put next to not touching
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittapòotli">ittapòotli</a></i>
+&nbsp;to put (pl.) together
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittapòotka">ittapòotka</a></i>
+&nbsp;to be lined up next to each other
+<br>&nbsp;&nbsp;<i><a href="a.htm#apotòoka">apotòoka</a></i>
+&nbsp;to get next to
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#apotòolichi">apotòolichi</a></i>
+&nbsp;to join together
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittapotòoka">ittapotòoka</a></i>
+&nbsp;to get next to each other
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittapotòolichi">ittapotòolichi</a></i>
+&nbsp;to come together (dl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#apóttòoka">apóttòoka</a></i>
+&nbsp;to be next to
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#apotka">apotka</a></i>
+&nbsp;to get next to (pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#apòotka">apòotka</a></i>
+&nbsp;to be next to not touching (pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittapòotka">ittapòotka</a></i>
+&nbsp;to be next to each other
+<br><font size="+2"><b><a name="póttòoli"></a>póttòoli</b> </font>
+<font size="+2">to have one's hand on, be touching</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>póttòochi, póttòohili, póttòohachi</i>)
+&nbsp; [/potòo-li]
+ [<i>ggr</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#potòoli">potòoli</a>
+<br><font size="+2"><b><a name="póttòoliiso"></a>póttòoliiso</b> </font>
+<font size="+2">handprint</font>
+&nbsp; [/potòo-li-sa-o<sup>3</sup>]
+ [<i>ggr</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#póttòoli">póttòoli</a>
+<br><font size="+2"><b><a name="powatli"></a>powatli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#poyatli">poyatli</a>&nbsp;
+<br><font size="+2"><b><a name="powatlichi"></a>powatlichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#poyatlichi">poyatlichi</a>&nbsp;
+<br><font size="+2"><b><a name="poyaafo"></a>poyaafo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#piyaafo">piyaafo</a>&nbsp;
+<br><font size="+2"><b><a name="poyaafotíkko"></a>poyaafotíkko</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#piyaafotíkko">piyaafotíkko</a>&nbsp;
+<br><font size="+2"><b><a name="poyatli"></a>poyatli</b> </font>
+<font size="+2">to boil</font>
+&nbsp; [/poyat-li]
+ <i>Var: powatli</i>
+&nbsp;<font size="0">(IB)</font>
+<br>&nbsp;&nbsp;<i><a href="a.htm#aapoyatli">aapoyatli</a></i>
+&nbsp;stew pan
+<br>&nbsp;&nbsp;<i><a href="i1.htm#impoyatli">impoyatli</a></i>
+&nbsp;to have something boiling
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ispoyatli">ispoyatli</a></i>
+&nbsp;to cook in liquid
+<br>&nbsp;&nbsp;<i><a href="o.htm#onapoyatli">onapoyatli</a></i>
+&nbsp;to be put on to boil
+<br>&nbsp;&nbsp;<i><a href="o.htm#oopoyatli">oopoyatli</a></i>
+&nbsp;to boil
+<br>&nbsp;&nbsp;<i><a href="m.htm#maapoyatli">maapoyatli</a></i>
+&nbsp;to bubble out
+<br>&nbsp;&nbsp;<i><a href="p.htm#poyatlichi">poyatlichi</a></i>
+&nbsp;to boil (something)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ispoyatlichi">ispoyatlichi</a></i>
+&nbsp;to cook in liquid
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#onapoyatlichi">onapoyatlichi</a></i>
+&nbsp;to put (food) on to boil
+<br><font size="+2"><b><a name="poyatlichi"></a>poyatlichi</b> </font>
+<font size="+2">to boil (something); to brew (as tea from roots)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>poyatchichi, poyathilichi, poyathachichi</i>)
+&nbsp; [/poyat-li-chi<sup>1</sup>]
+ <i>Var: powatlichi</i>
+&nbsp;<font size="0">(DB)</font>
+ ☞<a href="p.htm#poyatli">poyatli</a>
+<br><font size="+2"><b><a name="poyatlit paasofka"></a>poyatlit paasofka</b> </font>
+<font size="+2">to boil over</font>
+&nbsp; [/poyat-li-t paa- /sofi-ka<sup>1</sup>]
+ ☞<a href="p.htm#paasoofi">paasoofi</a>
+<br><font size="+2"><b><a name="poyawfo"></a>poyawfo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#piyaafo">piyaafo</a>&nbsp;
+<br><font size="+2"><b><a name="poyha"></a>poyha</b> </font>
+<font size="+2">to cool off, get cold (e.g. as a fire, or cup of coffee)</font>
+&nbsp;<font face="Arial">«</font>Tikbak poyho.
+ <i>The fire has cooled down.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(DB)</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#poyhatíkko">poyhatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="p.htm#poyhachi">poyhachi</a></i>
+&nbsp;to cool (something) off
+<br>&nbsp;&nbsp;<i><a href="i1.htm#impoyha">impoyha</a></i>
+&nbsp;to have something get cool
+<br><font size="+2"><b><a name="poyhachi"></a>poyhachi</b> </font>
+<font size="+2">to cool (something) off, let cool</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>poyhachitiska, poyhachitilka, poyhachitaska</i>)
+&nbsp; [/poyha-chi<sup>1</sup>]
+ ☞<a href="p.htm#poyha">poyha</a>
+<br><font size="+2"><b><a name="poyhatíkko"></a>poyhatíkko</b> </font>
+ Neg.
+ ☞<a href="p.htm#poyha">poyha</a>
+<br><font size="+2"><b><a name="poyoolichi"></a>poyoolichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="p.htm#pokyoolichi">pokyoolichi</a>&nbsp;
+<br><font size="+2"><b><a name="preylka"></a>preylka</b> </font>
+<font size="+2">to pray</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>preylkatiska, preylkatilka, preylkataska</i>)
+&nbsp; [/preyl-ka<sup>3</sup>]
+ {&nbsp;English}
+&nbsp;<font size="0">(WP)</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#preylkatilka">preylkatilka</a></i>
+&nbsp;prayer
+<br><font size="+2"><b><a name="preylkatilka"></a>preylkatilka</b> </font>
+<font size="+2">prayer</font>
+&nbsp; [/preyl-ka<sup>3</sup>-tilka]
+&nbsp;<font size="0">(WP)</font>
+ ☞<a href="p.htm#preylka">preylka</a>
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

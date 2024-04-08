@@ -1,0 +1,19 @@
+<HTML>
+<HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   <TITLE>Alabama Dictionary</TITLE>
+</HEAD>
+<FRAMESET ROWS="17%,*,16%">
+  <FRAME FRAMEBORDER=1 SCROLLING=AUTO NORESIZE SRC="Alindex.htm" NAME="TPANE">
+  <FRAME FRAMEBORDER=0 SCROLLING=AUTO SRC="AlIntro.htm" NAME="MPANE">
+  <FRAME FRAMEBORDER=1 SCROLLING=AUTO NORESIZE SRC="AlFindindex.htm" NAME="BPANE">
+</FRAMESET><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</HTML>

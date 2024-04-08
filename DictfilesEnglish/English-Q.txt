@@ -1,0 +1,84 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">Q</font></center><br>
+<br><b>quack</b>
+&nbsp;sound of a duck or mocking bird: &nbsp;<i><a href="a.htm#aksobáachi">aksobáachi</a></i>.&nbsp;
+<br><b>quail</b>&nbsp;&nbsp;<i><a href="k.htm#kowwàyki">kowwàyki</a></i>.&nbsp;
+<br><b>quail peas</b>&nbsp;&nbsp;<i><a href="k.htm#kowwàykinchastoki">kowwàykinchastoki</a></i>.&nbsp;
+<br><b>quake</b>
+&nbsp;to shiver, quake, quiver involuntarily: &nbsp;<i><a href="w.htm#wisisihlichi">wisisihlichi</a></i>.&nbsp;
+&nbsp;to twitch, shake, quake, tremble, quiver, be nervous, wiggle: &nbsp;<i><a href="y.htm#yòolichi">yòolichi</a></i>.&nbsp;
+<br><b>quarrel</b>
+&nbsp;fussing, quarreling, growling: &nbsp;<i><a href="a.htm#akayihatilka">akayihatilka</a></i>.&nbsp;
+&nbsp;to fuss with, quarrel with, talk angrily, argue with: &nbsp;<i><a href="i2.htm#ittimakayiha">ittimakayiha</a></i>.&nbsp;
+<br><b>quarter dollar</b>&nbsp;&nbsp;<i><a href="i2.htm#iskalitóklo">iskalitóklo</a></i>.&nbsp;
+<br><b>queasy</b>
+&nbsp;to be nauseated, queasy: &nbsp;<i><a href="n.htm#nokwaala">nokwaala</a></i>.&nbsp;
+<br><b>queen</b>&nbsp;&nbsp;<i><a href="m.htm#mikko">mikko</a></i>.&nbsp;
+<br><b>queen ant</b>&nbsp;&nbsp;<i><a href="i2.htm#iskaniyòosa immikko">iskaniyòosa immikko</a></i>.&nbsp;
+<br><b>queen bee</b>&nbsp;&nbsp;<i><a href="f.htm#foho immikko">foho immikko</a></i>.&nbsp;
+<br><b>question</b>
+&nbsp;to ask (a question) of: &nbsp;<i><a href="i1.htm#imahaalochi">imahaalochi</a></i>.&nbsp;
+&nbsp;to ask (a question), ask for, request: &nbsp;<i><a href="a.htm#ahaalo">ahaalo</a></i>.&nbsp;
+<br><b>quick</b>
+&nbsp;as soon as, quickly: &nbsp;<i><a href="n.htm#náasíkson">náasíkson</a></i>.&nbsp;
+&nbsp;quickly, suddenly (as a car on a drag strip or someone with a quick temper): &nbsp;<i><a href="t.htm#tóospàasi">tóospàasi</a></i>.&nbsp;
+&nbsp;to be hasty, fast, quick: &nbsp;<i><a href="t.htm#tòospa">tòospa</a></i>.&nbsp;
+&nbsp;to hurry, be quick: &nbsp;<i><a href="t.htm#tospa">tospa</a></i>.&nbsp;
+&nbsp;to have a quick temper, get mad easily: &nbsp;<i><a href="i1.htm#ilaapalàskano">ilaapalàskano</a></i>.&nbsp;
+<br><b>quiet</b>
+&nbsp;to be quiet, silent: &nbsp;<i><a href="n.htm#nokchòoba">nokchòoba</a></i>.&nbsp;
+&nbsp;to be quiet, still: &nbsp;<i><a href="p.htm#ponhaalo">ponhaalo</a></i>.&nbsp;
+&nbsp;to be quiet, still, desolate (of a location): &nbsp;<i><a href="c.htm#chokkilissa">chokkilissa</a></i>.&nbsp;
+&nbsp;to quiet down: &nbsp;<i><a href="n.htm#nokchobat anooka">nokchobat anooka</a></i>.&nbsp;
+&nbsp;to make be quiet, silence: &nbsp;<i><a href="n.htm#nokchobaachi">nokchobaachi</a></i>.&nbsp;
+&nbsp;to be alone and experience the quietness of a location, have it seem quiet to one: &nbsp;<i><a href="i1.htm#inchokkilissa">inchokkilissa</a></i>.&nbsp;
+&nbsp;to behave oneself, act properly, be quiet, still: &nbsp;<i><a href="n.htm#nokchóoba">nokchóoba</a></i>.&nbsp;
+&nbsp;to be still for, quiet for, to listen to someone: &nbsp;<i><a href="i1.htm#imponhaalo">imponhaalo</a></i>.&nbsp;
+&nbsp;to listen to someone, be quiet for someone, obey: &nbsp;<i><a href="i1.htm#imponháalo">imponháalo</a></i>.&nbsp;
+&nbsp;to cease an activity, refrain from doing, quit, be still, be quiet: &nbsp;<i><a href="n.htm#nokchoba">nokchoba</a></i>.&nbsp;
+&nbsp;to move around quietly or stealthily, ease up on something while stalking it: &nbsp;<i><a href="a.htm#ayapaali">ayapaali</a></i>.&nbsp;
+<br><b>quilt</b>&nbsp;&nbsp;<i><a href="i2.htm#ittalòopa">ittalòopa</a>, <a href="a.htm#albitìika">albitìika</a></i>.&nbsp;
+&nbsp;cotton bat (in a roll, for quilting): &nbsp;<i><a href="p.htm#pakaalitanáyka">pakaalitanáyka</a></i>.&nbsp;
+&nbsp;cotton quilt batting: &nbsp;<i><a href="p.htm#pakaali ittalòopa istalbòoka">pakaali ittalòopa istalbòoka</a></i>.&nbsp;
+<br><b>quit</b>
+&nbsp;to cease an activity, refrain from doing, quit: &nbsp;<i><a href="n.htm#nokchoba">nokchoba</a></i>.&nbsp;
+&nbsp;to quit doing, be through with, leave off doing: &nbsp;<i><a href="f.htm#faayàali">faayàali</a>, <a href="f.htm#faayahli">faayahli</a>, <a href="f.htm#fayli">fayli</a></i>.&nbsp;
+<br><b>quiver</b>
+&nbsp;to shake, quiver (esp. as leaves on a tree): &nbsp;<i><a href="w.htm#wananahkachi">wananahkachi</a></i>.&nbsp;
+&nbsp;to shiver, tremble, quiver involuntarily (as with palsy, chills, fever, nervousness): &nbsp;<i><a href="w.htm#wisisihlichi">wisisihlichi</a></i>.&nbsp;
+&nbsp;to twitch, shake, quake, tremble, quiver, be nervous, wiggle: &nbsp;<i><a href="y.htm#yòolichi">yòolichi</a></i>.&nbsp;
+&nbsp;to exercise, move oneself about, shake, quiver: &nbsp;<i><a href="i1.htm#ililkowàalichi">ililkowàalichi</a></i>.&nbsp;
+&nbsp;to move around, shake, buck, vibrate, quiver: &nbsp;<i><a href="i1.htm#ilkowàalichi">ilkowàalichi</a></i>.&nbsp;
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

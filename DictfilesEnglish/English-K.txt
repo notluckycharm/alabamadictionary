@@ -1,0 +1,269 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">K</font></center><br>
+<br><b>K</b>
+&nbsp;the letter `K': &nbsp;<i><a href="k.htm#kìika">kìika</a></i>.&nbsp;
+<br><b>katydid</b>&nbsp;&nbsp;<i><a href="k.htm#kasasa">kasasa</a></i>.&nbsp;
+<br><b>keel over</b>
+&nbsp;to be stunned, keel ove: &nbsp;<i><a href="h.htm#haapolonka">haapolonka</a></i>.&nbsp;
+<br><b>keep</b>
+&nbsp;to keep, save (one thing): &nbsp;<i><a href="p.htm#pìiɬka">pìiɬka</a></i>.&nbsp;
+&nbsp;to put aside for, keep (one object) for: &nbsp;<i><a href="i1.htm#impiɬka">impiɬka</a></i>.&nbsp;
+<br><b>keep on</b>
+&nbsp;to keep on doing: &nbsp;<i><a href="w.htm#wíika">wíika</a>, <a href="i2.htm#istíisa">istíisa</a>, <a href="i2.htm#iswìika">iswìika</a>, <a href="o.htm#onáami">onáami</a></i>.&nbsp;
+&nbsp;to go on a certain way, keep on: &nbsp;<i><a href="a.htm#aɬɬa">aɬɬa</a>, <a href="a.htm#aɬíina">aɬíina</a></i>.&nbsp;
+&nbsp;to keep on doing something, continue, stay on, be still doing something: &nbsp;<i><a href="i1.htm#íisa">íisa</a></i>.&nbsp;
+<br><b>kernel</b>
+&nbsp;fruit, berry, kernel: &nbsp;<i><a href="a.htm#aɬi2">aɬi<sup>2</sup></a></i>.&nbsp;
+&nbsp;corn kernel: &nbsp;<i><a href="c.htm#chassi">chassi</a></i>.&nbsp;
+<br><b>kerosine</b>
+&nbsp;oil, gasoline, kerosine, gas: &nbsp;<i><a href="a.htm#apalokchi">apalokchi</a></i>.&nbsp;
+<br><b>kerosine lamp</b>&nbsp;&nbsp;<i><a href="a.htm#apalaspaahachàali">apalaspaahachàali</a></i>.&nbsp;
+<br><b>kettle</b>&nbsp;&nbsp;<i><a href="o.htm#okaayikba">okaayikba</a>, <a href="o.htm#okistikba">okistikba</a></i>.&nbsp;
+&nbsp;large three-footed iron cook pot, kettle: &nbsp;<i><a href="i2.htm#iyyìisa">iyyìisa</a></i>.&nbsp;
+<br><b>key</b>&nbsp;&nbsp;<i><a href="i2.htm#istafinapka">istafinapka</a>, <a href="o.htm#okhicha istiyapka">okhicha istiyapka</a></i>.&nbsp;
+<br><b>kick</b>
+&nbsp;kicking: &nbsp;<i><a href="h.htm#haɬilka">haɬilka</a></i>.&nbsp;
+&nbsp;kicking out, stepping out: &nbsp;<i><a href="h.htm#haɬapilka">haɬapilka</a></i>.&nbsp;
+&nbsp;to kick: &nbsp;<i><a href="l.htm#lataska">lataska</a></i>.&nbsp;
+&nbsp;to kick once: &nbsp;<i><a href="h.htm#haɬapka">haɬapka</a></i>.&nbsp;
+&nbsp;to kick with: &nbsp;<i><a href="i2.htm#ishaɬapka">ishaɬapka</a></i>.&nbsp;
+&nbsp;to kick (for instance, to see if something is dead) (once/one object): &nbsp;<i><a href="c.htm#chifipka">chifipka</a></i>.&nbsp;
+&nbsp;to lie on the back and kick out: &nbsp;<i><a href="s.htm#siffi">siffi</a>, <a href="s.htm#siffichi">siffichi</a></i>.&nbsp;
+&nbsp;to make (someone) kick (by holding the foot and moving it as when teaching a child to kick a ball): &nbsp;<i><a href="h.htm#haɬaplichi">haɬaplichi</a></i>.&nbsp;
+<br><b>kid</b>
+&nbsp;to kid, joke, lie, play a trick on: &nbsp;<i><a href="c.htm#chokfi">chokfi</a></i>.&nbsp;
+&nbsp;to make fun of, mock, tease, joke or kid about (something): &nbsp;<i><a href="i2.htm#istállàamiichi">istállàamiichi</a></i>.&nbsp;
+<br><b>kidney</b>&nbsp;&nbsp;<i><a href="b.htm#bolbo">bolbo</a></i>.&nbsp;
+<br><b>kidney bean</b>&nbsp;&nbsp;<i><a href="i1.htm#imbolbochastoki">imbolbochastoki</a>, <a href="c.htm#chastokhómma">chastokhómma</a></i>.&nbsp;
+<br><b>kill</b>
+&nbsp;to kill: &nbsp;<i><a href="i1.htm#ibi">ibi</a>, <a href="n.htm#nakaɬaachi">nakaɬaachi</a></i>.&nbsp;
+&nbsp;to kill (something) for (someone) with: &nbsp;<i><a href="i2.htm#istimiibi">istimiibi</a></i>.&nbsp;
+&nbsp;to kill (something) with: &nbsp;<i><a href="i2.htm#istibi">istibi</a></i>.&nbsp;
+&nbsp;to kill (something) for, kill (something belonging to someone): &nbsp;<i><a href="i1.htm#imiibi">imiibi</a></i>.&nbsp;
+&nbsp;to be fatal, dangerous, lethal to: &nbsp;<i><a href="i2.htm#istilli">istilli</a></i>.&nbsp;
+&nbsp;to be killing: &nbsp;<i><a href="i1.htm#íibi">íibi</a></i>.&nbsp;
+&nbsp;to commit murder (unspecified object): &nbsp;<i><a href="a.htm#aatibi">aatibi</a></i>.&nbsp;
+&nbsp;to commit suicide: &nbsp;<i><a href="i1.htm#ilibi">ilibi</a></i>.&nbsp;
+&nbsp;to make someone kill: &nbsp;<i><a href="i1.htm#ibiichi">ibiichi</a></i>.&nbsp;
+<br><b>killer</b>
+&nbsp;murderer, killer: &nbsp;<i><a href="a.htm#aatìibi">aatìibi</a></i>.&nbsp;
+<br><b>kin</b>
+&nbsp;relative, kin, ancestor: &nbsp;<i><a href="i1.htm#imalahka1">imalahka<sup>1</sup></a></i>.&nbsp;
+&nbsp;ancestor, forebear: &nbsp;<i><a href="a.htm#awochòoba">awochòoba</a></i>.&nbsp;
+&nbsp;family: &nbsp;<i><a href="i1.htm#imalahkaha">imalahkaha</a></i>.&nbsp;
+&nbsp;clan member, cousin: &nbsp;<i><a href="i1.htm#imafaakachi">imafaakachi</a></i>.&nbsp;
+&nbsp;wife: &nbsp;<i><a href="h.htm#halki">halki</a></i>.&nbsp;
+&nbsp;wife, `old lady': &nbsp;<i><a href="h.htm#hóknòosi">hóknòosi</a></i>.&nbsp;
+&nbsp;husband: &nbsp;<i><a href="i1.htm#innaani">innaani</a></i>.&nbsp;
+&nbsp;husband, `old man': &nbsp;<i><a href="i1.htm#imaatchòoba">imaatchòoba</a>, <a href="n.htm#naanichòoba">naanichòoba</a></i>.&nbsp;
+&nbsp;mother: &nbsp;<i><a href="i1.htm#iki">iki</a>, <a href="i1.htm#impíchi">impíchi</a>, <a href="p.htm#piichi">piichi</a>, <a href="m.htm#maama">maama</a>, <a href="i1.htm#ikichòoba">ikichòoba</a></i>.&nbsp;
+&nbsp;father: &nbsp;<i><a href="t.htm#taata">taata</a></i>.&nbsp;
+&nbsp;stepmother: &nbsp;<i><a href="i1.htm#impíchitoba">impíchitoba</a></i>.&nbsp;
+&nbsp;stepfather: &nbsp;<i><a href="t.htm#taatatoba">taatatoba</a></i>.&nbsp;
+&nbsp;grandmother: &nbsp;<i><a href="a.htm#áapo">áapo</a>, <a href="c.htm#chíppo">chíppo</a></i>.&nbsp;
+&nbsp;grandmother, greataunt, forebear, female ancestor: &nbsp;<i><a href="a.htm#áapochòoba">áapochòoba</a></i>.&nbsp;
+&nbsp;greataunt, greatgrandmother, oldest sister of one's mother: &nbsp;<i><a href="k.htm#kóossòoba">kóossòoba</a></i>.&nbsp;
+&nbsp;grandfather: &nbsp;<i><a href="a.htm#awo">awo</a>, <a href="f.htm#fósi">fósi</a></i>.&nbsp;
+&nbsp;grandfather, great-grandfather: &nbsp;<i><a href="a.htm#awochòoba">awochòoba</a></i>.&nbsp;
+&nbsp;greatgrandmother: &nbsp;<i><a href="c.htm#chíppochòoba">chíppochòoba</a></i>.&nbsp;
+&nbsp;greatgrandfather: &nbsp;<i><a href="f.htm#fóssòoba">fóssòoba</a></i>.&nbsp;
+&nbsp;maternal aunt, mother's sister: &nbsp;<i><a href="k.htm#kóosi">kóosi</a></i>.&nbsp;
+&nbsp;paternal aunt, father's sister: &nbsp;<i><a href="a.htm#áaposi">áaposi</a></i>.&nbsp;
+&nbsp;maternal uncle, mother's brother: &nbsp;<i><a href="m.htm#móosi">móosi</a></i>.&nbsp;
+&nbsp;paternal uncle, father's brother: &nbsp;<i><a href="t.htm#taatasi">taatasi</a></i>.&nbsp;
+&nbsp;uncle, aunt's husband, especially, grandmother's sister's husband: &nbsp;<i><a href="a.htm#awosi">awosi</a></i>.&nbsp;
+&nbsp;child, baby, offspring: &nbsp;<i><a href="o.htm#ochòosi">ochòosi</a></i>.&nbsp;
+&nbsp;children, babies, offspring: &nbsp;<i><a href="o.htm#ochoski">ochoski</a></i>.&nbsp;
+&nbsp;first born daughter: &nbsp;<i><a href="t.htm#tàasi">tàasi</a></i>.&nbsp;
+&nbsp;first born baby daughter: &nbsp;<i><a href="t.htm#tàasosi">tàasosi</a></i>.&nbsp;
+&nbsp;daughter: &nbsp;<i><a href="o.htm#ostayki">ostayki</a>, <a href="t.htm#tayyaskosi">tayyaskosi</a></i>.&nbsp;
+&nbsp;daughter, little girl, female baby: &nbsp;<i><a href="t.htm#tayyosi">tayyosi</a></i>.&nbsp;
+&nbsp;daughter, prepubescent girl, girlfriend: &nbsp;<i><a href="t.htm#tayyaski">tayyaski</a></i>.&nbsp;
+&nbsp;daughters, little girls: &nbsp;<i><a href="t.htm#tayyaskiha">tayyaskiha</a></i>.&nbsp;
+&nbsp;eldest daughter, older daughter: &nbsp;<i><a href="s.htm#sista">sista</a></i>.&nbsp;
+&nbsp;any daughter after the first born daughter: &nbsp;<i><a href="c.htm#chòosi">chòosi</a></i>.&nbsp;
+&nbsp;any baby daughter after the first born daughter: &nbsp;<i><a href="c.htm#chóososi">chóososi</a></i>.&nbsp;
+&nbsp;son: &nbsp;<i><a href="o.htm#ochòosi">ochòosi</a></i>.&nbsp;
+&nbsp;son, boy: &nbsp;<i><a href="i1.htm#impasàali">impasàali</a></i>.&nbsp;
+&nbsp;sons: &nbsp;<i><a href="o.htm#ochoski">ochoski</a></i>.&nbsp;
+&nbsp;first born son: &nbsp;<i><a href="c.htm#chíka">chíka</a></i>.&nbsp;
+&nbsp;first born son, eldest brother: &nbsp;<i><a href="c.htm#cháachosi">cháachosi</a></i>.&nbsp;
+&nbsp;first born baby son: &nbsp;<i><a href="c.htm#chíkasi">chíkasi</a></i>.&nbsp;
+&nbsp;any son after the first born son, younger brother: &nbsp;<i><a href="k.htm#kàsi">kàsi</a></i>.&nbsp;
+&nbsp;any baby son after the first born son: &nbsp;<i><a href="k.htm#kàsosi">kàsosi</a></i>.&nbsp;
+&nbsp;grandchild: &nbsp;<i><a href="i2.htm#ipokòosi">ipokòosi</a></i>.&nbsp;
+&nbsp;granddaughter: &nbsp;<i><a href="i2.htm#ipokòostayyi">ipokòostayyi</a></i>.&nbsp;
+&nbsp;grandson: &nbsp;<i><a href="i2.htm#ipokinaani">ipokinaani</a></i>.&nbsp;
+&nbsp;brother (of a woman): &nbsp;<i><a href="i1.htm#iⁿɬakfi">iⁿɬakfi</a></i>.&nbsp;
+&nbsp;brother's or sister's child, niece or nephew: &nbsp;<i><a href="i1.htm#iⁿsabàyya">iⁿsabàyya</a></i>.&nbsp;
+&nbsp;brother, wife's brother: &nbsp;<i><a href="i1.htm#iⁿɬakfòosi">iⁿɬakfòosi</a></i>.&nbsp;
+&nbsp;oldest same sex sibling (brother of a man, sister of a woman): &nbsp;<i><a href="c.htm#cháachichòoba">cháachichòoba</a></i>.&nbsp;
+&nbsp;sibling of the same sex, brother, sister: &nbsp;<i><a href="i2.htm#ittachakki">ittachakki</a></i>.&nbsp;
+&nbsp;sister of a man: &nbsp;<i><a href="i1.htm#ifoni">ifoni</a></i>.&nbsp;
+&nbsp;younger brother or sister: &nbsp;<i><a href="o.htm#obàali">obàali</a></i>.&nbsp;
+&nbsp;older same sex sibling (brother of a man, sister of a woman): &nbsp;<i><a href="c.htm#cháachi">cháachi</a></i>.&nbsp;
+&nbsp;older sibling of the opposite sex: &nbsp;<i><a href="b.htm#bíkno">bíkno</a></i>.&nbsp;
+&nbsp;younger sibling of the same sex, younger brother or sister: &nbsp;<i><a href="i1.htm#ibahlo">ibahlo</a></i>.&nbsp;
+&nbsp;nephew: &nbsp;<i><a href="i1.htm#iⁿsabàyyanaani">iⁿsabàyyanaani</a>, <a href="i1.htm#imaalokòosi naani">imaalokòosi naani</a></i>.&nbsp;
+&nbsp;nephew, stepson, anyone like a son: &nbsp;<i><a href="o.htm#ochòostoba">ochòostoba</a></i>.&nbsp;
+&nbsp;niece: &nbsp;<i><a href="i1.htm#iⁿsabàyyatayyi">iⁿsabàyyatayyi</a>, <a href="i1.htm#imaalokòosi tayyi">imaalokòosi tayyi</a>, <a href="a.htm#àhpotayyi">àhpotayyi</a></i>.&nbsp;
+&nbsp;niece, stepdaughter: &nbsp;<i><a href="o.htm#ostaykitoba">ostaykitoba</a></i>.&nbsp;
+&nbsp;half-sibling: &nbsp;<i><a href="i2.htm#ittachakkihókkìita">ittachakkihókkìita</a></i>.&nbsp;
+&nbsp;half-sister: &nbsp;<i><a href="i1.htm#ifonihókkìita">ifonihókkìita</a></i>.&nbsp;
+&nbsp;half-brother (of a woman): &nbsp;<i><a href="i1.htm#iⁿɬakfihókkìita">iⁿɬakfihókkìita</a></i>.&nbsp;
+&nbsp;parent in-law, father-in-law, mother-in-law: &nbsp;<i><a href="i1.htm#ikposikchi">ikposikchi</a></i>.&nbsp;
+&nbsp;mother-in-law: &nbsp;<i><a href="i1.htm#ikposikchitàyyi">ikposikchitàyyi</a>, <a href="i1.htm#impíchistàhoba">impíchistàhoba</a></i>.&nbsp;
+&nbsp;father-in-law: &nbsp;<i><a href="i1.htm#ikposikchinaani">ikposikchinaani</a>, <a href="t.htm#taatastáhoba">taatastáhoba</a></i>.&nbsp;
+&nbsp;daughter-in-law: &nbsp;<i><a href="i2.htm#ipokitàyyi">ipokitàyyi</a></i>.&nbsp;
+&nbsp;sister-in-law: &nbsp;<i><a href="i1.htm#iⁿhayya">iⁿhayya</a></i>.&nbsp;
+&nbsp;brother-in-law: &nbsp;<i><a href="i2.htm#ittachakkistáhoba">ittachakkistáhoba</a>, <a href="i1.htm#imala">imala</a></i>.&nbsp;
+&nbsp;prob. sibling-in-law of the same sex: &nbsp;<i><a href="i1.htm#imaalokòosi">imaalokòosi</a></i>.&nbsp;
+&nbsp;friend: &nbsp;<i><a href="o.htm#okla">okla</a></i>.&nbsp;
+&nbsp;boyfriend: &nbsp;<i><a href="i1.htm#impasàali">impasàali</a>, <a href="p.htm#pasàalistimalíiya">pasàalistimalíiya</a></i>.&nbsp;
+&nbsp;sweetheart: &nbsp;<i><a href="i1.htm#inchampoli">inchampoli</a></i>.&nbsp;
+&nbsp;illegitimate child: &nbsp;<i><a href="p.htm#poskòosi intaatasobayíkko">poskòosi intaatasobayíkko</a></i>.&nbsp;
+&nbsp;orphan: &nbsp;<i><a href="l.htm#lokaacha">lokaacha</a>, <a href="p.htm#poskohastalahka">poskohastalahka</a></i>.&nbsp;
+&nbsp;to be related to someone, kin to, be a relative of: &nbsp;<i><a href="i1.htm#imalahka1">imalahka<sup>1</sup></a></i>.&nbsp;
+&nbsp;to be an older sibling of the same sex as: &nbsp;<i><a href="i1.htm#imbíkno">imbíkno</a></i>.&nbsp;
+&nbsp;to be an older sibling to, be older than: &nbsp;<i><a href="i2.htm#istiⁿsíhno">istiⁿsíhno</a></i>.&nbsp;
+&nbsp;to be younger (of kin): &nbsp;<i><a href="i1.htm#ibahlo">ibahlo</a></i>.&nbsp;
+&nbsp;to be younger, to have an older sibling of the opposite sex: &nbsp;<i><a href="b.htm#bíkno">bíkno</a></i>.&nbsp;
+&nbsp;to marry, be married, have in-laws, get together: &nbsp;<i><a href="o.htm#onnaaɬi">onnaaɬi</a></i>.&nbsp;
+&nbsp;to produce double cousins (as when a pair of siblings marries a pair of siblings): &nbsp;<i><a href="o.htm#ootamatli">ootamatli</a></i>.&nbsp;
+&nbsp;to be a son-in-law to: &nbsp;<i><a href="i1.htm#imonnaaɬi">imonnaaɬi</a></i>.&nbsp;
+&nbsp;to be illegitimate (of a child): &nbsp;<i><a href="i1.htm#intaata sobayíkko">intaata sobayíkko</a></i>.&nbsp;
+<br><b>kind</b><sup>1</sup>
+&nbsp;sort of, kind of, like that, as if, just about, mainly: &nbsp;<i><a href="afx.htm#-káhmi">-káhmi</a></i>.&nbsp;
+&nbsp;any kind of: &nbsp;<i><a href="s.htm#sáhtík">sáhtík</a></i>.&nbsp;
+&nbsp;to be that kind, be a different kind: &nbsp;<i><a href="a.htm#akkáhmi">akkáhmi</a></i>.&nbsp;
+<br><b>kind</b><sup>2</sup>
+&nbsp;to be kind, nice, good: &nbsp;<i><a href="a.htm#alíila">alíila</a></i>.&nbsp;
+&nbsp;to be good, charitable, or kind to a person: &nbsp;<i><a href="a.htm#ayokpáalòssi">ayokpáalòssi</a></i>.&nbsp;
+<br><b>kindle</b>
+&nbsp;to go kindle (a fire), go build (a fire): &nbsp;<i><a href="o.htm#ostooti">ostooti</a></i>.&nbsp;
+&nbsp;to make a fire, build a fire, kindle: &nbsp;<i><a href="o.htm#ooti">ooti</a></i>.&nbsp;
+&nbsp;to set afire, light, kindle, burn, ignite (one object): &nbsp;<i><a href="a.htm#atikìili">atikìili</a></i>.&nbsp;
+&nbsp;to set afire, light, kindle, burn, ignite (plural objects): &nbsp;<i><a href="a.htm#atikli">atikli</a></i>.&nbsp;
+<br><b>kindling</b>&nbsp;&nbsp;<i><a href="o.htm#oolti">oolti</a></i>.&nbsp;
+&nbsp;kindling, splinters (i.e. pine torch): &nbsp;<i><a href="t.htm#tikbiskitàaya">tikbiskitàaya</a></i>.&nbsp;
+&nbsp;kindling, torch, punk, etc.: &nbsp;<i><a href="i2.htm#iskilaaya">iskilaaya</a></i>.&nbsp;
+&nbsp;pine kindling wood, pine tinder: &nbsp;<i><a href="c.htm#choyyiskilaaya">choyyiskilaaya</a></i>.&nbsp;
+&nbsp;dry grass used for kindling fires: &nbsp;<i><a href="h.htm#hasaalapo">hasaalapo</a>, <a href="h.htm#hastalpo">hastalpo</a></i>.&nbsp;
+<br><b>kinds</b>
+&nbsp;all different kinds: &nbsp;<i><a href="i2.htm#ittimaɬahkóyha">ittimaɬahkóyha</a></i>.&nbsp;
+<br><b>king</b>&nbsp;&nbsp;<i><a href="m.htm#mikko">mikko</a></i>.&nbsp;
+<br><b>kingbird</b>&nbsp;&nbsp;<i><a href="h.htm#hachipooɬi">hachipooɬi</a></i>.&nbsp;
+<br><b>kingfisher</b>&nbsp;&nbsp;<i><a href="f.htm#fooshòllo">fooshòllo</a>, <a href="ll.htm#ɬaɬokwàyli">ɬaɬokwàyli</a>, <a href="ll.htm#ɬaɬooyìibi">ɬaɬooyìibi</a>, <a href="t.htm#tassalala">tassalala</a></i>.&nbsp;
+<br><b>kingsnake</b>&nbsp;&nbsp;<i><a href="h.htm#hopohko">hopohko</a></i>.&nbsp;
+<br><b>kiss</b>
+&nbsp;to kiss: &nbsp;<i><a href="i1.htm#ichoksonka">ichoksonka</a></i>.&nbsp;
+&nbsp;to make someone kiss: &nbsp;<i><a href="i1.htm#ichoksommichi">ichoksommichi</a></i>.&nbsp;
+<br><b>kitchen</b>&nbsp;&nbsp;<i><a href="a.htm#aahoponka">aahoponka</a>, <a href="a.htm#aahopòoni">aahopòoni</a></i>.&nbsp;
+&nbsp;kitchen cabinet, cupboard: &nbsp;<i><a href="a.htm#aayampomiisa">aayampomiisa</a>, <a href="a.htm#ayyampo paatalka">ayyampo paatalka</a></i>.&nbsp;
+<br><b>kitten</b>&nbsp;&nbsp;<i><a href="k.htm#katosi">katosi</a></i>.&nbsp;
+<br><b>knead</b>
+&nbsp;to knead (dough for bread): &nbsp;<i><a href="b.htm#boska">boska</a></i>.&nbsp;
+<br><b>knee</b>
+&nbsp;knee: &nbsp;<i><a href="i2.htm#ittòɬpa">ittòɬpa</a></i>.&nbsp;
+&nbsp;cypress knee: &nbsp;<i><a href="s.htm#siwaakola impisi">siwaakola impisi</a>, <a href="s.htm#siwaakola ittoɬpa">siwaakola ittoɬpa</a></i>.&nbsp;
+&nbsp;to cross the legs at the knee or ankle: &nbsp;<i><a href="i2.htm#ittafinapli">ittafinapli</a></i>.&nbsp;
+&nbsp;to cross (the arms), bend (the knees), close (the hands): &nbsp;<i><a href="p.htm#pakohlichi">pakohlichi</a></i>.&nbsp;
+<br><b>knee cap</b>&nbsp;&nbsp;<i><a href="i2.htm#ittòɬpa chofkoni">ittòɬpa chofkoni</a></i>.&nbsp;
+<br><b>kneel</b>
+&nbsp;to kneel: &nbsp;<i><a href="h.htm#hakchoobiɬka">hakchoobiɬka</a></i>.&nbsp;
+<br><b>knife</b>&nbsp;&nbsp;<i><a href="t.htm#talkoosa">talkoosa</a></i>.&nbsp;
+&nbsp;butcher knife, hunting knife, bowie knife, machete: &nbsp;<i><a href="t.htm#talkooschoba">talkooschoba</a></i>.&nbsp;
+&nbsp;pocketknife: &nbsp;<i><a href="t.htm#talkoosasi">talkoosasi</a></i>.&nbsp;
+&nbsp;draw knife: &nbsp;<i><a href="i2.htm#ittossahkachi">ittossahkachi</a></i>.&nbsp;
+&nbsp;knife with a sharp point: &nbsp;<i><a href="t.htm#talkoosibaksakaali">talkoosibaksakaali</a></i>.&nbsp;
+&nbsp;stickers, thorn, sliver, burrs, dart, needle, arrow, knife, etc.: &nbsp;<i><a href="a.htm#achosòoka1">achosòoka<sup>1</sup></a></i>.&nbsp;
+&nbsp;to peel repeatedly with a knife, whittle, carve: &nbsp;<i><a href="t.htm#taɬka2">taɬka<sup>2</sup></a></i>.&nbsp;
+<br><b>knife sheath</b>&nbsp;&nbsp;<i><a href="t.htm#talkoosa hokfa">talkoosa hokfa</a>, <a href="t.htm#talkoosa imiisa">talkoosa imiisa</a>, <a href="t.htm#talkoosa iⁿsokcha">talkoosa iⁿsokcha</a></i>.&nbsp;
+<br><b>knit</b>
+&nbsp;tool used to weave, knitting needles: &nbsp;<i><a href="i2.htm#istaɬka">istaɬka</a></i>.&nbsp;
+&nbsp;to heal (of one's body), knit (of one's bones): &nbsp;<i><a href="i1.htm#iⁿfayli">iⁿfayli</a></i>.&nbsp;
+&nbsp;to be knitted, woven: &nbsp;<i><a href="t.htm#taɬka1">taɬka<sup>1</sup></a></i>.&nbsp;
+<br><b>knob</b>
+&nbsp;doorknob: &nbsp;<i><a href="o.htm#okhicha istiyapka">okhicha istiyapka</a>, <a href="o.htm#okhichastokbahka">okhichastokbahka</a></i>.&nbsp;
+<br><b>knock</b>
+&nbsp;knocking, knock: &nbsp;<i><a href="k.htm#kibìikachi">kibìikachi</a></i>.&nbsp;
+&nbsp;to knock or rap (at the door): &nbsp;<i><a href="m.htm#maakobòolichi">maakobòolichi</a></i>.&nbsp;
+&nbsp;to knock (more than once) at the door: &nbsp;<i><a href="m.htm#maabatli">maabatli</a></i>.&nbsp;
+&nbsp;to knock, rap with the knuckles, bump, tap: &nbsp;<i><a href="k.htm#kibìilichi">kibìilichi</a></i>.&nbsp;
+&nbsp;to make a banging, rapping, knocking noise: &nbsp;<i><a href="k.htm#kobòolichi">kobòolichi</a></i>.&nbsp;
+&nbsp;to stun, knock the wind out of, knock unconscious: &nbsp;<i><a href="h.htm#haapolommi">haapolommi</a></i>.&nbsp;
+<br><b>knock down</b>
+&nbsp;to throw down, knock down (one object): &nbsp;<i><a href="m.htm#maapiɬka">maapiɬka</a></i>.&nbsp;
+<br><b>knot</b>
+&nbsp;knot (in a rope): &nbsp;<i><a href="t.htm#talikchoyaasikopka">talikchoyaasikopka</a></i>.&nbsp;
+&nbsp;rich pine limbs, peat, pine knot used for torch: &nbsp;<i><a href="c.htm#choyyipokta">choyyipokta</a></i>.&nbsp;
+&nbsp;to be tied in a bunch of knots, snarled: &nbsp;<i><a href="i2.htm#ittachitìika">ittachitìika</a></i>.&nbsp;
+&nbsp;to be tied in a knot (of one): &nbsp;<i><a href="a.htm#asikopka">asikopka</a></i>.&nbsp;
+&nbsp;to knot once, tie a knot in: &nbsp;<i><a href="a.htm#asikopli">asikopli</a></i>.&nbsp;
+&nbsp;to tie (two ends) into a knot: &nbsp;<i><a href="b.htm#bonotlit ittachitìili">bonotlit ittachitìili</a></i>.&nbsp;
+&nbsp;to knot repeatedly, tie knots in: &nbsp;<i><a href="a.htm#asikòoli">asikòoli</a></i>.&nbsp;
+&nbsp;to tangle up, tie a bunch of knots in: &nbsp;<i><a href="i2.htm#ittasikohlichi">ittasikohlichi</a></i>.&nbsp;
+&nbsp;to tie a knot onto something, tie up something with: &nbsp;<i><a href="i2.htm#istasikopli">istasikopli</a></i>.&nbsp;
+&nbsp;to tie (one object), tie onto, tie (two ends) together, tie (a knot): &nbsp;<i><a href="a.htm#achitìili">achitìili</a></i>.&nbsp;
+&nbsp;to have a lot of knots, be knotted, tangled: &nbsp;<i><a href="i2.htm#ittasikòoka">ittasikòoka</a></i>.&nbsp;
+<br><b>know</b>
+&nbsp;anything that helps one understand, helps one examine and know oneself: &nbsp;<i><a href="i2.htm#istilakostinichilka">istilakostinichilka</a></i>.&nbsp;
+&nbsp;to know: &nbsp;<i><a href="a.htm#akostiníichi">akostiníichi</a></i>.&nbsp;
+&nbsp;to know a little about something: &nbsp;<i><a href="s.htm#sómbàyli">sómbàyli</a></i>.&nbsp;
+&nbsp;to know (already): &nbsp;<i><a href="s.htm#sobáayli">sobáayli</a></i>.&nbsp;
+&nbsp;to be aware, knowing: &nbsp;<i><a href="k.htm#kostini">kostini</a></i>.&nbsp;
+&nbsp;to be known, learned: &nbsp;<i><a href="s.htm#sobàyka">sobàyka</a></i>.&nbsp;
+&nbsp;to be known of, have been heard of: &nbsp;<i><a href="s.htm#sómbàyka">sómbàyka</a></i>.&nbsp;
+&nbsp;to be told, be known: &nbsp;<i><a href="f.htm#fatka">fatka</a></i>.&nbsp;
+&nbsp;to know right from wrong: &nbsp;<i><a href="k.htm#kostíini">kostíini</a></i>.&nbsp;
+&nbsp;to be perceptible, known: &nbsp;<i><a href="m.htm#mottaki">mottaki</a></i>.&nbsp;
+&nbsp;to be well known, famous, known a long time: &nbsp;<i><a href="s.htm#sobáyka báana">sobáyka báana</a></i>.&nbsp;
+&nbsp;to be well known, known about for some time: &nbsp;<i><a href="s.htm#sobáayka">sobáayka</a></i>.&nbsp;
+&nbsp;to find out about: &nbsp;<i><a href="i2.htm#issobayli">issobayli</a></i>.&nbsp;
+&nbsp;to let someone know, inform, pass on a message: &nbsp;<i><a href="h.htm#haalochi">haalochi</a></i>.&nbsp;
+&nbsp;to make known, discover, find, uncover: &nbsp;<i><a href="m.htm#mottakiichi">mottakiichi</a></i>.&nbsp;
+<br><b>know how</b>
+&nbsp;to know how to: &nbsp;<i><a href="p.htm#ponna">ponna</a></i>.&nbsp;
+&nbsp;to know how to do something, be smart about, adept at: &nbsp;<i><a href="i1.htm#imponna">imponna</a></i>.&nbsp;
+&nbsp;to be capable, skilled, know how to do things, have ability: &nbsp;<i><a href="i1.htm#imakostini">imakostini</a></i>.&nbsp;
+<br><b>knuckle</b>&nbsp;&nbsp;<i><a href="i1.htm#impoksi">impoksi</a></i>.&nbsp;
+&nbsp;knuckle of the hand: &nbsp;<i><a href="i1.htm#ilbipoksi">ilbipoksi</a></i>.&nbsp;
+&nbsp;knuckle, back (of the hand): &nbsp;<i><a href="i1.htm#ilbikonòoɬa">ilbikonòoɬa</a></i>.&nbsp;
+&nbsp;to knock, rap with the knuckles, bump, tap: &nbsp;<i><a href="k.htm#kibìilichi">kibìilichi</a></i>.&nbsp;
+<br><b>Koasati</b>
+&nbsp;Coushatta Indian: &nbsp;<i><a href="k.htm#Kosaati">Kosaati</a></i>.&nbsp;
+&nbsp;Coushatta Indians, Coushatta tribe: &nbsp;<i><a href="k.htm#Kosaatiha">Kosaatiha</a></i>.&nbsp;
+&nbsp;Koasati language: &nbsp;<i><a href="k.htm#Kosaati innaaɬiilka">Kosaati innaaɬiilka</a></i>.&nbsp;
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

@@ -1,0 +1,1262 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">L</font></center><br>
+<br><font size="+2"><b><a name="laana"></a>laana</b> </font>
+<font size="+2">to be yellow, orange, brown, gold, beige, pink </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+<br>&nbsp;&nbsp;<i><a href="l.htm#lakíino">lakíino</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="l.htm#láhna">láhna</a></i>
+&nbsp;to be yellower
+<br>&nbsp;&nbsp;<i><a href="l.htm#laanat yalàahayàhchi">laanat yalàahayàhchi</a></i>
+&nbsp;to be orange
+<br>&nbsp;&nbsp;<i><a href="l.htm#laanat balaanayàhchi">laanat balaanayàhchi</a></i>
+&nbsp;to be yellow
+<br>&nbsp;&nbsp;<i><a href="l.htm#laanat lochakàhchi">laanat lochakàhchi</a></i>
+&nbsp;to be brown
+<br>&nbsp;&nbsp;<i><a href="l.htm#laanat hatkaabikàhchi">laanat hatkaabikàhchi</a></i>
+&nbsp;to be beige
+<br>&nbsp;&nbsp;<i><a href="l.htm#laanat kafiyàhchi">laanat kafiyàhchi</a></i>
+&nbsp;to be coffee colored
+<br>&nbsp;&nbsp;<i><a href="l.htm#laanat aɬaplihchi">laanat aɬaplihchi</a></i>
+&nbsp;to be gold colored
+<br>&nbsp;&nbsp;<i><a href="l.htm#laanachi">laanachi</a></i>
+&nbsp;to dye yellow
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#illaanachi">illaanachi</a></i>
+&nbsp;to be bilious
+<br>&nbsp;&nbsp;<i><a href="l.htm#làanasi">làanasi</a></i>
+&nbsp;a type of vine
+<br><font size="+2"><b><a name="laanachi"></a>laanachi</b> </font>
+<font size="+2">to dye yellow, brown, orange, gold, beige</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>laanachiska, laanachilka, laanachaska</i>)
+&nbsp;(<i>laanachitiska, laanachitilka, laanachitaska</i>)
+&nbsp; [/laana-chi<sup>1</sup>]
+ ☞<a href="l.htm#laana">laana</a>
+<br><font size="+2"><b><a name="làanasi"></a>làanasi</b> </font>
+<font size="+2">small sweet melon, smells like a honeydew, makes the mouth itchy, size of an orange; a vine with a fruit similar to passion fruit (if one eats too much of it, it will blister the tongue and mouth)</font>
+ <i>(Passiflora incarnata?)</i>
+&nbsp; [/laana-osi]
+ ☞<a href="l.htm#laana">laana</a>
+<br><font size="+2"><b><a name="laanat aɬaplihchi"></a>laanat aɬaplihchi</b> </font>
+<font size="+2">to be gold colored, shiny</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/laana-t /aɬap-li-hchi]
+ ☞<a href="l.htm#laana">laana</a>
+<br><font size="+2"><b><a name="laanat balaanayàhchi"></a>laanat balaanayàhchi</b> </font>
+<font size="+2">to be yellow colored</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/laana-t /balaana-yàhmi-hchi]
+ ☞<a href="l.htm#laana">laana</a>
+<br><font size="+2"><b><a name="laanat hatkaabikàhchi"></a>laanat hatkaabikàhchi</b> </font>
+<font size="+2">to be beige colored</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/laana-t /hatkaabi-kàhmi-hchi]
+&nbsp;<font face="Arial">«</font>Laanat chahatkaabihàhchi.
+ <i>I'm pale colored.</i><font face="Arial">»</font>
+ ☞<a href="l.htm#laana">laana</a>
+<br><font size="+2"><b><a name="laanat kafiyàhchi"></a>laanat kafiyàhchi</b> </font>
+<font size="+2">to be coffee colored</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/laana-t /kafi-yàhmi-hchi]
+ ☞<a href="l.htm#laana">laana</a>
+<br><font size="+2"><b><a name="laanat lochakàhchi"></a>laanat lochakàhchi</b> </font>
+<font size="+2">to be brown colored</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/laana-t /locha-kàhmi-hchi]
+ ☞<a href="l.htm#laana">laana</a>
+<br><font size="+2"><b><a name="laanat yalàahayàhchi"></a>laanat yalàahayàhchi</b> </font>
+<font size="+2">to be orange colored</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/laana-t /yalaaha-yàhmi-hchi]
+&nbsp;<font face="Arial">«</font>Amilokfaya laanat yalàahayàhchi.
+ <i>My dress is orange colored.</i><font face="Arial">»</font>
+ ☞<a href="l.htm#laana">laana</a>
+<br><font size="+2"><b><a name="láawa"></a>láawa</b> </font>
+ <i>Var. of</i>&nbsp;<a href="l.htm#láhwa">láhwa</a>&nbsp;
+<br><font size="+2"><b><a name="labohli"></a>labohli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="l.htm#labòoli">labòoli</a>&nbsp;
+<br><font size="+2"><b><a name="labòoli"></a>labòoli</b> </font>
+<font size="+2">to put out (fires), extinguish (more than one fire), turn out (the lights); to turn off (machines); to repay, pay off (debts); to erase</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>labòochi, labòohili, labòohachi</i>)
+&nbsp; [/labo(s)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ <i>Var: labohli</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="l.htm#labosli">labosli</a>
+<br><font size="+2"><b><a name="laboska"></a>laboska</b> </font>
+<font size="+2">to burn out, go out (of a fire or light), to be out, be off (of a light); to close up (of a flower)</font>
+&nbsp; [/labos-ka<sup>1</sup>]
+ ☞<a href="l.htm#labosli">labosli</a>
+<br><font size="+2"><b><a name="labosli"></a>labosli</b> </font>
+<font size="+2">to put out (a fire), extinguish (a fire), turn out (a light); to turn off (a machine); to repay, pay off (a debt); to erase</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>laboschi, laboshili, laboshachi</i>)
+&nbsp; [/labos-li]
+<br>&nbsp;&nbsp;<i><a href="a.htm#alabosli">alabosli</a></i>
+&nbsp;to ripen (of corn)
+<br>&nbsp;&nbsp;<i><a href="l.htm#laboska">laboska</a></i>
+&nbsp;to go out (of a fire); to close up (of flowers)
+<br>&nbsp;&nbsp;<i><a href="l.htm#labòoli">labòoli</a></i>
+&nbsp;to extinguish
+<br><font size="+2"><b><a name="lahka"></a>lahka</b> </font>
+<font size="+2">rat </font>
+<br>&nbsp;&nbsp;<i><a href="l.htm#lahkachoba">lahkachoba</a></i>
+&nbsp;rat
+<br><font size="+2"><b><a name="lahkachoba"></a>lahkachoba</b> </font>
+<font size="+2">rat </font>
+&nbsp; [/lahka /choba]
+ ☞<a href="l.htm#lahka">lahka</a>
+<br><font size="+2"><b><a name="láhna"></a>láhna</b> </font>
+<font size="+2">to be yellower</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>hgr</i>]
+ ☞<a href="l.htm#laana">laana</a>
+<br><font size="+2"><b><a name="lahpa"></a>lahpa</b> </font>
+<font size="+2">to be hot from a radiant heat source (not the sun)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chalahpaamoolo.
+ <i>I'm too hot (from sitting by the heater).</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i2.htm#italahpachi">italahpachi</a></i>
+&nbsp;to grill
+<br><font size="+2"><b><a name="láhwa"></a>láhwa</b> </font>
+<font size="+2">to be more, the most</font>
+ [<i>hgr</i>]
+ <i>Var: láawa</i>
+ ☞<a href="l.htm#lawa">lawa</a>
+<br><font size="+2"><b><a name="láhwi"></a>láhwi</b> </font>
+<font size="+2">to be louder</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>hgr</i>]
+ ☞<a href="l.htm#lawwi">lawwi</a>
+<br><font size="+2"><b><a name="lakcha"></a>lakcha</b> </font>
+<font size="+2">crow </font>
+<br><font size="+2"><b><a name="lakchabitka"></a>lakchabitka</b> </font>
+<font size="+2">crow dance</font>
+&nbsp; [/lakcha /bit-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="lakha"></a>lakha</b> </font>
+<font size="+2">to get hot (of water, coffee), come to a boil; to be cooked done, ready, prepared (of food)</font>
+&nbsp;<font face="Arial">«</font>Kafik lakho.
+ <i>The coffee is done.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="l.htm#lakhachi">lakhachi</a></i>
+&nbsp;to bring to a boil
+<br><font size="+2"><b><a name="lakhachi"></a>lakhachi</b> </font>
+<font size="+2">to brew (coffee), steep (tea); to bring to a boil</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>lakhachitiska, lakhachitilka, lakhachitaska</i>)
+&nbsp; [/lakha-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="l.htm#lakha">lakha</a>
+<br><font size="+2"><b><a name="laki"></a>laki</b> </font>
+<font size="+2">to be lucky, fortunate</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chilakitonko.
+ <i>You were lucky.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="lakíino"></a>lakíino</b> </font>
+ Neg.
+ ☞<a href="l.htm#laana">laana</a>
+<br><font size="+2"><b><a name="laksa"></a>laksa</b> </font>
+<font size="+2">to have a fishy smell; to smell bitter</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+<br><font size="+2"><b><a name="lamàaki"></a>lamàaki</b> </font>
+ <i>Var. of</i>&nbsp;<a href="l.htm#lamahki">lamahki</a>&nbsp;
+<br><font size="+2"><b><a name="lamàaloki"></a>lamàaloki</b> </font>
+<font size="+2">to be straight (of more than one)</font>
+&nbsp;<font face="Arial">«</font>Lamàalòokiyáali.
+ <i>It's almost straight.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Lamaalòokiyáalo.
+ <i>It's almost straight.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Lamaalóokìi?
+ <i>Is it straight?</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="l.htm#lamáalokitíkko">lamáalokitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="l.htm#lamaalóoki">lamaalóoki</a></i>
+&nbsp;to be straight
+<br>&nbsp;&nbsp;<i><a href="l.htm#lamàalokiichi">lamàalokiichi</a></i>
+&nbsp;to straighten out something
+<br><font size="+2"><b><a name="lamàalokiichi"></a>lamàalokiichi</b> </font>
+<font size="+2">to straighten out (something)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>lamàalokiitiska, lamàalokiitilka, lamàalokiitaska</i>)
+&nbsp; [/lamaaloki-chi<sup>1</sup>]
+ ☞<a href="l.htm#lamàaloki">lamàaloki</a>
+<br><font size="+2"><b><a name="lamáalokitíkko"></a>lamáalokitíkko</b> </font>
+ Neg.
+ ☞<a href="l.htm#lamàaloki">lamàaloki</a>
+<br><font size="+2"><b><a name="lamaalóoki"></a>lamaalóoki</b> </font>
+<font size="+2">to be straight (of more than one)</font>
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Waakayòoliimok sakbak islamaalóokin...
+ <i>They lifted it with their arms straight...</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="l.htm#lamàaloki">lamàaloki</a>
+<br><font size="+2"><b><a name="lamahki"></a>lamahki</b> </font>
+<font size="+2">to be straight (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/lama&lt;h&gt;tki]
+ <i>Var: lamàaki</i>
+&nbsp;<font size="0">(DB)</font>
+ ☞<a href="l.htm#lamatki">lamatki</a>
+<br><font size="+2"><b><a name="lamahkichi"></a>lamahkichi</b> </font>
+<font size="+2">to straighten (plural objects)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>lamahkichitiska, lamahkichitilka, lamahkichitaska</i>)
+&nbsp;(<i>lamahkichiska, lamahkichilka, lamahkichaska</i>)
+&nbsp; [/lama&lt;h&gt;tki-chi<sup>1</sup>]
+ ☞<a href="l.htm#lamahki">lamahki</a>
+<br><font size="+2"><b><a name="lamatíkko"></a>lamatíkko</b> </font>
+ Neg.
+<font size="+2">to be crooked, lopsided</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+ ☞<a href="l.htm#lamatki">lamatki</a>
+<br><font size="+2"><b><a name="lamatki"></a>lamatki</b> </font>
+<font size="+2">to be straight (of one)</font>
+&nbsp;<font color="#080000">Cul:  They used to say long ago that if babies sleep on a straight board, they will grow up straight.</font>&nbsp;
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chalamatkihchi.
+ <i>I'm straight.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Lamátkit hátchàali!
+ <i>Stand up straight!</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Lamátkit hìisholi.
+ <i>Stand up straight!</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hissiya lamatkihchi.
+ <i>Her hair is straight.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="l.htm#lamatkitíkko">lamatkitíkko</a></i>
+ Neg.
+&nbsp;to be crooked
+<br>&nbsp;&nbsp;<i><a href="l.htm#lamatíkko">lamatíkko</a></i>
+ Neg.
+&nbsp;to be crooked
+<br>&nbsp;&nbsp;<i><a href="l.htm#lámmatki">lámmatki</a></i>
+&nbsp;to be getting straighter
+<br>&nbsp;&nbsp;<i><a href="l.htm#lamatkichi">lamatkichi</a></i>
+&nbsp;to straighten
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="l.htm#lámmatkìichi">lámmatkìichi</a></i>
+&nbsp;to straighten out
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maalamatkíichi">maalamatkíichi</a></i>
+&nbsp;to be the most direct way
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ililamatkichi">ililamatkichi</a></i>
+&nbsp;to straighten up (oneself)
+<br>&nbsp;&nbsp;<i><a href="l.htm#lamahki">lamahki</a></i>
+&nbsp;to be straight
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="l.htm#lámmahki">lámmahki</a></i>
+&nbsp;to be getting straighter
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="l.htm#lamahkichi">lamahkichi</a></i>
+&nbsp;to straighten
+<br><font size="+2"><b><a name="lamatkichi"></a>lamatkichi</b> </font>
+<font size="+2">to straighten (one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>lamatkichitiska, lamatkichitilka, lamatkichitaska</i>)
+&nbsp;(<i>lamatkichiska, lamatkichilka, lamatkichaska</i>)
+&nbsp; [/lamatki-chi<sup>1</sup>]
+ <i>Pl: </i>lamahkichi
+&nbsp;<font face="Arial">«</font>Lamatkichiskaiⁿ?
+ <i>Are you going to straighten it?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Baabipinkan lamatkichi.
+ <i>Straighten out the bobby pin.</i><font face="Arial">»</font>
+ ☞<a href="l.htm#lamatki">lamatki</a>
+<br><font size="+2"><b><a name="lamatkitíkko"></a>lamatkitíkko</b> </font>
+ Neg.
+<font size="+2">to be crooked, lopsided</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ ☞<a href="l.htm#lamatki">lamatki</a>
+<br><font size="+2"><b><a name="lambi"></a>lambi</b> </font>
+<font size="+2">woolly bear, fuzzy caterpillar </font>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="lamlaki"></a>lamlaki</b> </font>
+<font size="+2">to be spotted (with large spots); to be mottled, mixed colors and patterns</font>
+<br>&nbsp;&nbsp;<i><a href="l.htm#lamlakitíkko">lamlakitíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="lamlakitíkko"></a>lamlakitíkko</b> </font>
+ Neg.
+ ☞<a href="l.htm#lamlaki">lamlaki</a>
+<br><font size="+2"><b><a name="lámmahki"></a>lámmahki</b> </font>
+<font size="+2">to be getting straighter, pretty straight (of more than one)</font>
+&nbsp; [/lama&lt;h&gt;tki]
+ [<i>ggr</i>]
+ ☞<a href="l.htm#lamahki">lamahki</a>
+<br><font size="+2"><b><a name="lámmatki"></a>lámmatki</b> </font>
+<font size="+2">to be getting straighter, pretty straight (of one)</font>
+ [<i>ggr</i>]
+ ☞<a href="l.htm#lamatki">lamatki</a>
+<br><font size="+2"><b><a name="lámmatkìichi"></a>lámmatkìichi</b> </font>
+<font size="+2">to straighten out (a little at a time), make (one object) straighter</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>lámmatkìichitiska, lámmatkìichitilka, lámmatkìichitaska</i>)
+&nbsp;(<i>lámmatkìichiska, lámmatkìichilka, lámmatkìichaska</i>)
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Hinosin lámmatkìichiha.
+ <i>Straighten out the path.</i><font face="Arial">»</font>
+ ☞<a href="l.htm#lamatkichi">lamatkichi</a>
+<br><font size="+2"><b><a name="lapàako"></a>lapàako</b> </font>
+ <i>Var. of</i>&nbsp;<a href="l.htm#lapàhko">lapàhko</a>&nbsp;
+<br><font size="+2"><b><a name="lapàali"></a>lapàali</b> </font>
+ <i>Var. of</i>&nbsp;<a href="l.htm#lapahli">lapahli</a>&nbsp;
+<br><font size="+2"><b><a name="lapaalichi"></a>lapaalichi</b> </font>
+<font size="+2">to stick on (one object), attach to, weld to </font>
+ (may refer to putting up cabinets, putting a patch on a tire, putting on a bandaid, putting on a bumper sticker, putting up a sign on a private road, welding, etc)
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>lapaachichi, lapaahilichi, lapaahachichi</i>)
+&nbsp; [/lapah-li-chi<sup>1</sup>]
+ ☞<a href="l.htm#lapahli">lapahli</a>
+<br><font size="+2"><b><a name="lapaalika"></a>lapaalika</b> </font>
+<font size="+2">vertical side (e.g. of a river), edge</font>
+ (lapàali/lapaalika express the same metaphor as `beside/side' in English)
+&nbsp;<font face="Arial">«</font>Abohlissoba lapaalika.
+ <i>The edge of the woods.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i2.htm#islapaalika">islapaalika</a></i>
+&nbsp;wall
+<br><font size="+2"><b><a name="lapaffi"></a>lapaffi</b> </font>
+<font size="+2">to stick on, hang on the side or bottom of, stick to the side of, adhere (of more than one)</font>
+ (may refer to animals mating, a button, moss, anything on anything else)
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, lapafhili, lapafhachi</i>)
+&nbsp; [/lapaf-li]
+ [<i>Irr: </i>SgStem=lapahli]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="l.htm#lapahli">lapahli</a>
+<br><font size="+2"><b><a name="lapaffichi"></a>lapaffichi</b> </font>
+<font size="+2">to stick on, attach (more than one object) to</font>
+ (may refer to putting siding on a building, putting up sheet rock or wallpaper)
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>lapafchichi, lapafhilichi, lapafhachichi</i>)
+&nbsp; [/lapaf-li-chi<sup>1</sup>]
+ [<i>Irr: </i>SgStem=lapàalichi]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="l.htm#lapaffi">lapaffi</a>
+<br><font size="+2"><b><a name="lapàhko"></a>lapàhko</b> </font>
+ Neg.
+ <i>Var: lapàako</i>
+ ☞<a href="l.htm#lapahli">lapahli</a>
+<br><font size="+2"><b><a name="lapahli"></a>lapahli</b> </font>
+<font size="+2">to stick on, hang on a vertical surface, stick to the side of, adhere; to be next to, be near, be beside (of one)</font>
+ (may refer to a bull mounting a cow)
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>lapahchi, -, -</i>)
+&nbsp; [/lapah-li]
+ [<i>Irr: </i>PlStem=lapaffi]
+ <i>Neg: </i>lapàhko
+ <i>Var: lapàali</i>
+&nbsp;<font size="0">(VC, DB)</font>
+<br>&nbsp;&nbsp;<i><a href="l.htm#lapàhko">lapàhko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istonalapàali">istonalapàali</a></i>
+&nbsp;to stick something on something
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittilapàali">ittilapàali</a></i>
+&nbsp;to stick together (sg.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittilapàalòosi">ittilapàalòosi</a></i>
+&nbsp;to be close together
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittilapaalichi">ittilapaalichi</a></i>
+&nbsp;to stick together (two things)
+<br>&nbsp;&nbsp;<i><a href="n.htm#noolapàali">noolapàali</a></i>
+&nbsp;to have something stuck to the roof of the mouth
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#nooláppàali">nooláppàali</a></i>
+&nbsp;to have something (as a cold) in the throat
+<br>&nbsp;&nbsp;<i><a href="l.htm#láppàali">láppàali</a></i>
+&nbsp;to be near
+<br>&nbsp;&nbsp;<i><a href="i2.htm#islapàali">islapàali</a></i>
+&nbsp;to go along by the side of something
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tikba islapàali">tikba islapàali</a></i>
+&nbsp;to flare up on (of fire)
+<br>&nbsp;&nbsp;<i><a href="l.htm#lapaalichi">lapaalichi</a></i>
+&nbsp;to attach to (sg. obj.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#islapaalichi">islapaalichi</a></i>
+&nbsp;to post (an announcement)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#oslapaalichi">oslapaalichi</a></i>
+&nbsp;to go put (something) on (something)
+<br>&nbsp;&nbsp;<i><a href="p.htm#paalapàali">paalapàali</a></i>
+&nbsp;to get on the back or top of
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paalapaalichi">paalapaalichi</a></i>
+&nbsp;to put on the back of
+<br>&nbsp;&nbsp;<i><a href="l.htm#lapaffi">lapaffi</a></i>
+&nbsp;to hang on the side or bottom of
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#islapaffi">islapaffi</a></i>
+&nbsp;to hang on the side or bottom of
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istillapaffi">istillapaffi</a></i>
+&nbsp;adhesive bandage
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittilapaffi">ittilapaffi</a></i>
+&nbsp;to stick together (pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="l.htm#lapaffichi">lapaffichi</a></i>
+&nbsp;to stick on something (pl. obj.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#islapaffichi">islapaffichi</a></i>
+&nbsp;to have things posted around
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittilapaffichi">ittilapaffichi</a></i>
+&nbsp;to stick together (more than two things)
+<br><font size="+2"><b><a name="lapcho"></a>lapcho</b> </font>
+<font size="+2">earthworm, fishing worm, nightcrawler </font>
+<br><font size="+2"><b><a name="lapchola"></a>lapchola</b> </font>
+<font size="+2">leech </font>
+ {prob. related to lapcho}
+<br><font size="+2"><b><a name="lapihchi"></a>lapihchi</b> </font>
+<font size="+2">spoon</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#illapihchi">illapihchi</a></i>
+&nbsp;horn (of an animal)
+<br>&nbsp;&nbsp;<i><a href="l.htm#lapihchosi">lapihchosi</a></i>
+&nbsp;spoon
+<br><font size="+2"><b><a name="lapihchichoba"></a>lapihchichoba</b> </font>
+<font size="+2">spoon (large), serving spoon; tablespoon (measure)</font>
+ <i>Usage: </i>`measure' usage is newer.
+&nbsp; [/lapihchi /choba]
+ <i>Var: lapischichoba</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: lapischoba</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="lapihchi oolimpa istakka"></a>lapihchi oolimpa istakka</b> </font>
+<font size="+2">serving spoon, tablespoon</font>
+&nbsp; [/lapihchi /oo&lt;li&gt;mpa ist- /tak(af)-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="lapihchosi"></a>lapihchosi</b> </font>
+<font size="+2">spoon, teaspoon</font>
+&nbsp; [/lapihchi-osi]
+ ☞<a href="l.htm#lapihchi">lapihchi</a>
+<br><font size="+2"><b><a name="lapischichoba"></a>lapischichoba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="l.htm#lapihchichoba">lapihchichoba</a>&nbsp;
+<br><font size="+2"><b><a name="lapischoba"></a>lapischoba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="l.htm#lapihchichoba">lapihchichoba</a>&nbsp;
+<br><font size="+2"><b><a name="lapitta"></a>lapitta</b> </font>
+<font size="+2">buck deer </font>
+ <i>Usage: </i>Older word.
+ {perhaps related to lapihchi}
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="lapla"></a>lapla</b> </font>
+<font size="+2">cricket mole </font>
+ (little bigger than a cricket but white; burrows in the sand, makes furrows, they make the foot sore if one steps on them; some call them junebugs)
+ <i>Var: latla</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="láppàali"></a>láppàali</b> </font>
+<font size="+2">to be next to, near (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>láppàachi, -, -</i>)
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>...láppàalòosi yàalon yamít sannichit...
+ <i>...the one right there next to it, do like this, twist it...</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+ ☞<a href="l.htm#lapahli">lapahli</a>
+<br><font size="+2"><b><a name="lasapka"></a>lasapka</b> </font>
+<font size="+2">to taste, sip, lick once</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>lasapiska, lasapilka, lasapaska</i>)
+&nbsp; [/lasap-ka<sup>1</sup>]
+<br>&nbsp;&nbsp;<i><a href="i1.htm#illasapka">illasapka</a></i>
+&nbsp;to taste (someone's food)
+<br>&nbsp;&nbsp;<i><a href="l.htm#laska">laska</a></i>
+&nbsp;to lap up
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="l.htm#lasíkko">lasíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#onalaska">onalaska</a></i>
+&nbsp;to lick something sticking up
+<br><font size="+2"><b><a name="lasíkko"></a>lasíkko</b> </font>
+ Neg.
+ ☞<a href="l.htm#laska">laska</a>
+<br><font size="+2"><b><a name="laska"></a>laska</b> </font>
+<font size="+2">to lick repeatedly (esp. as an animal), lap up</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>lasiska, lasilka, lasaska</i>)
+&nbsp; [/las(ap)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ <i>Neg: </i>lasíkko
+ ☞<a href="l.htm#lasapka">lasapka</a>
+<br><font size="+2"><b><a name="lataska"></a>lataska</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to kick; to step once</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>latasiska, latasilka, latasaska</i>)
+&nbsp; [/latas-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Hakchobaskok Jimkaya lataskakha.
+ <i>A mule once kicked Jim.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">footprint, step</font>
+&nbsp;<font color="#080000">Cul:  Some believe that if one sees footprints on a recent grave, they may belong to the murderer of the deceased.</font>&nbsp;
+&nbsp;<font size="0">(VC)</font>
+<br>&nbsp;&nbsp;<i><a href="l.htm#latka">latka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to step
+&nbsp;2.&nbsp;
+&nbsp;footprints
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="l.htm#latíkko">latíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="l.htm#latoka">latoka</a></i>
+ Imp.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istitalatka">istitalatka</a></i>
+&nbsp;to make tracks with something
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#italatka">italatka</a></i>
+&nbsp;to stampede
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maalatka">maalatka</a></i>
+&nbsp;to take a step forward
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#oolatka">oolatka</a></i>
+&nbsp;to step in
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paalatka">paalatka</a></i>
+&nbsp;to trample
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paalatíkko">paalatíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="lathoka"></a>lathoka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="l.htm#latoka">latoka</a>&nbsp;
+<br><font size="+2"><b><a name="latíkko"></a>latíkko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Nàasóot làatíkko?
+ <i>Were there any footprints?</i><font face="Arial">»</font>
+ ☞<a href="l.htm#latka">latka</a>
+<br><font size="+2"><b><a name="latka"></a>latka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to step, take steps</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>laatiska, laatilka, laataska</i>)
+&nbsp; [/lat(as)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ <i>Neg: </i>latíkko
+&nbsp;2.&nbsp;
+<font size="+2">footprints, tracks</font>
+ ☞<a href="l.htm#lataska">lataska</a>
+<br><font size="+2"><b><a name="latla"></a>latla</b> </font>
+ <i>Var. of</i>&nbsp;<a href="l.htm#lapla">lapla</a>&nbsp;
+<br><font size="+2"><b><a name="latoka"></a>latoka</b> </font>
+ Imp.
+ <i>Var: lathoka</i>
+ ☞<a href="l.htm#latka">latka</a>
+<br><font size="+2"><b><a name="lawa"></a>lawa</b> </font>
+<font size="+2">to be lots, many, a lot</font>
+&nbsp;<font face="Arial">«</font>Yàaliya ittok lawaamoolo.
+ <i>There are lots of trees around here.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Paani filàmmihchok mìntok tànton iɬanik lawastáskan iɬanibáááánahchon nàahohchon akkáhchon...
+ <i>There was a different fork of the creek lying there and it had a lot of cane, there was cane everywhere around there...</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#illawa">illawa</a></i>
+&nbsp;to have a lot
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#illáhwa">illáhwa</a></i>
+&nbsp;to have a whole lot
+<br>&nbsp;&nbsp;<i><a href="l.htm#láhwa">láhwa</a></i>
+&nbsp;to be more, the most
+<br>&nbsp;&nbsp;<i><a href="l.htm#lawafìino">lawafìino</a></i>
+&nbsp;to be too much
+<br>&nbsp;&nbsp;<i><a href="l.htm#lawwatanòoka">lawwatanòoka</a></i>
+&nbsp;to multiply
+<br>&nbsp;&nbsp;<i><a href="m.htm#maalawàasi">maalawàasi</a></i>
+&nbsp;to be increasing
+<br>&nbsp;&nbsp;<i><a href="m.htm#maapaahokfayok lawahchi">maapaahokfayok lawahchi</a></i>
+&nbsp;to multiply
+<br><font size="+2"><b><a name="lawafìino"></a>lawafìino</b> </font>
+<font size="+2">to be too much</font>
+&nbsp; [/lawa-fíhna-o<sup>3</sup>]
+ ☞<a href="l.htm#lawa">lawa</a>
+<br><font size="+2"><b><a name="lawwatanòoka"></a>lawwatanòoka</b> </font>
+<font size="+2">to multiply, gain</font>
+&nbsp; [/lawa-t /anoo-ka<sup>1</sup> (?)]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="l.htm#lawa">lawa</a>
+<br><font size="+2"><b><a name="lawwi"></a>lawwi</b> </font>
+<font size="+2">to be loud </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Lawwifít naaɬiisko.
+ <i>You talk too loud.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="l.htm#láhwi">láhwi</a></i>
+&nbsp;to be louder
+<br><font size="+2"><b><a name="layki"></a>layki</b> </font>
+<font size="+2"> excrement, feces, waste </font>
+&nbsp;<font face="Arial">«</font>Chillaykichoba!
+ <i>You big doodoo! (children's insult).</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="laykitonòolichi"></a>laykitonòolichi</b> </font>
+<font size="+2">dung beetle </font>
+&nbsp; [/layki /tono(t)-li-chi<sup>1</sup>]
+ <i>Var: layktonòolichi</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="libàali"></a>libàali</b> </font>
+<font size="+2">to cook, bake; to burn (of more than one subject or object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>libàachi, libàahili, libàahachi</i>)
+&nbsp; [/liba(t)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Holibàaliimooliisan ilpaamooti.
+ <i>Several people cooked a lot of food.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Libàalimooliisan imilpaamooti.
+ <i>One person cooked a lot of food.</i><font face="Arial">»</font>
+ ☞<a href="l.htm#libatli">libatli</a>
+<br><font size="+2"><b><a name="libatíkko"></a>libatíkko</b> </font>
+ Neg.
+ ☞<a href="l.htm#libatka">libatka</a>
+<br><font size="+2"><b><a name="libatka"></a>libatka</b> </font>
+<font size="+2">to be cooked, done; to get burned</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/libat-ka<sup>1</sup>]
+ <i>Neg: </i>libatíkko
+ ☞<a href="l.htm#libatli">libatli</a>
+<br><font size="+2"><b><a name="libátko"></a>libátko</b> </font>
+ Neg.
+<font size="+2">to be raw, uncooked, not burned</font>
+ ☞<a href="l.htm#libatli">libatli</a>
+<br><font size="+2"><b><a name="libatli"></a>libatli</b> </font>
+<font size="+2">to cook, bake (one); to burn (one thing)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>libatchi, libathili, libathachi</i>)
+&nbsp; [/libat-li]
+<br>&nbsp;&nbsp;<i><a href="l.htm#libátko">libátko</a></i>
+ Neg.
+&nbsp;to be raw
+<br>&nbsp;&nbsp;<i><a href="n.htm#noolibatli">noolibatli</a></i>
+&nbsp;to burn the neck
+<br>&nbsp;&nbsp;<i><a href="l.htm#libatka">libatka</a></i>
+&nbsp;to be cooked
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="l.htm#libatíkko">libatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="a.htm#aalibatka">aalibatka</a></i>
+&nbsp;any place for cooking
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoolibatka">ichoolibatka</a></i>
+&nbsp;to have a burned mouth
+<br>&nbsp;&nbsp;<i><a href="l.htm#libàali">libàali</a></i>
+&nbsp;to burn (more than one thing)
+<br><font size="+2"><b><a name="liikka"></a>liikka</b> </font>
+<font size="+2">lake; leak</font>
+ <i>Usage: </i>People use this especially in the phrase liikkachoba to refer to Lake Livingston, as opposed to ayiipi `a small lake'. Not usually used to mean `lake'.
+ {&nbsp;English}
+&nbsp; [/liik-ka<sup>3</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="likitilka"></a>likitilka</b> </font>
+<font size="+2">anger </font>
+&nbsp; [/likit&lt;il&gt;-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="l.htm#likitka">likitka</a>
+<br><font size="+2"><b><a name="likitka"></a>likitka</b> </font>
+<font size="+2">to fuss</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>likitiska, likitilka, likitaska</i>)
+&nbsp; [/likit-ka<sup>1</sup>]
+<br>&nbsp;&nbsp;<i><a href="l.htm#likitilka">likitilka</a></i>
+&nbsp;anger
+<br>&nbsp;&nbsp;<i><a href="i1.htm#illikitka">illikitka</a></i>
+&nbsp;to scold
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ilillikitlichi">ilillikitlichi</a></i>
+&nbsp;to provoke (someone)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istillikitka">istillikitka</a></i>
+&nbsp;to reproach for
+<br><font size="+2"><b><a name="limichko"></a>limichko</b> </font>
+<font size="+2">to be shiny and smooth</font>
+ <i>Var: limihko</i>
+&nbsp;<font size="0">(DB)</font>
+<br>&nbsp;&nbsp;<i><a href="l.htm#limíhko">limíhko</a></i>
+&nbsp;to be smoother
+<br>&nbsp;&nbsp;<i><a href="l.htm#limichkochi">limichkochi</a></i>
+&nbsp;to polish
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#islimichkochitilka">islimichkochitilka</a></i>
+&nbsp;polish
+<br><font size="+2"><b><a name="limichkochi"></a>limichkochi</b> </font>
+<font size="+2">to polish to a shine</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>limichkochitiska, limichkochitilka, limichkochitaska</i>)
+&nbsp; [/limichko-chi<sup>1</sup>]
+ ☞<a href="l.htm#limichko">limichko</a>
+<br><font size="+2"><b><a name="limìhkachi"></a>limìhkachi</b> </font>
+<font size="+2">to give off shimmering waves of light (esp. as a heat mirage or tinfoil), shine, glisten, sparkle, glitter, radiate</font>
+&nbsp; [/limih-ka<sup>1</sup>-chi<sup>2</sup>]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Ikbaayok limìhkachikáhchi.
+ <i>The heat is causing a heat mirage.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="m.htm#maalimihkáachi">maalimihkáachi</a></i>
+&nbsp;to be shimmering (off in the distance)
+<br><font size="+2"><b><a name="limihko"></a>limihko</b> </font>
+ <i>Var. of</i>&nbsp;<a href="l.htm#limichko">limichko</a>&nbsp;
+<br><font size="+2"><b><a name="limíhko"></a>limíhko</b> </font>
+<font size="+2">to be smoother</font>
+ [<i>hgr</i>]
+ ☞<a href="l.htm#limichko">limichko</a>
+<br><font size="+2"><b><a name="limithoka"></a>limithoka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="l.htm#limitoka">limitoka</a>&nbsp;
+<br><font size="+2"><b><a name="limitka"></a>limitka</b> </font>
+<font size="+2">to swallow once; to cause an eclipse (of the moon or sun)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>limitiska, limitilka, limitaska</i>)
+&nbsp; [/limit-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Tankahasik níhtahasin limitkati.
+ <i>The moon eclipsed the sun.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="l.htm#limitoka">limitoka</a></i>
+ Imp.
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istillimitilka">istillimitilka</a></i>
+&nbsp;throat
+<br>&nbsp;&nbsp;<i><a href="l.htm#linka">linka</a></i>
+&nbsp;to swallow (rep. or pl.)
+<br><font size="+2"><b><a name="limitoka"></a>limitoka</b> </font>
+ Imp.
+ <i>Var: limithoka</i>
+ ☞<a href="l.htm#limitka">limitka</a>
+<br><font size="+2"><b><a name="limliki"></a>limliki</b> </font>
+<font size="+2">to be shiny, dappled, spotted; to ripple, shimmer</font>
+<br><font size="+2"><b><a name="limonka"></a>limonka</b> </font>
+<font size="+2">lemon </font>
+&nbsp; [/limon-ka<sup>3</sup>]
+ {&nbsp;English}
+<br><font size="+2"><b><a name="limonka okchikaskaha"></a>limonka okchikaskaha</b> </font>
+<font size="+2">lemonade</font>
+&nbsp; [/limon-ka<sup>3</sup> /okchi /kaskaha]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="linka"></a>linka</b> </font>
+<font size="+2">to swallow (more than once)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>limiska, limilka, limaska</i>)
+&nbsp; [/lim(it)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="l.htm#limitka">limitka</a>
+<br><font size="+2"><b><a name="lipha"></a>lipha</b> </font>
+<font size="+2">to be fine in texture, soft (as cured hide) or mushy (as overripe fruit), powdery, fine (of hair)</font>
+&nbsp;<font face="Arial">«</font>Sáhkachit anookatooma, liphahimok achikìibohchoolimpakha.
+ <i>If it (the hide) is scraped real well, then it is not hard to cure.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Takkolaya liphat anooka.
+ <i>The peaches are mushy.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Possiya liphahchi.
+ <i>The powder is very fine.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istitalipha">istitalipha</a></i>
+&nbsp;to be mixed fine together
+<br>&nbsp;&nbsp;<i><a href="l.htm#liphachi">liphachi</a></i>
+&nbsp;to cure (leather); to pulverize
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="l.htm#liphachitíkko">liphachitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="l.htm#liphachitoka">liphachitoka</a></i>
+ Imp.
+<br><font size="+2"><b><a name="liphachi"></a>liphachi</b> </font>
+<font size="+2">to cure (leather), tan (hide); to grind up fine, crush to powder, pulverize</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>liphachiska, liphachilka, liphachaska</i>)
+&nbsp;(<i>liphachitiska, liphachitilka, liphachitaska</i>)
+&nbsp; [/lipha-chi<sup>1</sup>]
+ <i>Neg: </i>liphachitíkko
+&nbsp;<font face="Arial">«</font>Akkamít holiphachihch ommihchoolikha.
+ <i>That's the way they always used to cure it real soft.</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+ ☞<a href="l.htm#lipha">lipha</a>
+<br><font size="+2"><b><a name="liphachitíkko"></a>liphachitíkko</b> </font>
+ Neg.
+ ☞<a href="l.htm#liphachi">liphachi</a>
+<br><font size="+2"><b><a name="liphachitoka"></a>liphachitoka</b> </font>
+ Imp.
+ ☞<a href="l.htm#liphachi">liphachi</a>
+<br><font size="+2"><b><a name="lipti"></a>lipti</b> </font>
+<font size="+2">largest of the catfish, flathead catfish, `appaloosa' catfish</font>
+ <i>Var: litti</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="lisilka"></a>lisilka</b> </font>
+<font size="+2">to be beaten, defeated</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/lis&lt;il&gt;-ka<sup>1</sup>]
+ ☞<a href="l.htm#liska">liska</a>
+<br><font size="+2"><b><a name="liska"></a>liska</b> </font>
+<font size="+2">to beat, whip, spank; to pound, squeeze open in a vice; to gradually flatten, beat down flat</font>
+ (may refer to pounding a nail in flat, smashing something (e.g. a cup) flat, flattening a coin to put on clothing for decoration)
+ <i>Usage: </i>Colloquial for `spank'
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>lisiska, lisilka, lisaska</i>)
+&nbsp; [/lis-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Liskaliti ikháaloyon.
+ <i>I whipped him because he didn't listen to me.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="l.htm#lisoka">lisoka</a></i>
+ Imp.
+<br>&nbsp;&nbsp;<i><a href="a.htm#atholiska">atholiska</a></i>
+&nbsp;winning team
+<br>&nbsp;&nbsp;<i><a href="l.htm#lisilka">lisilka</a></i>
+&nbsp;to be defeated
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#islisilka">islisilka</a></i>
+&nbsp;hammer
+<br><font size="+2"><b><a name="lisoka"></a>lisoka</b> </font>
+ Imp.
+ ☞<a href="l.htm#liska">liska</a>
+<br><font size="+2"><b><a name="litihíkko"></a>litihíkko</b> </font>
+ Neg.
+ <i>Var: litiíkko</i>
+ ☞<a href="l.htm#litihko">litihko</a>
+<br><font size="+2"><b><a name="litihilka"></a>litihilka</b> </font>
+<font size="+2">filth</font>
+&nbsp; [/litih(ko)-ilka]
+ ☞<a href="l.htm#litihko">litihko</a>
+<br><font size="+2"><b><a name="litihko"></a>litihko</b> </font>
+<font size="+2">to be dirty, filthy</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+<br>&nbsp;&nbsp;<i><a href="l.htm#litihíkko">litihíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="l.htm#litihkotilka">litihkotilka</a></i>
+&nbsp;filth
+<br>&nbsp;&nbsp;<i><a href="l.htm#litihilka">litihilka</a></i>
+&nbsp;filth
+<br>&nbsp;&nbsp;<i><a href="l.htm#líttihko">líttihko</a></i>
+&nbsp;to be a little dirty
+<br>&nbsp;&nbsp;<i><a href="o.htm#onalitihko">onalitihko</a></i>
+&nbsp;to be very dirty
+<br>&nbsp;&nbsp;<i><a href="l.htm#litihkochi">litihkochi</a></i>
+&nbsp;to get (one's body) dirty
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="l.htm#litihkochitíkko">litihkochitíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="litihkochi"></a>litihkochi</b> </font>
+<font size="+2">to get (one's body) dirty, make dirty</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>litihkochitiska, litihkochitilka, litihkochitaska</i>)
+&nbsp; [/litihko-chi<sup>1</sup>]
+ <i>Neg: </i>litihkochitíkko
+ ☞<a href="l.htm#litihko">litihko</a>
+<br><font size="+2"><b><a name="litihkochitíkko"></a>litihkochitíkko</b> </font>
+ Neg.
+ ☞<a href="l.htm#litihkochi">litihkochi</a>
+<br><font size="+2"><b><a name="litihkotilka"></a>litihkotilka</b> </font>
+<font size="+2">filth</font>
+&nbsp; [/litihko-tilka]
+ ☞<a href="l.htm#litihko">litihko</a>
+<br><font size="+2"><b><a name="litiíkko"></a>litiíkko</b> </font>
+ <i>Var. of</i>&nbsp;<a href="l.htm#litihíkko">litihíkko</a>&nbsp;
+<br><font size="+2"><b><a name="litti"></a>litti</b> </font>
+ <i>Var. of</i>&nbsp;<a href="l.htm#lipti">lipti</a>&nbsp;
+<br><font size="+2"><b><a name="líttihko"></a>líttihko</b> </font>
+<font size="+2">to be a little dirty</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>ggr</i>]
+ ☞<a href="l.htm#litihko">litihko</a>
+<br><font size="+2"><b><a name="liwaali"></a>liwaali</b> </font>
+ <i>Var. of</i>&nbsp;<a href="l.htm#liwahli">liwahli</a>&nbsp;
+<br><font size="+2"><b><a name="liwahli"></a>liwahli</b> </font>
+<font size="+2">to have a rash (on a part of the body), be broken out, have a skin eruption, have open sores all over </font>
+&nbsp;<font color="#800080" size="+1">3/AM-</font>
+&nbsp; [/liwah-li]
+ <i>Var: liwaali</i>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichooliwahli">ichooliwahli</a></i>
+&nbsp;to have a fever blister
+<br>&nbsp;&nbsp;<i><a href="l.htm#liwahlichi">liwahlichi</a></i>
+&nbsp;to cause a rash
+<br><font size="+2"><b><a name="liwahlichi"></a>liwahlichi</b> </font>
+<font size="+2">to cause a rash on, make (someone) break out</font>
+&nbsp;<font color="#800080" size="+1">3/CHA-</font>
+&nbsp; [/liwah-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Hassik chaliwahlichi.
+ <i>The grass made me break out.</i><font face="Arial">»</font>
+ ☞<a href="l.htm#liwahli">liwahli</a>
+<br><font size="+2"><b><a name="Liwisti"></a>Liwisti</b> </font>
+<font size="+2">Livingston, Texas</font>
+&nbsp;<font color="#080000">Cul:  County seat of Polk County, the town closest to the Alabama-Coushatta Reservation to the west.</font>&nbsp;
+ {&nbsp;English}
+<br><font size="+2"><b><a name="locha"></a>locha</b> </font>
+<font size="+2">to be black, dark </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Achatlocha.
+ <i>I'm black.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Lokbafan áayaliiyon hátchàaliliiyok chalochaaso.
+ <i>I was out in the sun and got real dark.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Lochahchi.
+ <i>It's black (what you might say if so. asked you what color your lost wallet is).</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="l.htm#lochatíkko">lochatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="l.htm#loocha">loocha</a></i>
+&nbsp;black person
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="l.htm#loochasi">loochasi</a></i>
+&nbsp;black child
+<br>&nbsp;&nbsp;<i><a href="l.htm#lochachi">lochachi</a></i>
+&nbsp;to blacken
+<br><font size="+2"><b><a name="lochaachi"></a>lochaachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="l.htm#lochachi">lochachi</a>&nbsp;
+<br><font size="+2"><b><a name="lochachi"></a>lochachi</b> </font>
+<font size="+2">to blacken</font>
+ (may refer to polishing shoes, making something dirty, charring something, etc)
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>lochachiska, lochachilka, lochachaska</i>)
+&nbsp;(<i>lochachitiska, lochachitilka, lochachitaska</i>)
+&nbsp; [/locha-chi<sup>1</sup>]
+ <i>Var: lochaachi</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Aaholponin lochachiiso.
+ <i>I (accidentally) blackened the pot.</i><font face="Arial">»</font>
+ ☞<a href="l.htm#locha">locha</a>
+<br><font size="+2"><b><a name="lochatíkko"></a>lochatíkko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Chalochatíkkohchi.
+ <i>I'm not black.</i><font face="Arial">»</font>
+ ☞<a href="l.htm#locha">locha</a>
+<br><font size="+2"><b><a name="lokaacha"></a>lokaacha</b> </font>
+<font size="+2">orphan </font>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="lokba"></a>lokba</b> </font>
+<font size="+2">to be hot (as of the weather), summer </font>
+&nbsp;<font face="Arial">«</font>Iishayo lokbaamoolo.
+ <i>The room is hot.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Lókbat aɬíino.
+ <i>It's getting hotter.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Lokbaamoolit aɬíino.
+ <i>It's getting hotter.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="l.htm#lokìkbo">lokìkbo</a></i>
+ Neg.
+&nbsp;to be cool
+<br>&nbsp;&nbsp;<i><a href="i1.htm#illokba">illokba</a></i>
+&nbsp;to feel hot
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#illokbachi">illokbachi</a></i>
+&nbsp;to get hot and sweaty
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#illokbáachi">illokbáachi</a></i>
+&nbsp;to wear something to keep warm
+<br>&nbsp;&nbsp;<i><a href="l.htm#lokbaha">lokbaha</a></i>
+&nbsp;year, summer
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="l.htm#lokbahaakítto">lokbahaakítto</a></i>
+&nbsp;last year
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="l.htm#lokbáahaako">lokbáahaako</a></i>
+&nbsp;last year
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="l.htm#lokbáahaama">lokbáahaama</a></i>
+&nbsp;next year
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#ostillokbaha">ostillokbaha</a></i>
+&nbsp;next year
+<br>&nbsp;&nbsp;<i><a href="l.htm#lokbachi">lokbachi</a></i>
+&nbsp;to be shining (of the sun)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="l.htm#lokbachitíkko">lokbachitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="l.htm#lokbáachi">lokbáachi</a></i>
+&nbsp;to keep (someone) warm
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maalokbáachi">maalokbáachi</a></i>
+&nbsp;to be heating up (of the air temperature)
+<br>&nbsp;&nbsp;<i><a href="l.htm#lóokba">lóokba</a></i>
+&nbsp;to be getting hotter
+<br><font size="+2"><b><a name="lokbáachi"></a>lokbáachi</b> </font>
+<font size="+2">to keep (someone) warm</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>lokbáachitiska, lokbáachitilka, lokbáachitaska</i>)
+ [<i>lgr</i>]
+ ☞<a href="l.htm#lokbachi">lokbachi</a>
+<br><font size="+2"><b><a name="lokbáahaako"></a>lokbáahaako</b> </font>
+<font size="+2">last year </font>
+&nbsp; [/lokba-ha<sup>4</sup>-ka<sup>2</sup>-o<sup>3</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="l.htm#lokbaha">lokbaha</a>
+<br><font size="+2"><b><a name="lokbáahaama"></a>lokbáahaama</b> </font>
+<font size="+2">next year </font>
+&nbsp; [/lokba-ha<sup>4</sup>-ma<sup>2</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="l.htm#lokbaha">lokbaha</a>
+<br><font size="+2"><b><a name="lokbachi"></a>lokbachi</b> </font>
+<font size="+2">to be shining (of the sun) </font>
+&nbsp; [/lokba-chi<sup>1</sup>]
+ ☞<a href="l.htm#lokba">lokba</a>
+<br><font size="+2"><b><a name="lokbachitíkko"></a>lokbachitíkko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Lokbachitíkkobi.
+ <i>The sun isn't shining.</i><font face="Arial">»</font>
+ ☞<a href="l.htm#lokbachi">lokbachi</a>
+<br><font size="+2"><b><a name="lokbaha"></a>lokbaha</b> </font>
+<font size="+2">year, summer, springtime </font>
+&nbsp; [/lokba-ha<sup>4</sup>]
+&nbsp;<font face="Arial">«</font>Lokbahahchi.
+ <i>It is summer.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Lókba námpooya.
+ <i>However many years.</i><font face="Arial">»</font>
+ ☞<a href="l.htm#lokba">lokba</a>
+<br><font size="+2"><b><a name="lokbahaakítto"></a>lokbahaakítto</b> </font>
+<font size="+2">last year </font>
+&nbsp; [/lokba-ha<sup>4</sup>-kítta-o<sup>3</sup>]
+ ☞<a href="l.htm#lokbaha">lokbaha</a>
+<br><font size="+2"><b><a name="lokbahachóoba ostistanooka"></a>lokbahachóoba ostistanooka</b> </font>
+<font size="+2">last day of December</font>
+&nbsp; [/lokba-ha<sup>4</sup> /achòoba ost-ist- /anoo-ka<sup>1</sup>]
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="lokbahaháhpa"></a>lokbahaháhpa</b> </font>
+<font size="+2">New Year's day; January</font>
+&nbsp; [/lokba-ha<sup>4</sup> /háhpa]
+<br><font size="+2"><b><a name="lokbáhastanóoka"></a>lokbáhastanóoka</b> </font>
+<font size="+2">December</font>
+&nbsp; [/lokba-ha<sup>4</sup> ist- /anoo-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="lokba issobayka"></a>lokba issobayka</b> </font>
+<font size="+2">thermometer</font>
+&nbsp; [/lokba ist- /sobay-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: lokbassobayka</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="lokba sáhmòosi issobayka"></a>lokba sáhmòosi issobayka</b> </font>
+<font size="+2">thermometer</font>
+&nbsp; [/lokba /sàhmi-osi ist- /sobay-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="lòkbassoba"></a>lòkbassoba</b> </font>
+<font size="+2">heat wave, extreme heat</font>
+&nbsp; [/lokba-osi /choba (?)]
+&nbsp;<font face="Arial">«</font>Lòkbassobaayon waakak amilliti.
+ <i>My cow died from the heat.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="lokbassobayka"></a>lokbassobayka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="l.htm#lokba issobayka">lokba issobayka</a>&nbsp;
+<br><font size="+2"><b><a name="lokìkbo"></a>lokìkbo</b> </font>
+ Neg.
+<font size="+2">to be cool</font>
+ ☞<a href="l.htm#lokba">lokba</a>
+<br><font size="+2"><b><a name="lókkolìichi"></a>lókkolìichi</b> </font>
+<font size="+2">to make (plural objects) stand up, have standing upright; to own, have (things that are upright, such as buildings)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>lókkochìichi, lókkohilìichi, lókkohachìichi</i>)
+&nbsp; [/lokoo-li-chi<sup>1</sup>]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Chattóoɬpan lókkolìichit chokóolilo.
+ <i>I'm sitting with my knees up.</i><font face="Arial">»</font>
+ ☞<a href="l.htm#lokoolichi">lokoolichi</a>
+<br><font size="+2"><b><a name="lókkòoka"></a>lókkòoka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="l.htm#lókkòoli">lókkòoli</a>&nbsp;
+<br><font size="+2"><b><a name="lókkòoli"></a>lókkòoli</b> </font>
+<font size="+2">to be standing upright, be set up vertically (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, lókkòohili, lókkòohachi</i>)
+&nbsp; [/lokoo-li]
+ [<i>Irr: </i>SgStem=hátchàali]
+ [<i>ggr</i>]
+ <i>Var: lókkòoka</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Apóotkas lókkòoli.
+ <i>Stand side by side.</i><font face="Arial">»</font>
+ ☞<a href="l.htm#lokòoli">lokòoli</a>
+<br><font size="+2"><b><a name="lokòoka"></a>lokòoka</b> </font>
+<font size="+2">meeting</font>
+&nbsp; [/lokoo-ka<sup>1</sup>]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Lokòokalàa.
+ <i>There's going to be a meeting.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Lokòokaimpo.
+ <i>There's going to be a meeting, I hear.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Lokòokaya istanooko.
+ <i>The meeting is adjourned.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Lokòokalòo opíiyàasiima.
+ <i>There's going to have to be a meeting this evening.</i><font face="Arial">»</font>
+ ☞<a href="l.htm#lokòoli">lokòoli</a>
+<br><font size="+2"><b><a name="lokòoli"></a>lokòoli</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to stand up (of more than one), assume a standing position; to meet, gather, organize as a group; to take office, assume a position, be installed in office; to stick out (of the ears)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, lokòohili, lokòohachi</i>)
+&nbsp; [/lokoo-li]
+ [<i>Irr: </i>SgStem=hachàali]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>1935káffìinon illin 1936ka first January-fòokan lokòolihchommikha.
+ <i>It was around 1935 when he died and the first of January 1936 they were installed.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Councilkan lokòolíffìinamón aⁿfatlok istaɬɬabá.
+ <i>Tell me about from when the Council was organized and go on from there.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>... holihtachit oittimapiilat ihtóot chaklit talàalaimok nàmpot lokòolok laawat lokòolit hochaklit yakchi iⁿɬakófkotoolokáasok.
+ <i>They would help each other build fences, even chopping to clear for a field and several would get together, a lot would get together, and chop and they wouldn't miss out on the corn and meat stew.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">meeting</font>
+<br>&nbsp;&nbsp;<i><a href="a.htm#aalokòoli">aalokòoli</a></i>
+&nbsp;church
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittalókkòoli">ittalókkòoli</a></i>
+&nbsp;to be standing (pl.)
+<br>&nbsp;&nbsp;<i><a href="h.htm#hissipaalokòoli">hissipaalokòoli</a></i>
+&nbsp;to be crested (of fowl)
+<br>&nbsp;&nbsp;<i><a href="l.htm#lókkòoli">lókkòoli</a></i>
+&nbsp;to be standing upright
+<br>&nbsp;&nbsp;<i><a href="a.htm#alokooli">alokooli</a></i>
+&nbsp;to stand with someone
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#alókkòoli">alókkòoli</a></i>
+&nbsp;to be standing beside someone (pl.)
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittillokòoli">ittillokòoli</a></i>
+&nbsp;to gather together
+<br>&nbsp;&nbsp;<i><a href="l.htm#lokoolichi">lokoolichi</a></i>
+&nbsp;to elect
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="l.htm#lókkolìichi">lókkolìichi</a></i>
+&nbsp;to make stand up
+<br>&nbsp;&nbsp;<i><a href="l.htm#lokòoka">lokòoka</a></i>
+&nbsp;meeting
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#aalokòoka">aalokòoka</a></i>
+&nbsp;church
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#illokòoka">illokòoka</a></i>
+&nbsp;any regular meeting
+<br><font size="+2"><b><a name="lokoolichi"></a>lokoolichi</b> </font>
+<font size="+2">to elect (more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>lokoochichi, lokoohilichi, lokoohachichi</i>)
+&nbsp; [/lokoo-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Mikkohaya aatapihómmak holokoolìichihchootoofòokon...
+ <i>When the Indians elected their chiefs...</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Charlie Tampsootoomok illiifòokan mìnton lokòohachichihch ommitoskamailo?
+ <i>When Charlie Thompson died y'all elected another didn't you?</i><font face="Arial">»</font>
+ ☞<a href="l.htm#lokòoli">lokòoli</a>
+<br><font size="+2"><b><a name="lomhi"></a>lomhi</b> </font>
+<font size="+2">to hide (something/someone)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>lonchi, loⁿhili, loⁿhachi</i>)
+ <i>Var: lommi</i>
+&nbsp;<font size="0">(WP, DB)</font>
+<br>&nbsp;&nbsp;<i><a href="l.htm#lomhitíkko">lomhitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="l.htm#lónko">lónko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="l.htm#lomholi">lomholi</a></i>
+ Imp.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ililomhi">ililomhi</a></i>
+&nbsp;to be secretive
+<br>&nbsp;&nbsp;<i><a href="i1.htm#illomhi">illomhi</a></i>
+&nbsp;to hide (something) from
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittiɬi illomhi">ittiɬi illomhi</a></i>
+&nbsp;to blindfold
+<br>&nbsp;&nbsp;<i><a href="l.htm#lóomhi">lóomhi</a></i>
+&nbsp;to be hiding (something)
+<br>&nbsp;&nbsp;<i><a href="a.htm#alomhichi">alomhichi</a></i>
+&nbsp;to keep something a secret
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imalomhichi">imalomhichi</a></i>
+&nbsp;to keep something a secret from
+<br>&nbsp;&nbsp;<i><a href="o.htm#oolomhi">oolomhi</a></i>
+&nbsp;to hide (something) in water
+<br>&nbsp;&nbsp;<i><a href="l.htm#lonka">lonka</a></i>
+&nbsp;to hide oneself
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="l.htm#loⁿíkko">loⁿíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="l.htm#loⁿhoka">loⁿhoka</a></i>
+ Imp.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#aaloⁿhilka">aaloⁿhilka</a></i>
+&nbsp;hiding place
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#illonka">illonka</a></i>
+&nbsp;to hide from someone
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittillonka">ittillonka</a></i>
+&nbsp;to play hide and seek
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istilibiilonka">istilibiilonka</a></i>
+&nbsp;mask
+<br><font size="+2"><b><a name="lomhitíkko"></a>lomhitíkko</b> </font>
+ Neg.
+ ☞<a href="l.htm#lomhi">lomhi</a>
+<br><font size="+2"><b><a name="lomholi"></a>lomholi</b> </font>
+ Imp.
+ ☞<a href="l.htm#lomhi">lomhi</a>
+<br><font size="+2"><b><a name="lommi"></a>lommi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="l.htm#lomhi">lomhi</a>&nbsp;
+<br><font size="+2"><b><a name="loⁿhoka"></a>loⁿhoka</b> </font>
+ Imp.
+ ☞<a href="l.htm#lonka">lonka</a>
+<br><font size="+2"><b><a name="loⁿíkko"></a>loⁿíkko</b> </font>
+ Neg.
+ ☞<a href="l.htm#lonka">lonka</a>
+<br><font size="+2"><b><a name="lonka"></a>lonka</b> </font>
+<font size="+2">to hide oneself, be hidden</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>loⁿiska, loⁿilka, loⁿaska</i>)
+&nbsp; [/lomhi-ka<sup>1</sup>]
+ <i>Neg: </i>loⁿíkko
+ ☞<a href="l.htm#lomhi">lomhi</a>
+<br><font size="+2"><b><a name="lónko"></a>lónko</b> </font>
+ Neg.
+ ☞<a href="l.htm#lomhi">lomhi</a>
+<br><font size="+2"><b><a name="lòobo"></a>lòobo</b> </font>
+<font size="+2">to be smooth</font>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="lòobosi"></a>lòobosi</b> </font>
+<font size="+2">minnow </font>
+<br><font size="+2"><b><a name="loocha"></a>loocha</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">black person, African-American </font>
+ [<i>lengthening of vowel is not by any regular process</i>]
+&nbsp;<font face="Arial">«</font>Loochatayyi.
+ <i>Black woman.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Loochanaani.
+ <i>Black man.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to be a black person</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ <i>Neg: </i>aatloochókko
+ ☞<a href="l.htm#locha">locha</a>
+<br><font size="+2"><b><a name="loocha nipihómma"></a>loocha nipihómma</b> </font>
+<font size="+2">half-breed, part black and Indian </font>
+<br><font size="+2"><b><a name="loochasi"></a>loochasi</b> </font>
+<font size="+2">black child</font>
+&nbsp; [/loocha-osi]
+ ☞<a href="l.htm#loocha">loocha</a>
+<br><font size="+2"><b><a name="lookalasa"></a>lookalasa</b> </font>
+ <i>Var. of</i>&nbsp;<a href="o.htm#ookalasa">ookalasa</a>&nbsp;
+<br><font size="+2"><b><a name="lóokba"></a>lóokba</b> </font>
+<font size="+2">to be getting hotter</font>
+ [<i>hgr</i>]
+ <i>Var: lókba</i>
+ ☞<a href="l.htm#lokba">lokba</a>
+<br><font size="+2"><b><a name="lóomhi"></a>lóomhi</b> </font>
+<font size="+2">to be hiding (something) </font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>lóonchi, lóoⁿhili, lóoⁿhachi</i>)
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Lóomhit naaɬiikahchi.
+ <i>Whisper!</i><font face="Arial">»</font>
+ ☞<a href="l.htm#lomhi">lomhi</a>
+<br><font size="+2"><b><a name="lóomhit naaɬiika"></a>lóomhit naaɬiika</b> </font>
+<font size="+2">to whisper</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/lomhi-t /naaɬii-ka<sup>1</sup>]
+ ☞<a href="n.htm#naaɬiika">naaɬiika</a>
+<br><font size="+2"><b><a name="lóomhòosit naaɬiika"></a>lóomhòosit naaɬiika</b> </font>
+<font size="+2">to talk low, talk softly, whisper</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/lomhi-osi-t /naaɬii-ka<sup>1</sup>]
+ ☞<a href="l.htm#lóomhit naaɬiika">lóomhit naaɬiika</a>
+<br><font size="+2"><b><a name="Loosiyaana"></a>Loosiyaana</b> </font>
+<font size="+2">Louisiana</font>
+ {&nbsp;English}
+<br><font size="+2"><b><a name="losíkko"></a>losíkko</b> </font>
+ Neg.
+ ☞<a href="l.htm#loska">loska</a>
+<br><font size="+2"><b><a name="losilka"></a>losilka</b> </font>
+<font size="+2">lie, prevarication</font>
+&nbsp; [/los&lt;il&gt;-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Losilkókkohchi.
+ <i>That's no lie.</i><font face="Arial">»</font>
+ ☞<a href="l.htm#loska">loska</a>
+<br><font size="+2"><b><a name="loska"></a>loska</b> </font>
+<font size="+2">to lie, tell a lie</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>losiska, losilka, losaska</i>)
+&nbsp; [/los-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Loskatokaaha.
+ <i>Tell a lie.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Losiskahchoiⁿskaⁿ?
+ <i>Are you lying?</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="l.htm#losíkko">losíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#illoska">illoska</a></i>
+&nbsp;to lie to
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#illosilka">illosilka</a></i>
+&nbsp;to be lied to
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imilloska">imilloska</a></i>
+&nbsp;to lie to (someone) for
+<br>&nbsp;&nbsp;<i><a href="l.htm#loskachi">loskachi</a></i>
+&nbsp;to make (someone) lie; to lie for
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="l.htm#loskachiichi">loskachiichi</a></i>
+&nbsp;to make (someone) lie; to lie for
+<br>&nbsp;&nbsp;<i><a href="l.htm#losilka">losilka</a></i>
+&nbsp;prevarication
+<br>&nbsp;&nbsp;<i><a href="a.htm#aloska">aloska</a></i>
+&nbsp;to tell a lie about
+<br>&nbsp;&nbsp;<i><a href="o.htm#onaloska">onaloska</a></i>
+&nbsp;to tell a lie about
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#onaloskachi">onaloskachi</a></i>
+&nbsp;to make someone lie about someone
+<br><font size="+2"><b><a name="loskachi"></a>loskachi</b> </font>
+<font size="+2">to make (someone) lie; to lie for</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>loskachitiska, loskachitilka, loskachitasak</i>)
+&nbsp; [/los-ka<sup>1</sup>-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chiloskachilao.
+ <i>I'm going to lie for you.</i><font face="Arial">»</font>
+ ☞<a href="l.htm#loska">loska</a>
+<br><font size="+2"><b><a name="loskachiichi"></a>loskachiichi</b> </font>
+<font size="+2">to make (someone) lie; to lie for</font>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>loskachiichitiska, loskachiichitilka, loskachiichitaska</i>)
+&nbsp; [/los-ka<sup>1</sup>-chi<sup>1</sup>-chi<sup>1</sup>]
+ [<i>double -chi<sup>1</sup> construction</i>]
+&nbsp;<font face="Arial">«</font>Chiloskachiichilao.
+ <i>I'm going to make you lie.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chiloskachiichili.
+ <i>I'll lie for you.</i><font face="Arial">»</font>
+ ☞<a href="l.htm#loskachi">loskachi</a>
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

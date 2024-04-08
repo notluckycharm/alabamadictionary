@@ -1,0 +1,916 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">D</font></center><br>
+<br><b>dachshund</b>&nbsp;&nbsp;<i><a href="i1.htm#ifabaskosi">ifabaskosi</a></i>.&nbsp;
+<br><b>daddy longlegs</b>&nbsp;&nbsp;<i><a href="t.htm#tapassòola">tapassòola</a></i>.&nbsp;
+<br><b>dam</b>
+&nbsp;partition, barrier, divide, dam: &nbsp;<i><a href="a.htm#atipaska">atipaska</a></i>.&nbsp;
+&nbsp;mother (of an animal), dam: &nbsp;<i><a href="i1.htm#iki">iki</a></i>.&nbsp;
+&nbsp;to dam up: &nbsp;<i><a href="o.htm#okbahli">okbahli</a></i>.&nbsp;
+<br><b>damage</b>
+&nbsp;to to be broken, torn, be damaged, ruined: &nbsp;<i><a href="a.htm#alwahka">alwahka</a></i>.&nbsp;
+<br><b>damp</b>
+&nbsp;dampness, wetness: &nbsp;<i><a href="ll.htm#ɬikaayatilka">ɬikaayatilka</a>, <a href="ll.htm#ɬikaliiya">ɬikaliiya</a></i>.&nbsp;
+&nbsp;to be damp, slightly wet: &nbsp;<i><a href="ll.htm#ɬikáayàssi">ɬikáayàssi</a></i>.&nbsp;
+&nbsp;to be wet, damp, soggy, sweaty: &nbsp;<i><a href="ll.htm#ɬikaaya">ɬikaaya</a></i>.&nbsp;
+&nbsp;to have water on the surface from condensation, be damp: &nbsp;<i><a href="o.htm#ooyohbi">ooyohbi</a></i>.&nbsp;
+<br><b>dance</b>&nbsp;&nbsp;<i><a href="b.htm#bitka">bitka</a></i>.&nbsp;
+&nbsp;bean dance: &nbsp;<i><a href="c.htm#chastokibitka">chastokibitka</a></i>.&nbsp;
+&nbsp;bear dance: &nbsp;<i><a href="n.htm#nitabitka">nitabitka</a></i>.&nbsp;
+&nbsp;buffalo dance: &nbsp;<i><a href="y.htm#yanasabitka">yanasabitka</a></i>.&nbsp;
+&nbsp;changing partners dance: &nbsp;<i><a href="i1.htm#impatnahòoba">impatnahòoba</a></i>.&nbsp;
+&nbsp;chicken dance: &nbsp;<i><a href="a.htm#akaakabitka">akaakabitka</a></i>.&nbsp;
+&nbsp;corn dance: &nbsp;<i><a href="c.htm#chassibitka">chassibitka</a></i>.&nbsp;
+&nbsp;crow dance: &nbsp;<i><a href="l.htm#lakchabitka">lakchabitka</a></i>.&nbsp;
+&nbsp;duck dance: &nbsp;<i><a href="c.htm#chooskanibitka">chooskanibitka</a></i>.&nbsp;
+&nbsp;eagle dance: &nbsp;<i><a href="f.htm#fooschobabitka">fooschobabitka</a></i>.&nbsp;
+&nbsp;eagle dance, bird dance: &nbsp;<i><a href="f.htm#foosibitka">foosibitka</a>, <a href="f.htm#foosibitka">foosibitka</a></i>.&nbsp;
+&nbsp;flag dance: &nbsp;<i><a href="s.htm#saphabitka">saphabitka</a></i>.&nbsp;
+&nbsp;gourd dance: &nbsp;<i><a href="k.htm#kochibitka">kochibitka</a></i>.&nbsp;
+&nbsp;green corn dance: &nbsp;<i><a href="c.htm#chassokcháako bitka">chassokcháako bitka</a></i>.&nbsp;
+&nbsp;horse dance: &nbsp;<i><a href="c.htm#chichobabitka">chichobabitka</a></i>.&nbsp;
+&nbsp;midnight dance: &nbsp;<i><a href="t.htm#tankatóohcha bitka">tankatóohcha bitka</a></i>.&nbsp;
+&nbsp;old buffalo dance: &nbsp;<i><a href="y.htm#yanasabitkachòoba">yanasabitkachòoba</a></i>.&nbsp;
+&nbsp;rabbit dance: &nbsp;<i><a href="c.htm#chokfibitka">chokfibitka</a></i>.&nbsp;
+&nbsp;snake dance: &nbsp;<i><a href="c.htm#chintobitka">chintobitka</a></i>.&nbsp;
+&nbsp;stealing dance: &nbsp;<i><a href="b.htm#bitkastittayapka">bitkastittayapka</a></i>.&nbsp;
+&nbsp;stomp dance: &nbsp;<i><a href="a.htm#aatihòmma imbitka">aatihòmma imbitka</a></i>.&nbsp;
+&nbsp;turkey dance: &nbsp;<i><a href="f.htm#fiitobitka">fiitobitka</a></i>.&nbsp;
+&nbsp;war dance: &nbsp;<i><a href="i2.htm#ittilbafabitka">ittilbafabitka</a></i>.&nbsp;
+&nbsp;wolf dance: &nbsp;<i><a href="w.htm#wasobitka">wasobitka</a></i>.&nbsp;
+&nbsp;caller at a dance, singer for dancers: &nbsp;<i><a href="b.htm#bitka intáalwa">bitka intáalwa</a></i>.&nbsp;
+&nbsp;dance rattle: &nbsp;<i><a href="w.htm#wakkachi">wakkachi</a></i>.&nbsp;
+&nbsp;dancing costume, regalia, uniform for dancing: &nbsp;<i><a href="i2.htm#isbitka">isbitka</a></i>.&nbsp;
+&nbsp;to dance: &nbsp;<i><a href="b.htm#bitli">bitli</a></i>.&nbsp;
+&nbsp;to dance with: &nbsp;<i><a href="i1.htm#ibaabitli">ibaabitli</a></i>.&nbsp;
+&nbsp;to ballet dance, dance on tiptoe: &nbsp;<i><a href="s.htm#sikkilíplit bitli">sikkilíplit bitli</a></i>.&nbsp;
+<br><b>dance grounds</b>&nbsp;&nbsp;<i><a href="a.htm#aabitka">aabitka</a></i>.&nbsp;
+<br><b>dancer</b>&nbsp;&nbsp;<i><a href="b.htm#bìitli">bìitli</a></i>.&nbsp;
+<br><b>dandruff</b>
+&nbsp;flakes, dandruff: &nbsp;<i><a href="t.htm#toɬopli">toɬopli</a></i>.&nbsp;
+&nbsp;to have dandruff: &nbsp;<i><a href="p.htm#paatoɬopli">paatoɬopli</a></i>.&nbsp;
+<br><b>danger</b>&nbsp;&nbsp;<i><a href="m.htm#maɬatka">maɬatka</a></i>.&nbsp;
+<br><b>dangerous</b>
+&nbsp;to be evil, wicked, dangerous, taboo: &nbsp;<i><a href="h.htm#hollo">hollo</a></i>.&nbsp;
+&nbsp;to be fatal, dangerous, lethal to: &nbsp;<i><a href="i2.htm#istilli">istilli</a></i>.&nbsp;
+&nbsp;to be something dangerous, something that might hurt a person: &nbsp;<i><a href="i1.htm#iⁿhollo">iⁿhollo</a></i>.&nbsp;
+<br><b>dangle</b>
+&nbsp;to hang, hold up, dangle (one object): &nbsp;<i><a href="a.htm#atakàali">atakàali</a></i>.&nbsp;
+<br><b>dappled</b>
+&nbsp;to be shiny, dappled, spotted: &nbsp;<i><a href="l.htm#limliki">limliki</a></i>.&nbsp;
+<br><b>dark</b>
+&nbsp;to be dark: &nbsp;<i><a href="t.htm#tanka">tanka</a></i>.&nbsp;
+&nbsp;to be black, dark: &nbsp;<i><a href="l.htm#locha">locha</a></i>.&nbsp;
+&nbsp;to be partially dark, be just getting dark, evening, dusk: &nbsp;<i><a href="t.htm#tánkàasi">tánkàasi</a></i>.&nbsp;
+&nbsp;to darken (as by pulling the shades): &nbsp;<i><a href="t.htm#tankachi2">tankachi<sup>2</sup></a></i>.&nbsp;
+&nbsp;to have it get dark on one: &nbsp;<i><a href="o.htm#ontanka">ontanka</a></i>.&nbsp;
+<br><b>darn</b>
+&nbsp;oh, no! oh, shoot! darn! oh, heck! oh, my goodness!: &nbsp;<i><a href="h.htm#híhha">híhha</a></i>.&nbsp;
+<br><b>dart</b>
+&nbsp;blowgun dart: &nbsp;<i><a href="b.htm#bihipofilka">bihipofilka</a>, <a href="ll.htm#ɬohpo">ɬohpo</a></i>.&nbsp;
+&nbsp;darts, staples, tacks, etc.: &nbsp;<i><a href="a.htm#achoska1">achoska<sup>1</sup></a></i>.&nbsp;
+&nbsp;plug, nail, pin, dart, staple, tack, poster: &nbsp;<i><a href="i2.htm#istachosòoli">istachosòoli</a></i>.&nbsp;
+&nbsp;stickers, thorn, sliver, burrs, dart, needle, arrow, knife, etc.: &nbsp;<i><a href="a.htm#achosòoka1">achosòoka<sup>1</sup></a></i>.&nbsp;
+<br><b>date</b>
+&nbsp;to go with, accompany, date: &nbsp;<i><a href="a.htm#achakki">achakki</a></i>.&nbsp;
+&nbsp;to be dating: &nbsp;<i><a href="i2.htm#ittinnaaɬiika">ittinnaaɬiika</a></i>.&nbsp;
+<br><b>daughter</b>&nbsp;&nbsp;<i><a href="o.htm#ostayki">ostayki</a>, <a href="t.htm#tayyaskosi">tayyaskosi</a></i>.&nbsp;
+&nbsp;any baby daughter after the first born daughter: &nbsp;<i><a href="c.htm#chóososi">chóososi</a></i>.&nbsp;
+&nbsp;any daughter after the first born daughter: &nbsp;<i><a href="c.htm#chòosi">chòosi</a></i>.&nbsp;
+&nbsp;daughter, little girl, female baby: &nbsp;<i><a href="t.htm#tayyosi">tayyosi</a></i>.&nbsp;
+&nbsp;daughter, prepubescent girl, girlfriend: &nbsp;<i><a href="t.htm#tayyaski">tayyaski</a></i>.&nbsp;
+&nbsp;daughters, little girls: &nbsp;<i><a href="t.htm#tayyaskiha">tayyaskiha</a></i>.&nbsp;
+&nbsp;eldest daughter, older daughter: &nbsp;<i><a href="s.htm#sista">sista</a></i>.&nbsp;
+&nbsp;first born baby daughter: &nbsp;<i><a href="t.htm#tàasosi">tàasosi</a></i>.&nbsp;
+&nbsp;granddaughter: &nbsp;<i><a href="i2.htm#ipokòostayyi">ipokòostayyi</a></i>.&nbsp;
+&nbsp;niece, stepdaughter: &nbsp;<i><a href="o.htm#ostaykitoba">ostaykitoba</a></i>.&nbsp;
+&nbsp;oldest daughter, first born daughter: &nbsp;<i><a href="t.htm#tàasi">tàasi</a></i>.&nbsp;
+<br><b>daughter-in-law</b>&nbsp;&nbsp;<i><a href="i2.htm#ipokitàyyi">ipokitàyyi</a></i>.&nbsp;
+<br><b>dawn</b>&nbsp;&nbsp;<i><a href="n.htm#nihtataɬɬa">nihtataɬɬa</a></i>.&nbsp;
+&nbsp;early in the morning, dawn, before the sunrise: &nbsp;<i><a href="n.htm#niɬállòosi">niɬállòosi</a></i>.&nbsp;
+&nbsp;to be daylight, dawn: &nbsp;<i><a href="h.htm#hastahli">hastahli</a></i>.&nbsp;
+&nbsp;to rise (of the sun): &nbsp;<i><a href="m.htm#maatassaliika">maatassaliika</a></i>.&nbsp;
+<br><b>day</b>
+&nbsp;day, daylight: &nbsp;<i><a href="h.htm#hasi">hasi</a>, <a href="n.htm#nihta">nihta</a></i>.&nbsp;
+&nbsp;all day: &nbsp;<i><a href="n.htm#nihtóyha">nihtóyha</a></i>.&nbsp;
+&nbsp;Sunday: &nbsp;<i><a href="n.htm#nihtahollo">nihtahollo</a>, <a href="n.htm#nihta istontòklo">nihta istontòklo</a></i>.&nbsp;
+&nbsp;Monday: &nbsp;<i><a href="n.htm#nihta aɬɬámmòona">nihta aɬɬámmòona</a>, <a href="n.htm#nihtàllo inníhta">nihtàllo inníhta</a></i>.&nbsp;
+&nbsp;Tuesday: &nbsp;<i><a href="a.htm#atòkla">atòkla</a>, <a href="n.htm#nihta atòkla">nihta atòkla</a>, <a href="n.htm#nihtastatòkla">nihtastatòkla</a></i>.&nbsp;
+&nbsp;Wednesday: &nbsp;<i><a href="a.htm#atótchìina">atótchìina</a>, <a href="n.htm#nihta atótchìina">nihta atótchìina</a>, <a href="n.htm#nihtastatótchìina">nihtastatótchìina</a></i>.&nbsp;
+&nbsp;Thursday: &nbsp;<i><a href="i2.htm#istonóstàaka">istonóstàaka</a>, <a href="n.htm#nihta istóstàaka">nihta istóstàaka</a>, <a href="n.htm#nihta onóstàaka">nihta onóstàaka</a>, <a href="o.htm#onóostàaka">onóostàaka</a></i>.&nbsp;
+&nbsp;Friday: &nbsp;<i><a href="a.htm#atáɬɬàapi">atáɬɬàapi</a>, <a href="n.htm#nihta istáɬɬàapi">nihta istáɬɬàapi</a></i>.&nbsp;
+&nbsp;Saturday: &nbsp;<i><a href="n.htm#nihtahollosi">nihtahollosi</a></i>.&nbsp;
+&nbsp;birthday: &nbsp;<i><a href="i1.htm#innìhta">innìhta</a></i>.&nbsp;
+&nbsp;in the old days: &nbsp;<i><a href="h.htm#himáakayáamifòokon">himáakayáamifòokon</a></i>.&nbsp;
+&nbsp;New Year's day: &nbsp;<i><a href="l.htm#lokbahaháhpa">lokbahaháhpa</a></i>.&nbsp;
+&nbsp;noontime, mid-day: &nbsp;<i><a href="p.htm#pontókkòoli">pontókkòoli</a></i>.&nbsp;
+&nbsp;right now; today: &nbsp;<i><a href="h.htm#himáakaníhtaya">himáakaníhtaya</a></i>.&nbsp;
+&nbsp;yesterday: &nbsp;<i><a href="p.htm#pihaako">pihaako</a></i>.&nbsp;
+&nbsp;weekdays, workweek: &nbsp;<i><a href="n.htm#níhtahollo ittimaltàala">níhtahollo ittimaltàala</a></i>.&nbsp;
+&nbsp;to be day, be daylight: &nbsp;<i><a href="n.htm#nìhta">nìhta</a></i>.&nbsp;
+&nbsp;to be late (in the day): &nbsp;<i><a href="o.htm#opiya">opiya</a></i>.&nbsp;
+&nbsp;to be still alive, have another day: &nbsp;<i><a href="i1.htm#inníhta">inníhta</a></i>.&nbsp;
+<br><b>day after day</b>
+&nbsp;day after day, this day and the next: &nbsp;<i><a href="n.htm#nihta istinnihtahchi">nihta istinnihtahchi</a></i>.&nbsp;
+<br><b>day after tomorrow</b>&nbsp;&nbsp;<i><a href="n.htm#nìhtakoɬa">nìhtakoɬa</a>, <a href="n.htm#nìhtakoɬaama">nìhtakoɬaama</a></i>.&nbsp;
+<br><b>day before yesterday</b>&nbsp;&nbsp;<i><a href="p.htm#pihaakokoɬaako">pihaakokoɬaako</a></i>.&nbsp;
+<br><b>daybreak</b>&nbsp;&nbsp;<i><a href="n.htm#nihtataɬɬa">nihtataɬɬa</a></i>.&nbsp;
+<br><b>day care center</b>&nbsp;&nbsp;<i><a href="p.htm#poskoha imìistilka">poskoha imìistilka</a></i>.&nbsp;
+<br><b>daylight</b>
+&nbsp;day, daylight: &nbsp;<i><a href="h.htm#hasi">hasi</a></i>.&nbsp;
+&nbsp;to be daylight, dawn: &nbsp;<i><a href="h.htm#hastahli">hastahli</a></i>.&nbsp;
+&nbsp;to be light, daylight: &nbsp;<i><a href="n.htm#nihta">nihta</a></i>.&nbsp;
+&nbsp;to be just before daylight: &nbsp;<i><a href="i1.htm#innikíhto">innikíhto</a></i>.&nbsp;
+<br><b>daytime</b>
+&nbsp;to be during the day, still daytime: &nbsp;<i><a href="n.htm#níihta">níihta</a></i>.&nbsp;
+<br><b>deacon</b>
+&nbsp;to be a deacon in the church: &nbsp;<i><a href="d.htm#deaconka">deaconka</a></i>.&nbsp;
+<br><b>dead</b>
+&nbsp;corpse, dead body: &nbsp;<i><a href="a.htm#aatilli">aatilli</a>, <a href="a.htm#aatinakàaɬa">aatinakàaɬa</a></i>.&nbsp;
+&nbsp;to be dead, wilted, withered (of plants): &nbsp;<i><a href="s.htm#sambi">sambi</a></i>.&nbsp;
+&nbsp;to be extinct, have died out: &nbsp;<i><a href="h.htm#hapkat anooka">hapkat anooka</a></i>.&nbsp;
+&nbsp;to be dead for some time and beginning to rot (of animals): &nbsp;<i><a href="h.htm#hapka1">hapka<sup>1</sup></a></i>.&nbsp;
+&nbsp;to be rotten, decaying, dead (of vegetation): &nbsp;<i><a href="h.htm#hapko">hapko</a></i>.&nbsp;
+&nbsp;to be spoiled, smelly, decomposing (of dead things), stink: &nbsp;<i><a href="b.htm#bitiima">bitiima</a></i>.&nbsp;
+&nbsp;to be unsaved, dead: &nbsp;<i><a href="i1.htm#innikíhto">innikíhto</a></i>.&nbsp;
+&nbsp;to be wilted, dried out, dead (of plants): &nbsp;<i><a href="s.htm#sahpa">sahpa</a></i>.&nbsp;
+&nbsp;to play dead, play possum: &nbsp;<i><a href="i1.htm#illihchahooba">illihchahooba</a></i>.&nbsp;
+<br><b>deadbeat</b>
+&nbsp;to owe money (from a loan or a bet) and not pay it back: &nbsp;<i><a href="i2.htm#istonafayli">istonafayli</a></i>.&nbsp;
+<br><b>deaden</b>
+&nbsp;to deaden, give a local anesthetic to: &nbsp;<i><a href="i1.htm#imillichi">imillichi</a></i>.&nbsp;
+<br><b>deaf</b>
+&nbsp;deafness: &nbsp;<i><a href="w.htm#woomaalpa">woomaalpa</a>, <a href="w.htm#woomaapatilka">woomaapatilka</a></i>.&nbsp;
+&nbsp;to be deaf: &nbsp;<i><a href="i1.htm#ikhàalo">ikhàalo</a>, <a href="w.htm#woomaapa">woomaapa</a></i>.&nbsp;
+<br><b>deafen</b>
+&nbsp;to make deaf: &nbsp;<i><a href="w.htm#woomaapachi">woomaapachi</a></i>.&nbsp;
+&nbsp;to deafen (someone's ears): &nbsp;<i><a href="i1.htm#imokbahli">imokbahli</a></i>.&nbsp;
+&nbsp;to have (the ears) deafened: &nbsp;<i><a href="i1.htm#imokbahka">imokbahka</a></i>.&nbsp;
+<br><b>death</b>&nbsp;&nbsp;<i><a href="i1.htm#ililla">ililla</a></i>.&nbsp;
+&nbsp;to be near death, be brain dead: &nbsp;<i><a href="i1.htm#illihifóoska">illihifóoska</a></i>.&nbsp;
+<br><b>death rattle</b>
+&nbsp;to produce a death rattle (of a dying person or animal): &nbsp;<i><a href="ll.htm#ɬikikihkachi">ɬikikihkachi</a></i>.&nbsp;
+<br><b>debt</b>
+&nbsp;bill, debt, money still owed, loan balance: &nbsp;<i><a href="a.htm#ahachàaka">ahachàaka</a></i>.&nbsp;
+&nbsp;bills, debt, being in debt, owing: &nbsp;<i><a href="a.htm#ahátchàaka">ahátchàaka</a></i>.&nbsp;
+&nbsp;to be in debt, owe: &nbsp;<i><a href="a.htm#ahátchàali1">ahátchàali<sup>1</sup></a></i>.&nbsp;
+&nbsp;to owe to, be in debt to: &nbsp;<i><a href="i1.htm#imahátchàali">imahátchàali</a></i>.&nbsp;
+&nbsp;to pay (money) to, repay a debt to someone: &nbsp;<i><a href="i1.htm#imaltobaachi">imaltobaachi</a></i>.&nbsp;
+&nbsp;to repay, pay off (a debt): &nbsp;<i><a href="l.htm#labosli">labosli</a></i>.&nbsp;
+<br><b>debtor</b>
+&nbsp;to be a debtor in default: &nbsp;<i><a href="i2.htm#istonafayli">istonafayli</a></i>.&nbsp;
+<br><b>decapitate</b>
+&nbsp;to decapitate (one object) as by wringing or chopping (as a chicken): &nbsp;<i><a href="n.htm#nootipasli">nootipasli</a></i>.&nbsp;
+<br><b>decay</b>
+&nbsp;to decay, become rusty, rotten: &nbsp;<i><a href="t.htm#tosbi">tosbi</a></i>.&nbsp;
+&nbsp;to be decayed, dried up, ruined, deteriorated, lifeless: &nbsp;<i><a href="p.htm#pakfo">pakfo</a>, <a href="h.htm#haɬbi">haɬbi</a></i>.&nbsp;
+&nbsp;to be rotten, decaying, dead (of vegetation): &nbsp;<i><a href="h.htm#hapko">hapko</a></i>.&nbsp;
+<br><b>deceased</b>
+&nbsp;corpse, the deceased, dead body: &nbsp;<i><a href="a.htm#aatilli">aatilli</a>, <a href="a.htm#aatinakàaɬa">aatinakàaɬa</a></i>.&nbsp;
+<br><b>deceit</b>&nbsp;&nbsp;<i><a href="h.htm#haktichitilka">haktichitilka</a></i>.&nbsp;
+<br><b>deceive</b>
+&nbsp;to deceive: &nbsp;<i><a href="y.htm#yimmichi">yimmichi</a></i>.&nbsp;
+&nbsp;to fool, trick, deceive, pull a joke on: &nbsp;<i><a href="h.htm#haktíichi">haktíichi</a></i>.&nbsp;
+<br><b>December</b>&nbsp;&nbsp;<i><a href="l.htm#lokbáhastanóoka">lokbáhastanóoka</a>, <a href="h.htm#hasiholtina istanóoka">hasiholtina istanóoka</a>, <a href="h.htm#hasiholtina istapókkòolawahtóklo">hasiholtina istapókkòolawahtóklo</a></i>.&nbsp;
+&nbsp;last day of December: &nbsp;<i><a href="l.htm#lokbahachóoba ostistanooka">lokbahachóoba ostistanooka</a>, <a href="h.htm#hasichóobastanooka">hasichóobastanooka</a></i>.&nbsp;
+<br><b>deception</b>&nbsp;&nbsp;<i><a href="h.htm#haktichitilka">haktichitilka</a></i>.&nbsp;
+<br><b>deceptive</b>
+&nbsp;deceptive or misleading talk: &nbsp;<i><a href="n.htm#naaɬiilka lamatíkko">naaɬiilka lamatíkko</a>, <a href="n.htm#naaɬiilka máalitíkko">naaɬiilka máalitíkko</a></i>.&nbsp;
+<br><b>decompose</b>
+&nbsp;to be spoiled, smelly, decomposing (of dead things), stink: &nbsp;<i><a href="b.htm#bitiima">bitiima</a></i>.&nbsp;
+<br><b>decoration</b>
+&nbsp;Christmas decorations, ornaments: &nbsp;<i><a href="k.htm#Kilismi istimilommachi">Kilismi istimilommachi</a></i>.&nbsp;
+&nbsp;silver decorations on a war bonnet or headdress: &nbsp;<i><a href="i2.htm#istayyanchahka lapaffi">istayyanchahka lapaffi</a></i>.&nbsp;
+&nbsp;silver or tin disk worn on a shirt or headdress for decoration: &nbsp;<i><a href="i1.htm#ilokfa lapàali">ilokfa lapàali</a></i>.&nbsp;
+&nbsp;to wear a flower, pin, brooch, decoration on the chest: &nbsp;<i><a href="i2.htm#istilachosòoli">istilachosòoli</a></i>.&nbsp;
+<br><b>decoy</b>
+&nbsp;duck decoy: &nbsp;<i><a href="c.htm#choskaniholba">choskaniholba</a></i>.&nbsp;
+<br><b>deep</b>
+&nbsp;to be deep (of a place): &nbsp;<i><a href="k.htm#kolokbi">kolokbi</a></i>.&nbsp;
+&nbsp;to be deep (of liquid): &nbsp;<i><a href="h.htm#hayooki">hayooki</a></i>.&nbsp;
+&nbsp;to be thick, dense, deep: &nbsp;<i><a href="c.htm#chihbi">chihbi</a></i>.&nbsp;
+&nbsp;to be deeper: &nbsp;<i><a href="h.htm#hayóhki">hayóhki</a></i>.&nbsp;
+&nbsp;to be deepest, deeper (of water): &nbsp;<i><a href="h.htm#háyyohki">háyyohki</a>, <a href="h.htm#háyyohki">háyyohki</a></i>.&nbsp;
+&nbsp;to be too deep for: &nbsp;<i><a href="i1.htm#iⁿhayooki">iⁿhayooki</a></i>.&nbsp;
+&nbsp;to pant, take a deep breath, breathe deeply: &nbsp;<i><a href="h.htm#hifoskassoba">hifoskassoba</a></i>.&nbsp;
+<br><b>deer</b>&nbsp;&nbsp;<i><a href="i1.htm#icho">icho</a></i>.&nbsp;
+&nbsp;buck deer: &nbsp;<i><a href="i1.htm#ichonaani">ichonaani</a>, <a href="l.htm#lapitta">lapitta</a></i>.&nbsp;
+&nbsp;doe deer: &nbsp;<i><a href="i1.htm#ichotayyi">ichotayyi</a></i>.&nbsp;
+&nbsp;wounded deer: &nbsp;<i><a href="k.htm#koyàabi">koyàabi</a></i>.&nbsp;
+&nbsp;deer horn, antler: &nbsp;<i><a href="i1.htm#ichillapihchi">ichillapihchi</a></i>.&nbsp;
+&nbsp;calling deer: &nbsp;<i><a href="i1.htm#icho maastimaksobaachilka">icho maastimaksobaachilka</a></i>.&nbsp;
+<br><b>deerhide</b>&nbsp;&nbsp;<i><a href="i1.htm#ichaffakchiɬahka">ichaffakchiɬahka</a>, <a href="i1.htm#ichossaaka">ichossaaka</a>, <a href="i1.htm#ichaffakchi">ichaffakchi</a>, <a href="i1.htm#ichaffakchilipha">ichaffakchilipha</a></i>.&nbsp;
+<br><b>deer pea</b>&nbsp;&nbsp;<i><a href="i1.htm#ichinchastoki">ichinchastoki</a></i>.&nbsp;
+<br><b>deer plum</b>&nbsp;&nbsp;<i><a href="i1.htm#icho intakkosáwwa">icho intakkosáwwa</a></i>.&nbsp;
+<br><b>defeat</b>
+&nbsp;to be beaten, defeated: &nbsp;<i><a href="l.htm#lisilka">lisilka</a></i>.&nbsp;
+<br><b>defecate</b>
+&nbsp;to defecate, have a bowel movement: &nbsp;<i><a href="h.htm#hoppola">hoppola</a>, <a href="ll.htm#ɬopotli">ɬopotli</a></i>.&nbsp;
+&nbsp;to wipe after using the toilet, wipe after defecation: &nbsp;<i><a href="k.htm#kihli">kihli</a></i>.&nbsp;
+<br><b>delegate</b>
+&nbsp;to delegate, get someone to do something: &nbsp;<i><a href="p.htm#paatohno">paatohno</a></i>.&nbsp;
+<br><b>deliver</b>
+&nbsp;to deliver (a baby): &nbsp;<i><a href="i2.htm#isaachi">isaachi</a></i>.&nbsp;
+<br><b>den</b>
+&nbsp;gopher hill, gopher den: &nbsp;<i><a href="c.htm#chokbahta iⁿhini">chokbahta iⁿhini</a></i>.&nbsp;
+&nbsp;living room, den: &nbsp;<i><a href="a.htm#aayìistilka">aayìistilka</a></i>.&nbsp;
+<br><b>denims</b>&nbsp;&nbsp;<i><a href="i1.htm#ilaanikofka okchákko">ilaanikofka okchákko</a></i>.&nbsp;
+<br><b>dense</b>
+&nbsp;to be thick, dense, deep: &nbsp;<i><a href="c.htm#chihbi">chihbi</a></i>.&nbsp;
+&nbsp;to be heavily wooded, dense with growth: &nbsp;<i><a href="a.htm#abohli">abohli</a></i>.&nbsp;
+&nbsp;to be overgrown with weeds, dense (with vegetation): &nbsp;<i><a href="o.htm#olahna">olahna</a></i>.&nbsp;
+<br><b>dent</b>
+&nbsp;to dent (once): &nbsp;<i><a href="t.htm#tayoffi">tayoffi</a></i>.&nbsp;
+&nbsp;to put a dent in (one): &nbsp;<i><a href="t.htm#tanoffi">tanoffi</a></i>.&nbsp;
+&nbsp;to dent in one place, bend (once): &nbsp;<i><a href="p.htm#payoffi">payoffi</a></i>.&nbsp;
+&nbsp;to dent or bend (once), put a dent in (something belonging to someone else): &nbsp;<i><a href="i1.htm#impayoffi">impayoffi</a></i>.&nbsp;
+&nbsp;to bend, dent (more than once): &nbsp;<i><a href="t.htm#tanìili">tanìili</a></i>.&nbsp;
+&nbsp;to dent in more than two places, dent all over: &nbsp;<i><a href="p.htm#payìili">payìili</a></i>.&nbsp;
+&nbsp;to dent (repeatedly): &nbsp;<i><a href="t.htm#tayòoli">tayòoli</a>, <a href="p.htm#payòoli">payòoli</a></i>.&nbsp;
+&nbsp;to be dented once: &nbsp;<i><a href="t.htm#tanofka">tanofka</a>, <a href="t.htm#tayofka">tayofka</a></i>.&nbsp;
+&nbsp;to be badly dented, dented in several places: &nbsp;<i><a href="t.htm#tayòoka">tayòoka</a></i>.&nbsp;
+&nbsp;to be dented, bent more than one time: &nbsp;<i><a href="t.htm#tanìika">tanìika</a></i>.&nbsp;
+&nbsp;to have a dent, be dented, be bent: &nbsp;<i><a href="p.htm#payofka">payofka</a></i>.&nbsp;
+&nbsp;to have one thing get a dent in it: &nbsp;<i><a href="i1.htm#impayofka">impayofka</a></i>.&nbsp;
+<br><b>dentist</b>&nbsp;&nbsp;<i><a href="i1.htm#innati talbòoli">innati talbòoli</a>, <a href="n.htm#nati talbòoli">nati talbòoli</a></i>.&nbsp;
+<br><b>deny</b>
+&nbsp;to deny oneself, abstain from doing: &nbsp;<i><a href="h.htm#hollochi">hollochi</a></i>.&nbsp;
+&nbsp;to deny oneself something out of respect and custom when someone dies: &nbsp;<i><a href="i1.htm#iⁿhollo">iⁿhollo</a></i>.&nbsp;
+&nbsp;to forbid, deny to someone (esp. food): &nbsp;<i><a href="i1.htm#iⁿhollochi">iⁿhollochi</a></i>.&nbsp;
+&nbsp;to give up (something), deny (something) to oneself: &nbsp;<i><a href="i1.htm#iliⁿhollochi">iliⁿhollochi</a></i>.&nbsp;
+<br><b>deodorize</b>
+&nbsp;to make smell good, perfume, deodorize: &nbsp;<i><a href="a.htm#akomahlichi">akomahlichi</a></i>.&nbsp;
+<br><b>dependent</b>
+&nbsp;to be dependent, needy: &nbsp;<i><a href="o.htm#onasikóopa">onasikóopa</a></i>.&nbsp;
+<br><b>depressed</b>
+&nbsp;gloomy, depressed person: &nbsp;<i><a href="a.htm#aatayokíkpo">aatayokíkpo</a></i>.&nbsp;
+&nbsp;to be (habitually) sad about, depressed, morose, despairing: &nbsp;<i><a href="i1.htm#imachíiba">imachíiba</a></i>.&nbsp;
+<br><b>depression</b>
+&nbsp;famine, economic depression: &nbsp;<i><a href="b.htm#balissa">balissa</a></i>.&nbsp;
+&nbsp;shallow hole, depression: &nbsp;<i><a href="o.htm#oobòssi">oobòssi</a></i>.&nbsp;
+<br><b>deputy</b>
+&nbsp;sheriff, police officer, deputy, FBI agent: &nbsp;<i><a href="a.htm#aatasihka">aatasihka</a></i>.&nbsp;
+<br><b>derision</b>
+&nbsp;to snort (esp. in derision), heave a sigh of disgust, grunt: &nbsp;<i><a href="k.htm#kifahka">kifahka</a></i>.&nbsp;
+<br><b>derrick</b>
+&nbsp;oil well, derrick: &nbsp;<i><a href="a.htm#apalokchishachàali">apalokchishachàali</a></i>.&nbsp;
+<br><b>descend</b>
+&nbsp;to descend, come down, go down, land: &nbsp;<i><a href="t.htm#tanatli">tanatli</a></i>.&nbsp;
+&nbsp;to go down any incline or over a vertical drop (of one): &nbsp;<i><a href="o.htm#ootanatli">ootanatli</a></i>.&nbsp;
+<br><b>desert</b>&nbsp;&nbsp;<i><a href="o.htm#oktaali">oktaali</a></i>.&nbsp;
+<br><b>desiccated</b>
+&nbsp;to be decayed, desiccated (e.g. of nut meat): &nbsp;<i><a href="h.htm#haɬbi">haɬbi</a></i>.&nbsp;
+<br><b>design</b>
+&nbsp;design (on a basket): &nbsp;<i><a href="i2.htm#istimilommachilka">istimilommachilka</a></i>.&nbsp;
+&nbsp;to make a design on in stringing beads: &nbsp;<i><a href="i2.htm#istiⁿhokbi">istiⁿhokbi</a></i>.&nbsp;
+<br><b>desolate</b>
+&nbsp;to be quiet, still, desolate (of a location): &nbsp;<i><a href="c.htm#chokkilissa">chokkilissa</a></i>.&nbsp;
+<br><b>despair</b>
+&nbsp;to be (habitually) sad about, morose, despairing: &nbsp;<i><a href="i1.htm#imachíiba">imachíiba</a></i>.&nbsp;
+<br><b>despite</b>
+&nbsp;even though, despite: &nbsp;<i><a href="afx.htm#-bíino">-bíino</a></i>.&nbsp;
+&nbsp;anyhow, nevertheless, yet, although, despite: &nbsp;<i><a href="s.htm#sáhtík">sáhtík</a></i>.&nbsp;
+<br><b>destitute</b>
+&nbsp;destitute person: &nbsp;<i><a href="a.htm#aatináasimíkso">aatináasimíkso</a></i>.&nbsp;
+&nbsp;to be poor, be destitute, suffer hardship, be shabby: &nbsp;<i><a href="s.htm#sikóopa">sikóopa</a>, <a href="b.htm#bassi">bassi</a></i>.&nbsp;
+<br><b>destroy</b>
+&nbsp;to cut down, flatten, trample, destroy (especially vegetation) (of an animate agent): &nbsp;<i><a href="b.htm#baɬapka">baɬapka</a></i>.&nbsp;
+&nbsp;to destroy, raze, flatten (vegetation) (used of a storm or tornado): &nbsp;<i><a href="b.htm#baɬapli">baɬapli</a></i>.&nbsp;
+<br><b>detatch</b>
+&nbsp;to detatch something from: &nbsp;<i><a href="i1.htm#iⁿsiipli">iⁿsiipli</a></i>.&nbsp;
+<br><b>detergent</b>
+&nbsp;laundry detergent, powdered soap: &nbsp;<i><a href="i2.htm#istaabohka póosi">istaabohka póosi</a></i>.&nbsp;
+<br><b>deteriorate</b>
+&nbsp;to be decayed, deteriorated, lifeless: &nbsp;<i><a href="p.htm#pakfo">pakfo</a></i>.&nbsp;
+<br><b>detour</b>&nbsp;&nbsp;<i><a href="a.htm#atanatilka">atanatilka</a></i>.&nbsp;
+<br><b>devil</b>&nbsp;&nbsp;<i><a href="a.htm#aatinloska">aatinloska</a>, <a href="a.htm#aattobiilachi">aattobiilachi</a>, <a href="a.htm#atobiilàachi">atobiilàachi</a></i>.&nbsp;
+<br><b>devil's walking stick</b>&nbsp;&nbsp;<i><a href="a.htm#atchòobittabi">atchòobittabi</a></i>.&nbsp;
+<br><b>devour</b>
+&nbsp;to devour, eat up (of one): &nbsp;<i><a href="a.htm#anooli">anooli</a></i>.&nbsp;
+<br><b>dew</b>&nbsp;&nbsp;<i><a href="s.htm#sichi">sichi</a></i>.&nbsp;
+&nbsp;early morning dew, mist in the air: &nbsp;<i><a href="y.htm#yohbi">yohbi</a></i>.&nbsp;
+&nbsp;for there to be dew on the ground: &nbsp;<i><a href="i2.htm#itayohbi">itayohbi</a></i>.&nbsp;
+&nbsp;to be dewy, have dew on the surface: &nbsp;<i><a href="o.htm#onasichi">onasichi</a></i>.&nbsp;
+<br><b>dewberry</b>&nbsp;&nbsp;<i><a href="b.htm#bakcho itabatli">bakcho itabatli</a>, <a href="h.htm#hayintalaali">hayintalaali</a></i>.&nbsp;
+<br><b>diabetes</b>&nbsp;&nbsp;<i><a href="c.htm#champoli">champoli</a></i>.&nbsp;
+&nbsp;diabetes, tuberculosis, cancer, etc.: &nbsp;<i><a href="h.htm#holpafàyko">holpafàyko</a></i>.&nbsp;
+&nbsp;to have diabetes: &nbsp;<i><a href="i1.htm#inchampoli">inchampoli</a></i>.&nbsp;
+<br><b>diaper</b>&nbsp;&nbsp;<i><a href="i1.htm#iboksi">iboksi</a></i>.&nbsp;
+&nbsp;to diaper (a baby), put (a diaper) on (someone): &nbsp;<i><a href="i1.htm#iboksichi">iboksichi</a></i>.&nbsp;
+&nbsp;to wear (a diaper): &nbsp;<i><a href="i1.htm#ímbòksi">ímbòksi</a></i>.&nbsp;
+<br><b>diarrhea</b>
+&nbsp;to have diarrhea: &nbsp;<i><a href="a.htm#assachi">assachi</a></i>.&nbsp;
+&nbsp;to have diarrhea, stomach trouble: &nbsp;<i><a href="a.htm#assachit ɬopotli">assachit ɬopotli</a></i>.&nbsp;
+&nbsp;to have uncontrollable severe diarrhea: &nbsp;<i><a href="p.htm#poochka">poochka</a></i>.&nbsp;
+&nbsp;to have watery diarrhea: &nbsp;<i><a href="o.htm#okiɬopotli">okiɬopotli</a></i>.&nbsp;
+&nbsp;to cause diarrhea: &nbsp;<i><a href="ll.htm#ɬopotlichi">ɬopotlichi</a></i>.&nbsp;
+&nbsp;to cause diarrhea (in more than one person): &nbsp;<i><a href="ll.htm#ɬopòolichi">ɬopòolichi</a></i>.&nbsp;
+<br><b>die</b>
+&nbsp;death: &nbsp;<i><a href="i1.htm#ililla">ililla</a></i>.&nbsp;
+&nbsp;to die: &nbsp;<i><a href="h.htm#holitli">holitli</a>, <a href="i1.htm#illi">illi</a></i>.&nbsp;
+&nbsp;to die, pass away (of one): &nbsp;<i><a href="n.htm#nakaaɬa">nakaaɬa</a></i>.&nbsp;
+&nbsp;to pass away: &nbsp;<i><a href="t.htm#tammi">tammi</a></i>.&nbsp;
+&nbsp;to rot, die (of plants): &nbsp;<i><a href="t.htm#tosbi">tosbi</a></i>.&nbsp;
+&nbsp;to die on (as when in the care of): &nbsp;<i><a href="i1.htm#imilli">imilli</a></i>.&nbsp;
+&nbsp;to be near death, be brain dead: &nbsp;<i><a href="i1.htm#illihifóoska">illihifóoska</a></i>.&nbsp;
+&nbsp;to die and have the spirit walk the earth, not go to heaven: &nbsp;<i><a href="i2.htm#itanakaaɬa">itanakaaɬa</a></i>.&nbsp;
+<br><b>diet</b>
+&nbsp;to diet: &nbsp;<i><a href="i1.htm#iliⁿhollochi">iliⁿhollochi</a></i>.&nbsp;
+&nbsp;to try to get skinny, be on a reducing diet: &nbsp;<i><a href="i1.htm#iliisowiichi">iliisowiichi</a></i>.&nbsp;
+<br><b>different</b>
+&nbsp;all different kinds: &nbsp;<i><a href="i2.htm#ittimaɬahkóyha">ittimaɬahkóyha</a></i>.&nbsp;
+&nbsp;another, other, else, different one, another one: &nbsp;<i><a href="m.htm#mìnta">mìnta</a></i>.&nbsp;
+&nbsp;different place, another place, different direction: &nbsp;<i><a href="t.htm#tòkpa">tòkpa</a></i>.&nbsp;
+&nbsp;to be different (from before), be otherwise, be another: &nbsp;<i><a href="m.htm#mìnta">mìnta</a></i>.&nbsp;
+&nbsp;to be different from each other, unlike, dissimilar, mismatched: &nbsp;<i><a href="i2.htm#ittimaɬahka">ittimaɬahka</a></i>.&nbsp;
+&nbsp;to be different in some respect, appear different in some way: &nbsp;<i><a href="i1.htm#imaɬahka">imaɬahka</a></i>.&nbsp;
+&nbsp;to be that kind, be a different kind, to be like that, be something like that: &nbsp;<i><a href="a.htm#akkáhmi">akkáhmi</a></i>.&nbsp;
+&nbsp;to make different: &nbsp;<i><a href="i2.htm#ittimaɬahkichi">ittimaɬahkichi</a></i>.&nbsp;
+&nbsp;to change up, make different, change to something different: &nbsp;<i><a href="i1.htm#imaɬahlichi">imaɬahlichi</a></i>.&nbsp;
+<br><b>difficult</b>
+&nbsp;to be bad (e.g. of weather), be hard, difficult (e.g. of a task): &nbsp;<i><a href="a.htm#álpìisa">álpìisa</a></i>.&nbsp;
+&nbsp;to be difficult, hard, tedious, sad (of circumstances): &nbsp;<i><a href="a.htm#achihba">achihba</a></i>.&nbsp;
+&nbsp;to be difficult, hard to get along with, hard headed: &nbsp;<i><a href="i2.htm#isbakwanha">isbakwanha</a></i>.&nbsp;
+&nbsp;to be difficult, problematic: &nbsp;<i><a href="a.htm#átchihba">átchihba</a></i>.&nbsp;
+&nbsp;to be difficult to handle (as a wild horse), hard to train, uncooperative: &nbsp;<i><a href="i2.htm#istachihba">istachihba</a></i>.&nbsp;
+&nbsp;to be hard for, difficult for: &nbsp;<i><a href="i2.htm#istimátchìiba">istimátchìiba</a></i>.&nbsp;
+<br><b>dig</b>
+&nbsp;to dig, drill into the ground: &nbsp;<i><a href="s.htm#saffi">saffi</a></i>.&nbsp;
+&nbsp;to dig in the ground: &nbsp;<i><a href="i2.htm#itasaffi">itasaffi</a></i>.&nbsp;
+&nbsp;to dig holes for planting with a hoe: &nbsp;<i><a href="i2.htm#isbiɬka">isbiɬka</a></i>.&nbsp;
+&nbsp;to dig out, pick out, pull up: &nbsp;<i><a href="f.htm#fitipka">fitipka</a></i>.&nbsp;
+&nbsp;to root up (e.g. of a hog or armadillo), root around, dig up (food): &nbsp;<i><a href="w.htm#wòolichi">wòolichi</a></i>.&nbsp;
+&nbsp;to have been dug: &nbsp;<i><a href="s.htm#safka">safka</a></i>.&nbsp;
+<br><b>digger</b>
+&nbsp;posthole digger: &nbsp;<i><a href="p.htm#poskastiⁿsafka">poskastiⁿsafka</a></i>.&nbsp;
+<br><b>dilute</b>
+&nbsp;to thin out, water down, dilute: &nbsp;<i><a href="o.htm#oktakasbichi">oktakasbichi</a></i>.&nbsp;
+&nbsp;to make a bit thinner, dilute some, water down: &nbsp;<i><a href="o.htm#oktákkasbìichi">oktákkasbìichi</a></i>.&nbsp;
+&nbsp;to be thin (not dense), watery, diluted, liquid: &nbsp;<i><a href="o.htm#oktakasbi">oktakasbi</a></i>.&nbsp;
+<br><b>dim</b>
+&nbsp;to be blurry, dim, clouded (of the vision): &nbsp;<i><a href="t.htm#tóobòosi">tóobòosi</a></i>.&nbsp;
+<br><b>dime</b>&nbsp;&nbsp;<i><a href="i2.htm#iskalàaba">iskalàaba</a></i>.&nbsp;
+<br><b>dine</b>
+&nbsp;to eat (a meal) (unspecified object), dine: &nbsp;<i><a href="o.htm#oompa">oompa</a></i>.&nbsp;
+<br><b>dining room</b>&nbsp;&nbsp;<i><a href="a.htm#aayoolìmpa">aayoolìmpa</a></i>.&nbsp;
+<br><b>dinner</b>
+&nbsp;dinner, supper: &nbsp;<i><a href="t.htm#tankoolimpa">tankoolimpa</a></i>.&nbsp;
+&nbsp;lunch, dinner: &nbsp;<i><a href="p.htm#pontókkòoli oolimpa">pontókkòoli oolimpa</a>, <a href="p.htm#pontòolilpa">pontòolilpa</a></i>.&nbsp;
+<br><b>dip</b>
+&nbsp;potholes, series of dips or valleys: &nbsp;<i><a href="k.htm#kolkobi">kolkobi</a></i>.&nbsp;
+&nbsp;to dip out (once): &nbsp;<i><a href="t.htm#takaffi">takaffi</a></i>.&nbsp;
+&nbsp;to scoop out, dip out with a strainer or slotted spoon: &nbsp;<i><a href="o.htm#okhiɬka">okhiɬka</a></i>.&nbsp;
+&nbsp;to take out of water, dip out: &nbsp;<i><a href="o.htm#oopaffichi">oopaffichi</a></i>.&nbsp;
+<br><b>dipper</b>&nbsp;&nbsp;<i><a href="o.htm#okistisilka">okistisilka</a>, <a href="i2.htm#istisilka">istisilka</a>, <a href="i2.htm#istakafka">istakafka</a></i>.&nbsp;
+<br><b>dip snuff</b>
+&nbsp;to dip snuff, chew snuff: &nbsp;<i><a href="s.htm#snafka ipa">snafka ipa</a></i>.&nbsp;
+<br><b>direct</b>
+&nbsp;to be directly opposite, straight across from (a point of reference), be the most direct route to: &nbsp;<i><a href="i1.htm#imaltókkòoka">imaltókkòoka</a></i>.&nbsp;
+&nbsp;to be the most direct way, shortest route, straightest path: &nbsp;<i><a href="m.htm#maalamatkíichi">maalamatkíichi</a></i>.&nbsp;
+<br><b>direction</b>
+&nbsp;this or that way, this or that direction, over here, over there: &nbsp;<i><a href="t.htm#tàala">tàala</a></i>.&nbsp;
+&nbsp;different place, another place, different direction: &nbsp;<i><a href="t.htm#tòkpa">tòkpa</a></i>.&nbsp;
+&nbsp;to make (someone) change direction: &nbsp;<i><a href="f.htm#filammichi">filammichi</a></i>.&nbsp;
+<br><b>director</b>
+&nbsp;leader (of a game), coach, director: &nbsp;<i><a href="h.htm#hompanìichi">hompanìichi</a></i>.&nbsp;
+&nbsp;manager, superintendant, supervisor, director, leader, boss, etc.: &nbsp;<i><a href="i2.htm#istáhhìicha">istáhhìicha</a></i>.&nbsp;
+<br><b>dirt</b>
+&nbsp;dirt, filth: &nbsp;<i><a href="t.htm#talaalmi">talaalmi</a>, <a href="t.htm#talaamitilka">talaamitilka</a></i>.&nbsp;
+&nbsp;sand, dirt: &nbsp;<i><a href="s.htm#sancho">sancho</a></i>.&nbsp;
+&nbsp;dirt clod: &nbsp;<i><a href="o.htm#okɬiwanha">okɬiwanha</a></i>.&nbsp;
+&nbsp;to cover up with dirt, bury with dirt: &nbsp;<i><a href="o.htm#onkaffichi">onkaffichi</a></i>.&nbsp;
+&nbsp;to cover with dirt using a tool: &nbsp;<i><a href="i2.htm#istonkaffichi">istonkaffichi</a></i>.&nbsp;
+&nbsp;to cover with dirt using the feet (of one): &nbsp;<i><a href="i2.htm#istonkayapka">istonkayapka</a></i>.&nbsp;
+&nbsp;to cover with dirt using the feet once: &nbsp;<i><a href="o.htm#onkayapka">onkayapka</a></i>.&nbsp;
+&nbsp;to go along covering with dirt (of more than one): &nbsp;<i><a href="m.htm#maastonkaffichi">maastonkaffichi</a></i>.&nbsp;
+&nbsp;to have a little dirt on one's clothes: &nbsp;<i><a href="i1.htm#intállàami">intállàami</a></i>.&nbsp;
+&nbsp;to have dirt around the mouth: &nbsp;<i><a href="i2.htm#istilichootalaami">istilichootalaami</a></i>.&nbsp;
+<br><b>dirtdauber</b>&nbsp;&nbsp;<i><a href="t.htm#tikhanti">tikhanti</a></i>.&nbsp;
+<br><b>dirty</b>
+&nbsp;boy, ruffian, dirty one, child: &nbsp;<i><a href="p.htm#pasàali">pasàali</a></i>.&nbsp;
+&nbsp;polishing shoes, making something dirty, charring something, etc.: &nbsp;<i><a href="l.htm#lochachi">lochachi</a></i>.&nbsp;
+&nbsp;to be dirty, filthy: &nbsp;<i><a href="l.htm#litihko">litihko</a></i>.&nbsp;
+&nbsp;to be dirty, messy (of more than one): &nbsp;<i><a href="t.htm#talasmi">talasmi</a></i>.&nbsp;
+&nbsp;to be dirty (of part of the body or a possession): &nbsp;<i><a href="i1.htm#intalaami">intalaami</a>, <a href="i1.htm#intalasmi">intalasmi</a></i>.&nbsp;
+&nbsp;to be filthy dirty: &nbsp;<i><a href="t.htm#talaamischoba">talaamischoba</a></i>.&nbsp;
+&nbsp;to be filthy, very dirty: &nbsp;<i><a href="o.htm#onalitihko">onalitihko</a></i>.&nbsp;
+&nbsp;to be grimy, dirty (all over), sloppy: &nbsp;<i><a href="t.htm#talaami">talaami</a></i>.&nbsp;
+&nbsp;to be a little dirty: &nbsp;<i><a href="l.htm#líttihko">líttihko</a></i>.&nbsp;
+&nbsp;to be a little dirty, messy, sloppy, unkempt, disheveled: &nbsp;<i><a href="t.htm#taláamòosi">taláamòosi</a></i>.&nbsp;
+&nbsp;to be just a little dirty, slightly soiled: &nbsp;<i><a href="t.htm#tállàami">tállàami</a></i>.&nbsp;
+&nbsp;to be muddy (of earth), dirty (of water): &nbsp;<i><a href="h.htm#hayihmo">hayihmo</a></i>.&nbsp;
+&nbsp;to be unkempt, messy, dirty, caked with mud: &nbsp;<i><a href="p.htm#pasàali">pasàali</a></i>.&nbsp;
+&nbsp;to dirty the mouth by dribbling: &nbsp;<i><a href="i2.htm#istilichootalaamichi">istilichootalaamichi</a></i>.&nbsp;
+&nbsp;to get dirty, messy with (for example ice cream) by being careless: &nbsp;<i><a href="i2.htm#istalaamichi">istalaamichi</a></i>.&nbsp;
+&nbsp;to get (one's body) dirty, make dirty: &nbsp;<i><a href="l.htm#litihkochi">litihkochi</a></i>.&nbsp;
+&nbsp;to have a dirty face: &nbsp;<i><a href="i1.htm#ibiisawa">ibiisawa</a>, <a href="i1.htm#ibiitalaami">ibiitalaami</a></i>.&nbsp;
+&nbsp;to make dirty, soil: &nbsp;<i><a href="t.htm#talaamichi">talaamichi</a></i>.&nbsp;
+&nbsp;to smell dirty (esp. as of urine): &nbsp;<i><a href="k.htm#kaɬaama">kaɬaama</a></i>.&nbsp;
+<br><b>disagree</b>
+&nbsp;to disagree with: &nbsp;<i><a href="i1.htm#imacháhko">imacháhko</a></i>.&nbsp;
+&nbsp;to object to openly, disagree, oppose, argue against: &nbsp;<i><a href="a.htm#achaapa">achaapa</a></i>.&nbsp;
+&nbsp;to shake one's head from side to side in disagreement: &nbsp;<i><a href="i2.htm#isbakfahli">isbakfahli</a></i>.&nbsp;
+<br><b>disagreement</b>&nbsp;&nbsp;<i><a href="a.htm#achaalpa">achaalpa</a></i>.&nbsp;
+<br><b>disappear</b>
+&nbsp;to go, leave, disappear (of one): &nbsp;<i><a href="n.htm#nakaaɬa">nakaaɬa</a></i>.&nbsp;
+&nbsp;to go, leave, disappear, be gone (of two): &nbsp;<i><a href="w.htm#wasatka">wasatka</a></i>.&nbsp;
+<br><b>disapprove</b>
+&nbsp;to be objecting to silently, disapprove of: &nbsp;<i><a href="a.htm#átchàapa">átchàapa</a></i>.&nbsp;
+<br><b>discard</b>
+&nbsp;to spill, throw, discard (more than one thing): &nbsp;<i><a href="s.htm#soofi">soofi</a></i>.&nbsp;
+&nbsp;to throw off, throw away, drop, discard (one object): &nbsp;<i><a href="m.htm#maalichi">maalichi</a></i>.&nbsp;
+<br><b>discipline</b>
+&nbsp;to make behave, discipline, make wait: &nbsp;<i><a href="n.htm#nokchómbàachi">nokchómbàachi</a></i>.&nbsp;
+&nbsp;to be undisciplined: &nbsp;<i><a href="a.htm#ayapka">ayapka</a></i>.&nbsp;
+<br><b>discord</b>
+&nbsp;to not get along well, have discord, strife: &nbsp;<i><a href="i2.htm#istittinkànko">istittinkànko</a></i>.&nbsp;
+<br><b>discover</b>
+&nbsp;to show, reveal, make known, discover, find, uncover: &nbsp;<i><a href="m.htm#mottakiichi">mottakiichi</a></i>.&nbsp;
+<br><b>discreet</b>
+&nbsp;to keep a secret, keep one's counsel on a matter, be discreet: &nbsp;<i><a href="a.htm#alomhichi">alomhichi</a></i>.&nbsp;
+<br><b>discussion</b>&nbsp;&nbsp;<i><a href="n.htm#naaɬiilka">naaɬiilka</a></i>.&nbsp;
+<br><b>disease</b>
+&nbsp;disease, sickness: &nbsp;<i><a href="h.htm#holpa">holpa</a></i>.&nbsp;
+&nbsp;any dreadful, incurable disease (not nec. terminal): &nbsp;<i><a href="h.htm#holpafàyko">holpafàyko</a></i>.&nbsp;
+&nbsp;any venereal disease: &nbsp;<i><a href="y.htm#yokbi">yokbi</a></i>.&nbsp;
+&nbsp;heart disease: &nbsp;<i><a href="c.htm#chonoskaholpa">chonoskaholpa</a></i>.&nbsp;
+&nbsp;yellow fever: &nbsp;<i><a href="h.htm#holpalàana">holpalàana</a></i>.&nbsp;
+&nbsp;to catch (a disease): &nbsp;<i><a href="a.htm#almatli">almatli</a></i>.&nbsp;
+&nbsp;to catch (a disease) from: &nbsp;<i><a href="i1.htm#imalmatli">imalmatli</a></i>.&nbsp;
+&nbsp;to infect, give (someone) a disease: &nbsp;<i><a href="a.htm#almatlichi">almatlichi</a></i>.&nbsp;
+&nbsp;to have heart disease: &nbsp;<i><a href="c.htm#chonoska hoopa">chonoska hoopa</a></i>.&nbsp;
+<br><b>disgust</b>
+&nbsp;to heave a sigh of disgust, grunt: &nbsp;<i><a href="k.htm#kifahka">kifahka</a></i>.&nbsp;
+<br><b>dish</b>&nbsp;&nbsp;<i><a href="a.htm#aayampo">aayampo</a></i>.&nbsp;
+&nbsp;clay dish: &nbsp;<i><a href="o.htm#okɬi aayampo">okɬi aayampo</a></i>.&nbsp;
+&nbsp;glass dish: &nbsp;<i><a href="a.htm#aayanchahka aayampo">aayanchahka aayampo</a></i>.&nbsp;
+&nbsp;dish or trough where salt or sugar is put for animals to lick: &nbsp;<i><a href="i1.htm#imaafohka">imaafohka</a></i>.&nbsp;
+&nbsp;dish made of any meat boiled with corn and sassafrass: &nbsp;<i><a href="y.htm#yakchi1">yakchi<sup>1</sup></a></i>.&nbsp;
+&nbsp;to make the dish called yakchi: &nbsp;<i><a href="y.htm#yakchichi">yakchichi</a></i>.&nbsp;
+<br><b>disheveled</b>
+&nbsp;to be a little dirty, sloppy, disheveled: &nbsp;<i><a href="t.htm#taláamòosi">taláamòosi</a></i>.&nbsp;
+&nbsp;to be disheveled, messed up (of hair): &nbsp;<i><a href="c.htm#chisakko">chisakko</a></i>.&nbsp;
+<br><b>dishpan</b>&nbsp;&nbsp;<i><a href="a.htm#aahaapilka">aahaapilka</a></i>.&nbsp;
+<br><b>dishrag</b>&nbsp;&nbsp;<i><a href="a.htm#aayampostaasihka">aayampostaasihka</a></i>.&nbsp;
+<br><b>dishwater</b>&nbsp;&nbsp;<i><a href="a.htm#aayampostaasihka">aayampostaasihka</a>, <a href="o.htm#oki aayampostaasihka">oki aayampostaasihka</a>, <a href="i2.htm#istaasihka">istaasihka</a></i>.&nbsp;
+<br><b>disintegrate</b>
+&nbsp;to crumble, disintegrate, fall apart: &nbsp;<i><a href="p.htm#pofotli">pofotli</a></i>.&nbsp;
+<br><b>disk</b>
+&nbsp;silver or tin disk worn on a shirt or headdress for decoration: &nbsp;<i><a href="i1.htm#ilokfa lapàali">ilokfa lapàali</a></i>.&nbsp;
+<br><b>dislike</b>
+&nbsp;to hate, dislike: &nbsp;<i><a href="a.htm#akìilo">akìilo</a></i>.&nbsp;
+&nbsp;to not want, dislike: &nbsp;<i><a href="b.htm#bànko">bànko</a></i>.&nbsp;
+&nbsp;to dislike a person for a specific reason: &nbsp;<i><a href="a.htm#apakanka">apakanka</a></i>.&nbsp;
+&nbsp;to dislike something belonging to someone: &nbsp;<i><a href="i1.htm#imapakanka">imapakanka</a></i>.&nbsp;
+&nbsp;to dislike (something of someone's): &nbsp;<i><a href="i1.htm#imakìilo">imakìilo</a></i>.&nbsp;
+<br><b>dislocate</b>
+&nbsp;to dislocate (a limb): &nbsp;<i><a href="i2.htm#ittinkanatli">ittinkanatli</a>, <a href="n.htm#nipaffi">nipaffi</a></i>.&nbsp;
+&nbsp;to dislocate (someone's joint): &nbsp;<i><a href="i1.htm#intaɬoffichi">intaɬoffichi</a></i>.&nbsp;
+&nbsp;to have a dislocated joint: &nbsp;<i><a href="i1.htm#iⁿhamoffi">iⁿhamoffi</a></i>.&nbsp;
+&nbsp;to have a dislocation: &nbsp;<i><a href="h.htm#hamoffi">hamoffi</a></i>.&nbsp;
+&nbsp;to loosen or dislocate at the joints: &nbsp;<i><a href="t.htm#taɬòolichi">taɬòolichi</a></i>.&nbsp;
+&nbsp;to put out of joint, dislocate (one's joint): &nbsp;<i><a href="t.htm#taɬoffichi">taɬoffichi</a></i>.&nbsp;
+&nbsp;to have a dislocation of a body part: &nbsp;<i><a href="i1.htm#intaɬoffi">intaɬoffi</a></i>.&nbsp;
+&nbsp;to have a dislocation, sprain (in the upper body): &nbsp;<i><a href="p.htm#paahamoffi">paahamoffi</a></i>.&nbsp;
+<br><b>dismember</b>
+&nbsp;to cut up or butcher into parts, dismember: &nbsp;<i><a href="n.htm#niplichi">niplichi</a></i>.&nbsp;
+<br><b>disobedient</b>
+&nbsp;to be disobedient: &nbsp;<i><a href="i1.htm#ikhàalo">ikhàalo</a></i>.&nbsp;
+&nbsp;to be disobedient, refuse to do something: &nbsp;<i><a href="i1.htm#immankíhcho">immankíhcho</a></i>.&nbsp;
+<br><b>disobey</b>
+&nbsp;to not listen to, not mind someone, disobey: &nbsp;<i><a href="i1.htm#imikhàalo">imikhàalo</a></i>.&nbsp;
+<br><b>disoriented</b>
+&nbsp;to be confused, disoriented: &nbsp;<i><a href="h.htm#haktichi">haktichi</a></i>.&nbsp;
+<br><b>disperse</b>
+&nbsp;to break up, disperse (of a group): &nbsp;<i><a href="i2.htm#ittahamatka">ittahamatka</a></i>.&nbsp;
+&nbsp;to disperse, scatter, all go home, break up a meeting: &nbsp;<i><a href="a.htm#aamatka">aamatka</a></i>.&nbsp;
+&nbsp;to disperse, scatter (of more than one): &nbsp;<i><a href="b.htm#boyòoli">boyòoli</a></i>.&nbsp;
+&nbsp;to scatter (a bunch), disperse, mix into, crumble up: &nbsp;<i><a href="a.htm#aamatli">aamatli</a></i>.&nbsp;
+<br><b>disrupt</b>
+&nbsp;to break up, ruin, disrupt (someone's possession): &nbsp;<i><a href="i2.htm#istimalwahli">istimalwahli</a></i>.&nbsp;
+<br><b>dissimilar</b>
+&nbsp;to be different from each other, dissimilar, mismatched: &nbsp;<i><a href="i2.htm#ittimaɬahka">ittimaɬahka</a></i>.&nbsp;
+<br><b>distance</b>
+&nbsp;a long distance, very far: &nbsp;<i><a href="h.htm#hopáhki">hopáhki</a></i>.&nbsp;
+&nbsp;to be far, a long distance: &nbsp;<i><a href="h.htm#hopaaki">hopaaki</a></i>.&nbsp;
+&nbsp;to be short (in length, time, distance): &nbsp;<i><a href="k.htm#koboksi">koboksi</a></i>.&nbsp;
+&nbsp;to be at a distance getting nearer: &nbsp;<i><a href="m.htm#maatáyyákhàachi">maatáyyákhàachi</a></i>.&nbsp;
+<br><b>distract</b>
+&nbsp;to bother, distract, worry, heckle, pester: &nbsp;<i><a href="p.htm#pilàachi">pilàachi</a></i>.&nbsp;
+&nbsp;to be bothered about, worried, distracted: &nbsp;<i><a href="p.htm#pìila">pìila</a></i>.&nbsp;
+&nbsp;to have something bothering one, have a worry, have something distracting one: &nbsp;<i><a href="i1.htm#impìila">impìila</a></i>.&nbsp;
+<br><b>distribute</b>
+&nbsp;to distribute (plural objects): &nbsp;<i><a href="i2.htm#islapaffichi">islapaffichi</a></i>.&nbsp;
+<br><b>ditch</b>&nbsp;&nbsp;<i><a href="k.htm#kolokbi">kolokbi</a></i>.&nbsp;
+<br><b>divan</b>&nbsp;&nbsp;<i><a href="p.htm#paachokòokabaski">paachokòokabaski</a>, <a href="p.htm#paachokòokachoba">paachokòokachoba</a></i>.&nbsp;
+<br><b>dive</b>
+&nbsp;to dive under water, go under water, submerge once: &nbsp;<i><a href="o.htm#okhaboska">okhaboska</a></i>.&nbsp;
+&nbsp;to jump into water from a height, high dive (once): &nbsp;<i><a href="m.htm#maatoochofotli">maatoochofotli</a></i>.&nbsp;
+<br><b>divert</b>
+&nbsp;to make (more than one) take a turn off, divert: &nbsp;<i><a href="f.htm#filkohli">filkohli</a></i>.&nbsp;
+<br><b>divide</b>
+&nbsp;partition, barrier, divide, dam: &nbsp;<i><a href="a.htm#atipaska">atipaska</a></i>.&nbsp;
+&nbsp;to be divided in two: &nbsp;<i><a href="i2.htm#ittakasapka">ittakasapka</a></i>.&nbsp;
+&nbsp;to be partitioned, divided: &nbsp;<i><a href="i2.htm#ittatipkachi">ittatipkachi</a></i>.&nbsp;
+&nbsp;to be partitioned, divided (more than once): &nbsp;<i><a href="a.htm#atipkachi">atipkachi</a></i>.&nbsp;
+&nbsp;to be divided in two (of more than one): &nbsp;<i><a href="i2.htm#ittapaɬka">ittapaɬka</a></i>.&nbsp;
+&nbsp;to share a piece with, divide up with someone: &nbsp;<i><a href="i1.htm#innachoffi">innachoffi</a></i>.&nbsp;
+&nbsp;to divide in two, divide in half, separate: &nbsp;<i><a href="i2.htm#ittakasapli">ittakasapli</a></i>.&nbsp;
+&nbsp;to divide, separate, move apart: &nbsp;<i><a href="i2.htm#ittinkanahli">ittinkanahli</a></i>.&nbsp;
+&nbsp;to divide up (into more than two parts): &nbsp;<i><a href="i2.htm#ittakaskohli">ittakaskohli</a>, <a href="i2.htm#ittakaskooha">ittakaskooha</a></i>.&nbsp;
+&nbsp;to keep dividing two things: &nbsp;<i><a href="i2.htm#ittakássapli">ittakássapli</a></i>.&nbsp;
+&nbsp;to separate (a number) one from another, divide up (a number of things), sort out (a number) one from another: &nbsp;<i><a href="i2.htm#ittiⁿfilihlichi">ittiⁿfilihlichi</a>, <a href="i2.htm#ittiⁿfilohli">ittiⁿfilohli</a></i>.&nbsp;
+&nbsp;to take (more than one) away from, subtract from, remove from, divide from, minus: &nbsp;<i><a href="i1.htm#iⁿfilohli">iⁿfilohli</a></i>.&nbsp;
+<br><b>diving</b>&nbsp;&nbsp;<i><a href="o.htm#okhabosilka">okhabosilka</a></i>.&nbsp;
+<br><b>division</b>
+&nbsp;room, division: &nbsp;<i><a href="a.htm#atipkachi">atipkachi</a>, <a href="i2.htm#ittatipkachi">ittatipkachi</a></i>.&nbsp;
+&nbsp;to be the remainder in division or subtraction: &nbsp;<i><a href="a.htm#alahka">alahka</a></i>.&nbsp;
+<br><b>divorce</b>
+&nbsp;to be divorced from each other, be apart from each other (of two): &nbsp;<i><a href="i2.htm#ittiⁿfilkohka">ittiⁿfilkohka</a></i>.&nbsp;
+&nbsp;to be thrown away, divorced, abandoned (of one): &nbsp;<i><a href="m.htm#maakachi">maakachi</a></i>.&nbsp;
+&nbsp;to divorce, make the marriage license void: &nbsp;<i><a href="a.htm#alwahli">alwahli</a></i>.&nbsp;
+&nbsp;to get a divorce (from each other): &nbsp;<i><a href="i2.htm#ittifayli">ittifayli</a></i>.&nbsp;
+&nbsp;to leave, abandon (physically), divorce: &nbsp;<i><a href="m.htm#maalichi">maalichi</a></i>.&nbsp;
+&nbsp;to separate, divorce (of a couple): &nbsp;<i><a href="i2.htm#ittinkanatli">ittinkanatli</a></i>.&nbsp;
+<br><b>dizzy</b>
+&nbsp;to be extremely dizzy or feel faint: &nbsp;<i><a href="i1.htm#iⁿhaatankachi">iⁿhaatankachi</a></i>.&nbsp;
+<br><b>do</b>
+&nbsp;to do: &nbsp;<i><a href="a.htm#akkáhmi">akkáhmi</a>, <a href="a.htm#akkami">akkami</a></i>.&nbsp;
+&nbsp;to be, do: &nbsp;<i><a href="o.htm#ommi">ommi</a></i>.&nbsp;
+&nbsp;to do, come to be: &nbsp;<i><a href="n.htm#naho2">naho<sup>2</sup></a></i>.&nbsp;
+&nbsp;to do, do that way, do a certain way: &nbsp;<i><a href="a.htm#akkamìhchi">akkamìhchi</a></i>.&nbsp;
+&nbsp;to do however, be however, happen however, be whatever, be any, be some: &nbsp;<i><a href="s.htm#sáhmi">sáhmi</a></i>.&nbsp;
+&nbsp;to do something about, with, or to: &nbsp;<i><a href="s.htm#samíhchi">samíhchi</a></i>.&nbsp;
+&nbsp;to do that way (as previously mentioned), do as indicated, do as expected: &nbsp;<i><a href="m.htm#mamíhchi">mamíhchi</a></i>.&nbsp;
+&nbsp;to finish doing, do completely, do thoroughly: &nbsp;<i><a href="a.htm#anosli">anosli</a></i>.&nbsp;
+&nbsp;to make (someone) do, force (someone) to do: &nbsp;<i><a href="a.htm#atohno">atohno</a></i>.&nbsp;
+&nbsp;to begin to do something (of one), go on a certain way: &nbsp;<i><a href="i2.htm#istaɬɬa">istaɬɬa</a></i>.&nbsp;
+&nbsp;to undo, loosen: &nbsp;<i><a href="y.htm#yiɬɬi">yiɬɬi</a></i>.&nbsp;
+<br><b>dock</b>
+&nbsp;boat dock: &nbsp;<i><a href="p.htm#piɬɬa imooyìistilka">piɬɬa imooyìistilka</a></i>.&nbsp;
+<br><b>doctor</b>&nbsp;&nbsp;<i><a href="a.htm#aatalikchi">aatalikchi</a>, <a href="a.htm#alìkchi">alìkchi</a></i>.&nbsp;
+&nbsp;medicine men or women: &nbsp;<i><a href="o.htm#okɬobobohkaha">okɬobobohkaha</a></i>.&nbsp;
+&nbsp;eyedoctor: &nbsp;<i><a href="i2.htm#ittiɬi alikchi">ittiɬi alikchi</a>, <a href="i2.htm#ittiɬi talbòoli">ittiɬi talbòoli</a></i>.&nbsp;
+&nbsp;woman doctor: &nbsp;<i><a href="t.htm#tayyi alikchi">tayyi alikchi</a>, <a href="a.htm#alìkchitàyyi">alìkchitàyyi</a></i>.&nbsp;
+&nbsp;gynecologist, woman's doctor: &nbsp;<i><a href="t.htm#tayyiha imalikchi">tayyiha imalikchi</a></i>.&nbsp;
+&nbsp;to be a doctor: &nbsp;<i><a href="a.htm#alikchi">alikchi</a></i>.&nbsp;
+&nbsp;to treat (a patient) (of a healer), doctor: &nbsp;<i><a href="i1.htm#imalikchi">imalikchi</a></i>.&nbsp;
+<br><b>documents</b>
+&nbsp;to fill out (forms or documents): &nbsp;<i><a href="i2.htm#istimalotli">istimalotli</a></i>.&nbsp;
+<br><b>dodge</b>
+&nbsp;to dodge, avoid, miss, outflank (of one): &nbsp;<i><a href="a.htm#atanatka2">atanatka<sup>2</sup></a></i>.&nbsp;
+&nbsp;to move away from (someone), dodge, move for (to let someone by) (of one): &nbsp;<i><a href="i1.htm#inkanatli">inkanatli</a></i>.&nbsp;
+<br><b>doe</b>&nbsp;&nbsp;<i><a href="i1.htm#ichotayyi">ichotayyi</a></i>.&nbsp;
+<br><b>dog</b>&nbsp;&nbsp;<i><a href="i1.htm#ifa">ifa</a></i>.&nbsp;
+&nbsp;puppy: &nbsp;<i><a href="i1.htm#ifosi">ifosi</a></i>.&nbsp;
+&nbsp;dachshund: &nbsp;<i><a href="i1.htm#ifabaskosi">ifabaskosi</a></i>.&nbsp;
+&nbsp;hound dog: &nbsp;<i><a href="h.htm#hakchopàtha">hakchopàtha</a></i>.&nbsp;
+&nbsp;bird dog: &nbsp;<i><a href="f.htm#foosi wìihli">foosi wìihli</a></i>.&nbsp;
+&nbsp;rabbit dog: &nbsp;<i><a href="i1.htm#ifa chokfiɬòoli">ifa chokfiɬòoli</a></i>.&nbsp;
+&nbsp;squirrel dog: &nbsp;<i><a href="i1.htm#ifa ipɬoɬòoli">ifa ipɬoɬòoli</a></i>.&nbsp;
+&nbsp;coyote: &nbsp;<i><a href="i1.htm#ifamaɬatli">ifamaɬatli</a></i>.&nbsp;
+&nbsp;wolf: &nbsp;<i><a href="i1.htm#ifimmóosi">ifimmóosi</a></i>.&nbsp;
+&nbsp;to run (dogs after game), hunt with dogs: &nbsp;<i><a href="ll.htm#ɬohlichi">ɬohlichi</a></i>.&nbsp;
+<br><b>dogwood</b>&nbsp;&nbsp;<i><a href="n.htm#naskila">naskila</a></i>.&nbsp;
+<br><b>Dogwood Dancers</b>&nbsp;&nbsp;<i><a href="n.htm#Naskila Bìtliha">Naskila Bìtliha</a></i>.&nbsp;
+<br><b>Dogwood Festival</b>&nbsp;&nbsp;<i><a href="n.htm#Naskilabitka">Naskilabitka</a></i>.&nbsp;
+<br><b>do like</b>
+&nbsp;to be like, do like, happen that way: &nbsp;<i><a href="m.htm#máhmi">máhmi</a></i>.&nbsp;
+<br><b>do like this</b>
+&nbsp;to do a certain way, do like this, go like this (gesture): &nbsp;<i><a href="y.htm#yamíhchi">yamíhchi</a></i>.&nbsp;
+&nbsp;to do like someone, do like this (gesture), be this way, be like a certain thing, happen a certain way: &nbsp;<i><a href="y.htm#yàhmi">yàhmi</a></i>.&nbsp;
+<br><b>doll</b>&nbsp;&nbsp;<i><a href="a.htm#aatholbasi">aatholbasi</a></i>.&nbsp;
+<br><b>dollar</b>&nbsp;&nbsp;<i><a href="s.htm#sonokcháffàaka">sonokcháffàaka</a>, <a href="s.htm#sonokcháffàaka">sonokcháffàaka</a></i>.&nbsp;
+&nbsp;one dollar: &nbsp;<i><a href="t.htm#toknaawacháffàaka">toknaawacháffàaka</a></i>.&nbsp;
+&nbsp;one dollar gold piece: &nbsp;<i><a href="t.htm#toknaawa cháffàaka laana">toknaawa cháffàaka laana</a></i>.&nbsp;
+<br><b>domesticate</b>
+&nbsp;anything tame, domesticated: &nbsp;<i><a href="a.htm#alpoyba">alpoyba</a></i>.&nbsp;
+&nbsp;to domesticate (an animal), cultivate (a houseplant): &nbsp;<i><a href="a.htm#apooba">apooba</a></i>.&nbsp;
+&nbsp;to domesticate (animals), cultivate (houseplants): &nbsp;<i><a href="a.htm#apoyba">apoyba</a></i>.&nbsp;
+&nbsp;to be raised, cultivated, domesticated, tame: &nbsp;<i><a href="a.htm#alpooba">alpooba</a></i>.&nbsp;
+&nbsp;to be tame, gentle, domesticated: &nbsp;<i><a href="p.htm#pakaama">pakaama</a></i>.&nbsp;
+<br><b>dominate</b>
+&nbsp;to expend more effort than, surpass someone, dominate, stay ahead of: &nbsp;<i><a href="i2.htm#istimayya">istimayya</a></i>.&nbsp;
+&nbsp;to dominate an opponent (e.g. have a better political agenda): &nbsp;<i><a href="i2.htm#istímmáyyàachi">istímmáyyàachi</a></i>.&nbsp;
+<br><b>dominoes</b>
+&nbsp;to lose at dominoes: &nbsp;<i><a href="i2.htm#istimilli">istimilli</a></i>.&nbsp;
+<br><b>donate</b>
+&nbsp;to give help to someone, aid with, donate to: &nbsp;<i><a href="i1.htm#imapiila">imapiila</a></i>.&nbsp;
+<br><b>donation</b>
+&nbsp;help, aid, support, welfare, donation: &nbsp;<i><a href="i2.htm#istapilka">istapilka</a></i>.&nbsp;
+<br><b>done</b>
+&nbsp;to be cooked, done: &nbsp;<i><a href="l.htm#libatka">libatka</a>, <a href="h.htm#hoponka">hoponka</a></i>.&nbsp;
+&nbsp;to be cooked done, ready, prepared (of food): &nbsp;<i><a href="l.htm#lakha">lakha</a>, <a href="h.htm#hóppòoni">hóppòoni</a></i>.&nbsp;
+&nbsp;to be overripe, overdone, bruised (of fruit): &nbsp;<i><a href="ll.htm#ɬiboska">ɬiboska</a></i>.&nbsp;
+&nbsp;to be a little overdone, slightly burned: &nbsp;<i><a href="t.htm#tómbìila">tómbìila</a></i>.&nbsp;
+<br><b>donkey</b>&nbsp;&nbsp;<i><a href="h.htm#hakchobaskosi">hakchobaskosi</a></i>.&nbsp;
+<br><b>door</b>
+&nbsp;door, gate: &nbsp;<i><a href="o.htm#okhicha">okhicha</a></i>.&nbsp;
+&nbsp;back door: &nbsp;<i><a href="o.htm#okhicha obàali">okhicha obàali</a></i>.&nbsp;
+&nbsp;screen door: &nbsp;<i><a href="o.htm#okhìchasakla">okhìchasakla</a></i>.&nbsp;
+&nbsp;car door: &nbsp;<i><a href="m.htm#mobìlkimokhicha">mobìlkimokhicha</a></i>.&nbsp;
+&nbsp;to close, shut (a door or window): &nbsp;<i><a href="o.htm#okbahli">okbahli</a></i>.&nbsp;
+&nbsp;to knock (more than once) at the door: &nbsp;<i><a href="m.htm#maabatli">maabatli</a></i>.&nbsp;
+<br><b>doorknob</b>&nbsp;&nbsp;<i><a href="o.htm#okhicha istiyapka">okhicha istiyapka</a>, <a href="o.htm#okhichastokbahka">okhichastokbahka</a></i>.&nbsp;
+<br><b>doormat</b>&nbsp;&nbsp;<i><a href="i2.htm#iyyispaska">iyyispaska</a></i>.&nbsp;
+&nbsp;Spanish moss doormat: &nbsp;<i><a href="s.htm#somo iyyispaska">somo iyyispaska</a></i>.&nbsp;
+<br><b>dotted</b>
+&nbsp;to be spotted, freckled, polka dotted: &nbsp;<i><a href="c.htm#chokchoki">chokchoki</a></i>.&nbsp;
+<br><b>double</b>
+&nbsp;to double (e.g. a recipe): &nbsp;<i><a href="b.htm#bolokta">bolokta</a></i>.&nbsp;
+<br><b>double-barreled shotgun</b>&nbsp;&nbsp;<i><a href="b.htm#bihipokta">bihipokta</a></i>.&nbsp;
+<br><b>doubletree</b>&nbsp;&nbsp;<i><a href="t.htm#tissanaha imokhawitàaka">tissanaha imokhawitàaka</a>, <a href="i1.htm#imokhawitàaka">imokhawitàaka</a>, <a href="a.htm#afitàaka">afitàaka</a></i>.&nbsp;
+<br><b>doubt</b>
+&nbsp;to not believe, doubt: &nbsp;<i><a href="y.htm#yínko">yínko</a></i>.&nbsp;
+<br><b>dough</b>
+&nbsp;bread dough: &nbsp;<i><a href="p.htm#paspa bosilka">paspa bosilka</a>, <a href="p.htm#paspóolmo">paspóolmo</a>, <a href="t.htm#tilkobosilka">tilkobosilka</a></i>.&nbsp;
+&nbsp;to be mixed up, as dry and wet ingredients forming a paste, dough, or batter (as cement, mud, etc.): &nbsp;<i><a href="o.htm#òomo">òomo</a></i>.&nbsp;
+&nbsp;to knead (dough for bread): &nbsp;<i><a href="b.htm#boska">boska</a></i>.&nbsp;
+<br><b>doughnut</b>
+&nbsp;cookies, sweet rolls, doughnuts: &nbsp;<i><a href="p.htm#paspachámpolosi">paspachámpolosi</a></i>.&nbsp;
+<br><b>dove</b>
+&nbsp;pigeon, dove: &nbsp;<i><a href="p.htm#pachi">pachi</a></i>.&nbsp;
+&nbsp;dove, mourning dove, pigeon: &nbsp;<i><a href="p.htm#pachiyòsba">pachiyòsba</a></i>.&nbsp;
+&nbsp;dove, domesticated pigeon: &nbsp;<i><a href="p.htm#pachi alpoyba">pachi alpoyba</a></i>.&nbsp;
+<br><b>down</b>
+&nbsp;to be lying down, in bed, be laid up (in bed), bed-ridden: &nbsp;<i><a href="b.htm#bállàaka">bállàaka</a>, <a href="b.htm#bállaska">bállaska</a>, <a href="b.htm#bàalka">bàalka</a></i>.&nbsp;
+&nbsp;to stoop down, be hunched over: &nbsp;<i><a href="c.htm#chonotli">chonotli</a></i>.&nbsp;
+&nbsp;to be packed down: &nbsp;<i><a href="a.htm#abitkachi">abitkachi</a></i>.&nbsp;
+&nbsp;to be put down, set out (of more than one): &nbsp;<i><a href="t.htm#talka1">talka<sup>1</sup></a></i>.&nbsp;
+&nbsp;to descend, come down, go down, land: &nbsp;<i><a href="t.htm#tanatli">tanatli</a></i>.&nbsp;
+&nbsp;to tamp down, pack down, press down: &nbsp;<i><a href="a.htm#abitlichi">abitlichi</a></i>.&nbsp;
+&nbsp;to fall down (accidentally) (of one): &nbsp;<i><a href="t.htm#tammi">tammi</a></i>.&nbsp;
+&nbsp;to go and fall down: &nbsp;<i><a href="i1.htm#ilɬàaka">ilɬàaka</a></i>.&nbsp;
+&nbsp;to go down any incline (of one): &nbsp;<i><a href="o.htm#ootanatli">ootanatli</a></i>.&nbsp;
+&nbsp;to go down, climb down from, get down from (of one), land (as an airplane): &nbsp;<i><a href="m.htm#maatanatli">maatanatli</a>, <a href="m.htm#maatanahli">maatanahli</a></i>.&nbsp;
+&nbsp;to have been put down in liquid, be set down in: &nbsp;<i><a href="o.htm#oochiika1">oochiika<sup>1</sup></a></i>.&nbsp;
+&nbsp;to help down (as down the steps), help get out of a vehicle, drop off (a person), unload (one object): &nbsp;<i><a href="t.htm#tanatlichi">tanatlichi</a></i>.&nbsp;
+&nbsp;to lay (one long object) down: &nbsp;<i><a href="b.htm#balàali">balàali</a></i>.&nbsp;
+&nbsp;to pull down, throw down: &nbsp;<i><a href="ll.htm#ɬaalichi">ɬaalichi</a></i>.&nbsp;
+&nbsp;to pump, move (something) up and down: &nbsp;<i><a href="a.htm#abitlichi">abitlichi</a></i>.&nbsp;
+&nbsp;to put down, set out (one object): &nbsp;<i><a href="t.htm#talàali">talàali</a></i>.&nbsp;
+&nbsp;to put down (plural objects): &nbsp;<i><a href="c.htm#chiili1">chiili<sup>1</sup></a></i>.&nbsp;
+&nbsp;to sink down into (a hole or something soft): &nbsp;<i><a href="i2.htm#istooɬibitli">istooɬibitli</a></i>.&nbsp;
+&nbsp;to go down (of the sun): &nbsp;<i><a href="h.htm#hasi ootammi">hasi ootammi</a></i>.&nbsp;
+&nbsp;to tear down, tear up (one object): &nbsp;<i><a href="y.htm#yiɬapli">yiɬapli</a></i>.&nbsp;
+&nbsp;to weight down, press down on: &nbsp;<i><a href="a.htm#abititlichi">abititlichi</a></i>.&nbsp;
+&nbsp;to weight down with, hold down with: &nbsp;<i><a href="i2.htm#istabititlichi">istabititlichi</a></i>.&nbsp;
+<br><b>downhill</b>
+&nbsp;to run downward, run downhill (of one): &nbsp;<i><a href="o.htm#oowaliika">oowaliika</a></i>.&nbsp;
+<br><b>downward</b>
+&nbsp;to slope downward, be sloping, slant: &nbsp;<i><a href="a.htm#ayaanaki">ayaanaki</a></i>.&nbsp;
+<br><b>drag</b>
+&nbsp;to drag, drag along: &nbsp;<i><a href="i2.htm#ismihlichi">ismihlichi</a></i>.&nbsp;
+&nbsp;to slide one thing along, pull (one object) and move it, drag: &nbsp;<i><a href="s.htm#salatlichi">salatlichi</a></i>.&nbsp;
+<br><b>dragonfly</b>&nbsp;&nbsp;<i><a href="h.htm#hatokwassi">hatokwassi</a></i>.&nbsp;
+<br><b>drag race</b>&nbsp;&nbsp;<i><a href="m.htm#mobìlkittimayya">mobìlkittimayya</a></i>.&nbsp;
+<br><b>drag strip</b>&nbsp;&nbsp;<i><a href="m.htm#mobìlka aayittimayya">mobìlka aayittimayya</a></i>.&nbsp;
+<br><b>drain</b>
+&nbsp;to drain, strain: &nbsp;<i><a href="ll.htm#ɬibihli">ɬibihli</a></i>.&nbsp;
+&nbsp;to drain (down through something): &nbsp;<i><a href="s.htm#sofka">sofka</a></i>.&nbsp;
+&nbsp;to flow, drain off, run off (of water): &nbsp;<i><a href="y.htm#yanatli">yanatli</a></i>.&nbsp;
+&nbsp;to cut a hole in the throat of an animal to let the blood drain out: &nbsp;<i><a href="n.htm#noksìilichi">noksìilichi</a></i>.&nbsp;
+&nbsp;to drain a lake, make a trench to allow water to run off: &nbsp;<i><a href="o.htm#okiwaliilichi">okiwaliilichi</a></i>.&nbsp;
+<br><b>drape</b>
+&nbsp;to drape with: &nbsp;<i><a href="a.htm#aɬipìili">aɬipìili</a>, <a href="a.htm#aɬipli">aɬipli</a></i>.&nbsp;
+&nbsp;to cover oneself with, drape oneself with: &nbsp;<i><a href="a.htm#anchi">anchi</a></i>.&nbsp;
+<br><b>draw</b><sup>1</sup>
+&nbsp;drawn outline of a hand: &nbsp;<i><a href="i1.htm#ilbiholba">ilbiholba</a></i>.&nbsp;
+&nbsp;taking a photograph, painting a picture, drawing, copying, showing a movie: &nbsp;<i><a href="h.htm#holbachi">holbachi</a></i>.&nbsp;
+<br><b>draw</b><sup>2</sup>
+&nbsp;tie, draw (in a contest): &nbsp;<i><a href="i2.htm#ittáhhòoba">ittáhhòoba</a></i>.&nbsp;
+<br><b>draw</b><sup>3</sup>
+&nbsp;to draw (a rope), pull (a rope) hand over hand: &nbsp;<i><a href="t.htm#tabahka">tabahka</a></i>.&nbsp;
+&nbsp;to pull (plural objects or repeatedly), draw (a wagon): &nbsp;<i><a href="h.htm#halahka">halahka</a></i>.&nbsp;
+&nbsp;to pull up or draw something in a container: &nbsp;<i><a href="m.htm#maashalahka">maashalahka</a></i>.&nbsp;
+&nbsp;to draw a line by reaching, reach for to pull (as for clothes in the back of a closet) (plural objects or repeatedly): &nbsp;<i><a href="m.htm#maahalahka">maahalahka</a></i>.&nbsp;
+<br><b>drawers</b>
+&nbsp;chest of drawers, dresser: &nbsp;<i><a href="a.htm#aayanchahkachoba istimalpitta">aayanchahkachoba istimalpitta</a></i>.&nbsp;
+<br><b>draw knife</b>&nbsp;&nbsp;<i><a href="i2.htm#ittossahkachi">ittossahkachi</a></i>.&nbsp;
+<br><b>draw up</b>
+&nbsp;to shrink, draw up, get smaller (as a wet sweater): &nbsp;<i><a href="s.htm#sanifka">sanifka</a></i>.&nbsp;
+<br><b>draw water</b>
+&nbsp;to draw water from a well: &nbsp;<i><a href="m.htm#maatokoochi">maatokoochi</a></i>.&nbsp;
+&nbsp;to draw water, carry water, fetch water: &nbsp;<i><a href="o.htm#okoochi">okoochi</a></i>.&nbsp;
+<br><b>dream</b>&nbsp;&nbsp;<i><a href="o.htm#ooltoba">ooltoba</a></i>.&nbsp;
+&nbsp;good dream: &nbsp;<i><a href="o.htm#ooltobakano">ooltobakano</a></i>.&nbsp;
+&nbsp;bad dream, nightmare: &nbsp;<i><a href="o.htm#ooltobakánko">ooltobakánko</a></i>.&nbsp;
+&nbsp;to dream: &nbsp;<i><a href="o.htm#ootoba">ootoba</a></i>.&nbsp;
+&nbsp;to dream about: &nbsp;<i><a href="i2.htm#istootoba">istootoba</a></i>.&nbsp;
+&nbsp;to have a nightmare, bad dream: &nbsp;<i><a href="i1.htm#ichoowanha">ichoowanha</a></i>.&nbsp;
+&nbsp;to be dreaming: &nbsp;<i><a href="o.htm#ootóoba">ootóoba</a></i>.&nbsp;
+<br><b>dress</b>
+&nbsp;clothes, dress, shirt: &nbsp;<i><a href="i1.htm#ilokfa">ilokfa</a></i>.&nbsp;
+&nbsp;dress hem: &nbsp;<i><a href="i1.htm#ilokfa ichoopakofka">ilokfa ichoopakofka</a></i>.&nbsp;
+&nbsp;dressmaker: &nbsp;<i><a href="i1.htm#ilokfa òofa">ilokfa òofa</a></i>.&nbsp;
+&nbsp;dress pattern: &nbsp;<i><a href="i1.htm#ilokfalpisa">ilokfalpisa</a></i>.&nbsp;
+&nbsp;wedding dress: &nbsp;<i><a href="a.htm#aatitaafolòoka iⁿholikfa">aatitaafolòoka iⁿholikfa</a></i>.&nbsp;
+&nbsp;to dress in, wear: &nbsp;<i><a href="h.htm#hokfa">hokfa</a></i>.&nbsp;
+&nbsp;to dress (someone): &nbsp;<i><a href="h.htm#hokfachiichi">hokfachiichi</a></i>.&nbsp;
+&nbsp;to be wearing a suit, dressed in suit: &nbsp;<i><a href="k.htm#kapòotistonáami">kapòotistonáami</a></i>.&nbsp;
+&nbsp;to wear a suit, dress in a suit: &nbsp;<i><a href="i2.htm#istonáami">istonáami</a></i>.&nbsp;
+&nbsp;to wear or dress in a pantsuit (of a woman): &nbsp;<i><a href="i2.htm#istilaanikófkat istonáami">istilaanikófkat istonáami</a></i>.&nbsp;
+&nbsp;to gut, dress (an animal): &nbsp;<i><a href="i1.htm#intokaffi">intokaffi</a></i>.&nbsp;
+&nbsp;to tan or cure (leather), scrape or dress (hide): &nbsp;<i><a href="ll.htm#ɬahli">ɬahli</a></i>.&nbsp;
+<br><b>dress down</b>
+&nbsp;to fuss at, reproach, dress down: &nbsp;<i><a href="i1.htm#illikitka">illikitka</a></i>.&nbsp;
+<br><b>dresser</b>&nbsp;&nbsp;<i><a href="a.htm#aayanchahkachoba istimalpitta">aayanchahkachoba istimalpitta</a></i>.&nbsp;
+<br><b>dressmaker</b>&nbsp;&nbsp;<i><a href="i1.htm#ilokfa òofa">ilokfa òofa</a></i>.&nbsp;
+<br><b>dress up</b>
+&nbsp;to dress up in costume, uniform, or finery, be well dressed: &nbsp;<i><a href="i1.htm#ilommachi">ilommachi</a></i>.&nbsp;
+&nbsp;to dress (someone) up in costume, uniform, or finery: &nbsp;<i><a href="i1.htm#ilommachiichi">ilommachiichi</a></i>.&nbsp;
+<br><b>dribble</b>
+&nbsp;to bounce (on the ground), dribble a basketball: &nbsp;<i><a href="i2.htm#istitabatli">istitabatli</a></i>.&nbsp;
+&nbsp;to dribble food: &nbsp;<i><a href="i1.htm#ichoohoyya">ichoohoyya</a></i>.&nbsp;
+&nbsp;to dirty the mouth by dribbling (food, drink, or tobacco): &nbsp;<i><a href="i2.htm#istilichootalaamichi">istilichootalaamichi</a></i>.&nbsp;
+<br><b>drill</b>&nbsp;&nbsp;<i><a href="i2.htm#ispalailka">ispalailka</a></i>.&nbsp;
+&nbsp;hand drill: &nbsp;<i><a href="i2.htm#istiⁿɬobafka">istiⁿɬobafka</a></i>.&nbsp;
+&nbsp;low fire made in the woods with a firedrill: &nbsp;<i><a href="a.htm#athòmmintikba">athòmmintikba</a></i>.&nbsp;
+&nbsp;to dig, drill into the ground: &nbsp;<i><a href="s.htm#saffi">saffi</a></i>.&nbsp;
+&nbsp;to drill a hole in, drill for (water or oil): &nbsp;<i><a href="i1.htm#impalahka">impalahka</a></i>.&nbsp;
+&nbsp;to dig an oil well, drill for oil: &nbsp;<i><a href="a.htm#apalokchi iⁿsaffi">apalokchi iⁿsaffi</a></i>.&nbsp;
+&nbsp;to make a hole through (as with an auger), drill a hole, pierce through once: &nbsp;<i><a href="ll.htm#ɬobaffi">ɬobaffi</a></i>.&nbsp;
+&nbsp;to make holes, drill holes: &nbsp;<i><a href="ll.htm#ɬombi">ɬombi</a></i>.&nbsp;
+<br><b>drilling rig</b>
+&nbsp;oil well drilling rig: &nbsp;<i><a href="a.htm#apalokchi istiⁿsafka">apalokchi istiⁿsafka</a></i>.&nbsp;
+<br><b>drink</b>&nbsp;&nbsp;<i><a href="i2.htm#isilka">isilka</a></i>.&nbsp;
+&nbsp;any sweet soft drink: &nbsp;<i><a href="k.htm#kòkka">kòkka</a></i>.&nbsp;
+&nbsp;anything sweet (as a sweet drink like lemonade, coke, etc.): &nbsp;<i><a href="c.htm#champóolihchi">champóolihchi</a></i>.&nbsp;
+&nbsp;to drink: &nbsp;<i><a href="i2.htm#isko">isko</a></i>.&nbsp;
+&nbsp;to drink from, drink out of: &nbsp;<i><a href="a.htm#aayisko">aayisko</a></i>.&nbsp;
+&nbsp;to slurp, sip slowly (as when drinking hot coffee), make noise while drinking: &nbsp;<i><a href="ll.htm#ɬololohka">ɬololohka</a>, <a href="o.htm#okɬolohka">okɬolohka</a></i>.&nbsp;
+&nbsp;to water, make someone drink: &nbsp;<i><a href="i2.htm#iskochi">iskochi</a></i>.&nbsp;
+<br><b>drinker</b>
+&nbsp;to be a social drinker, drink occasionally or not much: &nbsp;<i><a href="i1.htm#íisíkkohchooti">íisíkkohchooti</a></i>.&nbsp;
+<br><b>drinking glass</b>&nbsp;&nbsp;<i><a href="k.htm#kopli2">kopli<sup>2</sup></a></i>.&nbsp;
+<br><b>drip</b>
+&nbsp;to leak, drip: &nbsp;<i><a href="h.htm#hoyya">hoyya</a></i>.&nbsp;
+&nbsp;to drip on: &nbsp;<i><a href="p.htm#paahoyya">paahoyya</a></i>.&nbsp;
+&nbsp;to cause to drip on: &nbsp;<i><a href="p.htm#paahoyyachi">paahoyyachi</a></i>.&nbsp;
+<br><b>drippings</b>
+&nbsp;juice, soup, drippings: &nbsp;<i><a href="o.htm#okchi">okchi</a></i>.&nbsp;
+<br><b>drive</b>
+&nbsp;driving: &nbsp;<i><a href="w.htm#waliikachi">waliikachi</a></i>.&nbsp;
+&nbsp;to drive (a car): &nbsp;<i><a href="a.htm#apihlichi">apihlichi</a></i>.&nbsp;
+&nbsp;to be driven: &nbsp;<i><a href="a.htm#apiikachi">apiikachi</a></i>.&nbsp;
+&nbsp;to drive (a car) for: &nbsp;<i><a href="i2.htm#iwwaliilichi">iwwaliilichi</a></i>.&nbsp;
+&nbsp;to drive (a car), run, operate, turn on or start (a vehicle or machine): &nbsp;<i><a href="w.htm#waliilichi">waliilichi</a></i>.&nbsp;
+&nbsp;to drive in reverse, back a vehicle (of one): &nbsp;<i><a href="i2.htm#istibakhititli">istibakhititli</a></i>.&nbsp;
+&nbsp;to go by car, drive in a car (of one): &nbsp;<i><a href="i2.htm#iswaliika">iswaliika</a></i>.&nbsp;
+&nbsp;to drive or operate (something) on a regular basis (as a branch business): &nbsp;<i><a href="w.htm#wállìilichi">wállìilichi</a></i>.&nbsp;
+&nbsp;to nail, drive in (a sharp object): &nbsp;<i><a href="a.htm#achosòoli">achosòoli</a></i>.&nbsp;
+&nbsp;to drive into the ground, tamp down: &nbsp;<i><a href="a.htm#abitlichi">abitlichi</a></i>.&nbsp;
+<br><b>driver</b>&nbsp;&nbsp;<i><a href="m.htm#mobìlka iswalìika">mobìlka iswalìika</a>, <a href="w.htm#waliilìichi">waliilìichi</a>, <a href="a.htm#apiilìichi">apiilìichi</a>, <a href="a.htm#áppiilìichi">áppiilìichi</a></i>.&nbsp;
+&nbsp;chauffeur, taxi driver: &nbsp;<i><a href="m.htm#mobìlka waliilìichi">mobìlka waliilìichi</a></i>.&nbsp;
+&nbsp;school bus driver: &nbsp;<i><a href="h.htm#holissosobayli imalpitta iswaliika waliilìichi">holissosobayli imalpitta iswaliika waliilìichi</a></i>.&nbsp;
+<br><b>drool</b>
+&nbsp;saliva, spit, slobber: &nbsp;<i><a href="i2.htm#ittokchi">ittokchi</a></i>.&nbsp;
+&nbsp;to slobber, drool, slurp,: &nbsp;<i><a href="t.htm#tokɬolotli">tokɬolotli</a>, <a href="t.htm#tokwayatli">tokwayatli</a></i>.&nbsp;
+&nbsp;to drool on, slobber on: &nbsp;<i><a href="p.htm#paatokɬoyotli">paatokɬoyotli</a></i>.&nbsp;
+<br><b>droop</b>
+&nbsp;to be wilting, drooping, limp (of plants): &nbsp;<i><a href="s.htm#salbi">salbi</a></i>.&nbsp;
+&nbsp;to have one's mouth droop, turn down (as with Bell's palsy): &nbsp;<i><a href="i1.htm#ichoosaniffi">ichoosaniffi</a>, <a href="i1.htm#ichoosanayka">ichoosanayka</a></i>.&nbsp;
+<br><b>drop</b>
+&nbsp;to fall, drop from above (of more than one inanimates): &nbsp;<i><a href="ll.htm#ɬàaka">ɬàaka</a>, <a href="ll.htm#ɬàakachi">ɬàakachi</a></i>.&nbsp;
+&nbsp;to fall or drop into water: &nbsp;<i><a href="o.htm#oosofka">oosofka</a></i>.&nbsp;
+&nbsp;to throw off or drop (more than one): &nbsp;<i><a href="ll.htm#ɬàali">ɬàali</a></i>.&nbsp;
+&nbsp;to throw off, throw away, drop, discard (one object): &nbsp;<i><a href="m.htm#maalichi">maalichi</a></i>.&nbsp;
+&nbsp;to drop a litter (of animals), have a brood: &nbsp;<i><a href="i1.htm#ilapihli">ilapihli</a>, <a href="c.htm#chikìili">chikìili</a></i>.&nbsp;
+&nbsp;to drop on the floor, drop to the ground: &nbsp;<i><a href="i2.htm#itamaalichi">itamaalichi</a></i>.&nbsp;
+&nbsp;to drop (something) on oneself, spill on oneself: &nbsp;<i><a href="i1.htm#ilapaamaalichi">ilapaamaalichi</a></i>.&nbsp;
+&nbsp;to have food dropping off the mouth while eating: &nbsp;<i><a href="i1.htm#ichoohoyya">ichoohoyya</a></i>.&nbsp;
+&nbsp;to have (food) drop from a utensil or the mouth: &nbsp;<i><a href="i1.htm#ichooɬàakachi">ichooɬàakachi</a></i>.&nbsp;
+&nbsp;to have something accidentally drop into a hole where it cannot be retrieved: &nbsp;<i><a href="i1.htm#inɬibitli">inɬibitli</a></i>.&nbsp;
+&nbsp;to have things fall out or drop (especially the hair): &nbsp;<i><a href="i1.htm#iⁿɬàakachi">iⁿɬàakachi</a></i>.&nbsp;
+<br><b>drop off</b>
+&nbsp;dropoff, any place one might go down: &nbsp;<i><a href="o.htm#ootanatka">ootanatka</a></i>.&nbsp;
+&nbsp;to bring and settle and leave, take and leave somewhere, drop off (plural objects): &nbsp;<i><a href="i1.htm#ilsoofi">ilsoofi</a></i>.&nbsp;
+&nbsp;to have drop off and scatter (esp. petals), shed (petals): &nbsp;<i><a href="c.htm#chilapli">chilapli</a></i>.&nbsp;
+&nbsp;to help down (as down the steps), help get out of a vehicle, drop off (a person), unload (one object): &nbsp;<i><a href="t.htm#tanatlichi">tanatlichi</a></i>.&nbsp;
+<br><b>droppings</b>&nbsp;&nbsp;<i><a href="l.htm#layki">layki</a>, <a href="h.htm#hoppola">hoppola</a></i>.&nbsp;
+<br><b>drought</b>
+&nbsp;for there to be a drought: &nbsp;<i><a href="s.htm#solotka">solotka</a></i>.&nbsp;
+&nbsp;to return to normal (of water level in a creek or lake) after having been completely dry from a drought: &nbsp;<i><a href="o.htm#oki aɬkatanooka">oki aɬkatanooka</a></i>.&nbsp;
+<br><b>drown</b>
+&nbsp;to drown: &nbsp;<i><a href="o.htm#okin ooyilli">okin ooyilli</a></i>.&nbsp;
+&nbsp;to sink under water, be drowning: &nbsp;<i><a href="o.htm#oonakaaɬa">oonakaaɬa</a></i>.&nbsp;
+<br><b>drowsy</b>
+&nbsp;to be getting sleepy, drowsy: &nbsp;<i><a href="n.htm#nótchihla">nótchihla</a></i>.&nbsp;
+<br><b>drug</b>
+&nbsp;medicine, pills, drug: &nbsp;<i><a href="a.htm#aissi">aissi</a></i>.&nbsp;
+&nbsp;any illegal drug that is smoked, esp. marijuana: &nbsp;<i><a href="h.htm#hakchommakánko">hakchommakánko</a></i>.&nbsp;
+<br><b>drum</b>&nbsp;&nbsp;<i><a href="b.htm#bokoko">bokoko</a></i>.&nbsp;
+&nbsp;steel drum: &nbsp;<i><a href="o.htm#ochona ittokolofka">ochona ittokolofka</a></i>.&nbsp;
+&nbsp;gaspergou, freshwater drum fish: &nbsp;<i><a href="o.htm#okmálko">okmálko</a></i>.&nbsp;
+&nbsp;to beat a drum: &nbsp;<i><a href="b.htm#bokoko batli">bokoko batli</a></i>.&nbsp;
+<br><b>drummer</b>&nbsp;&nbsp;<i><a href="b.htm#bokokobàatli">bokokobàatli</a>, <a href="b.htm#bokokolàachi">bokokolàachi</a></i>.&nbsp;
+<br><b>drunk</b>
+&nbsp;drunkenness, intoxication: &nbsp;<i><a href="y.htm#yalinka">yalinka</a></i>.&nbsp;
+&nbsp;a drunk person (who sometimes acts like a baby): &nbsp;<i><a href="h.htm#haktichi">haktichi</a></i>.&nbsp;
+&nbsp;to be drunk, intoxicated: &nbsp;<i><a href="y.htm#yammi1">yammi<sup>1</sup></a></i>.&nbsp;
+&nbsp;to be overly drunk: &nbsp;<i><a href="y.htm#yammifíhna1">yammifíhna<sup>1</sup></a></i>.&nbsp;
+&nbsp;to be tipsy, a little drunk: &nbsp;<i><a href="y.htm#yámmòossi">yámmòossi</a></i>.&nbsp;
+&nbsp;to be a little drunk, sleepwalk: &nbsp;<i><a href="h.htm#haktiimochi">haktiimochi</a></i>.&nbsp;
+&nbsp;to get drunk: &nbsp;<i><a href="y.htm#yammi1">yammi<sup>1</sup></a></i>.&nbsp;
+&nbsp;to intoxicate, get someone drunk: &nbsp;<i><a href="y.htm#yammichi1">yammichi<sup>1</sup></a></i>.&nbsp;
+&nbsp;to get drunk on (someone), as when they are buying the drinks: &nbsp;<i><a href="i2.htm#iyyammi">iyyammi</a></i>.&nbsp;
+<br><b>drunkard</b>&nbsp;&nbsp;<i><a href="a.htm#aatyàmmi">aatyàmmi</a></i>.&nbsp;
+<br><b>dry</b>
+&nbsp;dry land: &nbsp;<i><a href="i1.htm#ihàani solotka báanafayyon">ihàani solotka báanafayyon</a></i>.&nbsp;
+&nbsp;to dry: &nbsp;<i><a href="s.htm#solotli">solotli</a></i>.&nbsp;
+&nbsp;to dry oneself: &nbsp;<i><a href="i1.htm#ilisolotli">ilisolotli</a></i>.&nbsp;
+&nbsp;to dry up (something): &nbsp;<i><a href="t.htm#topatli">topatli</a></i>.&nbsp;
+&nbsp;to air out, hang out to dry: &nbsp;<i><a href="i1.htm#iⁿhofka">iⁿhofka</a></i>.&nbsp;
+&nbsp;to be dry (of one): &nbsp;<i><a href="s.htm#sowi">sowi</a></i>.&nbsp;
+&nbsp;to be dry, thin (of more than one): &nbsp;<i><a href="s.htm#solohka">solohka</a></i>.&nbsp;
+&nbsp;to be dry, not moist: &nbsp;<i><a href="o.htm#olmotíkko">olmotíkko</a></i>.&nbsp;
+&nbsp;to be decayed, dried up: &nbsp;<i><a href="p.htm#pakfo">pakfo</a></i>.&nbsp;
+&nbsp;to be dry, dried up, shriveled up, shrunken, wilted, skinny, wizened (of one): &nbsp;<i><a href="s.htm#solotka">solotka</a></i>.&nbsp;
+&nbsp;to be slightly dried up, starting to dry up (of one): &nbsp;<i><a href="s.htm#sóllotka">sóllotka</a></i>.&nbsp;
+&nbsp;to be wilted, dried out, dead (of plants): &nbsp;<i><a href="s.htm#sahpa">sahpa</a></i>.&nbsp;
+&nbsp;to have dried out skin, mange: &nbsp;<i><a href="w.htm#wasihko">wasihko</a></i>.&nbsp;
+&nbsp;to dry up in several places: &nbsp;<i><a href="t.htm#topaaka">topaaka</a></i>.&nbsp;
+&nbsp;to dry up (as a puddle), evaporate: &nbsp;<i><a href="t.htm#topatka">topatka</a></i>.&nbsp;
+&nbsp;to roast or parch, dry out by fire: &nbsp;<i><a href="i2.htm#itasolotli">itasolotli</a></i>.&nbsp;
+&nbsp;to shrink by drying: &nbsp;<i><a href="y.htm#yochoffi">yochoffi</a></i>.&nbsp;
+&nbsp;to shrivel from heat, shrink from drying: &nbsp;<i><a href="y.htm#yochofka">yochofka</a></i>.&nbsp;
+<br><b>dryer</b>
+&nbsp;clothes dryer: &nbsp;<i><a href="i1.htm#ilokfissolotka">ilokfissolotka</a></i>.&nbsp;
+<br><b>dry up</b>
+&nbsp;to have the water boil out and dry up (as food): &nbsp;<i><a href="i2.htm#istasolotka">istasolotka</a></i>.&nbsp;
+<br><b>drywall</b>&nbsp;&nbsp;<i><a href="i1.htm#iishayo lapàali">iishayo lapàali</a></i>.&nbsp;
+<br><b>duck</b>&nbsp;&nbsp;<i><a href="c.htm#chooskani">chooskani</a></i>.&nbsp;
+&nbsp;mallard: &nbsp;<i><a href="c.htm#chooskani ichiksa okchakko">chooskani ichiksa okchakko</a></i>.&nbsp;
+&nbsp;duck decoy: &nbsp;<i><a href="c.htm#choskaniholba">choskaniholba</a></i>.&nbsp;
+&nbsp;to duck the head, face downward (of one): &nbsp;<i><a href="ll.htm#ɬipìika">ɬipìika</a></i>.&nbsp;
+<br><b>duck dance</b>&nbsp;&nbsp;<i><a href="c.htm#chooskanibitka">chooskanibitka</a></i>.&nbsp;
+&nbsp;duck dance song: &nbsp;<i><a href="c.htm#chooskanibitka talilwa">chooskanibitka talilwa</a></i>.&nbsp;
+<br><b>duet</b>
+&nbsp;to sing with, sing a duet: &nbsp;<i><a href="i1.htm#ibaatalwa">ibaatalwa</a></i>.&nbsp;
+<br><b>dull</b>
+&nbsp;to be blunt, dull (not sharp): &nbsp;<i><a href="t.htm#tawakna">tawakna</a>, <a href="t.htm#tihna">tihna</a></i>.&nbsp;
+&nbsp;to be dull (not shiny): &nbsp;<i><a href="a.htm#aɬàpko">aɬàpko</a></i>.&nbsp;
+<br><b>dumb</b>
+&nbsp;to be mute, dumb, unable to speak due to illness: &nbsp;<i><a href="i1.htm#ichoolaksi intammi">ichoolaksi intammi</a></i>.&nbsp;
+&nbsp;to be unable to talk, be dumb, mute (e.g. have laryngitis or be too scared): &nbsp;<i><a href="n.htm#naaɬiihíkko">naaɬiihíkko</a></i>.&nbsp;
+<br><b>dummy</b>
+&nbsp;stupid person, fool: &nbsp;<i><a href="k.htm#kostinitíkkokáhchi">kostinitíkkokáhchi</a></i>.&nbsp;
+<br><b>dumpling</b>&nbsp;&nbsp;<i><a href="i2.htm#istoopaspa">istoopaspa</a>, <a href="i2.htm#istoopatka">istoopatka</a></i>.&nbsp;
+&nbsp;blue dumpling: &nbsp;<i><a href="i2.htm#istoopaspa okchákko">istoopaspa okchákko</a></i>.&nbsp;
+&nbsp;bluebread corn dumpling, corncake: &nbsp;<i><a href="p.htm#paspoochiika">paspoochiika</a></i>.&nbsp;
+&nbsp;boiled blue cornbread dumplings: &nbsp;<i><a href="p.htm#paspokchakko">paspokchakko</a></i>.&nbsp;
+<br><b>dung</b>&nbsp;&nbsp;<i><a href="l.htm#layki">layki</a></i>.&nbsp;
+<br><b>dung beetle</b>&nbsp;&nbsp;<i><a href="l.htm#laykitonòolichi">laykitonòolichi</a>, <a href="h.htm#holikcho kosòoma">holikcho kosòoma</a></i>.&nbsp;
+<br><b>dunk</b>
+&nbsp;to throw (someone) into deep water or dunk in play: &nbsp;<i><a href="o.htm#okhaboslichi">okhaboslichi</a></i>.&nbsp;
+<br><b>dusk</b>
+&nbsp;to be partially dark, be just getting dark, twilight, dusk, light just after sunset: &nbsp;<i><a href="t.htm#tánkàasi">tánkàasi</a></i>.&nbsp;
+<br><b>dust</b>&nbsp;&nbsp;<i><a href="i2.htm#istokhatka">istokhatka</a></i>.&nbsp;
+&nbsp;for dust to rise in a cloud: &nbsp;<i><a href="b.htm#boyòoli">boyòoli</a></i>.&nbsp;
+&nbsp;sawdust, wood shavings: &nbsp;<i><a href="i2.htm#ittosahkachi">ittosahkachi</a></i>.&nbsp;
+&nbsp;to be a cloud of dust: &nbsp;<i><a href="b.htm#boyotli">boyotli</a></i>.&nbsp;
+&nbsp;to be dusty: &nbsp;<i><a href="i2.htm#istokhatka">istokhatka</a></i>.&nbsp;
+&nbsp;to raise a cloud of (e.g. dust): &nbsp;<i><a href="i2.htm#itaboyotlichi">itaboyotlichi</a>, <a href="b.htm#boyotlichi">boyotlichi</a>, <a href="i2.htm#itaksobotlichi">itaksobotlichi</a></i>.&nbsp;
+<br><b>dustdevil</b>&nbsp;&nbsp;<i><a href="h.htm#hanaafololo">hanaafololo</a></i>.&nbsp;
+<br><b>dwarf</b>&nbsp;&nbsp;<i><a href="a.htm#aatchakosi">aatchakosi</a>, <a href="a.htm#achaki">achaki</a></i>.&nbsp;
+&nbsp;dwarves: &nbsp;<i><a href="a.htm#aatsáwwasi">aatsáwwasi</a></i>.&nbsp;
+&nbsp;dwarves, fairies: &nbsp;<i><a href="a.htm#aatsáwwasi hichíkso">aatsáwwasi hichíkso</a></i>.&nbsp;
+&nbsp;dwarflike being: &nbsp;<i><a href="a.htm#aatilhichíkso">aatilhichíkso</a></i>.&nbsp;
+<br><b>dwell</b>
+&nbsp;to live, dwell (of two): &nbsp;<i><a href="a.htm#àswa">àswa</a></i>.&nbsp;
+<br><b>dwelling</b>&nbsp;&nbsp;<i><a href="i2.htm#iwwìilka">iwwìilka</a></i>.&nbsp;
+<br><b>dye</b>
+&nbsp;to dye a shade of red, redden: &nbsp;<i><a href="h.htm#hommachi">hommachi</a></i>.&nbsp;
+&nbsp;to dye yellow, brown, orange, gold, beige: &nbsp;<i><a href="l.htm#laanachi">laanachi</a></i>.&nbsp;
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

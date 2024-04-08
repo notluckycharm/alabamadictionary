@@ -1,0 +1,38 @@
+{   "pronouns" : [
+    {
+        "lemma": "ana",
+        "emph": "ano",
+        "definition": "I"
+    },
+
+    {
+        "lemma": "isna",
+        "emph": "isno",
+        "definition": "You"
+    },
+  
+    {
+        "lemma": "ibisna",
+        "emph": "ibisno",
+        "definition": "He/She"
+    },
+
+    {
+        "lemma": "posna",
+        "emph": "posno",
+        "definition": "We"
+    },
+
+    {
+        "lemma": "hasna",
+        "emph": "hasno",
+        "definition": "You all"
+    },
+
+    {
+        "lemma": "hoibisna",
+        "emph": "hoibisno",
+        "definition": "They all"
+    }
+    ]
+}

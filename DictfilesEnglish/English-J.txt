@@ -1,0 +1,155 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">J</font></center><br>
+<br><b>jab</b>
+&nbsp;to elbow, nudge, jab or poke with the elbow (once): &nbsp;<i><a href="i1.htm#inkowàasan ischifipka">inkowàasan ischifipka</a></i>.&nbsp;
+<br><b>jack</b>&nbsp;&nbsp;<i><a href="i2.htm#iswakayka">iswakayka</a></i>.&nbsp;
+&nbsp;car jack or lift: &nbsp;<i><a href="m.htm#mobìlkiswakayka">mobìlkiswakayka</a></i>.&nbsp;
+&nbsp;house jack: &nbsp;<i><a href="i1.htm#iisiswakayka">iisiswakayka</a></i>.&nbsp;
+<br><b>jack handle</b>&nbsp;&nbsp;<i><a href="i2.htm#iswakayka apihchi">iswakayka apihchi</a></i>.&nbsp;
+<br><b>jail</b>&nbsp;&nbsp;<i><a href="i1.htm#iisawanha">iisawanha</a></i>.&nbsp;
+&nbsp;to close up in, put in jail: &nbsp;<i><a href="o.htm#onokbahli">onokbahli</a></i>.&nbsp;
+&nbsp;to get into, be inside, be in jail (of one): &nbsp;<i><a href="h.htm#hokfa">hokfa</a></i>.&nbsp;
+&nbsp;to be closed up in, shut up in, be in jail: &nbsp;<i><a href="o.htm#onokbahka">onokbahka</a></i>.&nbsp;
+&nbsp;to bail out of jail, post bond for: &nbsp;<i><a href="i1.htm#imaltobaachit assaliichi">imaltobaachit assaliichi</a></i>.&nbsp;
+<br><b>janitor</b>&nbsp;&nbsp;<i><a href="i1.htm#iisapàsli">iisapàsli</a></i>.&nbsp;
+<br><b>January</b>&nbsp;&nbsp;<i><a href="l.htm#lokbahaháhpa">lokbahaháhpa</a>, <a href="h.htm#hasi cháffàaka">hasi cháffàaka</a>, <a href="h.htm#hasihachàalímmòona">hasihachàalímmòona</a>, <a href="h.htm#hasiholtina aɬɬámmòona">hasiholtina aɬɬámmòona</a>, <a href="h.htm#hasiholtina hachàalímmòona">hasiholtina hachàalímmòona</a></i>.&nbsp;
+<br><b>jar</b>
+&nbsp;to shake (once), jar, jerk, rock (one time): &nbsp;<i><a href="w.htm#winotlichi">winotlichi</a></i>.&nbsp;
+<br><b>jargon</b>
+&nbsp;Mobilian jargon: &nbsp;<i><a href="y.htm#yamá">yamá</a></i>.&nbsp;
+<br><b>jasmine</b>&nbsp;&nbsp;<i><a href="a.htm#aatyammichi">aatyammichi</a></i>.&nbsp;
+<br><b>jaw</b>&nbsp;&nbsp;<i><a href="n.htm#notakfa">notakfa</a></i>.&nbsp;
+<br><b>jawbone</b>&nbsp;&nbsp;<i><a href="n.htm#notakfa chofkoni">notakfa chofkoni</a></i>.&nbsp;
+<br><b>jawbreaker candy</b>&nbsp;&nbsp;<i><a href="c.htm#champolibonotka">champolibonotka</a>, <a href="c.htm#champolibomboki">champolibomboki</a></i>.&nbsp;
+<br><b>jay</b>
+&nbsp;bluejay: &nbsp;<i><a href="t.htm#tiskila">tiskila</a></i>.&nbsp;
+<br><b>jealous</b>
+&nbsp;jealousy: &nbsp;<i><a href="i2.htm#istimposaachitilka">istimposaachitilka</a></i>.&nbsp;
+&nbsp;to be jealous, envious, mad: &nbsp;<i><a href="n.htm#noktaɬa">noktaɬa</a></i>.&nbsp;
+&nbsp;to be jealous of, envy someone: &nbsp;<i><a href="i2.htm#istimposaachi">istimposaachi</a></i>.&nbsp;
+&nbsp;to be jealous (of someone for some reason), envious of over: &nbsp;<i><a href="i2.htm#istakìilo">istakìilo</a></i>.&nbsp;
+<br><b>jeans</b>
+&nbsp;blue jeans, denims: &nbsp;<i><a href="i1.htm#ilaanikofka okchákko">ilaanikofka okchákko</a></i>.&nbsp;
+<br><b>jello</b>&nbsp;&nbsp;<i><a href="c.htm#chalóoka">chalóoka</a></i>.&nbsp;
+<br><b>jelly</b>
+&nbsp;to turn to jelly, clot (of blood), curdle (of milk): &nbsp;<i><a href="w.htm#wolohki">wolohki</a></i>.&nbsp;
+<br><b>jerk</b>
+&nbsp;to jerk, jump, start up: &nbsp;<i><a href="c.htm#chofotli">chofotli</a></i>.&nbsp;
+&nbsp;to shake (once), jar, jerk, rock (one time): &nbsp;<i><a href="w.htm#winotlichi">winotlichi</a></i>.&nbsp;
+<br><b>jerky</b>
+&nbsp;dried beef jerky: &nbsp;<i><a href="w.htm#waakanipo solotka">waakanipo solotka</a></i>.&nbsp;
+&nbsp;anything roasted or dried by fire (such as jerky): &nbsp;<i><a href="i2.htm#itasolotka">itasolotka</a></i>.&nbsp;
+&nbsp;quickly, suddenly, jerky: &nbsp;<i><a href="t.htm#tóospàasi">tóospàasi</a></i>.&nbsp;
+&nbsp;to roast or parch, dry out by fire, smoke (meat) to make jerky: &nbsp;<i><a href="i2.htm#itasolotli">itasolotli</a></i>.&nbsp;
+<br><b>Jesus</b>
+&nbsp;God, Jesus: &nbsp;<i><a href="a.htm#Abàalichókkòoli imililla íkso">Abàalichókkòoli imililla íkso</a></i>.&nbsp;
+<br><b>Jew's harp</b>&nbsp;&nbsp;<i><a href="o.htm#olaachilkasi">olaachilkasi</a></i>.&nbsp;
+<br><b>jewelry</b>&nbsp;&nbsp;<i><a href="i2.htm#istilommachitilka">istilommachitilka</a></i>.&nbsp;
+<br><b>jiggle</b>
+&nbsp;to flutter, jiggle: &nbsp;<i><a href="w.htm#winàali">winàali</a></i>.&nbsp;
+&nbsp;to shake, jiggle (as jelly): &nbsp;<i><a href="b.htm#bilohli">bilohli</a></i>.&nbsp;
+&nbsp;to shake, jiggle, or swing (someone or thing) (repeatedly): &nbsp;<i><a href="w.htm#winàalichi">winàalichi</a></i>.&nbsp;
+&nbsp;to shake oneselves repeatedly, jiggle, swing (of more than one): &nbsp;<i><a href="w.htm#winòoli">winòoli</a></i>.&nbsp;
+<br><b>jig-saw puzzle</b>
+&nbsp;jig-saw puzzle, basket, etc.: &nbsp;<i><a href="i2.htm#ittataɬka">ittataɬka</a></i>.&nbsp;
+<br><b>jingle</b>
+&nbsp;for there to be a jingling, tinkling sound: &nbsp;<i><a href="s.htm#solòoya">solòoya</a></i>.&nbsp;
+&nbsp;to clang, ring, bang (of metal objects), clatter, jingle: &nbsp;<i><a href="c.htm#chamàaya">chamàaya</a>, <a href="c.htm#chamàalichi">chamàalichi</a></i>.&nbsp;
+&nbsp;to make something jingle or clang: &nbsp;<i><a href="i2.htm#ischamàalichi">ischamàalichi</a></i>.&nbsp;
+&nbsp;to make something jingle or tinkle (as a small bell): &nbsp;<i><a href="s.htm#solòoyachi">solòoyachi</a></i>.&nbsp;
+<br><b>jittery</b>
+&nbsp;to be jittery, nervous: &nbsp;<i><a href="y.htm#yawoota">yawoota</a></i>.&nbsp;
+<br><b>job</b>&nbsp;&nbsp;<i><a href="i1.htm#intolihno">intolihno</a></i>.&nbsp;
+&nbsp;to lay (workers) off of a job: &nbsp;<i><a href="ll.htm#ɬàali">ɬàali</a></i>.&nbsp;
+<br><b>join</b>
+&nbsp;to join two together: &nbsp;<i><a href="i2.htm#ittihalatlichi">ittihalatlichi</a></i>.&nbsp;
+&nbsp;to join one to another, add on to: &nbsp;<i><a href="a.htm#apotòoli">apotòoli</a>, <a href="a.htm#apotòolichi">apotòolichi</a></i>.&nbsp;
+&nbsp;to be joined together: &nbsp;<i><a href="i2.htm#ittibachasàaka">ittibachasàaka</a></i>.&nbsp;
+&nbsp;to intertwine, fit together, join, chain together: &nbsp;<i><a href="i2.htm#ittihokfi">ittihokfi</a></i>.&nbsp;
+&nbsp;to be fitted together, chained, interlocking (of two): &nbsp;<i><a href="i2.htm#ittihokfa">ittihokfa</a></i>.&nbsp;
+<br><b>joint</b>
+&nbsp;joint (of a limb): &nbsp;<i><a href="i2.htm#ittibachássàaka">ittibachássàaka</a>, <a href="i2.htm#ittibachaskachi">ittibachaskachi</a></i>.&nbsp;
+&nbsp;to be broken off at a joint: &nbsp;<i><a href="c.htm#chiloffi">chiloffi</a></i>.&nbsp;
+&nbsp;to be out of joint (of one): &nbsp;<i><a href="t.htm#taɬoffi">taɬoffi</a></i>.&nbsp;
+&nbsp;to dislocate (someone's joint): &nbsp;<i><a href="i1.htm#intaɬoffichi">intaɬoffichi</a></i>.&nbsp;
+&nbsp;to have a dislocated joint: &nbsp;<i><a href="i1.htm#iⁿhamoffi">iⁿhamoffi</a></i>.&nbsp;
+&nbsp;to put out of joint, dislocate (one's joint): &nbsp;<i><a href="t.htm#taɬoffichi">taɬoffichi</a></i>.&nbsp;
+<br><b>joke</b>&nbsp;&nbsp;<i><a href="a.htm#afaahilka naaɬiihilka">afaahilka naaɬiihilka</a>, <a href="a.htm#afaahilka">afaahilka</a>, <a href="i2.htm#istibitchitilka">istibitchitilka</a></i>.&nbsp;
+&nbsp;to kid, joke, lie, play a trick on: &nbsp;<i><a href="c.htm#chokfi">chokfi</a>, <a href="i2.htm#istibitchichi">istibitchichi</a>, <a href="h.htm#haktíichi">haktíichi</a></i>.&nbsp;
+&nbsp;to make fun of, mock, tease, joke or kid about (something): &nbsp;<i><a href="i2.htm#istállàamiichi">istállàamiichi</a></i>.&nbsp;
+<br><b>joker</b>
+&nbsp;joker, braggart, tease: &nbsp;<i><a href="i2.htm#istibitchi">istibitchi</a></i>.&nbsp;
+&nbsp;to be a joker, trickster, liar: &nbsp;<i><a href="c.htm#chokfi">chokfi</a></i>.&nbsp;
+<br><b>jostle</b>
+&nbsp;to push at one another, jostle each other, nudge each other with the elbows (as a crowd exiting): &nbsp;<i><a href="i2.htm#ittitiiɬi">ittitiiɬi</a></i>.&nbsp;
+<br><b>jowls</b>
+&nbsp;hog jowls: &nbsp;<i><a href="s.htm#sokha ichokpaskachi">sokha ichokpaskachi</a></i>.&nbsp;
+&nbsp;second chin, jowls (of a hog): &nbsp;<i><a href="n.htm#nookopòoli">nookopòoli</a></i>.&nbsp;
+&nbsp;to get the meat off the neck of a hog or other animal: &nbsp;<i><a href="n.htm#nootaɬafka">nootaɬafka</a></i>.&nbsp;
+<br><b>jug</b>&nbsp;&nbsp;<i><a href="o.htm#ochokbawanha">ochokbawanha</a></i>.&nbsp;
+&nbsp;earthenware jug used for mixing up medicine: &nbsp;<i><a href="a.htm#aykachi">aykachi</a></i>.&nbsp;
+<br><b>juice</b>&nbsp;&nbsp;<i><a href="o.htm#okchi">okchi</a></i>.&nbsp;
+&nbsp;bean juice: &nbsp;<i><a href="c.htm#chastokokchi">chastokokchi</a></i>.&nbsp;
+&nbsp;cider, apple juice: &nbsp;<i><a href="t.htm#takkólchoba okchi">takkólchoba okchi</a></i>.&nbsp;
+&nbsp;grape juice: &nbsp;<i><a href="b.htm#baɬkokchi">baɬkokchi</a></i>.&nbsp;
+&nbsp;orange juice: &nbsp;<i><a href="y.htm#yalàaha okchi">yalàaha okchi</a></i>.&nbsp;
+&nbsp;to have juice, be juicy: &nbsp;<i><a href="o.htm#okchíisa">okchíisa</a></i>.&nbsp;
+<br><b>July</b>&nbsp;&nbsp;<i><a href="h.htm#hasiholtina istontóklo">hasiholtina istontóklo</a></i>.&nbsp;
+<br><b>jump</b>
+&nbsp;to buck, jump: &nbsp;<i><a href="s.htm#siffi">siffi</a></i>.&nbsp;
+&nbsp;to jump once, hop once: &nbsp;<i><a href="c.htm#chootli">chootli</a></i>.&nbsp;
+&nbsp;to jump, hop up and down (repeatedly): &nbsp;<i><a href="c.htm#choffi">choffi</a></i>.&nbsp;
+&nbsp;to jerk, jump, start up: &nbsp;<i><a href="c.htm#chofotli">chofotli</a></i>.&nbsp;
+&nbsp;to jump down from (of more than one): &nbsp;<i><a href="m.htm#maachoffi">maachoffi</a></i>.&nbsp;
+&nbsp;to jump off into, jump down from (of one): &nbsp;<i><a href="m.htm#maachofotli">maachofotli</a></i>.&nbsp;
+&nbsp;to jump down into water: &nbsp;<i><a href="o.htm#oochootli">oochootli</a></i>.&nbsp;
+&nbsp;to jump or walk into water once: &nbsp;<i><a href="o.htm#oochofotli">oochofotli</a></i>.&nbsp;
+&nbsp;to jump out of water more than once (as fish): &nbsp;<i><a href="o.htm#oochoffi">oochoffi</a></i>.&nbsp;
+<br><b>jump into</b>
+&nbsp;to jump into water from a height, high dive (once): &nbsp;<i><a href="m.htm#maatoochofotli">maatoochofotli</a></i>.&nbsp;
+<br><b>jump on</b>
+&nbsp;to jump on, attack (one): &nbsp;<i><a href="p.htm#paachootli">paachootli</a></i>.&nbsp;
+<br><b>jump over</b>
+&nbsp;to jump over (one object): &nbsp;<i><a href="c.htm#chofottabanatli">chofottabanatli</a>, <a href="c.htm#chootlit abanatli">chootlit abanatli</a></i>.&nbsp;
+&nbsp;to jump over (of more than one): &nbsp;<i><a href="c.htm#choftabànni">choftabànni</a></i>.&nbsp;
+<br><b>June</b>&nbsp;&nbsp;<i><a href="h.htm#hasiholtina istahánnàali">hasiholtina istahánnàali</a></i>.&nbsp;
+<br><b>June bug</b>&nbsp;&nbsp;<i><a href="f.htm#fiitihpo">fiitihpo</a></i>.&nbsp;
+&nbsp;any of various scarab beetles such as june bug: &nbsp;<i><a href="s.htm#saksámpa">saksámpa</a></i>.&nbsp;
+<br><b>just</b>
+&nbsp;just, only, merely: &nbsp;<i><a href="afx.htm#-máaɬi-">-máaɬi-</a></i>.&nbsp;
+&nbsp;the exact, the exclusive, just, the mere, only, each, the particular: &nbsp;<i><a href="afx.htm#-áɬɬi">-áɬɬi</a></i>.&nbsp;
+&nbsp;just, merely, all and only: &nbsp;<i><a href="b.htm#báana">báana</a></i>.&nbsp;
+&nbsp;just, merely, only: &nbsp;<i><a href="p.htm#píila">píila</a></i>.&nbsp;
+</font><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+</body></html>

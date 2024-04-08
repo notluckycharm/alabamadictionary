@@ -1,0 +1,54 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">E</font></center><br>
+<br><font size="+2"><b><a name="ee"></a>ee</b> </font>
+ <i>Var. of</i>&nbsp;<a href="i1.htm#ìiⁿ">ìiⁿ</a>&nbsp;
+<br><font size="+2"><b><a name="eheⁿ"></a>eheⁿ</b> </font>
+ <i>Var. of</i>&nbsp;<a href="i1.htm#ìiⁿ">ìiⁿ</a>&nbsp;
+<br><font size="+2"><b><a name="elda"></a>elda</b> </font>
+<font size="+2">to serve as an elder in the church</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>eldatiska, eldatilka, eldataska</i>)
+ {&nbsp;English}
+&nbsp;<font face="Arial">«</font>Eldalikìtta Presbyteryfan aɬɬalìibìikahchoolikha.
+ <i>When I was an elder, I used to go to Presbytery.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="eyka"></a>eyka</b> </font>
+<font size="+2">letter `A'</font>
+&nbsp; [/ey-ka<sup>3</sup>]
+ {&nbsp;English}
+<br><font size="+2"><b><a name="Eyprilka"></a>Eyprilka</b> </font>
+<font size="+2">month of April</font>
+&nbsp; [/Eypril-ka<sup>3</sup>]
+ {&nbsp;English}
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

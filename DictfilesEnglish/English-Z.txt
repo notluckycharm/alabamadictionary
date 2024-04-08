@@ -1,0 +1,42 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Alabama Dictionary</title>
+
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">Z</font></center><br>
+<br><b>zebra</b>&nbsp;&nbsp;<i><a href="c.htm#chichobalamlaki">chichobalamlaki</a>, <a href="c.htm#chichobaɬahkachi">chichobaɬahkachi</a></i>.&nbsp;
+<br><b>zigzag</b>
+&nbsp;to zig-zag: &nbsp;<i><a href="p.htm#pakohkachi">pakohkachi</a></i>.&nbsp;
+&nbsp;to be zigzaging, serpentine, swaying (as when sashaying, sauntering or swaggering) while moving: &nbsp;<i><a href="t.htm#tankachi1">tankachi<sup>1</sup></a></i>.&nbsp;
+<br><b>zoo</b>&nbsp;&nbsp;<i><a href="n.htm#nàasmaɬahli iisafon">nàasmaɬahli iisafon</a>, <a href="n.htm#nàasmaɬahli imíistilka">nàasmaɬahli imíistilka</a></i>.&nbsp;
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

@@ -1,0 +1,3344 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">T</font></center><br>
+<br><font size="+2"><b><a name="tá!"></a>tá!</b> </font>
+<font size="+2">goodbye!; thanks!; I believe it!; well!, my!</font>
+ <i>Usage: </i>Very casual way of saying `thanks'
+ {poss. short for inta}
+&nbsp;<font face="Arial">«</font>Tá! Aɬɬalo.
+ <i>Bye! I'm going.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="taahka"></a>taahka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tahahka">tahahka</a>&nbsp;
+<br><font size="+2"><b><a name="taala"></a>taala</b> </font>
+<font size="+2">palmetto, palm tree </font>
+ <i>(Sabal spp. esp. S. louisiana)</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tàala"></a>tàala</b> </font>
+<font size="+2">this or that way, this or that direction, over here, over there</font>
+ (used when pointing out a specific direction but no particular distance is implied, just direction)
+ {poss. from demonstrative root *ta + /ila}
+&nbsp;<font face="Arial">«</font>Tàalon maabahàali.
+ <i>Push it this way (towards the speaker).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Akki tàalókkohchi.
+ <i>It's not that way.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Miitamóok [sic] nita hoɬòolit nákson tàalon Bikɬikìtkáhokáhchoolo.
+ <i>Some of the others would go after bears, somewhere down this way, somewhere in the Big Thicket.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tàalóot nákson hasootàmmóot hobannaamok amaakatoolimpat nákson onkatoolo; hasootàmmi hokak akkáamifóot ittanowwat ittanowwastóóóⁿbáapik ilachihchootoolo.
+ <i>This way somewhere to the west, if they wanted to go over there, wherever it was, to the west they said, that's where they would go and they'd be gone a long time and then they'd come back.</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+<br><font size="+2"><b><a name="taalachoba"></a>taalachoba</b> </font>
+<font size="+2">palmetto </font>
+ <i>(Sabal spp)</i>
+&nbsp;<font color="#080000">Cul:  The strips from the leaves are used for hanging meat to smoke.</font>&nbsp;
+&nbsp; [/taala /choba]
+<br><font size="+2"><b><a name="taala istilamahkachi"></a>taala istilamahkachi</b> </font>
+<font size="+2">palmetto fan</font>
+&nbsp; [/taala ist-ili-a- /mah-ka<sup>1</sup>-chi<sup>1</sup>]
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="tàalwa"></a>tàalwa</b> </font>
+<font size="+2">singer</font>
+ [<i>fgr</i>]
+ ☞<a href="t.htm#talwa">talwa</a>
+<br><font size="+2"><b><a name="tàami"></a>tàami</b> </font>
+<font size="+2">to be here (of a long object), be lying here (of one) </font>
+ (seems to function like stressed locative `there')
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Aatwíhkakayon tàamo.
+ <i>The child that was looked for is lying here.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Paanok tàami.
+ <i>The creek lies there.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hinok tàami.
+ <i>Here lies the road.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ontichitok piɬɬakon ostáɬkok ohamaakaton paanok tàamin amàakastóobàapin `maahopoɬoolilaatoolo' homankok.
+ <i>So they left and went back and got in the boat and left; there was a creek lying there and they must have been going for a while when they said `they might follow after us'.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Paani filàmmihchok mìntok tànton iɬanik lawastáskan iɬanibáááánahchon nàahohchon akkáhchon...
+ <i>There was a different fork of the creek lying there and it had a lot of cane, there was cane everywhere around there...</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i2.htm#itatàami">itatàami</a></i>
+&nbsp;1.&nbsp;
+&nbsp;base
+&nbsp;2.&nbsp;
+&nbsp;to be lying on the ground
+<br>&nbsp;&nbsp;<i><a href="m.htm#maatàami">maatàami</a></i>
+&nbsp;to be lying at a distance
+<br><font size="+2"><b><a name="taanaffi"></a>taanaffi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="h.htm#hataanoffi">hataanoffi</a>&nbsp;
+<br><font size="+2"><b><a name="taapka"></a>taapka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tahapka">tahapka</a>&nbsp;
+<br><font size="+2"><b><a name="tàasi"></a>tàasi</b> </font>
+<font size="+2">oldest daughter, first born daughter </font>
+ <i>Usage: </i>Hypocoristic.
+ <i>Var: táasi</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: taasi</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Sáhmiima Eulak `Tàasi' mankahchi, Ivey.
+ <i>Sometimes Eula calls Ivey `Tàasi'</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tàasosi">tàasosi</a></i>
+&nbsp;first born baby daughter
+<br><font size="+2"><b><a name="tàasosi"></a>tàasosi</b> </font>
+<font size="+2">first born baby daughter </font>
+&nbsp; [/tàasi-osi]
+ <i>Var: táasosi</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#tàasi">tàasi</a>
+<br><font size="+2"><b><a name="taata"></a>taata</b> </font>
+<font size="+2">father </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+&nbsp;<font face="Arial">«</font>Taataa!
+ <i>Oh, Father!</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#taatasi">taatasi</a></i>
+&nbsp;uncle
+<br>&nbsp;&nbsp;<i><a href="a.htm#aatintaata">aatintaata</a></i>
+&nbsp;husband
+<br>&nbsp;&nbsp;<i><a href="i1.htm#intaata sobayíkko">intaata sobayíkko</a></i>
+&nbsp;to be illegitimate (of a child)
+<br><font size="+2"><b><a name="taatasi"></a>taatasi</b> </font>
+<font size="+2">uncle, father's brother </font>
+ <i>Lit: </i>little father
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+&nbsp; [/taata-osi]
+ ☞<a href="t.htm#taata">taata</a>
+<br><font size="+2"><b><a name="taatastáhoba"></a>taatastáhoba</b> </font>
+<font size="+2">father-in-law </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+&nbsp; [/taata ist- /ahoba]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: taatastáoba</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Antaatastáhoba.
+ <i>My father-in-law.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="taatatoba"></a>taatatoba</b> </font>
+<font size="+2">step-father </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+&nbsp; [im- /taata /toba]
+<br><font size="+2"><b><a name="tabaaka"></a>tabaaka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tabahka">tabahka</a>&nbsp;
+<br><font size="+2"><b><a name="tabahka"></a>tabahka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to draw (a rope), pull (a rope) hand over hand</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tabahiska, tabahilka, tabahaska</i>)
+&nbsp; [/taba&lt;h&gt;t-ka<sup>1</sup>]
+ <i>Var: tabaaka</i>
+&nbsp;2.&nbsp;
+<font size="+2">to be hitched up (of two or more)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#tabatka">tabatka</a>
+<br><font size="+2"><b><a name="tabahlichi"></a>tabahlichi</b> </font>
+<font size="+2">to hitch up (two or more such as a pair of horses or logs) to</font>
+&nbsp;<font color="#800080" size="+1">-LI/3/3</font>
+&nbsp;(<i>tabahchichi, tabahhilichi, tabahhachichi</i>)
+&nbsp; [/taba&lt;h&gt;t-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chichoban tissanahan tabahlichilao.
+ <i>I'm going to hitch the horses to the wagon.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tabahka">tabahka</a>
+<br><font size="+2"><b><a name="tabasa"></a>tabasa</b> </font>
+<font size="+2">widow, widower</font>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tabatka"></a>tabatka</b> </font>
+<font size="+2">to hold, catch, grab; to catch up with</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>tabatiska, tabatilka, tabataska</i>)
+&nbsp; [/tabat-ka<sup>1</sup>]
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istabatilka">istabatilka</a></i>
+&nbsp;bag with a handle
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istintabatilka">istintabatilka</a></i>
+&nbsp;handle
+<br>&nbsp;&nbsp;<i><a href="t.htm#támbatka">támbatka</a></i>
+&nbsp;to inherit; to be grabbing
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ilbi intámbatka">ilbi intámbatka</a></i>
+&nbsp;to hold hands with
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#intámbatka">intámbatka</a></i>
+&nbsp;to hold on to by a leash
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#támbatíkko">támbatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ilatabatka">ilatabatka</a></i>
+&nbsp;to hold on to something to get up
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ilatámbatka">ilatámbatka</a></i>
+&nbsp;to be holding on to something
+<br>&nbsp;&nbsp;<i><a href="t.htm#tabatlichi">tabatlichi</a></i>
+&nbsp;to hitch up (something) to (something)
+<br>&nbsp;&nbsp;<i><a href="t.htm#tabahka">tabahka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to draw (a rope)
+&nbsp;2.&nbsp;
+&nbsp;to be hitched up
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#intabahka">intabahka</a></i>
+&nbsp;to milk (a cow)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#intámbahka">intámbahka</a></i>
+&nbsp;to hold on a leash (pl. obj.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tabahlichi">tabahlichi</a></i>
+&nbsp;to hitch up (pl. obj.) to (something)
+<br><font size="+2"><b><a name="tabatli"></a>tabatli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="i2.htm#itabatli">itabatli</a>&nbsp;
+<br><font size="+2"><b><a name="tabatlichi"></a>tabatlichi</b> </font>
+<font size="+2">to hitch up (something, esp. a horse) to (something such as a wagon)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3/3</font>
+&nbsp;(<i>tabatchichi, tabathilichi, tabathachichi</i>)
+&nbsp; [/tabat-li-chi<sup>1</sup>]
+ <i>Pl: </i>tabahlichi
+&nbsp;<font face="Arial">«</font>Chichoban bàkin tabatlichilao.
+ <i>I'm going to hitch the horse to the wagon.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tabatka">tabatka</a>
+<br><font size="+2"><b><a name="tabosso"></a>tabosso</b> </font>
+<font size="+2">sumac? </font>
+ (speakers usually call this `sumac' and contrast it with kosiba, always called `pokeweed', but plant samples of pokeweed are sometimes identified as tabosso. Perhaps kosiba refers to pokeweed, while tabosso is a more general term for any of the various plants used as emetics)
+&nbsp;<font color="#080000">Cul:  Used to make wine from the berries. The boiled root makes an emetic tea.</font>&nbsp;
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tafilimmi"></a>tafilimmi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="i2.htm#ittafilimmi">ittafilimmi</a>&nbsp;
+<br><font size="+2"><b><a name="tafìlkachi"></a>tafìlkachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="i2.htm#ittafìlkachi">ittafìlkachi</a>&nbsp;
+<br><font size="+2"><b><a name="tafilli"></a>tafilli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="i2.htm#ittafilli">ittafilli</a>&nbsp;
+<br><font size="+2"><b><a name="tafolòoka"></a>tafolòoka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="i2.htm#itaafolòoka">itaafolòoka</a>&nbsp;
+<br><font size="+2"><b><a name="tahahka"></a>tahahka</b> </font>
+<font size="+2">to stab repeatedly</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>tahahiska, tahahilka, tahahaska</i>)
+&nbsp; [/taha&lt;h&gt;p-ka<sup>1</sup>]
+ <i>Var: taahka</i>
+ <i>Var: tahka</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#tahapka">tahapka</a>
+<br><font size="+2"><b><a name="tahapka"></a>tahapka</b> </font>
+<font size="+2">to stab, poke once (with a stick, etc.)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>tahapiska, tahapilka, tahapaska</i>)
+&nbsp; [/tahap-ka<sup>1</sup>]
+ <i>Var: taapka</i>
+<br>&nbsp;&nbsp;<i><a href="n.htm#nootahapka">nootahapka</a></i>
+&nbsp;to cut an animal's throat
+<br>&nbsp;&nbsp;<i><a href="t.htm#tahahka">tahahka</a></i>
+&nbsp;to stab repeatedly
+<br><font size="+2"><b><a name="tahchi"></a>tahchi</b> </font>
+<font size="+2">back of shoulder (top part), top of the shoulder, upper back </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ <i>Var: ittahchi</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Chattahchi.
+ <i>My shoulder.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chatahchik aⁿhoopo.
+ <i>My shoulder hurts.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="tahka"></a>tahka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tahahka">tahahka</a>&nbsp;
+<br><font size="+2"><b><a name="tahlichi"></a>tahlichi</b> </font>
+<font size="+2">to shake out; to flap, make flutter (anything flexible as cloth or paper in the breeze or by shaking)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tahchichi, tahhilichi, tahhachichi</i>)
+&nbsp; [/tah-li-chi<sup>2</sup>]
+&nbsp;<font face="Arial">«</font>Hatkàasin tahlichi.
+ <i>Shake out the sheets.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="f.htm#falakchi tahlichi">falakchi tahlichi</a></i>
+&nbsp;to flutter wings
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iliitahlichi">iliitahlichi</a></i>
+&nbsp;to shake oneself off
+<br><font size="+2"><b><a name="tahpàala"></a>tahpàala</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tahpala">tahpala</a>&nbsp;
+<br><font size="+2"><b><a name="tahpala"></a>tahpala</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">announcer, caller, town crier, messengers who tell people to come to the yearly Christmas óolanwi party</font>
+&nbsp;<font color="#080000">Cul:  Two boys are chosen to run from house to house wearing a big red kerchief and carrying one in the hand announcing the óolanwi game and inviting people. The next night they name two different people to be tahpàala and meet for a party at a different place. Not done much today.</font>&nbsp;
+ <i>Var: tahpàala</i>
+&nbsp;<font size="0">(VC, DB, IB)</font>
+&nbsp;2.&nbsp;
+<font size="+2">to be a tahpàala</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chatahpàala.
+ <i>I am a tahpaala.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Anok tahpalat àayalaimpo.
+ <i>I'm going to go around as the announcer.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Georgekak tahpalaayok àayampo.
+ <i>George is going to be the town crier.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="tàiska"></a>tàiska</b> </font>
+<font size="+2">railroad ties</font>
+ <i>Usage: </i>Commonly used older word.
+&nbsp; [/tàis-ka<sup>3</sup>]
+ {&nbsp;English}
+<br><font size="+2"><b><a name="takaffi"></a>takaffi</b> </font>
+<font size="+2">to dip out (once)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>takafchi, takafhili, takafhachi</i>)
+&nbsp; [/takaf-li]
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istakafka">istakafka</a></i>
+&nbsp;dipper, cup
+<br>&nbsp;&nbsp;<i><a href="t.htm#takli">takli</a></i>
+&nbsp;to dip out (more than once)
+<br><font size="+2"><b><a name="takalòosi"></a>takalòosi</b> </font>
+<font size="+2">black person</font>
+ <i>Usage: </i>Older word.
+ {VC suggests &nbsp;ittaklocha}
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: ittakalòosi</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: taklosa</i>
+&nbsp;<font size="0">(IB, DB)</font>
+<br><font size="+2"><b><a name="takassa"></a>takassa</b> </font>
+<font size="+2">to be flat (completely flat like a can, deflated ball or squashed roll, not partially deflated as a flat tire)</font>
+ <i>Var: takassi</i>
+&nbsp;<font size="0">(IB, DB)</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#intakassa">intakassa</a></i>
+&nbsp;to have something be flat
+<br>&nbsp;&nbsp;<i><a href="t.htm#takassachi">takassachi</a></i>
+&nbsp;to flatten
+<br><font size="+2"><b><a name="takassachi"></a>takassachi</b> </font>
+<font size="+2">to flatten</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>takassachitiska, takassachitilka, takassachitaska</i>)
+&nbsp; [/takassa-chi<sup>1</sup>]
+ ☞<a href="t.htm#takassa">takassa</a>
+<br><font size="+2"><b><a name="takassi"></a>takassi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#takassa">takassa</a>&nbsp;
+<br><font size="+2"><b><a name="takba"></a>takba</b> </font>
+<font size="+2">to taste bad (as hard water or a green persimmon), a taste between bitter and sweet, but not sour</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#takbatíkko">takbatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichootakba">ichootakba</a></i>
+&nbsp;to have a bad taste in the mouth
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#ichootakbachi">ichootakbachi</a></i>
+&nbsp;to leave a bad taste
+<br><font size="+2"><b><a name="takbatíkko"></a>takbatíkko</b> </font>
+ Neg.
+ ☞<a href="t.htm#takba">takba</a>
+<br><font size="+2"><b><a name="takcho"></a>takcho</b> </font>
+<font size="+2">to rope</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>tachikcho, talikcho, tahachikcho</i>)
+<br>&nbsp;&nbsp;<i><a href="t.htm#takíkcho">takíkcho</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="t.htm#talikcho">talikcho</a></i>
+&nbsp;1.&nbsp;
+&nbsp;rope
+&nbsp;2.&nbsp;
+&nbsp;to be roped
+<br><font size="+2"><b><a name="takíkcho"></a>takíkcho</b> </font>
+ Neg.
+ ☞<a href="t.htm#takcho">takcho</a>
+<br><font size="+2"><b><a name="takílwo"></a>takílwo</b> </font>
+ Neg.
+ ☞<a href="t.htm#talwa">talwa</a>
+<br><font size="+2"><b><a name="takka"></a>takka</b> </font>
+<font size="+2">channel catfish</font>
+<br><font size="+2"><b><a name="takkalàana"></a>takkalàana</b> </font>
+<font size="+2">yellow catfish</font>
+&nbsp; [/takka /laana]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="takkastàaya"></a>takkastàaya</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#takkistàaya">takkistàaya</a>&nbsp;
+<br><font size="+2"><b><a name="takkimilpa"></a>takkimilpa</b> </font>
+<font size="+2">catfish bait</font>
+&nbsp; [/takka im- il- /(i)pa]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="takkistàaya"></a>takkistàaya</b> </font>
+<font size="+2">eastern redbud </font>
+ <i>(Cercis canadensis)</i>
+ <i>Lit: </i>catfish carrier
+&nbsp; [/takka ist- /àaya]
+ <i>Var: ittotakkistàaya</i>
+ <i>Var: takkastàaya</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="takkobi"></a>takkobi</b> </font>
+<font size="+2">to be lazy</font>
+ <i>Usage: </i>Archaic.
+&nbsp;<font color="#800080" size="+1">CHA-?</font>
+ {&nbsp;Mobilian?}
+&nbsp;<font size="0">(JS)</font>
+<br><font size="+2"><b><a name="takkola"></a>takkola</b> </font>
+<font size="+2">peach, peach tree </font>
+<br><font size="+2"><b><a name="Takkola Oola"></a>Takkola Oola</b> </font>
+<font size="+2">Peach-tree Village</font>
+&nbsp;<font color="#080000">Cul:  A site located one mile north of Chester in Tyler County, it was the principal Alabama settlement in Texas ca. 1809.</font>&nbsp;
+ <i>Usage: </i>Newer word.
+&nbsp; [/takkola /oola]
+<br><font size="+2"><b><a name="takkólchoba"></a>takkólchoba</b> </font>
+<font size="+2">apple </font>
+&nbsp; [/takkola /choba]
+ <i>Var: takkolchoba</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="takkólchoba hobaski"></a>takkólchoba hobaski</b> </font>
+<font size="+2">pear </font>
+&nbsp; [/takkola /choba ho- /baski]
+<br><font size="+2"><b><a name="takkólchoba iⁿhókkìita"></a>takkólchoba iⁿhókkìita</b> </font>
+<font size="+2">apple core</font>
+&nbsp; [/takkola /choba im- /hókkìita]
+ <i>Var: takkolchoba iⁿhókkìita</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="takkólchoba istimpaalapàali"></a>takkólchoba istimpaalapàali</b> </font>
+<font size="+2">apple pie</font>
+&nbsp; [/takkola /choba ist-im-paa- /lapàa-li]
+<br><font size="+2"><b><a name="takkólchoba okchi"></a>takkólchoba okchi</b> </font>
+<font size="+2">cider, apple juice</font>
+&nbsp; [/takkola /choba /okchi]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: takkolchoba okchi</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="takkólchobasi"></a>takkólchobasi</b> </font>
+<font size="+2">crab-apple tree </font>
+ <i>(Pyrus spp)</i>
+&nbsp; [/takkola /choba-osi]
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="takkoosàwwa"></a>takkoosàwwa</b> </font>
+<font size="+2">plum; nectarine</font>
+&nbsp; [/takkola /sawwa]
+ <i>Var: takkosàwwa</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: takkosáwwa</i>
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="Takkosàwwoola"></a>Takkosàwwoola</b> </font>
+<font size="+2">Peach-tree Village</font>
+&nbsp;<font color="#080000">Cul:  A site located one mile north of Chester in Tyler County, it was the principal Alabama settlement in Texas ca. 1809.</font>&nbsp;
+ <i>Usage: </i>Older word.
+&nbsp; [/takkola /sawwa /oola]
+&nbsp;<font size="0">(JS, IB)</font>
+<br><font size="+2"><b><a name="taklahíkko"></a>taklahíkko</b> </font>
+ Neg.
+ <i>Var: taklaíkko</i>
+ ☞<a href="t.htm#taklahka">taklahka</a>
+<br><font size="+2"><b><a name="taklahka"></a>taklahka</b> </font>
+<font size="+2">to be very busy, too busy to be interrupted</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/taklah-ka<sup>1</sup>]
+ <i>Neg: </i>taklahíkko
+&nbsp;<font face="Arial">«</font>Chataklahkafíinahchi.
+ <i>I'm too busy.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chataklahkalahoolo.
+ <i>I'm going to be busy (what you might say if someone asks you to do something).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chataklahkaláalò.
+ <i>I'm going to be busy.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chitaklaⁿhka?
+ <i>Are you busy? (what you might say if you want someone to help you do something).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Taklahkahchi.
+ <i>She/he's busy.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Anok chatakláhkahchonommo.
+ <i>I'm busy (can't stop what I'm doing).</i><font face="Arial">»</font>
+ ☞<a href="t.htm#taklahli">taklahli</a>
+<br><font size="+2"><b><a name="taklahli"></a>taklahli</b> </font>
+<font size="+2">to bother or interrupt (someone who is busy), keep (someone) busy</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>taklahchi, taklahhili, taklahhachi</i>)
+&nbsp; [/taklah-li]
+&nbsp;<font face="Arial">«</font>Chitaklahlilìi?
+ <i>Am I bothering you?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Taklahchi.
+ <i>You're bothering him.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hochataklahliimoolo.
+ <i>They're sure bothering me.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chitaklahlilaaho.
+ <i>I'm going to bother you (a way of warning someone you're going to ask them for help).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chatakláhchin ommo.
+ <i>You bothered me.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Taklahlínna.
+ <i>Don't let him bother him.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(IB)</font>
+&nbsp;<font face="Arial">«</font>Okántaaho Heɬak chataklahlihchommo.
+ <i>I can't come because Heather interrupted me.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#taklahlichi">taklahlichi</a></i>
+&nbsp;to make (someone) busy
+<br>&nbsp;&nbsp;<i><a href="t.htm#taklahka">taklahka</a></i>
+&nbsp;to be very busy
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#taklahíkko">taklahíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="taklahlichi"></a>taklahlichi</b> </font>
+<font size="+2">to make (someone) busy, make someone bother (someone) (as when someone leaves their children with a person)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>taklahchichi, taklahhilichi, taklahhachichi</i>)
+&nbsp; [/taklah-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Taklahlichilo.
+ <i>I made her busy (e.g. a lady was cleaning up her yard (i.e. busy already) and I brought my kids over for her to watch (to bother her and make her more busy)).</i><font face="Arial">»</font>
+ ☞<a href="t.htm#taklahli">taklahli</a>
+<br><font size="+2"><b><a name="taklaíkko"></a>taklaíkko</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#taklahíkko">taklahíkko</a>&nbsp;
+<br><font size="+2"><b><a name="takli"></a>takli</b> </font>
+<font size="+2">to dip out (more than once)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>takchi, takhili, takhachi</i>)
+&nbsp; [/tak(af)-li]
+ [<i>dsfx1</i>]
+ ☞<a href="t.htm#takaffi">takaffi</a>
+<br><font size="+2"><b><a name="taklosa"></a>taklosa</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#takalòosi">takalòosi</a>&nbsp;
+<br><font size="+2"><b><a name="taksi"></a>taksi</b> </font>
+<font size="+2">to be bland, tasteless (of food), weak in flavor, light tasting (as weak coffee, soup without salt, etc.)</font>
+<br><font size="+2"><b><a name="taktahka"></a>taktahka</b> </font>
+<font size="+2">to cluck, cackle (as a hen about to lay an egg)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>taktahiska, taktahilka, taktahaska</i>)
+&nbsp; [prob. /taktah-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Taktahiskahchòmmi?
+ <i>Are you making a sound fixing to lay an egg? (sometimes people talk to their hen).</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="tala"></a>tala</b> </font>
+<font size="+2">layer (as of cream on milk or congealed grease)</font>
+ <i>Usage: </i>Older word.
+ {prob. from /tal(àa)-a}
+&nbsp;<font size="0">(IB, DB)</font>
+<br><font size="+2"><b><a name="talàaka"></a>talàaka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be set out, laid out</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/talàa-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Indian Reservashikak talàakafòokon antaata imáapochòobotoomon koloffit istointalàatoolo iyaanin.
+ <i>When the Indian Reservation was laid out they cut off and set aside a piece of land for my father's grandmother.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">anything empty set up to receive something put into it</font>
+ (may refer to a bowl, cup, bucket, a plowed field ready to be planted, a plot of land ready to be built on, etc)
+&nbsp;<font size="0">(VC)</font>
+ <i>Pl: </i>talka
+ ☞<a href="t.htm#talàali">talàali</a>
+<br><font size="+2"><b><a name="talàali"></a>talàali</b> </font>
+<font size="+2">to put down, set down, lay out, set out (one object), set up (an upright object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>talàachi, talàahili, talàahachi</i>)
+&nbsp; [/talàa-li]
+&nbsp;<font face="Arial">«</font>Holihton talàalilào.
+ <i>I'm going to set out a fence.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tállàali">tállàali</a></i>
+&nbsp;piece of land
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istalàali">istalàali</a></i>
+&nbsp;to put down (something in a container)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istalàaka">istalàaka</a></i>
+&nbsp;stand of trees
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istállàaka">istállàaka</a></i>
+&nbsp;collection
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ispaatalàali">ispaatalàali</a></i>
+&nbsp;to set down (a container)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ispaatalàaka">ispaatalàaka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;bottom of a container
+&nbsp;2.&nbsp;
+&nbsp;to just have been put out in a container
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ispaatállàaka">ispaatállàaka</a></i>
+&nbsp;to be set out in
+<br>&nbsp;&nbsp;<i><a href="m.htm#maastalàali">maastalàali</a></i>
+&nbsp;to set out
+<br>&nbsp;&nbsp;<i><a href="y.htm#yaatalàali">yaatalàali</a></i>
+&nbsp;to cover the head
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="y.htm#yaatállàali">yaatállàali</a></i>
+&nbsp;to wear (a hat)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="y.htm#yaatala">yaatala</a></i>
+&nbsp;hat
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isyaatala">isyaatala</a></i>
+&nbsp;head ornament
+<br>&nbsp;&nbsp;<i><a href="o.htm#ootalàali">ootalàali</a></i>
+&nbsp;to set afloat
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istootalàali">istootalàali</a></i>
+&nbsp;to set afloat in a vessel
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istootállàali">istootállàali</a></i>
+&nbsp;to leave afloat
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istootalàaka">istootalàaka</a></i>
+&nbsp;to have been set out on the water in a vessel
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istootállàaka">istootállàaka</a></i>
+&nbsp;to be set out on the water in a vessel
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#ootalàaka">ootalàaka</a></i>
+&nbsp;to have been set out on the water
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#ootállàaka">ootállàaka</a></i>
+&nbsp;to be standing water
+<br>&nbsp;&nbsp;<i><a href="p.htm#paatalàaka">paatalàaka</a></i>
+&nbsp;to have just been put on top of
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paatállàaka">paatállàaka</a></i>
+&nbsp;to be located on top of something
+<br>&nbsp;&nbsp;<i><a href="t.htm#talàaka">talàaka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be set out
+&nbsp;2.&nbsp;
+&nbsp;container
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tállàaka">tállàaka</a></i>
+&nbsp;to be set out
+<br>&nbsp;&nbsp;<i><a href="t.htm#talli">talli</a></i>
+&nbsp;to lay out (pl. obj.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tallichi">tallichi</a></i>
+&nbsp;to lay out (pl. obj.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maastalli">maastalli</a></i>
+&nbsp;to put (things) out
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#talka">talka</a></i>
+&nbsp;to be laid out
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iistalka">iistalka</a></i>
+&nbsp;tent
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istalka">istalka</a></i>
+&nbsp;to be set out (in containers)
+<br><font size="+2"><b><a name="talaalmi"></a>talaalmi</b> </font>
+<font size="+2">dirt, filth</font>
+&nbsp; [/talaa&lt;l&gt;mi]
+ ☞<a href="t.htm#talaami">talaami</a>
+<br><font size="+2"><b><a name="talaami"></a>talaami</b> </font>
+<font size="+2">to be grimy, dirty (all over), sloppy</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [poss. /talami]
+&nbsp;<font face="Arial">«</font>Wilokan talaami.
+ <i>My shoes are dirty.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#talaamischoba">talaamischoba</a></i>
+&nbsp;to be filthy
+<br>&nbsp;&nbsp;<i><a href="t.htm#talaamitilka">talaamitilka</a></i>
+&nbsp;filth
+<br>&nbsp;&nbsp;<i><a href="t.htm#talaalmi">talaalmi</a></i>
+&nbsp;dirt
+<br>&nbsp;&nbsp;<i><a href="t.htm#tállàami">tállàami</a></i>
+&nbsp;to be just a little dirty
+<br>&nbsp;&nbsp;<i><a href="t.htm#taláamòosi">taláamòosi</a></i>
+&nbsp;to be a little dirty
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ibiitalaami">ibiitalaami</a></i>
+&nbsp;to have a dirty face
+<br>&nbsp;&nbsp;<i><a href="i1.htm#intalaami">intalaami</a></i>
+&nbsp;to be dirty (of body part or possession)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#intállàami">intállàami</a></i>
+&nbsp;to have a little dirt on one's clothes
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istalaami">istalaami</a></i>
+&nbsp;to be ugly
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istintalaami">istintalaami</a></i>
+&nbsp;to make ugly faces at
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istalasmi">istalasmi</a></i>
+&nbsp;to be ugly
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istalaamitilka">istalaamitilka</a></i>
+&nbsp;ugliness
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istilichootalaami">istilichootalaami</a></i>
+&nbsp;to have dirt around the mouth
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istilichootalaamichi">istilichootalaamichi</a></i>
+&nbsp;to dirty the mouth by dribbling
+<br>&nbsp;&nbsp;<i><a href="t.htm#talaamichi">talaamichi</a></i>
+&nbsp;to make dirty
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istalaamichi">istalaamichi</a></i>
+&nbsp;to get something dirty with (something)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istalankìicho">istalankìicho</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istállàamìichi">istállàamìichi</a></i>
+&nbsp;to tease about (something)
+<br>&nbsp;&nbsp;<i><a href="t.htm#talasmi">talasmi</a></i>
+&nbsp;to be dirty (pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#intalasmi">intalasmi</a></i>
+&nbsp;to be dirty (of body part or possession) (pl.)
+<br><font size="+2"><b><a name="talaamichi"></a>talaamichi</b> </font>
+<font size="+2">to make dirty, soil</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>talanchichi, talaⁿhilichi, talaⁿhachichi</i>)
+&nbsp; [poss. /talami-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Ilokfan talanchichiiso.
+ <i>You got your dress dirty. (Parents used to say this.).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ilokfan talanchichínnàa.
+ <i>Don't get your clothes dirty.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#talaami">talaami</a>
+<br><font size="+2"><b><a name="talaamischoba"></a>talaamischoba</b> </font>
+<font size="+2">to be filthy dirty</font>
+&nbsp; [/talaami ist- /choba]
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Iishayok talaamischoba.
+ <i>The house is filthy.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#talaami">talaami</a>
+<br><font size="+2"><b><a name="talaamitilka"></a>talaamitilka</b> </font>
+<font size="+2">filth, dirt</font>
+&nbsp; [/talaami-tilka]
+ ☞<a href="t.htm#talaami">talaami</a>
+<br><font size="+2"><b><a name="taláamòosi"></a>taláamòosi</b> </font>
+<font size="+2">to be a little dirty, messy, sloppy, unkempt, disheveled</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/talaami-osi]
+ [<i>fgr?</i>]
+&nbsp;<font face="Arial">«</font>Chitaláamòosi.
+ <i>You're dirty, messy.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#talaami">talaami</a>
+<br><font size="+2"><b><a name="talaapàkha"></a>talaapàkha</b> </font>
+<font size="+2">prickly pear cactus </font>
+ <i>(Opuntia humifusa)</i>
+ {poss. &nbsp;taala aapakha; or maybe the plant with a magical stone referred to by Swanton &nbsp;tali aapakha?}
+ <i>Var: tali aapakha</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="talakto"></a>talakto</b> </font>
+<font size="+2">eagle, bald eagle, golden eagle </font>
+ <i>Usage: </i>Older word.
+ <i>Var: talokko</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: talókto</i>
+&nbsp;<font size="0">(IB)</font>
+ <i>Var: tolokko</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="talaktochoba"></a>talaktochoba</b> </font>
+<font size="+2">eagle</font>
+; <font size="+2">a kind of gigantic bird</font>
+&nbsp;<font color="#080000">Cul:  It could pick up humans and carry them off. There are no more of them because they've all been killed.</font>&nbsp;
+&nbsp;<font size="0">(IB)</font>
+&nbsp; [/talakto /choba]
+ <i>Var: talóktochoba</i>
+&nbsp;<font size="0">(IB)</font>
+ <i>Var: talokkochoba</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="talasmi"></a>talasmi</b> </font>
+<font size="+2">to be dirty (of more than)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/talaa&lt;s&gt;mi]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#talaami">talaami</a>
+<br><font size="+2"><b><a name="talbòoli"></a>talbòoli</b> </font>
+<font size="+2">to make, fix (one object); to beat, mix, make (a cake)</font>
+ <i>Usage: </i>Newer word.
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>talbòochi, talbòohili, talbòohachi</i>)
+ <i>Var: talibòoli</i>
+&nbsp;<font face="Arial">«</font>Atokláali talbòoli.
+ <i>Restore it.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Paspachámpolin talbòoliha.
+ <i>Make a cake.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ifa imiisan talbòolaalaoton talbóotákkoⁿhchommo.
+ <i>I want to make a doghouse but I haven't made it yet.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Itton hocháklit nahoomok, ittiswakaykakon hotalbòolit hobaskit yáamòosikáhchon (gesture) hotalbòoliimok (gesture) ittimpòoktat howaakayòolihchoolikha.
+ <i>They would chop some of the logs and that's the way they would do; they would make a gadget to lift logs with, they made it about so long (three feet), and got on either side and used to lift that way.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="a.htm#aissi talbòoli">aissi talbòoli</a></i>
+&nbsp;to make medicine
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iistalkan talbòoli">iistalkan talbòoli</a></i>
+&nbsp;to put up a tent
+<br>&nbsp;&nbsp;<i><a href="t.htm#talbóolit anooli">talbóolit anooli</a></i>
+&nbsp;to accomplish
+<br>&nbsp;&nbsp;<i><a href="t.htm#tiikan talbòoli">tiikan talbòoli</a></i>
+&nbsp;to make tea
+<br>&nbsp;&nbsp;<i><a href="i1.htm#intalbòoli">intalbòoli</a></i>
+&nbsp;to repair
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istilitalibòoli">istilitalibòoli</a></i>
+&nbsp;to take medicine
+<br>&nbsp;&nbsp;<i><a href="p.htm#paatalbòoli">paatalbòoli</a></i>
+&nbsp;to repair
+<br>&nbsp;&nbsp;<i><a href="t.htm#talli">talli</a></i>
+&nbsp;to build
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#intalli">intalli</a></i>
+&nbsp;to build for
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#talka">talka</a></i>
+&nbsp;to be built
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#talhíkko">talhíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="talbóolit anooli"></a>talbóolit anooli</b> </font>
+<font size="+2">to accomplish</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/talbòo-li-t /anoo-li]
+ ☞<a href="t.htm#talbòoli">talbòoli</a>
+<br><font size="+2"><b><a name="talchossi"></a>talchossi</b> </font>
+<font size="+2">gravel; iron ore</font>
+&nbsp; [/tali (chossi)?]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#tali">tali</a>
+<br><font size="+2"><b><a name="talchossibáana"></a>talchossibáana</b> </font>
+<font size="+2">gravelly land</font>
+&nbsp; [/talchossi /báana]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="talhíkko"></a>talhíkko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Iisaháhpak pontalhikóomofòokama iissòobafan ìistilkahchoolikha.
+ <i>When this new house wasn't yet built for us, we used to live in this old house.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#talka2">talka<sup>2</sup></a>
+<br><font size="+2"><b><a name="tali"></a>tali</b> </font>
+<font size="+2">stone, rock, pebble; child's marble</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#talchossi">talchossi</a></i>
+&nbsp;gravel
+<br>&nbsp;&nbsp;<i><a href="t.htm#talosi">talosi</a></i>
+&nbsp;small rock
+<br><font size="+2"><b><a name="tali aapakha"></a>tali aapakha</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#talaapàkha">talaapàkha</a>&nbsp;
+<br><font size="+2"><b><a name="talibòoli"></a>talibòoli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#talbòoli">talbòoli</a>&nbsp;
+<br><font size="+2"><b><a name="talihapi"></a>talihapi</b> </font>
+<font size="+2">salt lick</font>
+&nbsp; [/tali /hapi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="taliholitcha"></a>taliholitcha</b> </font>
+<font size="+2">glass or clay shooting marble; marble game</font>
+&nbsp;<font color="#080000">Cul:  A game played by adults, especially old men, when VC was a boy. Oldtimers played all night long. Five target marbles were placed on the ground in the form of a cross in the middle of a playing field. Two teams stood opposite one another 10-15 feet from the target marbles. Shooting marbles (sometimes glass, usually clay) were propelled with the thumb from a standing position. Teams alternated to shoot away the four target marbles at the ends of the cross first, then the team that hit the middle marble won. Some oldtimers were so good they never missed. The men never let VC play because he was too young. No one plays it today.</font>&nbsp;
+&nbsp; [/tali /ho&lt;li&gt;tcha]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tali hotcha"></a>tali hotcha</b> </font>
+<font size="+2">to shoot marbles, play marbles</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [/tali /hotcha]
+&nbsp;<font face="Arial">«</font>Choyyaposa istalàakaaya sobáaylilihchootóskan ìisaamok pontòoliimon ostòompat talóot hohótchat ìisat akkáhmin híichalihchoolikha.
+ <i>I remember there used to be a grove of pine trees there, and so whenever they were there and it got to be noontime, they would go eat and shoot marbles for a while and I always used to see them do that way.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="h.htm#hotcha">hotcha</a>
+<br><font size="+2"><b><a name="talikcho"></a>talikcho</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">rope</font>
+&nbsp; [/ta&lt;li&gt;kcho]
+&nbsp;2.&nbsp;
+<font size="+2">to be roped, tied with rope</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ ☞<a href="t.htm#takcho">takcho</a>
+<br><font size="+2"><b><a name="talikchoyaasikopka"></a>talikchoyaasikopka</b> </font>
+<font size="+2">knot (in a rope)</font>
+&nbsp; [/ta&lt;li&gt;kcho aa- /sikop-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="talilocha"></a>talilocha</b> </font>
+<font size="+2">asphalt, blacktop pavement</font>
+&nbsp; [/tali /locha]
+<br><font size="+2"><b><a name="talilwa"></a>talilwa</b> </font>
+<font size="+2">song, hymn, chant</font>
+&nbsp; [/ta&lt;li&gt;lwa]
+ ☞<a href="t.htm#talwa">talwa</a>
+<br><font size="+2"><b><a name="talilwaholisso"></a>talilwaholisso</b> </font>
+<font size="+2">hymnal, songbook</font>
+&nbsp; [/ta&lt;li&gt;lwa /ho&lt;li&gt;sso]
+<br><font size="+2"><b><a name="talisawwa"></a>talisawwa</b> </font>
+<font size="+2">gravel</font>
+&nbsp; [/tali /sawwa]
+ <i>Var: talsawwa</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="talisbakohka"></a>talisbakohka</b> </font>
+<font size="+2">slingshot</font>
+&nbsp; [/tali ist- /bakoh-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="talisholitcha"></a>talisholitcha</b> </font>
+<font size="+2">slingshot</font>
+&nbsp; [/tali ist- /ho&lt;li&gt;tcha]
+<br><font size="+2"><b><a name="talishotcha"></a>talishotcha</b> </font>
+<font size="+2">marble</font>
+&nbsp; [/tali ist- /hotcha]
+<br><font size="+2"><b><a name="talismaakàaka"></a>talismaakàaka</b> </font>
+<font size="+2">sling, string slingshot</font>
+&nbsp; [/tali ist- /maakaa-ka<sup>1</sup>]
+ [<i>fgr</i>]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: talismaakáaka</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="talka"></a>talka</b><sup>1</sup> </font>
+<font size="+2">to be put down, set down, laid out, set out (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/tal(àa)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="t.htm#talli1">talli<sup>1</sup></a>
+<br><font size="+2"><b><a name="talka"></a>talka</b><sup>2</sup> </font>
+<font size="+2">to be built </font>
+&nbsp; [/tal(bòo)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="t.htm#talli2">talli<sup>2</sup></a>
+<br><font size="+2"><b><a name="talkoosa"></a>talkoosa</b> </font>
+<font size="+2">knife, table knife, blade </font>
+&nbsp;<font face="Arial">«</font>Ya talkoossòoba itto apihchi innàahohchok iⁿsamatlóosikaⁿhchon?
+ <i>It was an old knife that has a wood handle that it's inserted into, don't you know?</i> <font size="0">(PTH)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#talkoosasi">talkoosasi</a></i>
+&nbsp;pocketknife
+<br><font size="+2"><b><a name="talkoosa hokfa"></a>talkoosa hokfa</b> </font>
+<font size="+2">knife sheath</font>
+&nbsp; [/talkoosa /hokfa]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="talkoosa ibaksakaali"></a>talkoosa ibaksakaali</b> </font>
+<font size="+2">knife with a sharp point</font>
+&nbsp; [/talkoosa /ibaksakaa-li]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="talkoosa imiisa"></a>talkoosa imiisa</b> </font>
+<font size="+2">knife sheath</font>
+&nbsp; [/talkoosa im- /iisa]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="talkoosa iⁿsokcha"></a>talkoosa iⁿsokcha</b> </font>
+<font size="+2">knife sheath</font>
+&nbsp; [/talkoosa im- /sokcha]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: talkoosiⁿsokcha</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="talkoosa ishalokpa"></a>talkoosa ishalokpa</b> </font>
+<font size="+2">whetstone, sharpening stone, hone</font>
+&nbsp; [/talkoosa ist- /halokpa]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="talkoosasi"></a>talkoosasi</b> </font>
+<font size="+2">pocketknife</font>
+&nbsp; [/talkoosa-osi]
+ ☞<a href="t.htm#talkoosa">talkoosa</a>
+<br><font size="+2"><b><a name="talkooschoba"></a>talkooschoba</b> </font>
+<font size="+2">butcher knife, hunting knife, bowie knife, machete</font>
+&nbsp; [/talkoosa /choba]
+ <i>Var: talkoschoba</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: talkoossoba</i>
+<br><font size="+2"><b><a name="talkooschoba istittilba"></a>talkooschoba istittilba</b> </font>
+<font size="+2">sword</font>
+&nbsp; [/talkoosa /choba ist-itti-il- /(i)bi-a]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="talkoosiⁿsokcha"></a>talkoosiⁿsokcha</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#talkoosa iⁿsokcha">talkoosa iⁿsokcha</a>&nbsp;
+<br><font size="+2"><b><a name="talkoossoba"></a>talkoossoba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#talkooschoba">talkooschoba</a>&nbsp;
+<br><font size="+2"><b><a name="talkoschoba"></a>talkoschoba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#talkooschoba">talkooschoba</a>&nbsp;
+<br><font size="+2"><b><a name="tállàaka"></a>tállàaka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be set out, set down (as of land), set up (of one object)</font>
+&nbsp; [/talàa-ka<sup>1</sup>]
+ [<i>ggr</i>]
+&nbsp;2.&nbsp;
+<font size="+2">piece of land, any permanent container</font>
+&nbsp;<font face="Arial">«</font>Antállàaka.
+ <i>My bowl, field, etc.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chintállàaka.
+ <i>Your garden, bucket, etc.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#talàaka">talàaka</a>
+<br><font size="+2"><b><a name="tállàali"></a>tállàali</b> </font>
+<font size="+2">piece of land, permanent container</font>
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Stapakfóotkat chóobàasiiyán hotállàahchoolikha.
+ <i>They used to go around (the field) with it, setting out a big one (fence).</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="t.htm#talàali">talàali</a>
+<br><font size="+2"><b><a name="tállàami"></a>tállàami</b> </font>
+<font size="+2">to be just a little dirty, slightly soiled</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/talami]
+ [<i>ggr</i>]
+ ☞<a href="t.htm#talaami">talaami</a>
+<br><font size="+2"><b><a name="talli"></a>talli</b><sup>1</sup> </font>
+<font size="+2">to put down, set down, lay out, set out (plural objects), set up (upright objects)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>talchi, talhili, talhachi</i>)
+&nbsp; [/tal(àa)-li]
+ [<i>dsfx1</i>]
+&nbsp;<font face="Arial">«</font>Mafòokaya chassik oinnàahosta chastokiikáhchootok oinnàahon nàahòosin hotallichihchókkootik, oolimpa innàahoomoolikáhchoolikha.
+ <i>At that time they always seemed to have corn and even beans, even though they didn't have big plots they always seemed to have lots of food.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="t.htm#talàali">talàali</a>
+<br><font size="+2"><b><a name="talli"></a>talli</b><sup>2</sup> </font>
+<font size="+2">to build, construct, make (plural objects)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>talchi, talhili, talhachi</i>)
+&nbsp; [/tal(bòo)-li]
+ [<i>dsfx1</i>]
+ ☞<a href="t.htm#talbòoli">talbòoli</a>
+<br><font size="+2"><b><a name="tallichi"></a>tallichi</b> </font>
+<font size="+2">to lay out (esp. land), set out (plural objects), set up (upright objects)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>talchichi, talhilichi, talhachichi</i>)
+&nbsp; [/tal(àa)-li-chi<sup>2</sup>]
+ [<i>dsfx1</i>]
+&nbsp;<font face="Arial">«</font>Nàahòosin hotallichihchókkootik oolimpa innàahoomoolikáhchoolikha.
+ <i>Even though they didn't have big plots of land, they always had a lot of food.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="t.htm#talli1">talli<sup>1</sup></a>
+<br><font size="+2"><b><a name="talokko"></a>talokko</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#talakto">talakto</a>&nbsp;
+<br><font size="+2"><b><a name="talokkochoba"></a>talokkochoba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#talaktochoba">talaktochoba</a>&nbsp;
+<br><font size="+2"><b><a name="talókto"></a>talókto</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#talakto">talakto</a>&nbsp;
+<br><font size="+2"><b><a name="talóktochoba"></a>talóktochoba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#talaktochoba">talaktochoba</a>&nbsp;
+<br><font size="+2"><b><a name="Talòola"></a>Talòola</b> </font>
+<font size="+2">Rock Town, Texas; Taloola, Texas</font>
+&nbsp;<font color="#080000">Cul:  Very early settlement near Big Sandy and the Alabama-Coushatta Reservation, now grown over.</font>&nbsp;
+&nbsp; [/tali /oola]
+<br><font size="+2"><b><a name="talosi"></a>talosi</b> </font>
+<font size="+2">gravel, small stone or rock, pebble</font>
+&nbsp; [/tali-osi]
+ ☞<a href="t.htm#tali">tali</a>
+<br><font size="+2"><b><a name="talosi báanafayya ihaani"></a>talosi báanafayya ihaani</b> </font>
+<font size="+2">gravelly land</font>
+&nbsp; [/tali-osi /báana-fa-y-ya /ihaani]
+<br><font size="+2"><b><a name="talsawwa"></a>talsawwa</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#talisawwa">talisawwa</a>&nbsp;
+<br><font size="+2"><b><a name="talwa"></a>talwa</b> </font>
+<font size="+2">to sing, chant; to purr (of a cat)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>tachilwa, talilwa, tahachilwa</i>)
+&nbsp;<font face="Arial">«</font>Aɬɬatok nákson Albaamok nákson ìisaamon akkàamifan àayat tálwaamok talwatok onáamit àayat àayat nákson oɬaafòokon akkat àayafòokon Albaamok.
+ <i>He went off to wherever the Alabamas were living and as he was going around he kept on singing and singing and he went along until he arrived at where the Alabamas were.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#takílwo">takílwo</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="t.htm#talwachi">talwachi</a></i>
+&nbsp;to have (someone) sing
+<br>&nbsp;&nbsp;<i><a href="t.htm#talilwa">talilwa</a></i>
+&nbsp;song
+<br>&nbsp;&nbsp;<i><a href="t.htm#tàalwa">tàalwa</a></i>
+&nbsp;singer
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ibaatalwa">ibaatalwa</a></i>
+&nbsp;to sing with
+<br>&nbsp;&nbsp;<i><a href="i1.htm#intalwa">intalwa</a></i>
+&nbsp;to sing to
+<br><font size="+2"><b><a name="talwachi"></a>talwachi</b> </font>
+<font size="+2">to have (someone) sing</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>talwachitiska, talwachitilka, talwachitaska</i>)
+&nbsp; [/talwa-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#talwa">talwa</a>
+<br><font size="+2"><b><a name="taɬa"></a>taɬa</b> </font>
+<font size="+2">to weave</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>taɬchi, taɬhili, taɬhachi</i>)
+<br>&nbsp;&nbsp;<i><a href="t.htm#táɬko">táɬko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="t.htm#taɬka">taɬka</a></i>
+&nbsp;to be woven
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istaɬka">istaɬka</a></i>
+&nbsp;instrument used to weave
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittataɬka">ittataɬka</a></i>
+&nbsp;anything interwoven
+<br>&nbsp;&nbsp;<i><a href="k.htm#kolbishayòoki taɬa">kolbishayòoki taɬa</a></i>
+&nbsp;to weave a basket
+<br><font size="+2"><b><a name="taɬaapa"></a>taɬaapa</b> </font>
+<font size="+2">to rattle, make a rattling noise (e.g. a wagon) </font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#taɬaapachi">taɬaapachi</a></i>
+&nbsp;to cause a rattling noise
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#taɬaapáachòssi">taɬaapáachòssi</a></i>
+&nbsp;to cause an intermittent rattling noise
+<br><font size="+2"><b><a name="taɬaapáachòssi"></a>taɬaapáachòssi</b> </font>
+<font size="+2">to rattle, cause a little intermittent rattling noise or vibration </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>taɬaapáachòstiskahchi, taɬaapáachòstilkahchi, taɬaapáachòstaskahchi</i>)
+&nbsp; [/taɬaapa-chi<sup>1</sup>-osi-hchi]
+ [<i>fgr?</i>]
+ ☞<a href="t.htm#taɬaapachi">taɬaapachi</a>
+<br><font size="+2"><b><a name="taɬaapachi"></a>taɬaapachi</b> </font>
+<font size="+2">to rattle, cause a rattling noise </font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>taɬaapachitiska, taɬaapachitilka, taɬaapachitaska</i>)
+&nbsp;(<i>taɬaapachiska, taɬaapachilka, taɬaapachaska</i>)
+&nbsp; [/taɬaapa-chi<sup>1</sup>]
+ <i>Var: taɬàapachi</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Nàasok taɬaapáachin háalolo.
+ <i>I hear something being rattled.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#taɬaapa">taɬaapa</a>
+<br><font size="+2"><b><a name="taɬafka"></a>taɬafka</b> </font>
+<font size="+2">to strip, peel off (e.g. bark) (with a knife), slice</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>taɬafiska, taɬafilka, taɬafaska</i>)
+&nbsp; [/taɬaf-ka<sup>1</sup>]
+ <i>Var: taɬapka</i>
+&nbsp;<font size="0">(DB)</font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#nootaɬafka">nootaɬafka</a></i>
+&nbsp;to remove from neck or throat
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maanootaɬafka">maanootaɬafka</a></i>
+&nbsp;to take out of the throat
+<br>&nbsp;&nbsp;<i><a href="t.htm#taɬka">taɬka</a></i>
+&nbsp;to peel with a knife
+<br>&nbsp;&nbsp;<i><a href="t.htm#taɬɬichi">taɬɬichi</a></i>
+&nbsp;to plane off the sides of (pl. obj.)
+<br><font size="+2"><b><a name="taɬapka"></a>taɬapka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#taɬafka">taɬafka</a>&nbsp;
+<br><font size="+2"><b><a name="taɬìika"></a>taɬìika</b> </font>
+<font size="+2">to be squared off (of one)</font>
+&nbsp; [/taɬìi-ka<sup>1</sup>]
+ <i>Pl: </i>taɬka
+&nbsp;<font face="Arial">«</font>Iisittihokfa, tatkaya `loghouse' mankahchonko-ittachàapat taɬiilkahchon-aayìistilkahchoolikha.
+ <i>A log house, the white people call it `loghouse'-opposite sides are peeled off square-that's where we used to live.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="t.htm#taɬìili">taɬìili</a>
+<br><font size="+2"><b><a name="taɬìili"></a>taɬìili</b> </font>
+<font size="+2">to square (off), plane off sides of (one thing)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>taɬìichi, taɬìihili, taɬìihachi</i>)
+&nbsp; [/taɬìi-li]
+<br>&nbsp;&nbsp;<i><a href="t.htm#taɬìika">taɬìika</a></i>
+&nbsp;to be squared off
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istaɬiilka">istaɬiilka</a></i>
+&nbsp;plane, adze
+<br>&nbsp;&nbsp;<i><a href="t.htm#taɬɬi">taɬɬi</a></i>
+&nbsp;to plane off the sides of (pl. obj.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#taɬka">taɬka</a></i>
+&nbsp;to be squared off
+<br><font size="+2"><b><a name="taɬiipa"></a>taɬiipa</b> </font>
+<font size="+2">to be a hundred</font>
+ <i>Usage: </i>Cannot use this form for counting.
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>taɬiipatiska, taɬiipatilka, taɬiipataska</i>)
+&nbsp;<font face="Arial">«</font>Taɬiipaho.
+ <i>There's going to be one hundred.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#táɬɬìipa">táɬɬìipa</a></i>
+&nbsp;one hundred
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#táɬɬìipastíkko">táɬɬìipastíkko</a></i>
+ Neg.
+&nbsp;not just one hundred
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#taɬìipatikóomo">taɬìipatikóomo</a></i>
+ Neg.
+&nbsp;not yet one hundred
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#táɬɬìipascháffàaka">táɬɬìipascháffàaka</a></i>
+&nbsp;one hundred
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#taɬɬìipa awah tòklo">taɬɬìipa awah tòklo</a></i>
+&nbsp;one hundred and two
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#taɬɬìipastòklo">taɬɬìipastòklo</a></i>
+&nbsp;two hundred
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#taɬiipastòklo awah tòklo">taɬiipastòklo awah tòklo</a></i>
+&nbsp;two hundred and two
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#taɬɬìipastótchìina">taɬɬìipastótchìina</a></i>
+&nbsp;three hundred
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#taɬɬìipaspókkòoli">taɬɬìipaspókkòoli</a></i>
+&nbsp;one thousand
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#taɬìipaspoolistòklo">taɬìipaspoolistòklo</a></i>
+&nbsp;two thousand
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#taɬiipaspoolistótchìina">taɬiipaspoolistótchìina</a></i>
+&nbsp;three thousand
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#taɬiipaspoolihchi óstàaka">taɬiipaspoolihchi óstàaka</a></i>
+&nbsp;four thousand
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#taɬiipaspoolistáɬɬàapi">taɬiipaspoolistáɬɬàapi</a></i>
+&nbsp;five thousand
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#taɬiipaspoolishánnàali">taɬiipaspoolishánnàali</a></i>
+&nbsp;six thousand
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#taɬiipaspoolihchi ontóklo">taɬiipaspoolihchi ontóklo</a></i>
+&nbsp;seven thousand
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#taɬiipaspoolihchi ontótchìina">taɬiipaspoolihchi ontótchìina</a></i>
+&nbsp;eight thousand
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#taɬiipaspoolischákkàali">taɬiipaspoolischákkàali</a></i>
+&nbsp;nine thousand
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#taɬiipaspoolispókkòoli">taɬiipaspoolispókkòoli</a></i>
+&nbsp;ten thousand
+<br><font size="+2"><b><a name="taɬiipaspókkòoli"></a>taɬiipaspókkòoli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#taɬɬìipaspókkòoli">taɬɬìipaspókkòoli</a>&nbsp;
+<br><font size="+2"><b><a name="taɬiipaspókkòolis óstàaka"></a>taɬiipaspókkòolis óstàaka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#taɬiipaspoolihchi óstàaka">taɬiipaspoolihchi óstàaka</a>&nbsp;
+<br><font size="+2"><b><a name="taɬiipaspoolihchi ontóklo"></a>taɬiipaspoolihchi ontóklo</b> </font>
+<font size="+2">the number seven thousand</font>
+&nbsp; [/taɬiipa-hchi /pooli-hchi ona- /tóklo]
+ ☞<a href="t.htm#taɬɬìipaspókkòoli">taɬɬìipaspókkòoli</a>
+<br><font size="+2"><b><a name="taɬiipaspoolihchi ontótchìina"></a>taɬiipaspoolihchi ontótchìina</b> </font>
+<font size="+2">the number eight thousand</font>
+&nbsp; [/taɬiipa-hchi /pooli-hchi ona- /tótchìina]
+ ☞<a href="t.htm#taɬɬìipaspókkòoli">taɬɬìipaspókkòoli</a>
+<br><font size="+2"><b><a name="taɬiipaspoolihchi óstàaka"></a>taɬiipaspoolihchi óstàaka</b> </font>
+<font size="+2">the number four thousand</font>
+&nbsp; [/taɬiipa-hchi /pókkòoli-hchi /óstàa-ka<sup>1</sup>]
+ <i>Var: taɬiipaspókkòolis óstàaka</i>
+ ☞<a href="t.htm#taɬɬìipaspókkòoli">taɬɬìipaspókkòoli</a>
+<br><font size="+2"><b><a name="taɬiipaspoolischákkàali"></a>taɬiipaspoolischákkàali</b> </font>
+<font size="+2">the number nine thousand</font>
+&nbsp; [/taɬiipa-hchi /pooli-hchi /chákkàa-li]
+ ☞<a href="t.htm#taɬɬìipaspókkòoli">taɬɬìipaspókkòoli</a>
+<br><font size="+2"><b><a name="taɬiipaspoolishánnàali"></a>taɬiipaspoolishánnàali</b> </font>
+<font size="+2">the number six thousand</font>
+&nbsp; [/taɬiipa-hchi /pooli-hchi /hánnàa-li]
+ ☞<a href="t.htm#taɬɬìipaspókkòoli">taɬɬìipaspókkòoli</a>
+<br><font size="+2"><b><a name="taɬiipaspoolispókkòoli"></a>taɬiipaspoolispókkòoli</b> </font>
+<font size="+2">the number ten thousand</font>
+&nbsp; [/taɬiipa-hchi /pooli-hchi /pókkòo-li]
+ <i>Var: táɬɬìipaspoolispókkòoli</i>
+ ☞<a href="t.htm#taɬɬìipaspókkòoli">taɬɬìipaspókkòoli</a>
+<br><font size="+2"><b><a name="taɬiipaspoolistáɬɬàapi"></a>taɬiipaspoolistáɬɬàapi</b> </font>
+<font size="+2">the number five thousand</font>
+&nbsp; [/taɬiipa-hchi /pooli-hchi /táɬɬàapi]
+ ☞<a href="t.htm#taɬɬìipaspókkòoli">taɬɬìipaspókkòoli</a>
+<br><font size="+2"><b><a name="taɬìipaspoolistòklo"></a>taɬìipaspoolistòklo</b> </font>
+<font size="+2">the number two thousand</font>
+&nbsp; [/taɬiipa-hchi /pooli-hchi /tòklo]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: taɬiipaspoolistòklo</i>
+ ☞<a href="t.htm#taɬɬìipaspókkòoli">taɬɬìipaspókkòoli</a>
+<br><font size="+2"><b><a name="taɬiipaspoolistótchìina"></a>taɬiipaspoolistótchìina</b> </font>
+<font size="+2">the number three thousand</font>
+&nbsp; [/taɬiipa-hchi /pooli-hchi /tótchìina]
+ ☞<a href="t.htm#taɬɬìipaspókkòoli">taɬɬìipaspókkòoli</a>
+<br><font size="+2"><b><a name="taɬiipastòklo"></a>taɬiipastòklo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#taɬɬìipastòklo">taɬɬìipastòklo</a>&nbsp;
+<br><font size="+2"><b><a name="taɬiipastòklo awah tòklo"></a>taɬiipastòklo awah tòklo</b> </font>
+<font size="+2">the number two hundred and two</font>
+&nbsp; [/taɬiipa-hchi /tòklo /awah /tòklo]
+ ☞<a href="t.htm#taɬɬìipastòklo">taɬɬìipastòklo</a>
+<br><font size="+2"><b><a name="taɬiipastótchìina"></a>taɬiipastótchìina</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#taɬɬìipastótchìina">taɬɬìipastótchìina</a>&nbsp;
+<br><font size="+2"><b><a name="taɬìipatikóomo"></a>taɬìipatikóomo</b> </font>
+ Neg.
+<font size="+2">not yet one hundred, that is, specifically less than one hundred</font>
+&nbsp; [/taɬìipa-tíkko-mo]
+ ☞<a href="t.htm#táɬɬìipa">táɬɬìipa</a>
+<br><font size="+2"><b><a name="taɬka"></a>taɬka</b><sup>1</sup> </font>
+<font size="+2">to be knitted, woven </font>
+&nbsp; [/taɬa-ka<sup>1</sup>]
+ ☞<a href="t.htm#taɬa">taɬa</a>
+<br><font size="+2"><b><a name="taɬka"></a>taɬka</b><sup>2</sup> </font>
+<font size="+2">to peel repeatedly with a knife, whittle, carve</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>taɬiska, taɬilka, taɬaska</i>)
+&nbsp; [/taɬ(af)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+&nbsp;<font face="Arial">«</font>Yalàahan issimilaliima antaɬiskalòo?
+ <i>If I bring you an orange will you peel it for me?</i><font face="Arial">»</font>
+ ☞<a href="t.htm#taɬafka">taɬafka</a>
+<br><font size="+2"><b><a name="taɬka"></a>taɬka</b><sup>3</sup> </font>
+<font size="+2">to be squared off (of more than one)</font>
+&nbsp; [/taɬ(ìi)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="t.htm#taɬɬi">taɬɬi</a>
+<br><font size="+2"><b><a name="taɬka sakla"></a>taɬka sakla</b> </font>
+<font size="+2">net</font>
+&nbsp; [/taɬa-ka<sup>1</sup> /sakla]
+<br><font size="+2"><b><a name="táɬko"></a>táɬko</b> </font>
+ Neg.
+ ☞<a href="t.htm#taɬa">taɬa</a>
+<br><font size="+2"><b><a name="tàɬɬa"></a>tàɬɬa</b> </font>
+<font size="+2">side (of the body); side of, other side</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Chatàɬɬa.
+ <i>My side.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>...tàɬɬon ooɬopótlok...
+ <i>...(then) he crossed to the other side...</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Táɬɬàason hátchàalihchi.
+ <i>It's on one side only.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Iistàɬɬa.
+ <i>Side of the house.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chaknaaskit tàɬɬon chaknaaskihchi.
+ <i>She's doing side to side bends.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ya táɬɬayok yon ischinchakíihòoso.
+ <i>This side is not as high as yours.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ispaaboyyat spaaɬopótlit stamamàakahchoolikha, paani tàɬɬot ommiimon.
+ <i>They walked on top of it crossing over and that is how they used to go, if it was on the other side of the creek.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#intáɬɬa">intáɬɬa</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be across from
+&nbsp;2.&nbsp;
+&nbsp;partner
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittintáɬɬa">ittintáɬɬa</a></i>
+&nbsp;to be partners with each other
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ilotàɬɬà">ilotàɬɬà</a></i>
+&nbsp;to be located on this side of
+<br>&nbsp;&nbsp;<i><a href="k.htm#kostàɬɬà">kostàɬɬà</a></i>
+&nbsp;to be located on the far side of
+<br><font size="+2"><b><a name="táɬɬàapi"></a>táɬɬàapi</b> </font>
+<font size="+2">number five, to be five in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>táɬɬàapitiska, táɬɬàapitilka, táɬɬàapitaska</i>)
+&nbsp;<font face="Arial">«</font>Táɬɬàapitilko.
+ <i>There are five of us.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Táɬɬàapit annàahobi.
+ <i>I have five.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#táɬɬàapichi">táɬɬàapichi</a></i>
+&nbsp;to do five times
+<br>&nbsp;&nbsp;<i><a href="a.htm#atáɬɬàapi">atáɬɬàapi</a></i>
+&nbsp;Friday
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istáɬɬàapi">istáɬɬàapi</a></i>
+&nbsp;to be fifth
+<br><font size="+2"><b><a name="táɬɬàapichi"></a>táɬɬàapichi</b> </font>
+<font size="+2">to do five times, make five</font>
+ (may refer to scoring five points, producing five offspring, etc)
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>táɬɬàapichitiska, táɬɬàapichitilka, táɬɬàapichitaska</i>)
+&nbsp; [/táɬɬàapi-chi<sup>1</sup>]
+ ☞<a href="t.htm#táɬɬàapi">táɬɬàapi</a>
+<br><font size="+2"><b><a name="taɬɬi"></a>taɬɬi</b> </font>
+<font size="+2">to square (off), plane off the sides of (several things), slice up, cut up (e.g. a log)</font>
+ <i>Usage: </i>This seems to be the plural of alternate verbs taɬafka (var. taɬapka) and taɬìili, depending on the speaker.
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>taɬchi, taɬhili, taɬhachi</i>)
+&nbsp; [/taɬ(ìi)-li]
+ [<i>dsfx1</i>]
+ ☞<a href="t.htm#taɬìili">taɬìili</a>
+<br><font size="+2"><b><a name="taɬɬichi"></a>taɬɬichi</b> </font>
+<font size="+2">to slice off the sides of (several things) repeatedly, mark blazes</font>
+ <i>Usage: </i>This seems to be the plural of alternate verbs taɬafka (var. taɬapka) and taɬìili, depending on the speaker.
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>taɬchichi, taɬhilichi, taɬhachichi</i>)
+&nbsp; [/taɬ(af)-ka<sup>1</sup>-chi<sup>2</sup>]
+ [<i>dsfx1</i>]
+&nbsp;<font size="0">(DB)</font>
+ ☞<a href="t.htm#taɬafka">taɬafka</a>
+<br><font size="+2"><b><a name="táɬɬìipa"></a>táɬɬìipa</b> </font>
+<font size="+2">number one hundred, to be one hundred</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>táɬɬìipatiska, táɬɬìipatilka, táɬɬìipataska</i>)
+ [<i>ggr</i>]
+ <i>Neg: </i>táɬɬìipastíkko
+ <i>Var: taɬɬìipa</i>
+&nbsp;<font face="Arial">«</font>Táɬɬìipan baybalo.
+ <i>I weigh one hundred pounds.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Táɬɬìipatilkasko.
+ <i>There are one hundred of us.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chimàapok táɬɬìipampo.
+ <i>Your grandmother is one hundred years old.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Toknaatáɬɬìipan chabanno.
+ <i>I want a hundred dollars.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#taɬiipa">taɬiipa</a>
+<br><font size="+2"><b><a name="taɬɬìipa awah tòklo"></a>taɬɬìipa awah tòklo</b> </font>
+<font size="+2">to be one hundred and two</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/taɬɬìipa /awah /tòklo]
+ ☞<a href="t.htm#taɬiipa">taɬiipa</a>
+<br><font size="+2"><b><a name="táɬɬìipascháffàaka"></a>táɬɬìipascháffàaka</b> </font>
+<font size="+2">the number one hundred, to be one hundred in number</font>
+&nbsp; [/táɬɬìipa ist- /cháffàa-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#táɬɬìipa">táɬɬìipa</a>
+<br><font size="+2"><b><a name="taɬɬìipaspókkòoli"></a>taɬɬìipaspókkòoli</b> </font>
+<font size="+2">the number one thousand, to be one thousand in number</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp; [/taɬɬìipa ist- /pókkòo-li]
+ <i>Var: taɬɬìipaspooli</i>
+ <i>Var: taɬiipaspókkòoli</i>
+ ☞<a href="t.htm#táɬɬìipa">táɬɬìipa</a>
+<br><font size="+2"><b><a name="taɬɬìipaspooli"></a>taɬɬìipaspooli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#taɬɬìipaspókkòoli">taɬɬìipaspókkòoli</a>&nbsp;
+<br><font size="+2"><b><a name="táɬɬìipaspoolispókkòoli"></a>táɬɬìipaspoolispókkòoli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#taɬiipaspoolispókkòoli">taɬiipaspoolispókkòoli</a>&nbsp;
+<br><font size="+2"><b><a name="táɬɬìipastíkko"></a>táɬɬìipastíkko</b> </font>
+ Neg.
+<font size="+2">not just one hundred, that is, specifically more than one hundred</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#táɬɬìipa">táɬɬìipa</a>
+<br><font size="+2"><b><a name="taɬɬìipastòklo"></a>taɬɬìipastòklo</b> </font>
+<font size="+2">the number two hundred, to be two hundred in number</font>
+&nbsp; [/taɬɬìipa ist- /tòklo]
+ <i>Var: taɬiipastòklo</i>
+ ☞<a href="t.htm#táɬɬìipa">táɬɬìipa</a>
+<br><font size="+2"><b><a name="taɬɬìipastótchìina"></a>taɬɬìipastótchìina</b> </font>
+<font size="+2">the number three hundred, to be three hundred in number</font>
+&nbsp; [/taɬɬìipa ist- /tótchìina]
+ <i>Var: taɬiipastótchìina</i>
+ ☞<a href="t.htm#táɬɬìipa">táɬɬìipa</a>
+<br><font size="+2"><b><a name="taɬoffi"></a>taɬoffi</b> </font>
+<font size="+2">to slip off, slip away; to be loose and coming off; to be past a certain time; to be out of joint (of one)</font>
+&nbsp; [/taɬof-li]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Pontoolit taɬoffi.
+ <i>Afternoon.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Pontoot taɬoffiimon intolihnolòo.
+ <i>We're going to work after lunch.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#intaɬoffi">intaɬoffi</a></i>
+&nbsp;to have a sprain
+<br>&nbsp;&nbsp;<i><a href="t.htm#taɬoffichi">taɬoffichi</a></i>
+&nbsp;to put out of joint (sg.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#intaɬoffichi">intaɬoffichi</a></i>
+&nbsp;to dislocate
+<br>&nbsp;&nbsp;<i><a href="t.htm#taɬòoli">taɬòoli</a></i>
+&nbsp;to be have several loose parts (pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#intaɬoòli">intaɬoòli</a></i>
+&nbsp;to have (pl.) dislocations
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#taɬòolichi">taɬòolichi</a></i>
+&nbsp;to put out of joint (pl.)
+<br><font size="+2"><b><a name="taɬoffichi"></a>taɬoffichi</b> </font>
+<font size="+2">to put out of joint, dislocate (one's joint); to aim for and miss (one object); to unhook (one object)</font>
+ (this means to cause to slip off, but not miss completely (which is ɬakoffichi), as when you put your elbow on the table and it slips off the edge)
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>taɬofchichi, taɬofhilichi, taɬofhachichi</i>)
+&nbsp; [/taɬof-li-chi<sup>1</sup>]
+ <i>Pl: </i>taɬòolichi
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Sakban taɬoffichitaakati.
+ <i>He dislocated his arm, I hear.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chalbochòosin taɬoffichiliti.
+ <i>I dislocated my little finger.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#taɬoffi">taɬoffi</a>
+<br><font size="+2"><b><a name="taɬòoli"></a>taɬòoli</b> </font>
+<font size="+2">to be loose and coming off (of more than one), have several loose parts; to be out of joint (of several); to be unhooked (of several)</font>
+&nbsp; [/taɬ(of)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#taɬoffi">taɬoffi</a>
+<br><font size="+2"><b><a name="taɬòolichi"></a>taɬòolichi</b> </font>
+<font size="+2">to put out of joint (plural objects); to unhook (plural objects); to aim at and miss (e.g. several steps); to loosen or dislocate at the joints</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>taɬòochichi, taɬòohilichi, taɬòohachichi</i>)
+&nbsp; [/taɬ(of)li-chi<sup>1</sup>]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Chichobak maataɬòolìichok abanatliiso.
+ <i>The horses (used their noses) loosened (the rail fence) and got over it.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#taɬòoli">taɬòoli</a>
+<br><font size="+2"><b><a name="támbatíkko"></a>támbatíkko</b> </font>
+ Neg.
+ ☞<a href="t.htm#támbatka">támbatka</a>
+<br><font size="+2"><b><a name="támbatka"></a>támbatka</b> </font>
+<font size="+2">to inherit, hold (land), hold title (to land), hold rights (to land); to be grabbing</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>támbatiska, támbatilka, támbataska</i>)
+ [<i>ggr</i>]
+ ☞<a href="t.htm#tabatka">tabatka</a>
+<br><font size="+2"><b><a name="tamka"></a>tamka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tanka">tanka</a>&nbsp;
+<br><font size="+2"><b><a name="tammáykàamit"></a>tammáykàamit</b> </font>
+<font size="+2">to stagger</font>
+ <i>Lit: </i>as if s/he's going to fall
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/tam-li-ahi-káhmi-t]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#tammi">tammi</a>
+<br><font size="+2"><b><a name="tammi"></a>tammi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to fall, fall down (accidentally) (of one); to pass away </font>
+&nbsp;<font size="0">(DB, IB)</font>
+ <i>Usage: </i>Old euphemism for `die'
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/tam-li]
+&nbsp;<font face="Arial">«</font>Tàmmok alwahkati.
+ <i>It fell and broke. (was dropped from the air, never touched the table).</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to fall down on purpose, take a pratfall (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>tanchi, -, -</i>)
+<br>&nbsp;&nbsp;<i><a href="t.htm#tammáykàamit">tammáykàamit</a></i>
+&nbsp;to stagger
+<br>&nbsp;&nbsp;<i><a href="t.htm#tammisbannakáhchi">tammisbannakáhchi</a></i>
+&nbsp;to be about to fall
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichoolaksi intammi">ichoolaksi intammi</a></i>
+&nbsp;to be mute
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iltammi">iltammi</a></i>
+&nbsp;to fall down from above
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istiltootammi">istiltootammi</a></i>
+&nbsp;to fall into the water
+<br>&nbsp;&nbsp;<i><a href="i2.htm#itatammi">itatammi</a></i>
+&nbsp;to fall to the ground
+<br>&nbsp;&nbsp;<i><a href="o.htm#ootammi">ootammi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to fall into (something)
+&nbsp;2.&nbsp;
+&nbsp;to sink
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="h.htm#hasi ootammi">hasi ootammi</a></i>
+&nbsp;to set (of sun); to be the west
+<br>&nbsp;&nbsp;<i><a href="o.htm#ostammi">ostammi</a></i>
+&nbsp;to move on
+<br>&nbsp;&nbsp;<i><a href="t.htm#tammilaafìinok">tammilaafìinok</a></i>
+&nbsp;to stagger
+<br>&nbsp;&nbsp;<i><a href="t.htm#támmìlaakat">támmìlaakat</a></i>
+&nbsp;to stagger
+<br><font size="+2"><b><a name="tammilaafìinok"></a>tammilaafìinok</b> </font>
+<font size="+2">to stagger</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/tam-li-la-fìina-o<sup>1</sup>-k]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#tammi">tammi</a>
+<br><font size="+2"><b><a name="támmìlaakat"></a>támmìlaakat</b> </font>
+<font size="+2">to stagger</font>
+ <i>Lit: </i>about to fall
+ <i>Usage: </i>Older word.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/tam-li-la-ka<sup>2</sup>-t]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: támmillàaka</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#tammi">tammi</a>
+<br><font size="+2"><b><a name="tammisbannakáhchi"></a>tammisbannakáhchi</b> </font>
+<font size="+2">to stagger, be about to fall</font>
+ <i>Lit: </i>kind of trying to fall
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/tam-li-s /banna-káhmi-hchi]
+&nbsp;<font face="Arial">«</font>Tammisbannaakát àayat chattabin hoopachilitok ommo.
+ <i>I was staggering around and hurt my leg.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tammi">tammi</a>
+<br><font size="+2"><b><a name="tamokíyho"></a>tamokíyho</b> </font>
+ Neg.
+ ☞<a href="t.htm#tamoyha">tamoyha</a>
+<br><font size="+2"><b><a name="tamòoyha"></a>tamòoyha</b> </font>
+<font size="+2">cleared land</font>
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Tamòoyhaafan achihliliti.
+ <i>I planted where it's cleared.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tamoyha">tamoyha</a>
+<br><font size="+2"><b><a name="tamoyha"></a>tamoyha</b> </font>
+<font size="+2">to be cleared (of land)</font>
+&nbsp;<font size="0">(VC)</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tamòoyha">tamòoyha</a></i>
+&nbsp;cleared land
+<br>&nbsp;&nbsp;<i><a href="t.htm#tamokíyho">tamokíyho</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="t.htm#tamoyhachi">tamoyhachi</a></i>
+&nbsp;to clear (land)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#intamoyhachi">intamoyhachi</a></i>
+&nbsp;to clear (land) for
+<br><font size="+2"><b><a name="tamoyhachi"></a>tamoyhachi</b> </font>
+<font size="+2">to clear (land)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tamoyhachitiska, tamoyhachitilka, tamoyhachitaska</i>)
+&nbsp; [/tamoyha-chi<sup>1</sup>]
+ ☞<a href="t.htm#tamoyha">tamoyha</a>
+<br><font size="+2"><b><a name="Tamsi"></a>Tamsi</b> </font>
+<font size="+2">Thompson, as in Chief Charlie Thompson </font>
+&nbsp;<font color="#080000">Cul:  Chief Charles Martin Thompson, also known as Sun-Ke, served as Chief from 1928-1935. He and Speaker Chief McConico Battise, along with Second Chief Clem Fain, made the historic trip to Washington, D.C., where they made a successful request for more land for the tribe from the federal government.</font>&nbsp;
+ {&nbsp;English}
+<br><font size="+2"><b><a name="tanaali"></a>tanaali</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tanahli">tanahli</a>&nbsp;
+<br><font size="+2"><b><a name="tanahli"></a>tanahli</b> </font>
+<font size="+2">to descend, come down, land (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, tanahhili, tanahhachi</i>)
+&nbsp; [/tana&lt;h&gt;t-li]
+ <i>Var: tanaali</i>
+&nbsp;<font face="Arial">«</font>Tanahlok amaakatok Chahtahaakok nàasooton imakanoochiikat stíisafòokon híichatáskat `amahilkaskìi' homankok.
+ <i>They got out (of the boat) and went over there and they noticed that the Choctaws seemed to be preparing for something so they said `Let's go!'</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+ ☞<a href="t.htm#tanatli">tanatli</a>
+<br><font size="+2"><b><a name="tanahlichi"></a>tanahlichi</b> </font>
+<font size="+2">to unload (more than one thing)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tanahchichi, tanahhilichi, tanahhachichi</i>)
+&nbsp; [/tana&lt;h&gt;t-li-chi<sup>1</sup>]
+ ☞<a href="t.htm#tanahli">tanahli</a>
+<br><font size="+2"><b><a name="tanatli"></a>tanatli</b> </font>
+<font size="+2">to descend, come down, go down, land; to get out of, go down steps, get down, get out of a vehicle (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>tanatchi, -, -</i>)
+&nbsp; [/tanat-li]
+&nbsp;<font face="Arial">«</font>...tanátlok waliikáamok...
+ <i>...he got down and ran off again...</i> <font size="0">(MBL)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="m.htm#maatanatli">maatanatli</a></i>
+&nbsp;to go down
+<br>&nbsp;&nbsp;<i><a href="o.htm#ootanatli">ootanatli</a></i>
+&nbsp;to go down
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#ootanatka">ootanatka</a></i>
+&nbsp;vertical drop
+<br>&nbsp;&nbsp;<i><a href="t.htm#tanatlichi">tanatlichi</a></i>
+&nbsp;to help down
+<br>&nbsp;&nbsp;<i><a href="a.htm#aatanatka">aatanatka</a></i>
+&nbsp;stairs
+<br>&nbsp;&nbsp;<i><a href="i1.htm#imaatanatka">imaatanatka</a></i>
+&nbsp;landing strip
+<br>&nbsp;&nbsp;<i><a href="t.htm#tanahli">tanahli</a></i>
+&nbsp;to descend
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maatanahli">maatanahli</a></i>
+&nbsp;to go down
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imaatanàaka">imaatanàaka</a></i>
+&nbsp;airport
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tanahlichi">tanahlichi</a></i>
+&nbsp;to unload (pl. obj.)
+<br><font size="+2"><b><a name="tanatlichi"></a>tanatlichi</b> </font>
+<font size="+2">to help down (as down the steps), help get out of a vehicle, drop off (a person), unload (one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>tanatchichi, tanathilichi, tanathachichi</i>)
+&nbsp; [/tanat-li-chi<sup>1</sup>]
+ <i>Pl: </i>tanahlichi
+ ☞<a href="t.htm#tanatli">tanatli</a>
+<br><font size="+2"><b><a name="tanayli"></a>tanayli</b> </font>
+<font size="+2">to fold once</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tanaychi, tanayhili, tanayhachi</i>)
+&nbsp; [/tanay-li]
+<br>&nbsp;&nbsp;<i><a href="t.htm#tanaylichi">tanaylichi</a></i>
+&nbsp;to have (someone) fold (something)
+<br>&nbsp;&nbsp;<i><a href="t.htm#tànnichi">tànnichi</a></i>
+&nbsp;to fold more than once
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tankachi">tankachi</a></i>
+&nbsp;to be coiled
+<br><font size="+2"><b><a name="tanaylichi"></a>tanaylichi</b> </font>
+<font size="+2">to have (someone) fold (something) over, make fold</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>tanaychichi, tanayhilichi, tanayhachichi</i>)
+&nbsp; [/tanay-li-chi<sup>1</sup>]
+&nbsp;<font size="0">(IB)</font>
+ ☞<a href="t.htm#tanayli">tanayli</a>
+<br><font size="+2"><b><a name="taniffi"></a>taniffi</b> </font>
+<font size="+2">to bend</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tanifchi, tanifhili, tanifhachi</i>)
+&nbsp; [/tanif-li]
+<br>&nbsp;&nbsp;<i><a href="t.htm#tanifka">tanifka</a></i>
+&nbsp;to be bent
+<br>&nbsp;&nbsp;<i><a href="t.htm#tanìili">tanìili</a></i>
+&nbsp;to dent (rep.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tanìika">tanìika</a></i>
+&nbsp;to be dented (rep.)
+<br><font size="+2"><b><a name="tanifka"></a>tanifka</b> </font>
+<font size="+2">to be bent once </font>
+&nbsp; [/tanif-ka<sup>1</sup>]
+ <i>Pl: </i>tanìika
+ ☞<a href="t.htm#taniffi">taniffi</a>
+<br><font size="+2"><b><a name="tanihilka"></a>tanihilka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#taniilka">taniilka</a>&nbsp;
+<br><font size="+2"><b><a name="tanihka"></a>tanihka</b> </font>
+<font size="+2">to play the board game taniilka</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tanihiska, tanihilka, tanihaska</i>)
+&nbsp; [prob. /tanih-ka<sup>1</sup>]
+&nbsp;<font size="0">(IB)</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#taniilka">taniilka</a></i>
+&nbsp;board game
+<br><font size="+2"><b><a name="tanìika"></a>tanìika</b> </font>
+<font size="+2">to be dented, bent more than one time </font>
+&nbsp; [/tani(f)-ka<sup>1</sup>]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="t.htm#tanìili">tanìili</a>
+<br><font size="+2"><b><a name="tanìili"></a>tanìili</b> </font>
+<font size="+2">to bend, dent (more than once)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tanìichi, tanìihili, tanìihachi</i>)
+&nbsp; [/tani(f)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="t.htm#taniffi">taniffi</a>
+<br><font size="+2"><b><a name="taniilka"></a>taniilka</b> </font>
+<font size="+2">traditional board game</font>
+&nbsp;<font color="#080000">Cul:  Similar to pachisi, played with four pieces of split river cane about eight to ten inches long which are thrown down. Number of moves is determined by whether the pieces land outside up or down-all down moves ten, all up moves five, otherwise move the number down. The players advance a marker around a board with boxes and a middle. If another catches a player he or she must go back to the beginning. Can be played with partners.</font>&nbsp;
+&nbsp; [/tanih&lt;il&gt;-ka<sup>1</sup>]
+ <i>Var: tanihilka</i>
+&nbsp;<font size="0">(IB)</font>
+ <i>Var: iɬanitaniilka</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#tanihka">tanihka</a>
+<br><font size="+2"><b><a name="tanka"></a>tanka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">night</font>
+&nbsp; [prob. /tam-ka<sup>1</sup>]
+&nbsp;2.&nbsp;
+<font size="+2">to be dark</font>
+ <i>Usage: </i>Tamka is an archaic pronunciation.
+ <i>Var: tamka</i>
+&nbsp;<font face="Arial">«</font>Tankaayon intoonolihchooti.
+ <i>I work nights.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Choskanin chokaⁿhkan salaklan akkáhmiiyon tankatoomáaɬon ilachiti.
+ <i>Ducks, guinea fowls, and geese all together came after dark.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tankachi">tankachi</a></i>
+&nbsp;to darken
+<br>&nbsp;&nbsp;<i><a href="t.htm#tankaako">tankaako</a></i>
+&nbsp;last night
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tankaakok koɬaako">tankaakok koɬaako</a></i>
+&nbsp;night before last
+<br>&nbsp;&nbsp;<i><a href="t.htm#tankaama">tankaama</a></i>
+&nbsp;tonight
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#níhta tankaama">níhta tankaama</a></i>
+&nbsp;tomorrow night
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#níhta koɬa tankaama">níhta koɬa tankaama</a></i>
+&nbsp;next night after tomorrow night
+<br>&nbsp;&nbsp;<i><a href="t.htm#tánkàasi">tánkàasi</a></i>
+&nbsp;to be partially dark
+<br>&nbsp;&nbsp;<i><a href="t.htm#tánkàssi">tánkàssi</a></i>
+&nbsp;evening
+<br>&nbsp;&nbsp;<i><a href="i1.htm#intanka">intanka</a></i>
+&nbsp;to blackout
+<br>&nbsp;&nbsp;<i><a href="o.htm#ontanka">ontanka</a></i>
+&nbsp;to have it get dark
+<br><font size="+2"><b><a name="tankaako"></a>tankaako</b> </font>
+<font size="+2">previous night, last night </font>
+&nbsp; [/tanka-ka<sup>2</sup>-o<sup>3</sup>]
+&nbsp;<font face="Arial">«</font>Tankaakon illati.
+ <i>We arrived last night.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tanka">tanka</a>
+<br><font size="+2"><b><a name="tankaakok koɬaako"></a>tankaakok koɬaako</b> </font>
+<font size="+2">night before last </font>
+&nbsp; [/tanka-ka<sup>2</sup>-o<sup>1</sup>-k /koɬa-ka<sup>2</sup>-o<sup>3</sup>]
+ ☞<a href="t.htm#tankaako">tankaako</a>
+<br><font size="+2"><b><a name="tankaama"></a>tankaama</b> </font>
+<font size="+2">tonight </font>
+&nbsp; [/tanka-ma]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#tanka">tanka</a>
+<br><font size="+2"><b><a name="tánkàasi"></a>tánkàasi</b> </font>
+<font size="+2">to be partially dark, be just getting dark, evening, twilight, dusk, light just after sunset</font>
+&nbsp; [/tanka-osi]
+ [<i>lgr?</i>]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Tankàaso.
+ <i>It's a little bit dark.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tánkàaso.
+ <i>It's getting late, dark.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tankáosi.
+ <i>It's late afternoon.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tanka">tanka</a>
+<br><font size="+2"><b><a name="tankachi"></a>tankachi</b><sup>1</sup> </font>
+<font size="+2">to be wound up, coiled; to be zigzaging, serpentine, swaying (as when sashaying, sauntering or swaggering) while moving</font>
+&nbsp; [/tan(ay)-ka<sup>1</sup>-chi<sup>2</sup>]
+ [<i>dsfx1</i>]
+&nbsp;<font face="Arial">«</font>Tankachiikát aɬɬo.
+ <i>He's sauntering along.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tankachiikát aɬɬalihchóot ommo chattibik aⁿhoopafòokak.
+ <i>I guess I've been swaying since I hurt my leg.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chintok tankachit aɬɬahchi.
+ <i>Snakes go along zigzagging.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tànnichi">tànnichi</a>
+<br><font size="+2"><b><a name="tankachi"></a>tankachi</b><sup>2</sup> </font>
+<font size="+2">to darken (as by pulling the shades)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tankachiska, tankachilka, tankachaska</i>)
+&nbsp;(<i>tankachitiska, tankachitilka, tankachitaska</i>)
+&nbsp; [/tanka-chi<sup>1</sup>]
+ ☞<a href="t.htm#tanka">tanka</a>
+<br><font size="+2"><b><a name="tankahasi"></a>tankahasi</b> </font>
+<font size="+2">moon</font>
+ <i>Usage: </i>Newer word.
+&nbsp; [/tanka /hasi]
+<br><font size="+2"><b><a name="tankahasi háhpa"></a>tankahasi háhpa</b> </font>
+<font size="+2">new moon</font>
+&nbsp; [/tanka /hasi /hahpa]
+&nbsp;<font face="Arial">«</font>Tankasiháhpak maachokòotonko oybo.
+ <i>They say it rains when there's a new moon.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="tanka oolimpa"></a>tanka oolimpa</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tankoolimpa">tankoolimpa</a>&nbsp;
+<br><font size="+2"><b><a name="tánkàssi"></a>tánkàssi</b> </font>
+<font size="+2">evening </font>
+&nbsp; [/tanka-osi-hchi]
+ [<i>fgr</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#tanka">tanka</a>
+<br><font size="+2"><b><a name="tankatóohcha"></a>tankatóohcha</b> </font>
+<font size="+2">midnight </font>
+&nbsp; [/tanka-t /óohcha]
+<br><font size="+2"><b><a name="tankatóohcha bitka"></a>tankatóohcha bitka</b> </font>
+<font size="+2">midnight dance</font>
+&nbsp; [/tanka-t /óohcha /bit-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tankoolimpa"></a>tankoolimpa</b> </font>
+<font size="+2">dinner, supper</font>
+&nbsp; [/tanka /oo&lt;li&gt;mpa]
+ <i>Var: tanka oolimpa</i>
+<br><font size="+2"><b><a name="tànnichi"></a>tànnichi</b> </font>
+<font size="+2">to fold up, fold more than once, wind up, coil up, roll up</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tànchichi, tànhilichi, tànhachichi</i>)
+&nbsp; [/tan(ay)-li-chi<sup>2</sup>]
+ [<i>dsfx1</i>]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Hòskan tànnichi.
+ <i>Coil up the hose.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tanayli">tanayli</a>
+<br><font size="+2"><b><a name="tanoffi"></a>tanoffi</b> </font>
+<font size="+2">to put a dent in (one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tanofchi, tanofhili, tanofhachi</i>)
+&nbsp; [/tanof-li]
+&nbsp;<font face="Arial">«</font>Ammobìlkan tanoffiliti.
+ <i>I put a dent in my car.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tanòfko">tanòfko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="t.htm#tanofka">tanofka</a></i>
+&nbsp;to be dented once
+<br><font size="+2"><b><a name="tanofka"></a>tanofka</b> </font>
+<font size="+2">to be dented once</font>
+&nbsp; [/tanof-ka<sup>1</sup>]
+ ☞<a href="t.htm#tanoffi">tanoffi</a>
+<br><font size="+2"><b><a name="tanòfko"></a>tanòfko</b> </font>
+ Neg.
+ ☞<a href="t.htm#tanoffi">tanoffi</a>
+<br><font size="+2"><b><a name="tapáaⁿskòosi"></a>tapáaⁿskòosi</b> </font>
+<font size="+2">to be flat and thin (as a sheet of paper, cloth, etc.), sheer</font>
+&nbsp; [/tapaski-osi]
+ [<i>ngr</i>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#tapaski">tapaski</a>
+<br><font size="+2"><b><a name="tapaski"></a>tapaski</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be thin, sheer, light-weight, fine-grained, fine in texture (of material) (as silk, chiffon, voile)</font>
+&nbsp;<font size="0">(WP, VC)</font>
+&nbsp;2.&nbsp;
+<font size="+2">handkerchief, scarf </font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tapaskosi">tapaskosi</a></i>
+&nbsp;handkerchief
+<br>&nbsp;&nbsp;<i><a href="t.htm#tapáaⁿskòosi">tapáaⁿskòosi</a></i>
+&nbsp;to be flat and thin
+<br>&nbsp;&nbsp;<i><a href="o.htm#oktapaski">oktapaski</a></i>
+&nbsp;to be clear (of water), watery
+<br><font size="+2"><b><a name="tapaskichoba"></a>tapaskichoba</b> </font>
+<font size="+2">scarf, bandanna </font>
+&nbsp; [/tapaski /choba]
+<br><font size="+2"><b><a name="tapaskosi"></a>tapaskosi</b> </font>
+<font size="+2">handkerchief, hankie</font>
+&nbsp; [/tapaski-osi]
+ ☞<a href="t.htm#tapaski">tapaski</a>
+<br><font size="+2"><b><a name="tapassòola"></a>tapassòola</b> </font>
+<font size="+2">daddy longlegs, clan name</font>
+ <i>Var: tapassóola</i>
+<br><font size="+2"><b><a name="tapihómma"></a>tapihómma</b> </font>
+ <i>Var. of</i>&nbsp;<a href="a.htm#aatapihhómma">aatapihhómma</a>&nbsp;
+<br><font size="+2"><b><a name="tapiitapi"></a>tapiitapi</b> </font>
+<font size="+2">fern, any feathery leafed plant </font>
+<br><font size="+2"><b><a name="tasihmo"></a>tasihmo</b> </font>
+<font size="+2">to be crazy, mad, or rabid (of animals), to run wild, get a wild hair (as cows); to be funny (of person)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ <i>Var: tasiimo</i>
+&nbsp;<font face="Arial">«</font>Ifatasìimo.
+ <i>Mad dog.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Aatitasìimo.
+ <i>Jokester, a person who's always fooling around making people laugh.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chitasihmo.
+ <i>You're acting funny, making people laugh.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Amifak tasihmo.
+ <i>My dog is rabid.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(IB)</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tasikíhmo">tasikíhmo</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="t.htm#tasiimotíkko">tasiimotíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="t.htm#tasihmochi">tasihmochi</a></i>
+&nbsp;to make crazy
+<br><font size="+2"><b><a name="tasihmochi"></a>tasihmochi</b> </font>
+<font size="+2">to make crazy, make rabid (as when a rabid dog bites another), madden</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tasihmochitiska, tasihmochitilka, tasihmochitaska</i>)
+&nbsp; [/tasihmo-chi<sup>1</sup>]
+ <i>Var: tasiimochi</i>
+ ☞<a href="t.htm#tasihmo">tasihmo</a>
+<br><font size="+2"><b><a name="tasiimo"></a>tasiimo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tasihmo">tasihmo</a>&nbsp;
+<br><font size="+2"><b><a name="tasiimochi"></a>tasiimochi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tasihmochi">tasihmochi</a>&nbsp;
+<br><font size="+2"><b><a name="tasiimotíkko"></a>tasiimotíkko</b> </font>
+ Neg.
+ ☞<a href="t.htm#tasihmo">tasihmo</a>
+<br><font size="+2"><b><a name="tasikíhmo"></a>tasikíhmo</b> </font>
+ Neg.
+ <i>Var: tasikíimo</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#tasihmo">tasihmo</a>
+<br><font size="+2"><b><a name="tasikíimo"></a>tasikíimo</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tasikíhmo">tasikíhmo</a>&nbsp;
+<br><font size="+2"><b><a name="tassalala"></a>tassalala</b> </font>
+<font size="+2">kingfisher </font>
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="tatka"></a>tatka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="a.htm#aatatka">aatatka</a>&nbsp;
+<br><font size="+2"><b><a name="tatkahókkìita"></a>tatkahókkìita</b> </font>
+<font size="+2">half-breed, half white person (half Indian or mulatto)</font>
+&nbsp; [/aati /hat-ka<sup>1</sup> /hókkìita]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tatkasi"></a>tatkasi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="a.htm#aatatkasi">aatatkasi</a>&nbsp;
+<br><font size="+2"><b><a name="tatkinnaaɬiilka"></a>tatkinnaaɬiilka</b> </font>
+<font size="+2">the English language</font>
+&nbsp; [/aati /hat-ka<sup>1</sup> im- /naaɬii&lt;il&gt;-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="tato"></a>tato</b> </font>
+<font size="+2">Texas honeylocust, water locust </font>
+ <i>(Gleditsia spp)</i>
+<br><font size="+2"><b><a name="tawakna"></a>tawakna</b> </font>
+<font size="+2">to be blunt, dull (not sharp)</font>
+<br><font size="+2"><b><a name="tayki"></a>tayki</b> </font>
+<font size="+2">woman, female</font>
+ <i>Usage: </i>Older word.
+ {&nbsp;Mobilian?}
+&nbsp;<font size="0">(JS)</font>
+<br><font size="+2"><b><a name="tayoffi"></a>tayoffi</b> </font>
+<font size="+2">to dent (once)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tayofchi, tayofhili, tayofhachi</i>)
+&nbsp; [/tayof-li]
+&nbsp;<font size="0">(IB)</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tayofka">tayofka</a></i>
+&nbsp;to be dented
+<br>&nbsp;&nbsp;<i><a href="t.htm#tayòoli">tayòoli</a></i>
+&nbsp;to dent (rep.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tayòoka">tayòoka</a></i>
+&nbsp;to be badly dented
+<br><font size="+2"><b><a name="tayofka"></a>tayofka</b> </font>
+<font size="+2">to be dented once</font>
+&nbsp; [/tayof-ka<sup>1</sup>]
+ <i>Pl: </i>tayòoka
+ ☞<a href="t.htm#tayoffi">tayoffi</a>
+<br><font size="+2"><b><a name="tayòoka"></a>tayòoka</b> </font>
+<font size="+2">to be badly dented, dented in several places</font>
+&nbsp; [/tayo(f)-ka<sup>1</sup>]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="t.htm#tayòoli">tayòoli</a>
+<br><font size="+2"><b><a name="tayòoli"></a>tayòoli</b> </font>
+<font size="+2">to dent (repeatedly)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tayòochi, tayòohili, tayòohachi</i>)
+&nbsp; [/tayo(f)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ <i>Var: tayooli</i>
+ ☞<a href="t.htm#tayoffi">tayoffi</a>
+<br><font size="+2"><b><a name="tayyaski"></a>tayyaski</b> </font>
+<font size="+2">daughter, prepubescent girl, girlfriend </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+&nbsp; [prob. /tayyi (-aski)]
+ <i>Var: tayyiski</i>
+&nbsp;<font size="0">(WP)</font>
+&nbsp;<font face="Arial">«</font>Tayyaskòoli?
+ <i>Is (the baby) a girl?</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Antayyaskik yosbo.
+ <i>My little girl got lost.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tayyi">tayyi</a>
+<br><font size="+2"><b><a name="tayyaskiha"></a>tayyaskiha</b> </font>
+<font size="+2">daughters, little girls </font>
+&nbsp; [/tayyaski-ha<sup>1</sup>]
+ ☞<a href="t.htm#tayyaski">tayyaski</a>
+<br><font size="+2"><b><a name="tayyaskosi"></a>tayyaskosi</b> </font>
+<font size="+2">daughter </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+&nbsp; [/tayyaski-osi]
+ ☞<a href="t.htm#tayyaski">tayyaski</a>
+<br><font size="+2"><b><a name="tayyi"></a>tayyi</b> </font>
+<font size="+2">woman, female</font>
+ <i>Usage: </i>Modern word.
+ <i>Var: tayyiha</i>
+&nbsp;<font face="Arial">«</font>Akka tayyihoolo.
+ <i>That's a woman.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tayyòoli?
+ <i>Is it a woman?</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tayyókko">tayyókko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="t.htm#tayyiha">tayyiha</a></i>
+&nbsp;women
+<br>&nbsp;&nbsp;<i><a href="t.htm#tayyaski">tayyaski</a></i>
+&nbsp;daughter
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tayyaskiha">tayyaskiha</a></i>
+&nbsp;daughters
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tayyaskosi">tayyaskosi</a></i>
+&nbsp;daughter
+<br>&nbsp;&nbsp;<i><a href="t.htm#tayyosi">tayyosi</a></i>
+&nbsp;female baby
+<br>&nbsp;&nbsp;<i><a href="t.htm#tayyikáhmi">tayyikáhmi</a></i>
+&nbsp;to do like a woman
+<br><font size="+2"><b><a name="tayyi alikchi"></a>tayyi alikchi</b> </font>
+<font size="+2">female nurse; woman doctor; midwife</font>
+&nbsp; [/tayyi /alikchi]
+<br><font size="+2"><b><a name="tayyiha"></a>tayyiha</b> </font>
+<font size="+2">women, woman</font>
+ <i>Usage: </i>For some speakers this is the plural only.
+&nbsp; [/tayyi-ha<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Tayyihok ilaabíiko.
+ <i>The women are coming.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mootok ómmok oɬaafòokan tayyihakon oiⁿfaylitáskan tayyihakon aatapoɬòokàasit illitoha, homankahchoolimpakha.
+ <i>Then, at that time since he had returned, they let him have the two women, and so he had just gone to bed with them when he died, so they always used to say.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+ ☞<a href="t.htm#tayyi">tayyi</a>
+<br><font size="+2"><b><a name="tayyiha aatinaanihókkìita"></a>tayyiha aatinaanihókkìita</b> </font>
+<font size="+2">homosexual women, lesbians; female transvestites</font>
+&nbsp; [/tayyi-ha<sup>1</sup> /aati /naani /hókkìita]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tayyiha hawi"></a>tayyiha hawi</b> </font>
+<font size="+2">whore, prostitute, wild woman</font>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tayyiha hawiiha"></a>tayyiha hawiiha</b> </font>
+<font size="+2">whores, prostitutes, wild women</font>
+&nbsp; [/tayyi-ha<sup>1</sup> /hawi-ha<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tayyiha imalikchi"></a>tayyiha imalikchi</b> </font>
+<font size="+2">gynecologist, woman's doctor</font>
+&nbsp; [/tayyi im- /alikchi]
+<br><font size="+2"><b><a name="tayyiha iⁿholpa"></a>tayyiha iⁿholpa</b> </font>
+<font size="+2"> menstrual period </font>
+&nbsp; [/tayyi-ha<sup>1</sup> im- /hoo&lt;l&gt;pa]
+<br><font size="+2"><b><a name="tayyiha polòoma"></a>tayyiha polòoma</b> </font>
+<font size="+2">sexy woman; prostitute, whore</font>
+&nbsp; [/tayyi-ha<sup>1</sup> /polooma]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tayyihastilichòopa"></a>tayyihastilichòopa</b> </font>
+<font size="+2">prostitute, whore</font>
+&nbsp; [/tayyi-ha<sup>1</sup> ist-ili- /choopa]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tayyihastiⁿholiswa"></a>tayyihastiⁿholiswa</b> </font>
+<font size="+2">vagina </font>
+ <i>Usage: </i>Polite word.
+&nbsp; [/tayyi-ha<sup>1</sup> ist-im- /ho&lt;li&gt;swa]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tayyihon pilàachi"></a>tayyihon pilàachi</b> </font>
+<font size="+2">to rape (a woman)</font>
+ <i>Usage: </i>Euphemism.
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [/tayyi-ha<sup>1</sup>-o<sup>1</sup>-n /pila-chi<sup>2</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="p.htm#pilàachi">pilàachi</a>
+<br><font size="+2"><b><a name="tayyi itaafolòoka"></a>tayyi itaafolòoka</b> </font>
+<font size="+2">bride</font>
+&nbsp; [/tayyi /itaafolòo-ka<sup>1</sup>]
+ [<i>fgr</i>]
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font face="Arial">«</font>Tayyiha itaafolóokaiⁿká?
+ <i>Where's the bride?</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="tayyikáhmi"></a>tayyikáhmi</b> </font>
+<font size="+2">to act effeminately, do like a woman, act unable to do a man's work (of a man)</font>
+&nbsp; [/tayyi-káhmi]
+&nbsp;<font face="Arial">«</font>Tàyyiikát naaɬiikahchi.
+ <i>He talks like a woman.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tayyi">tayyi</a>
+<br><font size="+2"><b><a name="tayyiski"></a>tayyiski</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tayyaski">tayyaski</a>&nbsp;
+<br><font size="+2"><b><a name="tayyókko"></a>tayyókko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Chatayyókkobi.
+ <i>I am not a woman.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tayyi">tayyi</a>
+<br><font size="+2"><b><a name="tayyosi"></a>tayyosi</b> </font>
+<font size="+2">daughter, little girl, female baby</font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+&nbsp; [/tayyi-osi]
+&nbsp;<font face="Arial">«</font>Tayyosiⁿ? Naanosiⁿ?
+ <i>Is it a little girl or a little boy? (said to new paernts).</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tayyi">tayyi</a>
+<br><font size="+2"><b><a name="Teksi"></a>Teksi</b> </font>
+<font size="+2">the state of Texas</font>
+ {&nbsp;English}
+<br><font size="+2"><b><a name="tifka"></a>tifka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tiifka">tiifka</a>&nbsp;
+<br><font size="+2"><b><a name="tihka"></a>tihka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tiihka">tiihka</a>&nbsp;
+<br><font size="+2"><b><a name="tihna"></a>tihna</b> </font>
+<font size="+2">to be dull, blunt</font>
+ <i>Var: tiina</i>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tikíhno">tikíhno</a></i>
+ Neg.
+&nbsp;to be sharp
+<br>&nbsp;&nbsp;<i><a href="t.htm#tihnatíkko">tihnatíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="tihnatíkko"></a>tihnatíkko</b> </font>
+ Neg.
+ ☞<a href="t.htm#tihna">tihna</a>
+<br><font size="+2"><b><a name="tìicha"></a>tìicha</b> </font>
+<font size="+2">teacher</font>
+ {&nbsp;English}
+<br><font size="+2"><b><a name="tiifiika"></a>tiifiika</b> </font>
+<font size="+2">TV, television</font>
+&nbsp; [/tiifii-ka<sup>3</sup>]
+ {&nbsp;English}
+<br><font size="+2"><b><a name="tiifíkko"></a>tiifíkko</b> </font>
+ Neg.
+ ☞<a href="t.htm#tiifka">tiifka</a>
+<br><font size="+2"><b><a name="tiifka"></a>tiifka</b> </font>
+<font size="+2">to pull out, pluck; to uproot (one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tiifiska, tiifilka, tiifaska</i>)
+&nbsp; [/tiif-ka<sup>1</sup>]
+ <i>Var: tifka</i>
+&nbsp;<font size="0">(VC)</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tiifíkko">tiifíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="t.htm#tiihka">tiihka</a></i>
+&nbsp;to pull out (pl.oj.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#intiihka">intiihka</a></i>
+&nbsp;to pull out from
+<br><font size="+2"><b><a name="tiihka"></a>tiihka</b> </font>
+<font size="+2">to pull out, pluck (plural objects)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tiihiska, tiihilka, tiihaska</i>)
+&nbsp; [/tii&lt;h&gt;f-ka<sup>1</sup>]
+ <i>Var: tiika</i>
+ <i>Var: tihka</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Chachokhiskan tiihkaliti.
+ <i>I plucked my beard.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tiifka">tiifka</a>
+<br><font size="+2"><b><a name="tiika"></a>tiika</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tiihka">tiihka</a>&nbsp;
+<br><font size="+2"><b><a name="tìika"></a>tìika</b> </font>
+<font size="+2">tea; the letter `T'</font>
+&nbsp; [/tìi-ka<sup>3</sup>]
+ {&nbsp;English}
+<br>&nbsp;&nbsp;<i><a href="t.htm#tìikan talibòoli">tìikan talibòoli</a></i>
+&nbsp;to make tea
+<br><font size="+2"><b><a name="tìikan talbòoli"></a>tìikan talbòoli</b> </font>
+<font size="+2">to make tea, brew tea</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp; [/tìi-ka<sup>3</sup>-n /talbòo-li]
+ ☞<a href="t.htm#talbòoli">talbòoli</a>
+<br><font size="+2"><b><a name="tìikan talibòoli"></a>tìikan talibòoli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tìikan talbòoli">tìikan talbòoli</a>&nbsp;
+<br><font size="+2"><b><a name="tiiɬi"></a>tiiɬi</b> </font>
+<font size="+2">to push gently with the elbow or shoulder, nudge</font>
+ <i>Usage: </i>Older word.
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>tiɬchi, tiɬhili, tiɬhachi</i>)
+&nbsp; [/tiɬi]
+&nbsp;<font face="Arial">«</font>Chatiɬcho.
+ <i>You pushed me.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittitiiɬi">ittitiiɬi</a></i>
+&nbsp;to jostle each other
+<br><font size="+2"><b><a name="tiina"></a>tiina</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tihna">tihna</a>&nbsp;
+<br><font size="+2"><b><a name="tikba"></a>tikba</b> </font>
+<font size="+2">fire</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tikbiɬɬi">tikbiɬɬi</a></i>
+&nbsp;to warm oneself by the fire
+<br><font size="+2"><b><a name="tikbachoba"></a>tikbachoba</b> </font>
+<font size="+2">hell</font>
+&nbsp; [/tikba /choba]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tikbahiɬɬi"></a>tikbahiɬɬi</b> </font>
+<font size="+2">brown thrush-like bird that comes close to fire in the winter</font>
+&nbsp; [/tikba /hiɬ-li]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: tikbahìɬɬi</i>
+&nbsp;<font size="0">(IB)</font>
+ <i>Var: tikbiɬɬi</i>
+<br><font size="+2"><b><a name="tikba islapàali"></a>tikba islapàali</b> </font>
+<font size="+2">to catch fire, flame up on, flare up on</font>
+&nbsp; [/tikba ist- /lapàa-li]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Tikbak iisan islapàalo.
+ <i>The house caught fire.</i><font face="Arial">»</font>
+ ☞<a href="i2.htm#islapàali">islapàali</a>
+<br><font size="+2"><b><a name="tikba labòoli"></a>tikba labòoli</b> </font>
+<font size="+2">firefighter</font>
+&nbsp; [/tikba /labo(s)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="tikbaschofotli"></a>tikbaschofotli</b> </font>
+<font size="+2">spark</font>
+&nbsp; [/tikba ist- /chofot-li]
+ <i>Var: tikbischofotli</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tikbaskalafka"></a>tikbaskalafka</b> </font>
+<font size="+2">match (for striking a flame)</font>
+ <i>Usage: </i>Newer word.
+&nbsp; [/tikba ist- /kalaf-ka<sup>1</sup>]
+ <i>Var: tikbiskalafka</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tikbaskitaaya"></a>tikbaskitaaya</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tikbiskitàaya">tikbiskitàaya</a>&nbsp;
+<br><font size="+2"><b><a name="tikbasɬaafka"></a>tikbasɬaafka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tikbisɬaafka">tikbisɬaafka</a>&nbsp;
+<br><font size="+2"><b><a name="tikbichokhiska"></a>tikbichokhiska</b> </font>
+<font size="+2">species of fine green moss or lichen that grows over old campfire sites</font>
+&nbsp; [/tikba /ichokhiska]
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="tikbillayki"></a>tikbillayki</b> </font>
+<font size="+2">ashes, cinders</font>
+&nbsp; [/tikba im- /layki]
+<br><font size="+2"><b><a name="tikbiɬɬi"></a>tikbiɬɬi</b><sup>1</sup> </font>
+<font size="+2">to warm oneself by the fire</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>tikbiɬchi, tikbiɬhili, tikbiɬhachi</i>)
+&nbsp; [/tikba /hiɬ-li]
+ <i>Var: tikbahiɬɬi</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#tikba">tikba</a>
+<br><font size="+2"><b><a name="tikbiɬɬi"></a>tikbiɬɬi</b><sup>2</sup> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tikbahiɬɬi">tikbahiɬɬi</a>&nbsp;
+<br><font size="+2"><b><a name="tikbischofotli"></a>tikbischofotli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tikbaschofotli">tikbaschofotli</a>&nbsp;
+<br><font size="+2"><b><a name="tikbiskalafka"></a>tikbiskalafka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tikbaskalafka">tikbaskalafka</a>&nbsp;
+<br><font size="+2"><b><a name="tikbiskitàaya"></a>tikbiskitàaya</b> </font>
+<font size="+2">kindling, splinters (i.e. pine torch)</font>
+&nbsp; [/tikba ist- /kitay-a]
+ <i>Var: skitàaya</i>
+ <i>Var: tikbaskitaaya</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tikbisɬaafka"></a>tikbisɬaafka</b> </font>
+<font size="+2">match (for striking a flame)</font>
+&nbsp; [/tikba ist- /ɬaafi-ka<sup>1</sup>]
+ <i>Var: sɬaafka</i>
+ <i>Var: tikbasɬaafka</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tikbolti"></a>tikbolti</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tikboolti">tikboolti</a>&nbsp;
+<br><font size="+2"><b><a name="tikboolti"></a>tikboolti</b> </font>
+<font size="+2">firewood</font>
+&nbsp; [/tikba /oo&lt;l&gt;ti]
+ <i>Var: tikbolti</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Tikboolton wihli.
+ <i>Go look for firewood.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="tikhanti"></a>tikhanti</b> </font>
+<font size="+2">muddauber, dirtdauber </font>
+ <i>Var: tikhánti</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tikíhno"></a>tikíhno</b> </font>
+ Neg.
+<font size="+2">to be sharp</font>
+ ☞<a href="t.htm#tihna">tihna</a>
+<br><font size="+2"><b><a name="tikkachi"></a>tikkachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="i2.htm#istachitkachi">istachitkachi</a>&nbsp;
+<br><font size="+2"><b><a name="tíkkìiko"></a>tíkkìiko</b> </font>
+ Neg.
+ ☞<a href="t.htm#tíkkìili">tíkkìili</a>
+<br><font size="+2"><b><a name="tíkkìili"></a>tíkkìili</b> </font>
+<font size="+2">to extend as far as, reach to (a place)</font>
+&nbsp; [poss. (/tikìili)]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>∥ikaaya báanat ittóspan hókkìitàachit tíkkìilit...
+ <i>It was wet all over and it came halfway up to their knees.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tíkkìiko">tíkkìiko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="o.htm#ostíkkìili">ostíkkìili</a></i>
+&nbsp;to reach to a certain point
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#ostíkkìiko">ostíkkìiko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#ostintíkkìili">ostintíkkìili</a></i>
+&nbsp;to have a state approaching the end
+<br><font size="+2"><b><a name="tilìika"></a>tilìika</b> </font>
+<font size="+2">to throw away, pour out</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tilìihiska, tilìihilka, tilìihaska</i>)
+&nbsp; [/tilìi-ka<sup>1</sup>]
+<br>&nbsp;&nbsp;<i><a href="p.htm#paatilìika">paatilìika</a></i>
+&nbsp;to spray with
+<br><font size="+2"><b><a name="tiliko"></a>tiliko</b> </font>
+<font size="+2">flour</font>
+ {&nbsp;Spanish `trigo'}
+ <i>Var: tilko</i>
+&nbsp;<font size="0">(WP, VC)</font>
+<br><font size="+2"><b><a name="tiliko istoochihbi"></a>tiliko istoochihbi</b> </font>
+<font size="+2">gravy</font>
+&nbsp; [/tiliko ist-oo- /chihbi]
+<br><font size="+2"><b><a name="tilko"></a>tilko</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tiliko">tiliko</a>&nbsp;
+<br><font size="+2"><b><a name="tilkobosilka"></a>tilkobosilka</b> </font>
+<font size="+2">bread dough</font>
+&nbsp; [/tilko /bos&lt;il&gt;-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tiɬifka"></a>tiɬifka</b> </font>
+<font size="+2">to squeeze very tight (once)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>tiɬifiska, tiɬifilka, tiɬifaska</i>)
+&nbsp; [/tiɬif-ka<sup>1</sup>]
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istatiɬifilka">istatiɬifilka</a></i>
+&nbsp;clamp
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istiliitiɬifilka">istiliitiɬifilka</a></i>
+&nbsp;girdle
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istiliitiɬifkachi">istiliitiɬifkachi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;girdle
+&nbsp;2.&nbsp;
+&nbsp;to put on a girdle
+<br>&nbsp;&nbsp;<i><a href="n.htm#noktiɬifka">noktiɬifka</a></i>
+&nbsp;to strangle (something)
+<br>&nbsp;&nbsp;<i><a href="t.htm#tiɬìika">tiɬìika</a></i>
+&nbsp;to squeeze (rep.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#noktiɬìika">noktiɬìika</a></i>
+&nbsp;to strangle (rep. or pl. obj.)
+<br><font size="+2"><b><a name="tiɬìika"></a>tiɬìika</b> </font>
+<font size="+2">to squeeze repeatedly, massage</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>tiɬìihiska, tiɬìihilka, tiɬìihaska</i>)
+&nbsp; [/tiɬi(f)-ka<sup>1</sup>]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="t.htm#tiɬifka">tiɬifka</a>
+<br><font size="+2"><b><a name="tiɬkachi"></a>tiɬkachi</b> </font>
+<font size="+2">to be scraped off</font>
+&nbsp; [/tiɬ-ka<sup>1</sup>-chi<sup>2</sup>]
+ ☞<a href="t.htm#tiɬɬichi">tiɬɬichi</a>
+<br><font size="+2"><b><a name="tiɬɬichi"></a>tiɬɬichi</b> </font>
+<font size="+2">to scrape, cut, slice off the top of (e.g. corn on the cob)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tiɬchichi, tiɬhilichi, tiɬhachichi</i>)
+&nbsp; [/tiɬ-li-chi<sup>2</sup>]
+<br>&nbsp;&nbsp;<i><a href="t.htm#tiɬkachi">tiɬkachi</a></i>
+&nbsp;to be scraped off
+<br><font size="+2"><b><a name="timiikàachi"></a>timiikàachi</b> </font>
+<font size="+2">bumping, rapping sound</font>
+&nbsp; [/timii-ka<sup>1</sup>-chi<sup>2</sup>]
+ [<i>fgr</i>]
+ ☞<a href="t.htm#timìilichi">timìilichi</a>
+<br><font size="+2"><b><a name="timìikachi"></a>timìikachi</b> </font>
+<font size="+2">for there to be the sound of heavy footsteps, noise made walking on wet ground </font>
+&nbsp; [/timìi-ka<sup>1</sup>-chi<sup>2</sup>]
+ ☞<a href="t.htm#timìilichi">timìilichi</a>
+<br><font size="+2"><b><a name="timìilichi"></a>timìilichi</b> </font>
+<font size="+2">to make a ponderous sound, as of heavy footsteps, thunder, the rumble of a train</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>timìichichi, timìihilichi, timìihachichi</i>)
+&nbsp; [prob. /timìi-li-chi<sup>2</sup>]
+&nbsp;<font face="Arial">«</font>Timìichicho.
+ <i>You made the sound of footsteps.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Timìihachíicho.
+ <i>You (pl.) made the sound of footsteps.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Timìihilíicho.
+ <i>We made foot sounds.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#timiikàachi">timiikàachi</a></i>
+&nbsp;rapping sound
+<br>&nbsp;&nbsp;<i><a href="t.htm#timìikachi">timìikachi</a></i>
+&nbsp;to be the sound of footsteps
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maatimiikáachi">maatimiikáachi</a></i>
+&nbsp;to be rumbling in the distance
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maatimimihkáachi">maatimimihkáachi</a></i>
+&nbsp;to be rumbling in the distance
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#intimìikachi">intimìikachi</a></i>
+&nbsp;to hear the sound of footsteps
+<br>&nbsp;&nbsp;<i><a href="t.htm#timtihkachi">timtihkachi</a></i>
+&nbsp;to be the sound of heavy rumbling
+<br><font size="+2"><b><a name="timtibi"></a>timtibi</b> </font>
+<font size="+2">to be wavy, in waves</font>
+&nbsp;<font face="Arial">«</font>Okik timtibo.
+ <i>The water is wavy.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="timtihkachi"></a>timtihkachi</b> </font>
+<font size="+2">for there to be the sound of heavy rumbling (as a train going along tracks) </font>
+&nbsp; [/tim(ìi)&lt;tih&gt;-ka-chi<sup>2</sup>]
+ {prob. old reduplicated form}
+ ☞<a href="t.htm#timìilichi">timìilichi</a>
+<br><font size="+2"><b><a name="tinikbi"></a>tinikbi</b> </font>
+<font size="+2">to be bent once, curved</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tinikbichi">tinikbichi</a></i>
+&nbsp;to bend (one thing)
+<br>&nbsp;&nbsp;<i><a href="t.htm#tintibi">tintibi</a></i>
+&nbsp;to be bent
+<br><font size="+2"><b><a name="tinikbichi"></a>tinikbichi</b> </font>
+<font size="+2">to bend, curve (one thing)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tinikbichiska, tinikbichilka, tinikbichaska</i>)
+&nbsp;(<i>tinikbichitiska, tinikbichitilka, tinikbichitaska</i>)
+&nbsp; [/tinikbi-chi<sup>1</sup>]
+ ☞<a href="t.htm#tinikbi">tinikbi</a>
+<br><font size="+2"><b><a name="tintibi"></a>tintibi</b> </font>
+<font size="+2">to be bent (more than once), curved, crooked</font>
+&nbsp; [/tin(ik)&lt;ti&gt;bi]
+ {prob. old reduplicated form}
+ ☞<a href="t.htm#tinikbi">tinikbi</a>
+<br><font size="+2"><b><a name="tipasíkko"></a>tipasíkko</b> </font>
+ Neg.
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#tipaska">tipaska</a>
+<br><font size="+2"><b><a name="tipaska"></a>tipaska</b> </font>
+<font size="+2">to break off (of any long flexible object as rope, string, cable, plant stem, etc.); to be broken off (of one)</font>
+&nbsp; [/tipas-ka<sup>1</sup>]
+ <i>Pl: </i>tipka
+ <i>Neg: </i>tipasíkko, tipastíkko
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#tipasli">tipasli</a>
+<br><font size="+2"><b><a name="tipasli"></a>tipasli</b> </font>
+<font size="+2">to break (one) in two, break off</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tipaschi, tipashili, tipashachi</i>)
+&nbsp; [/tipas-li]
+&nbsp;<font face="Arial">«</font>Bitkóomoyáalok hachin tipaslok atakàalihchootoolo.
+ <i>Before they danced each would take off its tail and hang it up.</i> <font size="0">(JAT)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tipaska">tipaska</a></i>
+&nbsp;to break off
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tipasíkko">tipasíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tipastíkko">tipastíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="a.htm#atipasli">atipasli</a></i>
+&nbsp;to turn off
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#atipaska">atipaska</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be partitioned
+&nbsp;2.&nbsp;
+&nbsp;partition
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="h.htm#hifoska atiplichi">hifoska atiplichi</a></i>
+&nbsp;to gasp
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿhifosilka imatipkachi">iⁿhifosilka imatipkachi</a></i>
+&nbsp;to be short of breath
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#atipkachi">atipkachi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be partitioned
+&nbsp;2.&nbsp;
+&nbsp;room
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittatipkachi">ittatipkachi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be partitioned
+&nbsp;2.&nbsp;
+&nbsp;room
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istipasli">istipasli</a></i>
+&nbsp;to break at the stem (sg. obj.)
+<br>&nbsp;&nbsp;<i><a href="n.htm#noktipasli">noktipasli</a></i>
+&nbsp;to cut off the head
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#noktipaska">noktipaska</a></i>
+&nbsp;to be beheaded
+<br>&nbsp;&nbsp;<i><a href="t.htm#tipli">tipli</a></i>
+&nbsp;to break (rep.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tipka">tipka</a></i>
+&nbsp;to break off (pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istipli">istipli</a></i>
+&nbsp;to pluck (pl. obj.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istintipli">istintipli</a></i>
+&nbsp;to rip apart
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istintipka">istintipka</a></i>
+&nbsp;to rip apart
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istimintipka">istimintipka</a></i>
+&nbsp;to have (something) rip apart
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istimootipka">istimootipka</a></i>
+&nbsp;to rip
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tiplichi">tiplichi</a></i>
+&nbsp;to break off into pieces
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tipkachi">tipkachi</a></i>
+&nbsp;to stop off and on
+<br><font size="+2"><b><a name="tipastíkko"></a>tipastíkko</b> </font>
+ Neg.
+ ☞<a href="t.htm#tipaska">tipaska</a>
+<br><font size="+2"><b><a name="tipka"></a>tipka</b> </font>
+<font size="+2">to break off (of any long flexible object as rope, string, cable, plant stem, etc.); to be broken off (of more than one), be pulled off (as fruit off a tree)</font>
+&nbsp; [/tip(as)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="t.htm#tipli">tipli</a>
+<br><font size="+2"><b><a name="tipkachi"></a>tipkachi</b> </font>
+<font size="+2">to stop off and on; to be broken off in pieces (as thread or tape)</font>
+&nbsp; [im- /tip(as)-ka<sup>1</sup>-chi<sup>2</sup>]
+ [<i>dsfx1</i>]
+&nbsp;<font face="Arial">«</font>Baksaya tipkachihchi.
+ <i>The thread has broken off several times.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tiplichi">tiplichi</a>
+<br><font size="+2"><b><a name="tipli"></a>tipli</b> </font>
+<font size="+2">to break (repeatedly), snap off; to pick, pluck (flowers, fruit)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tipchi, tiphili, tiphachi</i>)
+&nbsp; [/tip(as)-li]
+ [<i>dsfx1</i>]
+ ☞<a href="t.htm#tipasli">tipasli</a>
+<br><font size="+2"><b><a name="tiplichi"></a>tiplichi</b> </font>
+<font size="+2">to break off (something long and flexible as string, rope, wire, vine, tape, etc.) into pieces</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tipchichi, tiphilichi, tiphachichi</i>)
+&nbsp; [/tip(as)-li-chi<sup>2</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="t.htm#tipli">tipli</a>
+<br><font size="+2"><b><a name="tiskila"></a>tiskila</b> </font>
+<font size="+2">blue jay </font>
+<br><font size="+2"><b><a name="tiskòmma"></a>tiskòmma</b> </font>
+<font size="+2">cardinal, redbird </font>
+&nbsp;<font size="0">(VC, DB)</font>
+; <font size="+2">robin </font>
+&nbsp;<font size="0">(IB)</font>
+ {prob. onomatopoeic from the noise `tististis' made by the bird and homma `red' (but cp. tiskila)}
+ <i>Var: tiskómma</i>
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font face="Arial">«</font>Tiskòmma tayyiya hòmmat naani yáhkohchi.
+ <i>The female cardinal is not as bright as the male.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="tissanaha"></a>tissanaha</b> </font>
+<font size="+2">wagon, station wagon, buggy</font>
+ <i>Var: tossinaha</i>
+&nbsp;<font size="0">(WP)</font>
+ <i>Var: titchanaha</i>
+ {second variant possibly indicates reinterpretation of borrowed /titchanaha/ as /tichchanaha/; cp. Choctaw itti-chanaha}
+<br>&nbsp;&nbsp;<i><a href="t.htm#tissanahasi">tissanahasi</a></i>
+&nbsp;toy wagon
+<br><font size="+2"><b><a name="tissanaha ichoolaksi"></a>tissanaha ichoolaksi</b> </font>
+<font size="+2">wagon tongue</font>
+&nbsp; [/tissanaha /ichoolaksi]
+<br><font size="+2"><b><a name="tissanaha imokhawìita"></a>tissanaha imokhawìita</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tissanaha imokhawitàaka">tissanaha imokhawitàaka</a>&nbsp;
+<br><font size="+2"><b><a name="tissanaha imokhawitàaka"></a>tissanaha imokhawitàaka</b> </font>
+<font size="+2">singletree or doubletree (any crosspiece for rigging horses to a wagon)</font>
+&nbsp; [/tissanaha im- /okhawita-ka<sup>1</sup>]
+ <i>Var: tissanaha imokhawìita</i>
+<br><font size="+2"><b><a name="tissanaha impaalokòoli"></a>tissanaha impaalokòoli</b> </font>
+<font size="+2">part of a wagon, prob. the boards that are added vertically to extend the sides of the bed so more can be hauled</font>
+&nbsp; [/tissanaha im-paa- /lokòo-li]
+<br><font size="+2"><b><a name="tissanaha impaatalàaka"></a>tissanaha impaatalàaka</b> </font>
+<font size="+2">wagon box</font>
+&nbsp; [/tissanaha im-paa- /talàa-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="tissanaha iⁿhini"></a>tissanaha iⁿhini</b> </font>
+<font size="+2">wagon road, country road, unpaved road</font>
+&nbsp; [/tissanaha im- /hini]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tissanaha intonòoli"></a>tissanaha intonòoli</b> </font>
+<font size="+2">wagon wheel</font>
+&nbsp; [/tissanaha im- /tonòo-li]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tissanahasi"></a>tissanahasi</b> </font>
+<font size="+2">toy wagon</font>
+&nbsp; [/tissanaha-osi]
+ ☞<a href="t.htm#tissanaha">tissanaha</a>
+<br><font size="+2"><b><a name="tististis"></a>tististis</b> </font>
+<font size="+2">sound made by a tiskòmma (robin or cardinal)</font>
+<br><font size="+2"><b><a name="titchanaha"></a>titchanaha</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tissanaha">tissanaha</a>&nbsp;
+<br><font size="+2"><b><a name="titkachi"></a>titkachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="i2.htm#istatitkachi">istatitkachi</a>&nbsp;
+<br><font size="+2"><b><a name="titkachi inɬobofka"></a>titkachi inɬobofka</b> </font>
+<font size="+2">button hole </font>
+&nbsp; [ist- /achit(ìi)-ka<sup>1</sup>-chi<sup>2</sup> im- /ɬobof-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="titkachittiɬi"></a>titkachittiɬi</b> </font>
+<font size="+2">button hole </font>
+&nbsp; [ist- /achit(ìi)-ka<sup>1</sup>-chi<sup>2</sup> /ittiɬi]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tiwwi"></a>tiwwi</b> </font>
+<font size="+2">to open (several objects or repeatedly)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tiwchi, tiwhili, tiwhachi</i>)
+&nbsp; [/tiw-li]
+ [<i>Irr: </i>SgStem=tiyapli]
+ ☞<a href="t.htm#tiyapli">tiyapli</a>
+<br><font size="+2"><b><a name="tiyapka"></a>tiyapka</b> </font>
+<font size="+2">to be opened, open (of one)</font>
+&nbsp; [/tiyap-ka<sup>1</sup>]
+ ☞<a href="t.htm#tiyapli">tiyapli</a>
+<br><font size="+2"><b><a name="tiyapli"></a>tiyapli</b> </font>
+<font size="+2">to open (one object)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tiyapchi, tiyaphili, tiyaphachi</i>)
+&nbsp; [/tiyap-li]
+ [<i>Irr: </i>PlStem=tiwwi]
+<br>&nbsp;&nbsp;<i><a href="i1.htm#intiyapli">intiyapli</a></i>
+&nbsp;to open for
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#intiyapka">intiyapka</a></i>
+&nbsp;to be open
+<br>&nbsp;&nbsp;<i><a href="t.htm#tiyapka">tiyapka</a></i>
+&nbsp;to be opened
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istintiyapka">istintiyapka</a></i>
+&nbsp;opener
+<br>&nbsp;&nbsp;<i><a href="t.htm#tiwwi">tiwwi</a></i>
+&nbsp;to open (pl. obj. or rep.)
+<br><font size="+2"><b><a name="toba"></a>toba</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to become, be made </font>
+&nbsp;<font color="#800080" size="+1">-LI/3; CHA-/3</font>
+&nbsp;(<i>tobatiska, tobatilka, tobataska</i>)
+&nbsp;<font face="Arial">«</font>Fósok chatobati.
+ <i>I became a grandfather.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tobaasti.
+ <i>It got made (I guess, I didn't see it happen).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Holisso aabàachok tobatiskati.
+ <i>You became a teacher.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to make</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;<font face="Arial">«</font>óstàakan tobatiskáhcho?
+ <i>Did you make four?</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tobatíkko">tobatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="t.htm#tobaachi">tobaachi</a></i>
+&nbsp;to establish
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="n.htm#nihta tobaachi">nihta tobaachi</a></i>
+&nbsp;to earn a day's wages
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tómbàachi">tómbàachi</a></i>
+&nbsp;to pretend
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istilitobaachi">istilitobaachi</a></i>
+&nbsp;to act like
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istiliitómbaachi">istiliitómbaachi</a></i>
+&nbsp;to consider oneself to be like
+<br><font size="+2"><b><a name="tobaachi"></a>tobaachi</b> </font>
+<font size="+2">to make, establish (a town), found (a town); to make (money), earn</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tobaachitiska, tobaachitilka, tobaachitaska</i>)
+&nbsp;(<i>tobaachiska, tobaachilka, tobaachaska</i>)
+&nbsp; [/toba-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Akkon màafon ilchikìikok oola tobaachok íisahchootok ommoolo mafòokama óhchaayon.
+ <i>There they went and settled and established a little town and that's where they lived for a long time.</i> <font size="0">(HAI)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Toknaawon tobaachiliti.
+ <i>I made money.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Oola tobaachitilkaskiti.
+ <i>We founded a town.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Waakóot oibiimok aboslit hoyakchichit chassóot mafòokaya chassik oinnàaho báanakástaskat; hoɬkot hotobaachit paspoochiikóot hotobaachit.
+ <i>They would kill a cow and barbecue it and make the corn and meat dish and corn, since at that time it seems like everyone had corn, they'd make sofkey and corn dumplings.</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Affakchiyáalon sokcha tobáachit?
+ <i>They made a bag out of the skin itself?</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+ ☞<a href="t.htm#toba">toba</a>
+<br><font size="+2"><b><a name="tobaksi"></a>tobaksi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="i2.htm#ittobaksi">ittobaksi</a>&nbsp;
+<br><font size="+2"><b><a name="tobatíkko"></a>tobatíkko</b> </font>
+ Neg.
+ ☞<a href="t.htm#toba">toba</a>
+<br><font size="+2"><b><a name="tobiila"></a>tobiila</b> </font>
+<font size="+2">to get burned (on the whole body), sunburned, suntanned; to burn up</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [poss. /tobila]
+&nbsp;<font face="Arial">«</font>Kopihkak tobiila.
+ <i>The trash burned up.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Ittok tobilaamok ittobaksi tobahchi.
+ <i>When the wood burns up it becomes coals.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chatobiilalak chabànnok hasifan inchokóoliliti.
+ <i>I want to get tanned so I was sunbathing.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tobìlko">tobìlko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="t.htm#tobiilatilka">tobiilatilka</a></i>
+&nbsp;hell, burning
+<br>&nbsp;&nbsp;<i><a href="t.htm#tómbìila">tómbìila</a></i>
+&nbsp;to be a little overdone
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tómbìilàaso">tómbìilàaso</a></i>
+&nbsp;to be not completely burned up
+<br>&nbsp;&nbsp;<i><a href="t.htm#tobiilachi">tobiilachi</a></i>
+&nbsp;to burn (something) up
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tobilkachi">tobilkachi</a></i>
+&nbsp;burning something
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tobilkìicho">tobilkìicho</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="h.htm#hasik tobiilachi">hasik tobiilachi</a></i>
+&nbsp;to scorch (of the sun)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istobiilachi">istobiilachi</a></i>
+&nbsp;to burn up (something in a container)
+<br>&nbsp;&nbsp;<i><a href="p.htm#paatobiila">paatobiila</a></i>
+&nbsp;to be burned on top of
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paatobiilachi">paatobiilachi</a></i>
+&nbsp;to burn the top of
+<br>&nbsp;&nbsp;<i><a href="a.htm#atobiila">atobiila</a></i>
+&nbsp;to burn in a stove
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#atobiilachi">atobiilachi</a></i>
+&nbsp;to burn something
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#atobiilachitíkko">atobiilachitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#atobiilàachi">atobiilàachi</a></i>
+&nbsp;devil
+<br><font size="+2"><b><a name="tobiilachi"></a>tobiilachi</b> </font>
+<font size="+2">to burn (something) up</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>tobilchichi, tobilhilichi, tobilhachichi</i>)
+&nbsp; [prob. /tobila-chi<sup>1</sup>]
+ <i>Neg: </i>tobilkìicho
+&nbsp;<font face="Arial">«</font>Nàaskánkon tobiilachilo.
+ <i>I burned up the garbage.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nàaskánkokok tobiilachit anoochihchoⁿ?
+ <i>Did you burn up the trash?</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tobiila">tobiila</a>
+<br><font size="+2"><b><a name="tobiilaschoba"></a>tobiilaschoba</b> </font>
+<font size="+2">anything badly burned</font>
+&nbsp; [/tobiila-hchi choba]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="tobiilassoba"></a>tobiilassoba</b> </font>
+<font size="+2">blaze</font>
+&nbsp; [/tobiila-osi /choba]
+<br><font size="+2"><b><a name="tobiilatilka"></a>tobiilatilka</b> </font>
+<font size="+2">hell, burning</font>
+&nbsp; [/tobiila-tilka]
+ ☞<a href="t.htm#tobiila">tobiila</a>
+<br><font size="+2"><b><a name="tobilkachi"></a>tobilkachi</b> </font>
+<font size="+2">burning something</font>
+&nbsp; [/tobila-ka<sup>1</sup>-chi<sup>1</sup>]
+ ☞<a href="t.htm#tobiilachi">tobiilachi</a>
+<br><font size="+2"><b><a name="tobilkìicho"></a>tobilkìicho</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Mánkobi, tobiltakìichoti.
+ <i>No, I didn't burn it.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tobiilachi">tobiilachi</a>
+<br><font size="+2"><b><a name="tobìlko"></a>tobìlko</b> </font>
+ Neg.
+ ☞<a href="t.htm#tobiila">tobiila</a>
+<br><font size="+2"><b><a name="toffola"></a>toffola</b> </font>
+<font size="+2">blister </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+ <i>Var: tohhola</i>
+&nbsp;<font size="0">(DB)</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#intoffola">intoffola</a></i>
+&nbsp;to have a blister
+<br>&nbsp;&nbsp;<i><a href="t.htm#toffolaachi">toffolaachi</a></i>
+&nbsp;to cause a blister
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ichootoffola">ichootoffola</a></i>
+&nbsp;to have a blistered mouth
+<br><font size="+2"><b><a name="toffolaachi"></a>toffolaachi</b> </font>
+<font size="+2">to cause a blister</font>
+&nbsp;<font color="#800080" size="+1">3/CHA-</font>
+&nbsp; [/toffola-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Wiloháhpak chatoffolaachiiso.
+ <i>New shoes gave me a blister.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#toffola">toffola</a>
+<br><font size="+2"><b><a name="tofíkko"></a>tofíkko</b> </font>
+ Neg.
+ ☞<a href="t.htm#tofka">tofka</a>
+<br><font size="+2"><b><a name="tofilka"></a>tofilka</b> </font>
+<font size="+2">spittle</font>
+&nbsp; [/tof&lt;il&gt;-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#tofka">tofka</a>
+<br><font size="+2"><b><a name="tofka"></a>tofka</b> </font>
+<font size="+2">to spit</font>
+&nbsp;<font color="#080000">Cul:  It is traditional for all to spit (or pretend to spit) after the telling of a story. Some say if you don't your teeth will rot.</font>&nbsp;
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>tofiska, tofilka, tofaska</i>)
+&nbsp; [/tof-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Tofilkaskiti naaɬiilkachòobon fatlit faylifòokon tankáakon.
+ <i>We all spit after he told the story last night.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tofoka">tofoka</a></i>
+ Imp.
+<br>&nbsp;&nbsp;<i><a href="t.htm#tofíkko">tofíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="t.htm#tofilka">tofilka</a></i>
+&nbsp;spittle
+<br>&nbsp;&nbsp;<i><a href="a.htm#aatofilka">aatofilka</a></i>
+&nbsp;spittoon
+<br>&nbsp;&nbsp;<i><a href="o.htm#ontofka">ontofka</a></i>
+&nbsp;to spit on
+<br>&nbsp;&nbsp;<i><a href="p.htm#paatofka">paatofka</a></i>
+&nbsp;to spit on
+<br><font size="+2"><b><a name="tofoka"></a>tofoka</b> </font>
+ Imp.
+ ☞<a href="t.htm#tofka">tofka</a>
+<br><font size="+2"><b><a name="tohalatli"></a>tohalatli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#toholatli">toholatli</a>&nbsp;
+<br><font size="+2"><b><a name="tohbi"></a>tohbi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">fog</font>
+&nbsp;2.&nbsp;
+<font size="+2">for it to be foggy</font>
+&nbsp;3.&nbsp;
+<font size="+2">to be white-haired</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Tohbit aɬɬahchi.
+ <i>He's beginning to get white-haired.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tokíhbo">tokíhbo</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="t.htm#tóobòosi">tóobòosi</a></i>
+&nbsp;1.&nbsp;
+&nbsp;haze
+&nbsp;2.&nbsp;
+&nbsp;to be blurry
+&nbsp;3.&nbsp;
+&nbsp;to be smoky
+<br>&nbsp;&nbsp;<i><a href="i1.htm#intohbi">intohbi</a></i>
+&nbsp;to be blind
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#intolihbi">intolihbi</a></i>
+&nbsp;blindness
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#intohbichi">intohbichi</a></i>
+&nbsp;to make someone blind
+<br>&nbsp;&nbsp;<i><a href="o.htm#oktohbichi">oktohbichi</a></i>
+&nbsp;to make water muddy
+<br>&nbsp;&nbsp;<i><a href="t.htm#tóohbi">tóohbi</a></i>
+&nbsp;to be almost white-haired
+<br><font size="+2"><b><a name="tohhola"></a>tohhola</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#toffola">toffola</a>&nbsp;
+<br><font size="+2"><b><a name="tohmaláaha"></a>tohmaláaha</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#toomalàaha">toomalàaha</a>&nbsp;
+<br><font size="+2"><b><a name="tohno"></a>tohno</b> </font>
+<font size="+2">to have work for</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>tochihno, tolihno, tohachihno</i>)
+ <i>Var: toono</i>
+&nbsp;<font face="Arial">«</font>Iltoliinoya chitoonolao.
+ <i>I have a job for you.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="toholatli"></a>toholatli</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">for there to be frost on the ground</font>
+ <i>Var: toolatli</i>
+ <i>Var: tohalatli</i>
+&nbsp;<font size="0">(IB)</font>
+&nbsp;<font face="Arial">«</font>Hassifaya toholatliimoolo.
+ <i>The grass has frost on it.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">early morning frost</font>
+<br><font size="+2"><b><a name="tohto"></a>tohto</b> </font>
+<font size="+2">tree similar to toothache tree (kind of elm?), common hoptree? winged elm? slippery elm? cork-winged elm?</font>
+ (white, rough places on the trunk; oval, yellowish, rough leaves; small, round, black berries; fairly large tree; grows in blackland; similar to beech tree)
+&nbsp;<font color="#080000">Cul:  Inner bark has medicinal uses, also used for binding covers on cotton bales.</font>&nbsp;
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: tóhto</i>
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="tokaalichi"></a>tokaalichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tokahlichi">tokahlichi</a>&nbsp;
+<br><font size="+2"><b><a name="tokaffi"></a>tokaffi</b> </font>
+<font size="+2">to shoot off; to snap the fingers, pop, bang (once)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tokafchi, tokafhili, tokafhachi</i>)
+&nbsp; [/tokaf-li]
+<br>&nbsp;&nbsp;<i><a href="t.htm#tokafka">tokafka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to explode
+&nbsp;2.&nbsp;
+&nbsp;bang
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istintokafka">istintokafka</a></i>
+&nbsp;to have a blow out
+<br>&nbsp;&nbsp;<i><a href="t.htm#tokahli">tokahli</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to blow up
+&nbsp;2.&nbsp;
+&nbsp;to crackle (rep.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tokahlichi">tokahlichi</a></i>
+&nbsp;to make something go pop
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#intokahlichi">intokahlichi</a></i>
+&nbsp;to shoot off at
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istokahkachi">istokahkachi</a></i>
+&nbsp;fireworks
+<br><font size="+2"><b><a name="tokafka"></a>tokafka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to explode, go off (of an explosion), crash (of thunder), bang, burst open once</font>
+&nbsp; [/tokaf-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Intonohlik tokafkahchi.
+ <i>A tire blew out.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">bang, sound of a gunshot</font>
+ ☞<a href="t.htm#tokaffi">tokaffi</a>
+<br><font size="+2"><b><a name="tokahli"></a>tokahli</b> </font>
+<font size="+2">to pop, crackle (of a fire), splutter (as hot grease), back fire (as a car) (repeatedly)</font>
+&nbsp; [/toka&lt;h&gt;f-li]
+&nbsp;<font face="Arial">«</font>Ammobìlkak tokahlo.
+ <i>My car backfired repeatedly.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Bihok tokáahliti.
+ <i>The gun fired several times.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tokaffi">tokaffi</a>
+<br><font size="+2"><b><a name="tokahlichi"></a>tokahlichi</b> </font>
+<font size="+2">to make something go pop, crack, snap </font>
+ (may refer to cracking a whip, popping a joint, cracking knuckles, shooting a gun, fireworks, bursting a balloon, etc)
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tokahchichi, tokahhilichi, tokahhachichi</i>)
+&nbsp; [/toka&lt;h&gt;f-li-chi<sup>1</sup>]
+ <i>Var: tokaalichi</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Waakisbatkan tokahlichi.
+ <i>Crack the bullwhip.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chalbin tokahlichilo.
+ <i>I snapped my fingers.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tokahhilichi.
+ <i>We shot off the fireworks.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tokahli">tokahli</a>
+<br><font size="+2"><b><a name="tokbinàali"></a>tokbinàali</b> </font>
+<font size="+2">to be rough, choppy, turbulent (of a body of water)</font>
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="tokíhbo"></a>tokíhbo</b> </font>
+ Neg.
+ ☞<a href="t.htm#tohbi">tohbi</a>
+<br><font size="+2"><b><a name="tokìisbo"></a>tokìisbo</b> </font>
+ Neg.
+ ☞<a href="t.htm#tòosbi">tòosbi</a>
+<br><font size="+2"><b><a name="tokíispo"></a>tokíispo</b> </font>
+ Neg.
+ ☞<a href="t.htm#tòospa">tòospa</a>
+<br><font size="+2"><b><a name="tòklo"></a>tòklo</b> </font>
+<font size="+2">to be two in number, be a pair, be a couple, the number two</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>tòklotiska, tòklotilka, tòklotaska</i>)
+ <i>Var: tóklo</i>
+&nbsp;<font face="Arial">«</font>Tóklòssok annàahobi.
+ <i>I have two.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tókloostilko.
+ <i>There are just two of us.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tóklotilko.
+ <i>There are two of us.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tókloobáanat ontichihchi.
+ <i>They're coming two by two.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tòklon tòklooma óstàako.
+ <i>Two and two is four.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Máamòosin akkat oɬaamon akkat àayat akkamíhchit imakanoochik oolakanoochiimon yon tayyiha tòklohchon ohiⁿfaylilaak onkatóon ommin.
+ <i>And he did all of that that way because he was improving things and if he brought peace then what they had promised him was these two women.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#intóklo">intóklo</a></i>
+&nbsp;to have two of
+<br>&nbsp;&nbsp;<i><a href="t.htm#tòklosi">tòklosi</a></i>
+&nbsp;one of twin babies
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tòklosiiha">tòklosiiha</a></i>
+&nbsp;twin babies
+<br>&nbsp;&nbsp;<i><a href="t.htm#tóklochi">tóklochi</a></i>
+&nbsp;to do twice
+<br>&nbsp;&nbsp;<i><a href="a.htm#atòkla">atòkla</a></i>
+&nbsp;1.&nbsp;
+&nbsp;Tuesday; next time
+&nbsp;2.&nbsp;
+&nbsp;to be two times
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#atokláali">atokláali</a></i>
+&nbsp;to be again
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#atóklama">atóklama</a></i>
+&nbsp;to be next time
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istatòkla">istatòkla</a></i>
+&nbsp;to do twice
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istimatòkla">istimatòkla</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be second to
+&nbsp;2.&nbsp;
+&nbsp;to second (someone's) motion
+<br>&nbsp;&nbsp;<i><a href="h.htm#hitòkla">hitòkla</a></i>
+&nbsp;two times
+&nbsp;to be again
+<br>&nbsp;&nbsp;<i><a href="o.htm#ontòklo">ontòklo</a></i>
+&nbsp;seven
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istontòklo">istontòklo</a></i>
+&nbsp;to be seventh
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#ontóklochi">ontóklochi</a></i>
+&nbsp;to do seven times
+<br><font size="+2"><b><a name="tóklochi"></a>tóklochi</b> </font>
+<font size="+2">to do twice, make two</font>
+ (may refer to scoring two points, producing two offspring, etc)
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>tóklochitiska, tóklochitilka, tóklochitaska</i>)
+&nbsp; [/tòklo-chi<sup>1</sup>]
+ ☞<a href="t.htm#tòklo">tòklo</a>
+<br><font size="+2"><b><a name="tòklo ittihólbasi"></a>tòklo ittihólbasi</b> </font>
+<font size="+2">identical twins </font>
+&nbsp; [/tòklo itti- /holba-osi]
+<br><font size="+2"><b><a name="tòklosi"></a>tòklosi</b> </font>
+<font size="+2">one of twin babies </font>
+&nbsp; [/tòklo-osi]
+ ☞<a href="t.htm#tòklo">tòklo</a>
+<br><font size="+2"><b><a name="tòklosiiha"></a>tòklosiiha</b> </font>
+<font size="+2">twin babies </font>
+&nbsp; [/tòklo-osi-ha<sup>1</sup>]
+ ☞<a href="t.htm#tòklosi">tòklosi</a>
+<br><font size="+2"><b><a name="tokɬolotli"></a>tokɬolotli</b> </font>
+<font size="+2">to slobber, drool, slurp,</font>
+ (implies someone who does it frequently, as a baby or retarded person, as opposed to tokwayatli which seems to mean just accidentally on occasion)
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>tokɬolotchi, tokɬolothili, tokɬolothachi</i>)
+&nbsp; [/tokɬolot-li]
+ <i>Var: tokɬoyotli</i>
+<br>&nbsp;&nbsp;<i><a href="p.htm#paatokɬoyotli">paatokɬoyotli</a></i>
+&nbsp;to drool on
+<br><font size="+2"><b><a name="tokɬoyotli"></a>tokɬoyotli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tokɬolotli">tokɬolotli</a>&nbsp;
+<br><font size="+2"><b><a name="toknaawa"></a>toknaawa</b> </font>
+<font size="+2">money; silver</font>
+&nbsp;<font face="Arial">«</font>Intoknaawáoⁿsiima.
+ <i>He has lots of money.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#intoknáhwa">intoknáhwa</a></i>
+&nbsp;to have money
+<br>&nbsp;&nbsp;<i><a href="t.htm#toknaawinchoba">toknaawinchoba</a></i>
+&nbsp;to be rich
+<br>&nbsp;&nbsp;<i><a href="t.htm#toknaawachi">toknaawachi</a></i>
+&nbsp;to earn money
+<br><font size="+2"><b><a name="toknaawa cháffàaka"></a>toknaawa cháffàaka</b> </font>
+<font size="+2">one dollar</font>
+&nbsp; [/toknaawa /cháffàa-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="toknaawa cháffàaka laana"></a>toknaawa cháffàaka laana</b> </font>
+<font size="+2">penny; one dollar gold piece</font>
+&nbsp;<font size="0">(VC, CS)</font>
+&nbsp; [/toknaawa /cháfàa-ka<sup>1</sup> /laana]
+<br><font size="+2"><b><a name="toknaawachi"></a>toknaawachi</b> </font>
+<font size="+2">to make money, earn</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>toknaawachiska, toknaawachilka, toknaawachaska</i>)
+&nbsp;(<i>toknaawachitiska, toknaawachitilka, toknaawachitaska</i>)
+&nbsp; [/toknaawa-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Intoonoliima toknaawachilihchi.
+ <i>If I work I make money.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#toknaawa">toknaawa</a>
+<br><font size="+2"><b><a name="toknaawa chikìika"></a>toknaawa chikìika</b> </font>
+<font size="+2">bank (for money)</font>
+&nbsp; [/toknaawa /chikìi-ka<sup>1</sup>]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="toknaawa hatka"></a>toknaawa hatka</b> </font>
+<font size="+2">silver money</font>
+&nbsp; [/toknaawa /hat-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="toknaawa holisso"></a>toknaawa holisso</b> </font>
+<font size="+2">paper money, currency, bill</font>
+&nbsp; [/toknaawa /ho&lt;li&gt;sso]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="toknaawa iⁿsokcha"></a>toknaawa iⁿsokcha</b> </font>
+<font size="+2">wallet, billfold, money bag, change purse</font>
+&nbsp; [/toknaawa im- /sokcha]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="toknaawa laana"></a>toknaawa laana</b> </font>
+<font size="+2">penny, gold coin </font>
+&nbsp; [/toknaawa /laana]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="toknaawa laanasi"></a>toknaawa laanasi</b> </font>
+<font size="+2">one penny</font>
+&nbsp; [/toknaawa /laana-osi]
+<br><font size="+2"><b><a name="toknaawalpitta"></a>toknaawalpitta</b> </font>
+<font size="+2">piggybank</font>
+&nbsp; [/toknaawa /aa&lt;l&gt;pitta]
+<br><font size="+2"><b><a name="toknaawimiisa"></a>toknaawimiisa</b> </font>
+<font size="+2">purse, billfold, wallet</font>
+&nbsp; [/toknaawa im- /iisa]
+<br><font size="+2"><b><a name="toknaawinchoba"></a>toknaawinchoba</b> </font>
+<font size="+2">to be rich</font>
+&nbsp;<font color="#800080" size="+1">AM-</font>
+&nbsp; [/toknaawa im- /choba]
+ ☞<a href="t.htm#toknaawa">toknaawa</a>
+<br><font size="+2"><b><a name="tòkpa"></a>tòkpa</b> </font>
+<font size="+2">different place, another place, different direction</font>
+&nbsp;<font face="Arial">«</font>Mánkobi, tókpon aɬɬalahihchon òmmin ommo.
+ <i>No thanks, I'm going somewhere different.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tókpon imokwayhili.
+ <i>Let's fish in a different spot.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tókpon maabahàaloko.
+ <i>Push it away from you.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tókpàasi">tókpàasi</a></i>
+&nbsp;a little ways away
+<br><font size="+2"><b><a name="tókpàasi"></a>tókpàasi</b> </font>
+<font size="+2">a little ways away</font>
+&nbsp; [/tókpa-osi]
+ [<i>fgr</i>]
+ ☞<a href="t.htm#tókpa">tókpa</a>
+<br><font size="+2"><b><a name="toktohka"></a>toktohka</b> </font>
+<font size="+2">to cluck (as a hen calling her chicks)</font>
+&nbsp; [prob. /toktoh-ka<sup>1</sup>]
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="tokwatli"></a>tokwatli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tokwayatli">tokwayatli</a>&nbsp;
+<br><font size="+2"><b><a name="tokwayatli"></a>tokwayatli</b> </font>
+<font size="+2">to slobber, drool, slurp</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ <i>Var: tokwatli</i>
+&nbsp;<font size="0">(WP)</font>
+ <i>Var: tokyawatli</i>
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="tokyawatli"></a>tokyawatli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tokwayatli">tokwayatli</a>&nbsp;
+<br><font size="+2"><b><a name="tolokko"></a>tolokko</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#talakto">talakto</a>&nbsp;
+<br><font size="+2"><b><a name="toɬbroska"></a>toɬbroska</b> </font>
+<font size="+2">toothbrush</font>
+&nbsp; [/toɬbros-ka<sup>3</sup>]
+ {&nbsp;English}
+<br><font size="+2"><b><a name="toɬko"></a>toɬko</b> </font>
+<font size="+2">soot, smudge</font>
+<br><font size="+2"><b><a name="toɬɬohíkko"></a>toɬɬohíkko</b> </font>
+ Neg.
+ ☞<a href="t.htm#toɬɬohka">toɬɬohka</a>
+<br><font size="+2"><b><a name="toɬɬohka"></a>toɬɬohka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to cough (involuntarily), have a cold </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/toɬɬoh-ka<sup>1</sup>]
+ <i>Var: toɬɬooka</i>
+ <i>Var: toɬtohka</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;2.&nbsp;
+<font size="+2">to cough (voluntarily)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>toɬɬohiska, toɬɬohilka, toɬɬohaska</i>)
+&nbsp;<font face="Arial">«</font>Toɬtohkali.
+ <i>I cough.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#toɬɬohíkko">toɬɬohíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#intoɬɬohka">intoɬɬohka</a></i>
+&nbsp;to cough on purpose for (someone)
+<br>&nbsp;&nbsp;<i><a href="t.htm#toɬɬoilka">toɬɬoilka</a></i>
+&nbsp;cough, cold
+<br>&nbsp;&nbsp;<i><a href="t.htm#toɬɬoolichi">toɬɬoolichi</a></i>
+&nbsp;to make someone cough
+<br><font size="+2"><b><a name="toɬɬoilka"></a>toɬɬoilka</b> </font>
+<font size="+2">cough, cold, coughing</font>
+&nbsp; [/toɬɬoo&lt;il&gt;-ka<sup>1</sup>]
+ <i>Var: toɬtoilka</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#toɬɬohka">toɬɬohka</a>
+<br><font size="+2"><b><a name="toɬɬoilka imaissi"></a>toɬɬoilka imaissi</b> </font>
+<font size="+2">cough medicine</font>
+&nbsp; [/toɬɬoh&lt;il&gt;-ka<sup>1</sup> im- /ahissi]
+<br><font size="+2"><b><a name="toɬɬoilka kánko"></a>toɬɬoilka kánko</b> </font>
+<font size="+2">bad cough (as with the flu) </font>
+ (may refer to tuberculosis,, the flu, bad cold, whooping cough)
+&nbsp; [/toɬɬoo&lt;il&gt;-ka<sup>1</sup> /kano-ki-o<sup>2</sup>]
+ <i>Var: toɬtoilkakànko</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Antoɬtoilkakánko.
+ <i>My bad cough.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="toɬɬooka"></a>toɬɬooka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#toɬɬohka">toɬɬohka</a>&nbsp;
+<br><font size="+2"><b><a name="toɬɬoolichi"></a>toɬɬoolichi</b> </font>
+<font size="+2">to cause someone to cough (as smoke)</font>
+&nbsp;<font color="#800080" size="+1">3/CHA-</font>
+&nbsp; [/toɬɬoh-li-chi<sup>1</sup>]
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font face="Arial">«</font>Sobotlik chatoɬɬoolicho.
+ <i>The smoke made me cough.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#toɬɬohka">toɬɬohka</a>
+<br><font size="+2"><b><a name="toɬopli"></a>toɬopli</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">flakes, dandruff</font>
+&nbsp;2.&nbsp;
+<font size="+2">to have flakes on, be flaky</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font size="0">(VC)</font>
+<br>&nbsp;&nbsp;<i><a href="p.htm#paatoɬopli">paatoɬopli</a></i>
+&nbsp;to have dandruff
+<br><font size="+2"><b><a name="toɬtohilka ishaapolonka"></a>toɬtohilka ishaapolonka</b> </font>
+<font size="+2">whooping cough </font>
+&nbsp; [/toɬtoh&lt;il&gt;-ka<sup>1</sup> is- /haapolom-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="toɬtohka"></a>toɬtohka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#toɬɬohka">toɬɬohka</a>&nbsp;
+<br><font size="+2"><b><a name="toɬtoilchòoba"></a>toɬtoilchòoba</b> </font>
+<font size="+2">the flu, a bad cold </font>
+&nbsp; [/toɬtoh&lt;il&gt;-ka<sup>1</sup> /choba]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="toɬtoilka"></a>toɬtoilka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#toɬɬoilka">toɬɬoilka</a>&nbsp;
+<br><font size="+2"><b><a name="toɬtoilkakànko"></a>toɬtoilkakànko</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#toɬɬoilka kánko">toɬɬoilka kánko</a>&nbsp;
+<br><font size="+2"><b><a name="tómbàachi"></a>tómbàachi</b> </font>
+<font size="+2">to pretend, act like, behave as though, keep a certain way</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>tómbàachiska, tómbàachilka, tómbàachaska</i>)
+&nbsp;(<i>tómbàatiska, tómbàatilka, tómbàataska</i>)
+&nbsp; [/toba-chi<sup>1</sup>]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Akkon mikko hotómbàachikáhchoolikha.
+ <i>They acted like that one was chief.</i> <font size="0">(NIA)</font><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chimilokfa páanan achon tómbàachit ommi.
+ <i>Keep your overshirt on the outside (of the pants).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Sna piichi ilitómbaatiskahchi.
+ <i>You acted like you were a mother.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tobaachi">tobaachi</a>
+<br><font size="+2"><b><a name="tómbìila"></a>tómbìila</b> </font>
+<font size="+2">to be a little overdone, slightly burned, a little charred, too brown (as biscuits)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>ggr</i>]
+ ☞<a href="t.htm#tobiila">tobiila</a>
+<br><font size="+2"><b><a name="tómbìilàaso"></a>tómbìilàaso</b> </font>
+<font size="+2">to be not completely burned up (as a pile of wood)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/tobiila-osi]
+ [<i>ggr</i>]
+ ☞<a href="t.htm#tómbìila">tómbìila</a>
+<br><font size="+2"><b><a name="tonohki"></a>tonohki</b> </font>
+<font size="+2">to be round, spherical, circular</font>
+<br><font size="+2"><b><a name="tonòoli"></a>tonòoli</b> </font>
+<font size="+2">to roll (repeatedly), roll over and over</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>tonòochi, tonòohili, tonòohachi</i>)
+&nbsp; [/tono(t)-li]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Akkáamiyon chassaffákchi naho istonòolit óyhan stooyaapittatoofòokok akkamìichit stittanowwatoofòokok...
+ <i>For that kind they used corn shucks to wrap them in and they put all of them in (boiling) water and that's the way they fixed it and then carried it with them...</i> <font size="0">(NHN)</font><font face="Arial">»</font>
+ ☞<a href="t.htm#tonotli">tonotli</a>
+<br><font size="+2"><b><a name="tonòolichi"></a>tonòolichi</b> </font>
+<font size="+2">to roll (more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>tonòochichi, tonòohilichi, tonòohachichi</i>)
+&nbsp; [/tono(t)li-chi<sup>1</sup>]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ ☞<a href="t.htm#tonòoli">tonòoli</a>
+<br><font size="+2"><b><a name="tonotli"></a>tonotli</b> </font>
+<font size="+2">to roll once</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>tonotchi, tonothili, tonothachi</i>)
+&nbsp; [/tonot-li]
+&nbsp;<font face="Arial">«</font>Pokkok ibisnáalok tonotlihchi.
+ <i>The ball is rolling all by itself.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#intonotli">intonotli</a></i>
+&nbsp;wheel
+<br>&nbsp;&nbsp;<i><a href="o.htm#ootonotli">ootonotli</a></i>
+&nbsp;to roll down toward the water (sg.)
+<br>&nbsp;&nbsp;<i><a href="t.htm#tonotlichi">tonotlichi</a></i>
+&nbsp;to roll (one obj.)
+<br>&nbsp;&nbsp;<i><a href="t.htm#tonòoli">tonòoli</a></i>
+&nbsp;to roll (rep.or pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#intonòoli">intonòoli</a></i>
+&nbsp;anything that rolls
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#ootonòoli">ootonòoli</a></i>
+&nbsp;to roll down toward the water (pl.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tonòolichi">tonòolichi</a></i>
+&nbsp;to roll (pl. obj.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tonóolichi">tonóolichi</a></i>
+&nbsp;to be rolling (pl.obj.)
+<br><font size="+2"><b><a name="tonotlichi"></a>tonotlichi</b> </font>
+<font size="+2">to roll (one thing)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>tonotchichi, tonothilichi, tonothachichi</i>)
+&nbsp; [/tonot-li-chi<sup>1</sup>]
+ <i>Pl: </i>tonòolichi
+&nbsp;<font face="Arial">«</font>Pokkon tonotlichiliti.
+ <i>I rolled the ball.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tonotli">tonotli</a>
+<br><font size="+2"><b><a name="toobakaali"></a>toobakaali</b> </font>
+<font size="+2">to be shiny (of a reflecting surface); to be white</font>
+&nbsp;<font color="#800080" size="+1">3; CHA-</font>
+ <i>Var: toobakahli</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Chitoobakáhlooso.
+ <i>You're white.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chichoba toobakahlihchi.
+ <i>The horse is white.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#toobakaalitíkko">toobakaalitíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="toobakaalitíkko"></a>toobakaalitíkko</b> </font>
+ Neg.
+ ☞<a href="t.htm#toobakaali">toobakaali</a>
+<br><font size="+2"><b><a name="tóobòosi"></a>tóobòosi</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">haze, smog, slight mist</font>
+&nbsp; [/tohbi-osi]
+ [<i>fgr</i>]
+&nbsp;2.&nbsp;
+<font size="+2">to be blurry, dim, clouded (of the vision)</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;3.&nbsp;
+<font size="+2">for it to be smoky, slightly misty, hazy, smoggy</font>
+ <i>Var: tóhbóosi</i>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Istamilhichootok tóobòoso.
+ <i>My vision is getting a little blurry.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tóobòosin híichalo.
+ <i>I see a little fuzzily.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chatohbat aɬíinahchi.
+ <i>I'm starting to get white-haired.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tohbi">tohbi</a>
+<br><font size="+2"><b><a name="tóohbi"></a>tóohbi</b> </font>
+<font size="+2">to be almost white-haired</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>lgr</i>]
+&nbsp;<font face="Arial">«</font>Chatóohbit anookahchi.
+ <i>I'm almost completely white-haired.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tohbi">tohbi</a>
+<br><font size="+2"><b><a name="tòoka"></a>tòoka</b> </font>
+<font size="+2">playing, game</font>
+&nbsp; [/tòo-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Antòoka.
+ <i>My game.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#tòoli">tòoli</a>
+<br><font size="+2"><b><a name="tòoko"></a>tòoko</b> </font>
+ Neg.
+ ☞<a href="t.htm#tòoli">tòoli</a>
+<br><font size="+2"><b><a name="toolatli"></a>toolatli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#toholatli">toholatli</a>&nbsp;
+<br><font size="+2"><b><a name="tòoli"></a>tòoli</b> </font>
+<font size="+2">to play (a game, especially a ballgame such as stickball)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tòochi, tòohili, tòohachi</i>)
+&nbsp; [/tòo-li]
+&nbsp;<font face="Arial">«</font>Pokkotòoli!
+ <i>Play ball!</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tòoko">tòoko</a></i>
+ Neg.
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="t.htm#tòoka">tòoka</a></i>
+&nbsp;game
+<br>&nbsp;&nbsp;<i><a href="a.htm#aatòoka">aatòoka</a></i>
+&nbsp;playing field
+<br><font size="+2"><b><a name="tooɬka"></a>tooɬka</b> </font>
+<font size="+2">to run, run away (of two)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, tooɬilka, tooɬaska</i>)
+&nbsp; [/tooɬ(oo)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ [<i>Irr: </i>SgStem=waliika]
+ ☞<a href="t.htm#tooɬooka">tooɬooka</a>
+<br><font size="+2"><b><a name="tooɬooka"></a>tooɬooka</b> </font>
+<font size="+2">to run, run away (of more than two)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, tooɬoohilka, tooɬoohaska</i>)
+&nbsp; [/tooɬoo-ka<sup>1</sup>]
+ [<i>Irr: </i>SgStem=waliika]
+&nbsp;<font face="Arial">«</font>Albaamokok naho bihóotík stooɬòokat istoɬaabìikat iⁿhakcho yíkchòosootik ohintokáalichit obi ittaltàaloot tokaalichit akkamíhchit akkamíhchitik fàykot àayat aɬɬatok onáamit.
+ <i>The Alabamas had weapons and ran right up to him with them and shot them at him real close around his ears and between his thighs, but he kept on doing what he was doing and didn't stop, he kept going along.</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="o.htm#onatooɬooka">onatooɬooka</a></i>
+&nbsp;to run up to meet someone (pl.)
+<br>&nbsp;&nbsp;<i><a href="t.htm#tooɬka">tooɬka</a></i>
+&nbsp;to run away (of two)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#onatooɬka">onatooɬka</a></i>
+&nbsp;to run toward (of two)
+<br><font size="+2"><b><a name="tooɬookat ittimayyachi"></a>tooɬookat ittimayyachi</b> </font>
+<font size="+2">to run races with</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp; [/tooɬoo-ka<sup>1</sup>-t itti- /imayya-chi<sup>1</sup>]
+ ☞<a href="i2.htm#ittimayya">ittimayya</a>
+<br><font size="+2"><b><a name="toomalàaha"></a>toomalàaha</b> </font>
+<font size="+2">American beech tree </font>
+ <i>(Fagus grandifolia)</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: tohmaláaha</i>
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="toono"></a>toono</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tohno">tohno</a>&nbsp;
+<br><font size="+2"><b><a name="tòosbi"></a>tòosbi</b> </font>
+<font size="+2">to be turning rotten, beginning to go bad</font>
+ [<i>fgr</i>]
+ <i>Neg: </i>tokìisbo
+&nbsp;<font face="Arial">«</font>Tòosbit anooko.
+ <i>It's a little rotten.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tosbi">tosbi</a>
+<br><font size="+2"><b><a name="tòospa"></a>tòospa</b> </font>
+<font size="+2">to be hasty, fast, quick</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+ [<i>fgr</i>]
+ <i>Neg: </i>tokìispo
+ ☞<a href="t.htm#tospa">tospa</a>
+<br><font size="+2"><b><a name="tóospàasi"></a>tóospàasi</b> </font>
+<font size="+2">quickly, suddenly, jerky (as a car on a drag strip or someone with a quick temper)</font>
+&nbsp; [/tospa-osi]
+ [<i>fgr</i>]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Tóospàasin ilaapalàali.
+ <i>He has a quick temper.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tospa">tospa</a>
+<br><font size="+2"><b><a name="toospachi"></a>toospachi</b> </font>
+<font size="+2">to hurry (someone), make hurry</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>toospachitiska, toospachitilka, toospachitaska</i>)
+ ☞<a href="t.htm#tospa">tospa</a>
+<br><font size="+2"><b><a name="topaaka"></a>topaaka</b> </font>
+<font size="+2">to be shallow; to recede, dry up in several places</font>
+ (may refer to a creek gone dry here and there)
+&nbsp; [/topa(t)-ka<sup>1</sup>]
+ [<i>dsfx2</i>]
+ ☞<a href="t.htm#topatka">topatka</a>
+<br><font size="+2"><b><a name="topat-"></a>topat-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#topatli">topatli</a></i>
+&nbsp;to dry up (something)
+<br>&nbsp;&nbsp;<i><a href="t.htm#topatka">topatka</a></i>
+&nbsp;to recede (of water)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#topaaka">topaaka</a></i>
+&nbsp;to be shallow
+<br><font size="+2"><b><a name="topatka"></a>topatka</b> </font>
+<font size="+2">to recede (of water) to a level lower than normal (as a creek in the summer), dry up (as a puddle), evaporate</font>
+&nbsp; [/topat-ka<sup>1</sup>]
+ <i>Pl: </i>topaaka
+ ☞<a href="t.htm#topat-">topat-</a>
+<br><font size="+2"><b><a name="topatli"></a>topatli</b> </font>
+<font size="+2">to dry up (something)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>topatchi, topathili, topathachi</i>)
+&nbsp; [/topat-li]
+ ☞<a href="t.htm#topat-">topat-</a>
+<br><font size="+2"><b><a name="tosbi"></a>tosbi</b> </font>
+<font size="+2">to rot, die (of plants); to decay, become rusty, rotten</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tòosbi">tòosbi</a></i>
+&nbsp;to be turning rotten
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tokìisbo">tokìisbo</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="c.htm#chókkòolit tosbi">chókkòolit tosbi</a></i>
+&nbsp;just sit there and rot!
+<br><font size="+2"><b><a name="tosìina"></a>tosìina</b> </font>
+<font size="+2">bacon</font>
+ {&nbsp;Spanish `tocino'}
+<br><font size="+2"><b><a name="tosìina istatakka"></a>tosìina istatakka</b> </font>
+<font size="+2">yucca, bear grass </font>
+&nbsp;<font color="#080000">Cul:  Strong, long serrated leaves with a sharp point on one end which can be threaded through meat to be hung for smoking.</font>&nbsp;
+&nbsp; [/tosìina ist- /atak(àa)-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="tosooyòoli"></a>tosooyòoli</b> </font>
+<font size="+2">to transplant (more than one time or more than one kind of plant); to pour out, pour</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tosooyòochi, tosooyòohili, tosooyòohachi</i>)
+&nbsp; [/tosoy-oo-li]
+ [<i>fgr</i>]
+&nbsp;<font face="Arial">«</font>Tosooyòoliha!
+ <i>Pour it out!</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Isilkan tosooyòoli.
+ <i>Pour the drinks.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tosoyli">tosoyli</a>
+<br><font size="+2"><b><a name="tosoyka"></a>tosoyka</b> </font>
+<font size="+2">to be transplanted</font>
+&nbsp; [/tosoy-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Istibiibombokik tosoykaaho.
+ <i>The cabbage will be transplanted.</i><font face="Arial">»</font>
+ ☞<a href="t.htm#tosoyli">tosoyli</a>
+<br><font size="+2"><b><a name="tosoyli"></a>tosoyli</b> </font>
+<font size="+2">to transplant; to empty into a container, pour into another container, transfer from one container to another</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>tosoychi, tosoyhili, tosoyhachi</i>)
+&nbsp; [/tosoy-li]
+<br>&nbsp;&nbsp;<i><a href="i1.htm#intosoyli">intosoyli</a></i>
+&nbsp;to pour for
+<br>&nbsp;&nbsp;<i><a href="t.htm#tosoyka">tosoyka</a></i>
+&nbsp;to be transplanted
+<br>&nbsp;&nbsp;<i><a href="t.htm#tosooyòoli">tosooyòoli</a></i>
+&nbsp;to transplant (rep. or pl. obj.)
+<br>&nbsp;&nbsp;<i><a href="a.htm#aatosooya">aatosooya</a></i>
+&nbsp;funnel
+<br><font size="+2"><b><a name="tospa"></a>tospa</b> </font>
+<font size="+2">to hurry, be quick</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>tochispa, tolispa, tohachispa</i>)
+&nbsp;<font face="Arial">«</font>Tospat imponna.
+ <i>To be agile.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tospahahahchon akkamíhchiliti.
+ <i>I did it in a hurry.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Tòospa!
+ <i>Hurry up!</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tospatíkko">tospatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="t.htm#tòospa">tòospa</a></i>
+&nbsp;to be hasty
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="t.htm#tokíispo">tokíispo</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="a.htm#altóospa">altóospa</a></i>
+&nbsp;to be in a hurry
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="a.htm#altóospatíkko">altóospatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#imaltóospa">imaltóospa</a></i>
+&nbsp;to be impatient
+<br>&nbsp;&nbsp;<i><a href="t.htm#toospachi">toospachi</a></i>
+&nbsp;to hurry (someone)
+<br>&nbsp;&nbsp;<i><a href="t.htm#tóospàasi">tóospàasi</a></i>
+&nbsp;to be quick
+<br><font size="+2"><b><a name="tospatíkko"></a>tospatíkko</b> </font>
+ Neg.
+ ☞<a href="t.htm#tospa">tospa</a>
+<br><font size="+2"><b><a name="tossinaha"></a>tossinaha</b> </font>
+ <i>Var. of</i>&nbsp;<a href="t.htm#tissanaha">tissanaha</a>&nbsp;
+<br><font size="+2"><b><a name="tótchìina"></a>tótchìina</b> </font>
+<font size="+2">to be three in number, the number three</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>tótchìinatiska, tótchìinatilka, tótchìinataska</i>)
+&nbsp;<font face="Arial">«</font>Tótchìinatilko.
+ <i>There are three of us.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Nihtatótchìinan íisaaho.
+ <i>They are staying three days.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="t.htm#tótchìinasiiha">tótchìinasiiha</a></i>
+&nbsp;triplet babies
+<br>&nbsp;&nbsp;<i><a href="t.htm#tótchìinachi">tótchìinachi</a></i>
+&nbsp;to do three times
+<br>&nbsp;&nbsp;<i><a href="a.htm#atótchìina">atótchìina</a></i>
+&nbsp;Wednesday; three times
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istatótchìina">istatótchìina</a></i>
+&nbsp;to be the third
+<br>&nbsp;&nbsp;<i><a href="h.htm#hitótchìina">hitótchìina</a></i>
+&nbsp;to do something three times
+<br>&nbsp;&nbsp;<i><a href="i1.htm#intótchìina">intótchìina</a></i>
+&nbsp;to have three of
+<br>&nbsp;&nbsp;<i><a href="o.htm#ontótchìina">ontótchìina</a></i>
+&nbsp;eight
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istontótchìina">istontótchìina</a></i>
+&nbsp;to be the eighth
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#ontótchìinachi">ontótchìinachi</a></i>
+&nbsp;to do eight times
+<br><font size="+2"><b><a name="tótchìinachi"></a>tótchìinachi</b> </font>
+<font size="+2">to do three times, score three points, produce three offspring</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>tótchìinachitiska, tótchìinachitilka, tótchìinachitaska</i>)
+&nbsp; [/tótchìina-chi<sup>1</sup>]
+ ☞<a href="t.htm#tótchìina">tótchìina</a>
+<br><font size="+2"><b><a name="tótchìinasiiha"></a>tótchìinasiiha</b> </font>
+<font size="+2">triplet babies </font>
+&nbsp; [/tótchìina-osi-ha<sup>1</sup>]
+ ☞<a href="t.htm#tótchìina">tótchìina</a>
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

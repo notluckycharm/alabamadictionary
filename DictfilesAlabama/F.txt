@@ -1,0 +1,948 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">F</font></center><br>
+<br><font size="+2"><b><a name="faayàali"></a>faayàali</b> </font>
+<font size="+2">to stop, quit doing, be through with, go out of business, leave off doing; to leave (someone or something); to release let go of (something) (of more than two)</font>
+ (may refer to turning off a light or a machine, divorcing, getting a friend out of a fight, quitting smoking or drinking, finishing a bath or a meal)
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>-, faayàahili, faayàahachi</i>)
+&nbsp; [/faayaa-li]
+ [<i>fgr</i>]
+ [<i>Irr: </i>SgStem=fayli; DlStem=faayahli]
+ ☞<a href="f.htm#fayli">fayli</a>
+<br><font size="+2"><b><a name="faayahli"></a>faayahli</b> </font>
+<font size="+2">to stop, quit doing, be through with, go out of business, leave off doing; to leave (someone or something); to release let go of (something) (of two)</font>
+ (may refer to turning off a light or a machine, divorcing, getting a friend out of a fight, quitting smoking or drinking, finishing a bath or a meal)
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>-, faayahhili, faayahhachi</i>)
+&nbsp; [/faayaa&lt;h&gt;-li]
+ [<i>Irr: </i>SgStem=fayli; PlStem=faayàali]
+ ☞<a href="f.htm#faayàali">faayàali</a>
+<br><font size="+2"><b><a name="fachala"></a>fachala</b> </font>
+<font size="+2">woodpecker, redheaded woodpecker </font>
+<br><font size="+2"><b><a name="fachopli"></a>fachopli</b> </font>
+<font size="+2">to sprout, come up (of a crop), come out (of leaves) </font>
+&nbsp;<font face="Arial">«</font>Pakaalik fachopláoⁿsti.
+ <i>The flower is about to open.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="fahka"></a>fahka</b> </font>
+<font size="+2">to be wound up, spun into a bundle (as moss) </font>
+&nbsp; [/fah-ka<sup>1</sup>]
+ ☞<a href="f.htm#fahli">fahli</a>
+<br><font size="+2"><b><a name="fahli"></a>fahli</b> </font>
+<font size="+2">to move (something) with a circular motion using the hand</font>
+ (may refer to waving a handkerchief, twisting (esp. moss) on a stick, spining moss, twirling a rope)
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>fahchi, fahhili, fahhachi</i>)
+&nbsp; [/fah-li]
+&nbsp;<font face="Arial">«</font>Somon fahlilo.
+ <i>I'm winding the moss.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Somok fahkahchi máafìiko.
+ <i>Now the moss is being wound.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chintayyaskik ilbin fahlitoha.
+ <i>Your daughter is waving her hand.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿfahli">iⁿfahli</a></i>
+&nbsp;to spin (moss) for
+<br>&nbsp;&nbsp;<i><a href="i2.htm#isbakfahli">isbakfahli</a></i>
+&nbsp;to shake one's head in disagreement
+<br>&nbsp;&nbsp;<i><a href="m.htm#maafahli">maafahli</a></i>
+&nbsp;to wave something at someone at a distance
+<br>&nbsp;&nbsp;<i><a href="s.htm#somofahli">somofahli</a></i>
+&nbsp;to spin moss
+<br>&nbsp;&nbsp;<i><a href="f.htm#fahka">fahka</a></i>
+&nbsp;to be wound up into a bundle
+<br><font size="+2"><b><a name="fakohlichi"></a>fakohlichi</b> </font>
+<font size="+2">to leaf through (a book), turn (pages), flip through (a book), riffle (pages); to untangle</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>fakohchichi, fakohhilichi, fakohhachichi</i>)
+&nbsp; [/fako&lt;h&gt;p-li-chi<sup>2</sup>]
+ <i>Var: fakoolichi</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: fokoolichi</i>
+&nbsp;<font size="0">(IB)</font>
+ ☞<a href="f.htm#fakopli">fakopli</a>
+<br><font size="+2"><b><a name="fakoolichi"></a>fakoolichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="f.htm#fakohlichi">fakohlichi</a>&nbsp;
+<br><font size="+2"><b><a name="fakopka"></a>fakopka</b> </font>
+<font size="+2">to be opened (of one)</font>
+&nbsp; [/fakop-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Holissok fakopkaasti.
+ <i>The book was opened.</i><font face="Arial">»</font>
+ ☞<a href="f.htm#fakopli">fakopli</a>
+<br><font size="+2"><b><a name="fakopli"></a>fakopli</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to bud, put out leaves, leaf out (as a tree or plant)</font>
+&nbsp; [/fakop-li]
+&nbsp;<font face="Arial">«</font>Ittok fakoplo.
+ <i>The tree is putting out leaves.</i><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">to open up (one object), unfold (e.g. a jacknife)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>fakopchi, fakophili, fakophachi</i>)
+&nbsp;<font face="Arial">«</font>Talkoosan fakopchiⁿ?
+ <i>Did you open the knife?</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿfakopli">iⁿfakopli</a></i>
+&nbsp;to open to a page
+<br>&nbsp;&nbsp;<i><a href="f.htm#fakopka">fakopka</a></i>
+&nbsp;to be opened
+<br>&nbsp;&nbsp;<i><a href="f.htm#fakohlichi">fakohlichi</a></i>
+&nbsp;to leaf through; to untangle
+<br><font size="+2"><b><a name="falaíⁿkko"></a>falaíⁿkko</b> </font>
+ Neg.
+<font size="+2">to be asleep, unable to get up</font>
+&nbsp;<font face="Arial">«</font>Falaíⁿkkobáana.
+ <i>Never going to get up.</i><font face="Arial">»</font>
+ ☞<a href="f.htm#falanka2">falanka<sup>2</sup></a>
+<br><font size="+2"><b><a name="falakchi"></a>falakchi</b> </font>
+<font size="+2">wing (of a bird), long feather </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp;<font face="Arial">«</font>Foosiya falakchi ìisahchi.
+ <i>Birds have wings.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="falakchi tahlichi"></a>falakchi tahlichi</b> </font>
+<font size="+2">to flap the wings, flutter wings (as a chicken)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="t.htm#tahlichi">tahlichi</a>
+<br><font size="+2"><b><a name="falakto"></a>falakto</b> </font>
+<font size="+2">to be forked (as a stick)</font>
+<br><font size="+2"><b><a name="falam-"></a>falam-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="f.htm#falammi">falammi</a></i>
+&nbsp;to awaken suddenly
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isfalammi">isfalammi</a></i>
+&nbsp;to wake up (someone)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="f.htm#falanka">falanka</a></i>
+&nbsp;to be awakened
+<br>&nbsp;&nbsp;<i><a href="f.htm#falanka">falanka</a></i>
+&nbsp;to awaken, get up (from a fall)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="f.htm#falaíⁿkko">falaíⁿkko</a></i>
+ Neg.
+&nbsp;to be asleep
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="f.htm#falánka">falánka</a></i>
+&nbsp;to be alive, be awake
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="f.htm#falkòoka">falkòoka</a></i>
+&nbsp;to awaken
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="f.htm#falkoohoka">falkoohoka</a></i>
+ Imp.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="f.htm#falkohka">falkohka</a></i>
+&nbsp;to awaken
+<br><font size="+2"><b><a name="falammi"></a>falammi</b><sup>1</sup> </font>
+&nbsp;1.&nbsp;
+<font size="+2">north</font>
+&nbsp;2.&nbsp;
+<font size="+2">to be from the north (as wind)</font>
+<br>&nbsp;&nbsp;<i><a href="m.htm#maafalammi">maafalammi</a></i>
+&nbsp;north wind
+<br><font size="+2"><b><a name="falammi"></a>falammi</b><sup>2</sup> </font>
+<font size="+2">to wake (someone) up</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>falanchi, falaⁿhili, falaⁿhachi</i>)
+&nbsp; [/falam-li]
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Chafalancho.
+ <i>You woke me up.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chifalammili.
+ <i>I wake you up.</i><font face="Arial">»</font>
+ ☞<a href="f.htm#falam-">falam-</a>
+<br><font size="+2"><b><a name="falámmifa hochiiɬi"></a>falámmifa hochiiɬi</b> </font>
+<font size="+2">Polaris, North Star </font>
+&nbsp; [/falammi-fa /hochiiɬi]
+ <i>Var: falammifahochiiɬi</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="Falànchi"></a>Falànchi</b> </font>
+<font size="+2">French person</font>
+ {&nbsp;English}
+&nbsp;<font face="Arial">«</font>Chafalànchi.
+ <i>I'm French.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="falanka"></a>falanka</b><sup>1</sup> </font>
+<font size="+2">to be awakened, wake</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/falam-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chafalanko.
+ <i>I woke up.</i><font face="Arial">»</font>
+ ☞<a href="f.htm#falammi">falammi</a>
+<br><font size="+2"><b><a name="falanka"></a>falanka</b><sup>2</sup> </font>
+<font size="+2">to wake up, awaken, get out of bed, arise, get up (from a fall) (of one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>falaⁿiska, -, -</i>)
+&nbsp; [/falam-ka<sup>1</sup>]
+ [<i>Irr: </i>PlStem=falkòoka; DlStem=falkohka]
+ <i>Neg: </i>falaíⁿkko
+&nbsp;<font face="Arial">«</font>Kochochohki imiisan talibòochilak ommiha kochochohkik falkoikkóomon falaiⁿskayáɬɬilo hokahchootoha.
+ <i>They always say if you want to build a martin house you always have to get up before the martins do.</i><font face="Arial">»</font>
+ ☞<a href="f.htm#falam-">falam-</a>
+<br><font size="+2"><b><a name="falánka"></a>falánka</b> </font>
+<font size="+2">to be alive, be conscious, be awake</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/falam-ka<sup>1</sup>]
+ [<i>lgr</i>]
+ ☞<a href="f.htm#falanka2">falanka<sup>2</sup></a>
+<br><font size="+2"><b><a name="falkohka"></a>falkohka</b> </font>
+<font size="+2">to wake up, awaken (of two)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, falkohilka, falkohaska</i>)
+&nbsp; [/falkoo&lt;h&gt;-ka<sup>1</sup>]
+ [<i>Irr: </i>SgStem=falanka; PlStem=falkòoka]
+ <i>Neg: </i>falkohíkko
+ ☞<a href="f.htm#falkòoka">falkòoka</a>
+<br><font size="+2"><b><a name="falkoohoka"></a>falkoohoka</b> </font>
+ Imp.
+ ☞<a href="f.htm#falkòoka">falkòoka</a>
+<br><font size="+2"><b><a name="falkòoka"></a>falkòoka</b> </font>
+<font size="+2">to wake up, awaken (of more than two)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, falkòohilka, falkòohaska</i>)
+&nbsp; [/falkòo-ka<sup>1</sup>]
+ [<i>Irr: </i>SgStem=falanka; DlStem=falkohka]
+ <i>Neg: </i>falkoíkko
+ ☞<a href="f.htm#falanka2">falanka<sup>2</sup></a>
+<br><font size="+2"><b><a name="famohka"></a>famohka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="f.htm#fomòoka">fomòoka</a>&nbsp;
+<br><font size="+2"><b><a name="famòoka"></a>famòoka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="f.htm#fomòoka">fomòoka</a>&nbsp;
+<br><font size="+2"><b><a name="famopka"></a>famopka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="f.htm#fomopka">fomopka</a>&nbsp;
+<br><font size="+2"><b><a name="famotka"></a>famotka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="f.htm#fomopka">fomopka</a>&nbsp;
+<br><font size="+2"><b><a name="faskachi"></a>faskachi</b> </font>
+<font size="+2">to flake off, peel</font>
+&nbsp; [/fas-ka<sup>1</sup>-chi<sup>2</sup>]
+&nbsp;<font face="Arial">«</font>Chalbik solotkayok faskacho.
+ <i>My skin is dry and peeling.</i><font face="Arial">»</font>
+ ☞<a href="f.htm#faslichi">faslichi</a>
+<br><font size="+2"><b><a name="faskòhko"></a>faskòhko</b> </font>
+ Neg.
+ ☞<a href="f.htm#faskooli">faskooli</a>
+<br><font size="+2"><b><a name="faskohli"></a>faskohli</b> </font>
+ <i>Var. of</i>&nbsp;<a href="f.htm#faskooli">faskooli</a>&nbsp;
+<br><font size="+2"><b><a name="faskookìicho"></a>faskookìicho</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Faskookìichobi.
+ <i>She didn't hatch them (perhaps abandoned the nest).</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Faskookichóomobi.
+ <i>She hasn't hatched her eggs yet.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Faskookichóomohchi.
+ <i>She hasn't hatched her eggs yet.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Faskookichóohchooti.
+ <i>She hasn't hatched her eggs yet.</i><font face="Arial">»</font>
+ ☞<a href="f.htm#faskoolichi">faskoolichi</a>
+<br><font size="+2"><b><a name="faskooli"></a>faskooli</b> </font>
+<font size="+2">to hatch (of an egg)</font>
+&nbsp; [/faskoo-li]
+ {prob. related to faslichi}
+ <i>Var: faskohli</i>
+&nbsp;<font size="0">(DB)</font>
+<br>&nbsp;&nbsp;<i><a href="f.htm#faskòhko">faskòhko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="f.htm#faskoolichi">faskoolichi</a></i>
+&nbsp;to hatch (an egg)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="f.htm#faskookìicho">faskookìicho</a></i>
+ Neg.
+<br><font size="+2"><b><a name="faskoolichi"></a>faskoolichi</b> </font>
+<font size="+2">to hatch (an egg)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>faskoochihi, faskoohilichi, faskoohachichi</i>)
+&nbsp; [/faskoo-li-chi<sup>1</sup>]
+ <i>Neg: </i>faskookìicho
+&nbsp;<font face="Arial">«</font>Faskoolichaoⁿso.
+ <i>It's about to hatch it.</i><font face="Arial">»</font>
+ ☞<a href="f.htm#faskooli">faskooli</a>
+<br><font size="+2"><b><a name="faslichi"></a>faslichi</b> </font>
+<font size="+2">to peel (something) off</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>faschichi, fashilichi, fashachichi</i>)
+&nbsp; [/fas-li-chi<sup>2</sup>]
+&nbsp;<font face="Arial">«</font>Chalbik solotkaayon faslichilo.
+ <i>I'm peeling off my dry skin.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="f.htm#faskachi">faskachi</a></i>
+&nbsp;to flake off
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿfaskachi">iⁿfaskachi</a></i>
+&nbsp;to be scaly
+<br><font size="+2"><b><a name="fatka"></a>fatka</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be told, be known </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/fat-ka<sup>1</sup>]
+&nbsp;2.&nbsp;
+<font size="+2">report, story; rumor, a secret that has been told</font>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="f.htm#fatli">fatli</a>
+<br><font size="+2"><b><a name="fátko"></a>fátko</b> </font>
+ Neg.
+&nbsp;<font face="Arial">«</font>Dorcaskaya náason sobaylitik fátko.
+ <i>Dorcas knows something she's not telling.</i><font face="Arial">»</font>
+ ☞<a href="f.htm#fatli">fatli</a>
+<br><font size="+2"><b><a name="fatli"></a>fatli</b> </font>
+<font size="+2">to tell (something)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>fatchi, fathili, fathachi</i>)
+&nbsp; [/fat-li]
+<br>&nbsp;&nbsp;<i><a href="f.htm#fátko">fátko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿfatli">iⁿfatli</a></i>
+&nbsp;to tell (something) to; to invite (someone)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿfátko">iⁿfátko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ilifatli">ilifatli</a></i>
+&nbsp;to confess
+<br>&nbsp;&nbsp;<i><a href="m.htm#maafatli">maafatli</a></i>
+&nbsp;to announce
+<br>&nbsp;&nbsp;<i><a href="f.htm#fatka">fatka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to be told, be known
+&nbsp;2.&nbsp;
+&nbsp;story
+<br><font size="+2"><b><a name="fayka"></a>fayka</b> </font>
+<font size="+2">to be terminateed, left, stopped</font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/fay-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Mootok sáamifìinon faykatok ommi? Sáhmin isnakaɬtok ommi?
+ <i>Well then, how long ago did it all stop? Why did it go away?</i> <font size="0">(NWK)</font><font face="Arial">»</font>
+ ☞<a href="f.htm#fayli">fayli</a>
+<br><font size="+2"><b><a name="fayli"></a>fayli</b> </font>
+<font size="+2">to stop, quit doing, be through with, go out of business, leave off doing; to leave (someone or something); to release let go of (something)</font>
+ (may refer to turning off a light or a machine, divorcing, getting a friend out of a fight, quitting smoking or drinking, finishing a bath or a meal)
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>faychi, fayhili, fayhachi</i>)
+&nbsp; [/fay-li]
+ [<i>Irr: </i>PlStem=faayàali; DlStem=faayahli]
+&nbsp;<font face="Arial">«</font>Istaɬɬak faychínna!
+ <i>Keep on going with it!</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chifaylilào.
+ <i>I'm going to leave you.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hapkat fayli.
+ <i>He finished bathing.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Oompat fayli.
+ <i>He finished the meal.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Apalat fayli.
+ <i>The light is turned off.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Mànkobi, oompat fàayliliimoolo.
+ <i>No, thanks, I've just eaten.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="f.htm#fayka">fayka</a></i>
+&nbsp;to be terminated, left
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿfayka">iⁿfayka</a></i>
+&nbsp;to be finished
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ilifayli">ilifayli</a></i>
+&nbsp;to surrender
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿfayli">iⁿfayli</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to give (someone) leave
+&nbsp;2.&nbsp;
+&nbsp;to heal (of one's body)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istiⁿfayli">istiⁿfayli</a></i>
+&nbsp;to turn over to; to forgive
+<br>&nbsp;&nbsp;<i><a href="o.htm#onafayli">onafayli</a></i>
+&nbsp;to faint
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istonafayli">istonafayli</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to pass out suddenly
+&nbsp;2.&nbsp;
+&nbsp;to owe; to go away and not come back
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istimonafayli">istimonafayli</a></i>
+&nbsp;to have stiff muscles
+<br>&nbsp;&nbsp;<i><a href="i2.htm#ittifayli">ittifayli</a></i>
+&nbsp;to get a divorce (from each other)
+<br>&nbsp;&nbsp;<i><a href="p.htm#pisifayli">pisifayli</a></i>
+&nbsp;to be weaning, weaned
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#pisifaylichi">pisifaylichi</a></i>
+&nbsp;to wean (an infant)
+<br>&nbsp;&nbsp;<i><a href="f.htm#faylichi">faylichi</a></i>
+&nbsp;to make (someone) stop
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿfaylichi">iⁿfaylichi</a></i>
+&nbsp;to cure of (something)
+<br>&nbsp;&nbsp;<i><a href="f.htm#faayàali">faayàali</a></i>
+&nbsp;to quit (of more than one)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="f.htm#faayahli">faayahli</a></i>
+&nbsp;to quit (of two)
+<br><font size="+2"><b><a name="faylichi"></a>faylichi</b> </font>
+<font size="+2">to make (someone) stop; to fire or lay off (someone) (from a job)</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>faychichi, fayhilichi, fayhachichi</i>)
+&nbsp; [/fay-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Hochafaylichiti.
+ <i>They fired me.</i><font face="Arial">»</font>
+ ☞<a href="f.htm#fayli">fayli</a>
+<br><font size="+2"><b><a name="fayolitka"></a>fayolitka</b> </font>
+<font size="+2">African violet </font>
+&nbsp; [/fayolit-ka<sup>3</sup>]
+ {&nbsp;English}
+<br><font size="+2"><b><a name="fayolitka maɬátli"></a>fayolitka maɬátli</b> </font>
+<font size="+2">wild violet </font>
+&nbsp; [/fayolit-ka<sup>3</sup> /maɬat-li]
+<br><font size="+2"><b><a name="fayòoko"></a>fayòoko</b> </font>
+ Neg.
+ ☞<a href="f.htm#fayòoli">fayòoli</a>
+<br><font size="+2"><b><a name="fayòoli"></a>fayòoli</b> </font>
+<font size="+2">to sway as one walks, swagger, strut, shake the body</font>
+&nbsp;<font color="#800080" size="+1">CHA-; -LI</font>
+&nbsp;(<i>fayòochi, fayòohili, fayòohachi</i>)
+&nbsp;<font face="Arial">«</font>Chafayòoli.
+ <i>I sway.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Aⁿfayòoli.
+ <i>Shake it for me.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Fayòoli áaloosiyáalon.
+ <i>Shake it all you want.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Chifayòolàapiⁿ.
+ <i>You're really shaking it.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Fayòochínna.
+ <i>Don't shake it.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Fayòoliimooli.
+ <i>She sure really did shake it.</i><font face="Arial">»</font>
+&nbsp;<font size="0">(VC)</font>
+<br>&nbsp;&nbsp;<i><a href="f.htm#fayòolichi">fayòolichi</a></i>
+&nbsp;to sway
+<br>&nbsp;&nbsp;<i><a href="f.htm#fayòoko">fayòoko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="fayòolichi"></a>fayòolichi</b> </font>
+<font size="+2">to sway as one walks, swagger, strut, shake the body (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">CHA-; -LI</font>
+&nbsp;(<i>-, fayòohilichi, fayòohachichi</i>)
+&nbsp; [/fayòo-li-chi<sup>2</sup>]
+ ☞<a href="f.htm#fayòoli">fayòoli</a>
+<br><font size="+2"><b><a name="Febwiiri"></a>Febwiiri</b> </font>
+<font size="+2">month of February</font>
+ {&nbsp;English}
+<br><font size="+2"><b><a name="fihka"></a>fihka</b> </font>
+<font size="+2">to scatter, sow, broadcast seeds (esp. for turnip, collards, and mustard), sprinkle (water)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>fihiska, fihilka, fihaska</i>)
+&nbsp; [/fih-ka<sup>1</sup>]
+<br>&nbsp;&nbsp;<i><a href="f.htm#fiihíkko">fiihíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="p.htm#paafihka">paafihka</a></i>
+&nbsp;to spray with, spread with
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="p.htm#paafiíkko">paafiíkko</a></i>
+ Neg.
+<br><font size="+2"><b><a name="fíhna"></a>fíhna</b> </font>
+&nbsp;1.&nbsp;
+<font size="+2">to be lots, a lot, too; to be real, the real thing</font>
+&nbsp; [/fina]
+ [<i>hgr</i>]
+ <i>Var: fíina</i>
+&nbsp;<font face="Arial">«</font>...aasobaylifíinaya íksotóolin...
+ <i>The real school didn't exist yet...</i> <font size="0">(HPC)</font><font face="Arial">»</font>
+&nbsp;2.&nbsp;
+<font size="+2">very, really, a lot</font>
+<br>&nbsp;&nbsp;<i><a href="n.htm#nàasfináachòssi">nàasfináachòssi</a></i>
+&nbsp;to do something nice for
+<br><font size="+2"><b><a name="fiihíkko"></a>fiihíkko</b> </font>
+ Neg.
+ ☞<a href="f.htm#fihka">fihka</a>
+<br><font size="+2"><b><a name="fíina"></a>fíina</b> </font>
+ <i>Var. of</i>&nbsp;<a href="f.htm#fíhna">fíhna</a>&nbsp;
+<br><font size="+2"><b><a name="fiithachibaski"></a>fiithachibaski</b> </font>
+<font size="+2">peacock </font>
+ <i>Usage: </i>Newer word.
+&nbsp; [/fiito /hachi /baski]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="fiitihpo"></a>fiitihpo</b> </font>
+<font size="+2">June bug </font>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="fiito"></a>fiito</b> </font>
+<font size="+2">turkey </font>
+<br><font size="+2"><b><a name="fiitobitka"></a>fiitobitka</b> </font>
+<font size="+2">turkey dance</font>
+&nbsp; [/fiito /bit-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="fiitobitka talilwa"></a>fiitobitka talilwa</b> </font>
+<font size="+2">turkey dance song</font>
+&nbsp; [/fiito /bit-ka<sup>1</sup> /ta&lt;li&gt;wa]
+<br><font size="+2"><b><a name="fiitpàhka"></a>fiitpàhka</b> </font>
+<font size="+2">peacock </font>
+ <i>Usage: </i>Older word.
+&nbsp; [/fiito /pah-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="fiitpàhka hachihobaski"></a>fiitpàhka hachihobaski</b> </font>
+<font size="+2">peacock </font>
+&nbsp; [/fiito /pah-ka<sup>1</sup> /hachi ho- /baski]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="fikfihíkko"></a>fikfihíkko</b> </font>
+ Neg.
+ ☞<a href="f.htm#fikfihka">fikfihka</a>
+<br><font size="+2"><b><a name="fikfihka"></a>fikfihka</b> </font>
+<font size="+2">to chatter (of a squirrel)</font>
+&nbsp; [/fikfih-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Ipɬok fikfìhkan háalolo.
+ <i>I hear a squirrel chattering.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="f.htm#fikfihkatíkko">fikfihkatíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="f.htm#fikfihíkko">fikfihíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿfikfihka">iⁿfikfihka</a></i>
+&nbsp;to chatter at
+<br><font size="+2"><b><a name="fikfihkatíkko"></a>fikfihkatíkko</b> </font>
+ Neg.
+ ☞<a href="f.htm#fikfihka">fikfihka</a>
+<br><font size="+2"><b><a name="fikohíkko"></a>fikohíkko</b> </font>
+ Neg.
+ ☞<a href="f.htm#fikohka">fikohka</a>
+<br><font size="+2"><b><a name="fikohka"></a>fikohka</b> </font>
+<font size="+2">to hiccup </font>
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/fikoh-ka<sup>1</sup>]
+<br>&nbsp;&nbsp;<i><a href="f.htm#fikohíkko">fikohíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="f.htm#fikohlichi">fikohlichi</a></i>
+&nbsp;to cause the hiccups
+<br><font size="+2"><b><a name="fikohlichi"></a>fikohlichi</b> </font>
+<font size="+2">to cause the hiccups</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>fikohchichi, fikohhilichi, fikohhachichi</i>)
+&nbsp; [/fikoh-li-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Kookkak chafikohlicho.
+ <i>The coke gave me the hiccups.</i><font face="Arial">»</font>
+ ☞<a href="f.htm#fikohka">fikohka</a>
+<br><font size="+2"><b><a name="filakchi"></a>filakchi</b> </font>
+<font size="+2">to cook in the shell (of corn, peas)</font>
+&nbsp;<font face="Arial">«</font>Chasfilakchiyók kanooma!
+ <i>Roasting ears are real good!</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="f.htm#filakchichi">filakchichi</a></i>
+&nbsp;to cook food in its shell
+<br><font size="+2"><b><a name="filakchichi"></a>filakchichi</b> </font>
+<font size="+2">to cook food in its shell or on the cob (esp. corn, peas)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>filakchichiska, filakchichilka, filakchichaska</i>)
+&nbsp;(<i>filakchichitiska, filakchichitilka, filakchichitaska</i>)
+&nbsp; [/filakchi-chi<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Chastokin filakchichilo.
+ <i>I cooked the peas in the shell.</i><font face="Arial">»</font>
+ ☞<a href="f.htm#filakchi">filakchi</a>
+<br><font size="+2"><b><a name="filam-"></a>filam-</b> </font>
+<br>&nbsp;&nbsp;<i><a href="f.htm#filammi">filammi</a></i>
+&nbsp;to take a fork off a main route
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="f.htm#filanka">filanka</a></i>
+&nbsp;road or stream that forks
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="f.htm#filammichi">filammichi</a></i>
+&nbsp;to make (someone) change direction
+<br>&nbsp;&nbsp;<i><a href="f.htm#filanka">filanka</a></i>
+&nbsp;to take a fork off a main route
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿfilanka">iⁿfilanka</a></i>
+&nbsp;to have a vehicle swerve on one
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isfilanka">isfilanka</a></i>
+&nbsp;1.&nbsp;
+&nbsp;to take a fork in the road (in a vehicle)
+&nbsp;2.&nbsp;
+&nbsp;to run off the road accidentally (in a vehicle)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="m.htm#maafilanka">maafilanka</a></i>
+&nbsp;to be passing by and turn off
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="f.htm#fíllanka">fíllanka</a></i>
+&nbsp;to be forking
+<br>&nbsp;&nbsp;<i><a href="f.htm#filkohli">filkohli</a></i>
+&nbsp;to make (someone) take a turn off
+<br>&nbsp;&nbsp;<i><a href="f.htm#filkohka">filkohka</a></i>
+&nbsp;to take a fork off a main route
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="f.htm#filkohoka">filkohoka</a></i>
+ Imp.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#isfilkohka">isfilkohka</a></i>
+&nbsp;to turn off (in a vehicle)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittifilkohka">ittifilkohka</a></i>
+&nbsp;to branch off
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittiⁿfilkohka">ittiⁿfilkohka</a></i>
+&nbsp;to get a divorce from
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#ittiⁿfilkohlichi">ittiⁿfilkohlichi</a></i>
+&nbsp;to separate one from another
+<br>&nbsp;&nbsp;<i><a href="f.htm#filkòoka">filkòoka</a></i>
+&nbsp;to be branching (pl.)
+<br><font size="+2"><b><a name="filammi"></a>filammi</b> </font>
+<font size="+2">to fork off, take a fork off a main route, branch off, cut off from a main path (of one)</font>
+ <i>Usage: </i>Older word.
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>filanchi, -, -</i>)
+&nbsp; [/filam-li]
+ [<i>Irr: </i>PlStem=filkohli]
+&nbsp;<font face="Arial">«</font>Paani filàmmihchok mìntok tànton iɬanik lawastáskan iɬanibáááánahchon nàahohchon akkáhchon...
+ <i>There was a different fork of the creek lying there and it had a lot of cane, there was cane everywhere around there...</i> <font size="0">(HCW)</font><font face="Arial">»</font>
+ ☞<a href="f.htm#filam-">filam-</a>
+<br><font size="+2"><b><a name="filammichi"></a>filammichi</b> </font>
+<font size="+2">to make (someone) turn off at a fork in the road, make (someone) change direction</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>filanchichi, filaⁿhilichi, filaⁿhachichi</i>)
+&nbsp; [/filam-li-chi<sup>1</sup>]
+ ☞<a href="f.htm#filammi">filammi</a>
+<br><font size="+2"><b><a name="filanka"></a>filanka</b><sup>1</sup> </font>
+<font size="+2">road or stream that forks and splits off, side road</font>
+&nbsp; [/filam-ka<sup>1</sup>]
+ ☞<a href="f.htm#filammi">filammi</a>
+<br><font size="+2"><b><a name="filanka"></a>filanka</b><sup>2</sup> </font>
+<font size="+2">to take a fork off a main route, branch off, cut off from a main path; to turn off a path (of one)</font>
+ <i>Usage: </i>Newer form.
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>filaⁿiska, -, -</i>)
+&nbsp; [/filam-ka<sup>1</sup>]
+ [<i>Irr: </i>PlStem=filkohka]
+ ☞<a href="f.htm#filam-">filam-</a>
+<br><font size="+2"><b><a name="filkohka"></a>filkohka</b> </font>
+<font size="+2">to fork off, take a fork off a main route, take a branch off, take a cut off from a main path (of more than one)</font>
+&nbsp;<font color="#800080" size="+1">-LI</font>
+&nbsp;(<i>-, filkohilka, filkohaska</i>)
+&nbsp; [/filkoh-ka<sup>1</sup>]
+ [<i>Irr: </i>SgStem=filanka]
+ ☞<a href="f.htm#filam-">filam-</a>
+<br><font size="+2"><b><a name="filkohli"></a>filkohli</b> </font>
+<font size="+2">to make (more than one) take a turn off, divert</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>filkohchi, filkohhili, filkohhachi</i>)
+&nbsp; [/filkoh-li]
+ [<i>Irr: </i>SgStem=filammichi]
+ ☞<a href="f.htm#filam-">filam-</a>
+<br><font size="+2"><b><a name="filkohoka"></a>filkohoka</b> </font>
+ Imp.
+ ☞<a href="f.htm#filkohka">filkohka</a>
+<br><font size="+2"><b><a name="filkòoka"></a>filkòoka</b> </font>
+<font size="+2">to be branching, forking into more than two (as a road or creek)</font>
+&nbsp; [/filkòo-ka<sup>1</sup>]
+ ☞<a href="f.htm#filam-">filam-</a>
+<br><font size="+2"><b><a name="fíllanka"></a>fíllanka</b> </font>
+<font size="+2">to be forking, have a branch off, have a turn-off (of a road)</font>
+&nbsp; [/filam-ka<sup>1</sup>]
+ [<i>ggr</i>]
+&nbsp;<font face="Arial">«</font>Paanok fíllanka.
+ <i>The creek has a branch off.</i><font face="Arial">»</font>
+&nbsp;<font face="Arial">«</font>Hinok fíllankan akkon aɬɬaliti.
+ <i>I took the turn off.</i><font face="Arial">»</font>
+ ☞<a href="f.htm#filanka2">filanka<sup>2</sup></a>
+<br><font size="+2"><b><a name="finika"></a>finika</b> </font>
+<font size="+2">vinegar</font>
+&nbsp; [/fini-ka<sup>3</sup>]
+ {&nbsp;English}
+<br><font size="+2"><b><a name="fithoka"></a>fithoka</b> </font>
+ Imp.
+ ☞<a href="f.htm#fitka">fitka</a>
+<br><font size="+2"><b><a name="fitipíkko"></a>fitipíkko</b> </font>
+ Neg.
+<font size="+2">to be difficult to pull out, be incapable of being pulled out</font>
+ ☞<a href="f.htm#fitipka">fitipka</a>
+<br><font size="+2"><b><a name="fitipka"></a>fitipka</b> </font>
+<font size="+2">to dig out, pick out, pull up, get out (one object) that is stuck in, uproot, pluck; to pick the teeth</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>fitipiska, fitipilka, fitipaska</i>)
+&nbsp; [/fitip-ka<sup>1</sup>]
+<br>&nbsp;&nbsp;<i><a href="f.htm#fitipíkko">fitipíkko</a></i>
+ Neg.
+&nbsp;to be difficult to pull out
+<br>&nbsp;&nbsp;<i><a href="i2.htm#istiⁿfitipka">istiⁿfitipka</a></i>
+&nbsp;to pry out from
+<br>&nbsp;&nbsp;<i><a href="f.htm#fitka">fitka</a></i>
+&nbsp;to dig out (pl. obj.)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="f.htm#fithoka">fithoka</a></i>
+ Imp.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i2.htm#istiⁿfitka">istiⁿfitka</a></i>
+&nbsp;to pry out from
+<br><font size="+2"><b><a name="fitka"></a>fitka</b> </font>
+<font size="+2">to dig out, pick out (plural objects)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>fitiska, fitilka, fitaska</i>)
+&nbsp; [/fit(ip)-ka<sup>1</sup>]
+ [<i>dsfx1</i>]
+ ☞<a href="f.htm#fitipka">fitipka</a>
+<br><font size="+2"><b><a name="fitokko"></a>fitokko</b> </font>
+<font size="+2">woodpecker, speckled woodpecker </font>
+ (brown bird with white spots on back in winter)
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: fittokko</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="fittokko"></a>fittokko</b> </font>
+ <i>Var. of</i>&nbsp;<a href="f.htm#fitokko">fitokko</a>&nbsp;
+<br><font size="+2"><b><a name="fofchanassa"></a>fofchanassa</b> </font>
+<font size="+2">yellow jacket </font>
+ {prob. from /foho}
+ <i>Var: fotchanaski</i>
+&nbsp;<font size="0">(DB)</font>
+ <i>Var: fofchanassasi</i>
+ <i>Var: fohchonoska</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="fofchòkba"></a>fofchòkba</b> </font>
+<font size="+2">green hornet </font>
+ {prob. from /foho}
+ <i>Var: fokchòkba</i>
+ <i>Var: fokchòmba</i>
+ <i>Var: fohchòkba</i>
+&nbsp;<font size="0">(DB)</font>
+ <i>Var: fohchokba</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: fohchókba</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: foochokba</i>
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="fohchòkba"></a>fohchòkba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="f.htm#fofchòkba">fofchòkba</a>&nbsp;
+<br><font size="+2"><b><a name="fohchonaska"></a>fohchonaska</b> </font>
+ <i>Var. of</i>&nbsp;<a href="f.htm#fofchanassa">fofchanassa</a>&nbsp;
+<br><font size="+2"><b><a name="fohimiisa"></a>fohimiisa</b> </font>
+<font size="+2">hive, beehive</font>
+&nbsp; [/foho im- /iisa]
+<br><font size="+2"><b><a name="fohinchampoli"></a>fohinchampoli</b> </font>
+<font size="+2">honey</font>
+&nbsp; [/foho im- /champoli]
+<br><font size="+2"><b><a name="fohinchampoli intala"></a>fohinchampoli intala</b> </font>
+<font size="+2">beeswax</font>
+&nbsp; [/foho im- /champoli im- /tala]
+<br><font size="+2"><b><a name="fohinniya"></a>fohinniya</b> </font>
+<font size="+2">beeswax, honeycomb</font>
+&nbsp; [/foho im- /niya]
+<br><font size="+2"><b><a name="fohli"></a>fohli</b> </font>
+<font size="+2">to lick, lap, sip</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>fohchi, fohhili, fohhachi</i>)
+&nbsp; [/foh-li]
+&nbsp;<font face="Arial">«</font>Fohtanoolo.
+ <i>He lapped it up.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ilifohli">ilifohli</a></i>
+&nbsp;to lick oneself
+<br>&nbsp;&nbsp;<i><a href="h.htm#hapifohlihchi">hapifohlihchi</a></i>
+&nbsp;salt lick
+<br>&nbsp;&nbsp;<i><a href="i1.htm#imaafohka">imaafohka</a></i>
+&nbsp;salt lick
+<br>&nbsp;&nbsp;<i><a href="f.htm#fohlichi">fohlichi</a></i>
+&nbsp;to make someone lick
+<br><font size="+2"><b><a name="fohlichi"></a>fohlichi</b> </font>
+<font size="+2">to make someone lick</font>
+&nbsp;<font color="#800080" size="+1">-LI/CHA-</font>
+&nbsp;(<i>fohchichi, fohhilichi, fohhachichi</i>)
+&nbsp; [/foh-li-chi<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="f.htm#fohli">fohli</a>
+<br><font size="+2"><b><a name="foho"></a>foho</b> </font>
+<font size="+2">bee, esp. honey bee </font>
+<br><font size="+2"><b><a name="fohobaski"></a>fohobaski</b> </font>
+<font size="+2">wasp </font>
+&nbsp; [/foho /baski]
+ <i>Var: foobaski</i>
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: foybaski</i>
+&nbsp;<font size="0">(DB)</font>
+<br><font size="+2"><b><a name="foho imaafohka"></a>foho imaafohka</b> </font>
+<font size="+2">damp place in the woods where bees congregate; a flower patch where bees go</font>
+&nbsp; [/foho im-aa- /foh-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="foho immikko"></a>foho immikko</b> </font>
+<font size="+2">queen bee</font>
+&nbsp; [/foho im- /mikko]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="foho waayòhka"></a>foho waayòhka</b> </font>
+<font size="+2">swarm (of bees)</font>
+&nbsp; [/foho /waayòh-ka<sup>1</sup>]
+&nbsp;<font face="Arial">«</font>Foho waayòhkak waayohkat ilachiti.
+ <i>The swarm of bees flew in here.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="fokchòkba"></a>fokchòkba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="f.htm#fofchòkba">fofchòkba</a>&nbsp;
+<br><font size="+2"><b><a name="fokchòmba"></a>fokchòmba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="f.htm#fofchòkba">fofchòkba</a>&nbsp;
+<br><font size="+2"><b><a name="fokoolichi"></a>fokoolichi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="f.htm#fakohlichi">fakohlichi</a>&nbsp;
+<br><font size="+2"><b><a name="folo"></a>folo</b> </font>
+<font size="+2">shell, esp. oyster shell; clam</font>
+<br>&nbsp;&nbsp;<i><a href="f.htm#folosi">folosi</a></i>
+&nbsp;shell
+<br><font size="+2"><b><a name="folòoka"></a>folòoka</b> </font>
+<font size="+2">to have the flu, influenza </font>
+ <i>Usage: </i>Modern word.
+&nbsp;<font color="#800080" size="+1">CHA-</font>
+&nbsp; [/folòo-ka<sup>3</sup>]
+ {&nbsp;English}
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font face="Arial">«</font>Chafolòoka.
+ <i>I've got the flu.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="folosi"></a>folosi</b> </font>
+<font size="+2">shell </font>
+&nbsp; [/folo-osi]
+ ☞<a href="f.htm#folo">folo</a>
+<br><font size="+2"><b><a name="fomohka"></a>fomohka</b> </font>
+ <i>Var. of</i>&nbsp;<a href="f.htm#fomòoka">fomòoka</a>&nbsp;
+<br><font size="+2"><b><a name="fomòoka"></a>fomòoka</b> </font>
+<font size="+2">to swing and miss, feint at (repet.), wave, fling, flap, swing (something) around, wag, flutter; to get more than one strike in baseball</font>
+&nbsp;<font size="0">(DB)</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>fomòohiska, fomòohilka, fomòohaska</i>)
+&nbsp; [/fomo(p)-ka<sup>1</sup>]
+ [<i>dsfx2</i>]
+ [<i>fgr</i>]
+ <i>Var: fomohka</i>
+ <i>Var: famohka</i>
+ <i>Var: famòoka</i>
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="f.htm#fomopka">fomopka</a>
+<br><font size="+2"><b><a name="fomopka"></a>fomopka</b> </font>
+<font size="+2">to swing and miss, wave, fling, flap (the arms) around, swing (something); to get a strike in baseball</font>
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>fomopiska, fomopilka, fomopaska</i>)
+&nbsp; [/fomop-ka<sup>1</sup>]
+ <i>Var: famopka</i>
+ <i>Var: famotka</i>
+&nbsp;<font size="0">(VC, DB)</font>
+<br>&nbsp;&nbsp;<i><a href="i1.htm#ibiifomopka">ibiifomopka</a></i>
+&nbsp;to strike at the face
+<br>&nbsp;&nbsp;<i><a href="i1.htm#iⁿfomopka">iⁿfomopka</a></i>
+&nbsp;to slap at
+<br>&nbsp;&nbsp;<i><a href="o.htm#oofomopka">oofomopka</a></i>
+&nbsp;to swing at someone
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="o.htm#oofomohka">oofomohka</a></i>
+&nbsp;to swing at someone
+<br>&nbsp;&nbsp;<i><a href="f.htm#fomòoka">fomòoka</a></i>
+&nbsp;to wave around, swing at (pl. obj.) and miss
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="i1.htm#iⁿfomòoka">iⁿfomòoka</a></i>
+&nbsp;to spank
+<br><font size="+2"><b><a name="foobaski"></a>foobaski</b> </font>
+ <i>Var. of</i>&nbsp;<a href="f.htm#fohobaski">fohobaski</a>&nbsp;
+<br><font size="+2"><b><a name="foochokba"></a>foochokba</b> </font>
+ <i>Var. of</i>&nbsp;<a href="f.htm#fofchòkba">fofchòkba</a>&nbsp;
+<br><font size="+2"><b><a name="foopachi"></a>foopachi</b> </font>
+<font size="+2">to make a noise as of bees swarming or rain coming; to buzz, hum </font>
+&nbsp; [(/foopa)-chi<sup>2</sup>]
+&nbsp;<font face="Arial">«</font>Oybok maafoopáacho.
+ <i>Rain is coming making a noise.</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="f.htm#foopachitíkko">foopachitíkko</a></i>
+ Neg.
+<br>&nbsp;&nbsp;<i><a href="m.htm#maafoopachi">maafoopachi</a></i>
+&nbsp;to make a noise as of rain coming from a distance
+<br><font size="+2"><b><a name="foopachitíkko"></a>foopachitíkko</b> </font>
+ Neg.
+ ☞<a href="f.htm#foopachi">foopachi</a>
+<br><font size="+2"><b><a name="fooschoba"></a>fooschoba</b> </font>
+<font size="+2">eagle </font>
+&nbsp; [/foosi /choba]
+<br><font size="+2"><b><a name="fooschobabitka"></a>fooschobabitka</b> </font>
+<font size="+2">eagle dance</font>
+&nbsp; [/foosi /choba /bit-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="fooshatka"></a>fooshatka</b> </font>
+<font size="+2">cattle egret </font>
+&nbsp; [/foosi /hat-ka<sup>1</sup>]
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="fooshobàachi"></a>fooshobàachi</b> </font>
+<font size="+2">mockingbird</font>
+&nbsp; [/foosi /hooba-chi<sup>1</sup>]
+ [<i>fgr</i>]
+<br><font size="+2"><b><a name="fooshòllo"></a>fooshòllo</b> </font>
+<font size="+2">kingfisher </font>
+&nbsp;<font color="#080000">Cul:  The kingfisher is `hollo' because it is said that if a person teases it or injures it, it will defend itself by putting fish bones in the person's throat to choke them.</font>&nbsp;
+&nbsp; [/foosi /hollo]
+ <i>Var: fooshollo</i>
+&nbsp;<font face="Arial">«</font>Fooshòlloya ɬaɬimokwayli.
+ <i>The kingfisher catches fish.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="fooshòmma"></a>fooshòmma</b> </font>
+<font size="+2">summer tanager, scarlet tanager </font>
+&nbsp; [/foosi /homma]
+&nbsp;<font size="0">(IB)</font>
+ <i>Var: fooshomma</i>
+&nbsp;<font face="Arial">«</font>Fooshómmok maapaachókkoolo ittofan.
+ <i>There's a red bird in the tree.</i><font face="Arial">»</font>
+<br><font size="+2"><b><a name="foosi"></a>foosi</b> </font>
+<font size="+2">bird (generic)</font>
+<br>&nbsp;&nbsp;<i><a href="f.htm#foososi">foososi</a></i>
+&nbsp;little bird
+<br><font size="+2"><b><a name="foosibitka"></a>foosibitka</b> </font>
+<font size="+2">eagle dance, bird dance</font>
+&nbsp; [/foosi /bit-ka<sup>1</sup>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="foosihissi"></a>foosihissi</b> </font>
+<font size="+2">feather, down, small belly feathers </font>
+&nbsp; [/foosi /hissi]
+<br><font size="+2"><b><a name="foosi imìlpa"></a>foosi imìlpa</b> </font>
+<font size="+2">bird feed</font>
+&nbsp; [/foosi im-il- /(i)pa]
+<br><font size="+2"><b><a name="foosi ittanahka"></a>foosi ittanahka</b> </font>
+<font size="+2">flock of birds</font>
+&nbsp; [/foosi /ittanah-ka<sup>1</sup>]
+<br><font size="+2"><b><a name="foosimiisa"></a>foosimiisa</b> </font>
+<font size="+2">bird house, bird cage</font>
+&nbsp; [/foosi im- /iisa]
+<br><font size="+2"><b><a name="foosi nokbibaski"></a>foosi nokbibaski</b> </font>
+<font size="+2">crane </font>
+&nbsp; [/foosi /nokbi /baski]
+<br><font size="+2"><b><a name="foosismaɬahkachi"></a>foosismaɬahkachi</b> </font>
+ <i>Var. of</i>&nbsp;<a href="f.htm#foosismaɬatkachi">foosismaɬatkachi</a>&nbsp;
+<br><font size="+2"><b><a name="foosismaɬatkachi"></a>foosismaɬatkachi</b> </font>
+<font size="+2">scarecrow </font>
+&nbsp; [/foosi ist- /maɬat-ka<sup>1</sup>-$chi1]
+&nbsp;<font size="0">(VC)</font>
+ <i>Var: foosismaɬahkachi</i>
+<br><font size="+2"><b><a name="foosi wìihli"></a>foosi wìihli</b> </font>
+<font size="+2">bird dog</font>
+<br><font size="+2"><b><a name="foosiwoksi"></a>foosiwoksi</b> </font>
+<font size="+2">feather </font>
+&nbsp; [/foosi /woksi]
+<br><font size="+2"><b><a name="foosláanasi"></a>foosláanasi</b> </font>
+<font size="+2">indoor canary </font>
+&nbsp; [/foosi /laana-osi]
+ [<i>lgr</i>]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="foososi"></a>foososi</b> </font>
+<font size="+2">nestling, little bird</font>
+&nbsp; [/foosi-osi]
+&nbsp;<font size="0">(VC)</font>
+ ☞<a href="f.htm#foosi">foosi</a>
+<br><font size="+2"><b><a name="foospalki"></a>foospalki</b> </font>
+<font size="+2">road-runner </font>
+&nbsp; [/foosi /palki]
+&nbsp;<font size="0">(IB)</font>
+<br><font size="+2"><b><a name="foospolicha"></a>foospolicha</b> </font>
+<font size="+2">mockingbird</font>
+&nbsp; [/foosi /policha]
+&nbsp;<font size="0">(VC)</font>
+<br><font size="+2"><b><a name="foossáwwasi"></a>foossáwwasi</b> </font>
+<font size="+2">sparrow </font>
+&nbsp; [/foosi /sawwa-osi]
+<br><font size="+2"><b><a name="fósi"></a>fósi</b> </font>
+<font size="+2">grandfather; uncle</font>
+&nbsp;<font size="0">(VC)</font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+<br><font size="+2"><b><a name="foska"></a>foska</b> </font>
+<font size="+2">to shed bark, peel (of bark), be peeled</font>
+&nbsp; [/fos-ka<sup>1</sup>]
+ ☞<a href="f.htm#fosli">fosli</a>
+<br><font size="+2"><b><a name="foskachi"></a>foskachi</b> </font>
+<font size="+2">to shed bark, peel (of bark), be peeled</font>
+&nbsp; [/fos-ka-chi<sup>2</sup>]
+&nbsp;<font face="Arial">«</font>Ittaffakchik foskacho.
+ <i>The bark is peeling off.</i><font face="Arial">»</font>
+ ☞<a href="f.htm#foska">foska</a>
+<br><font size="+2"><b><a name="fosli"></a>fosli</b> </font>
+<font size="+2">to shell, hull, shuck (peas), peel (with the hands), take bark off, strip leaves</font>
+ <i>Usage: </i>Newer word.
+&nbsp;<font color="#800080" size="+1">-LI/3</font>
+&nbsp;(<i>foschi, foshili, foshachi</i>)
+&nbsp; [/fos-li]
+&nbsp;<font face="Arial">«</font>Yalàahan issimilaliima aⁿfossiloⁿ?
+ <i>If I bring you an orange will you peel it for me?</i><font face="Arial">»</font>
+<br>&nbsp;&nbsp;<i><a href="f.htm#foska">foska</a></i>
+&nbsp;to shed bark, be peeled
+<br>&nbsp;&nbsp;&nbsp;&nbsp;<i><a href="f.htm#foskachi">foskachi</a></i>
+&nbsp;to shed bark, be peeled
+<br>&nbsp;&nbsp;<i><a href="c.htm#chasfosli">chasfosli</a></i>
+&nbsp;to husk corn
+<br><font size="+2"><b><a name="fóssòoba"></a>fóssòoba</b> </font>
+<font size="+2">greatgrandfather </font>
+&nbsp;<font color="#800080" size="+1">AM-p</font>
+&nbsp; [/fósi /achòoba]
+<br><font size="+2"><b><a name="fotchanaski"></a>fotchanaski</b> </font>
+ <i>Var. of</i>&nbsp;<a href="f.htm#fofchanassa">fofchanassa</a>&nbsp;
+<br><font size="+2"><b><a name="foybaski"></a>foybaski</b> </font>
+ <i>Var. of</i>&nbsp;<a href="f.htm#fohobaski">fohobaski</a>&nbsp;
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>

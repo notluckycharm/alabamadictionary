@@ -1,0 +1,688 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Alabama Dictionary</title>
+<script type="text/javascript">
+<!--
+if (parent.location.href == self.location.href) {
+    if (window.location.href.replace)
+        window.location.replace('index.htm');
+    else
+        window.location.href = 'index.htm';
+}
+-->
+</script><link>
+<style type="text/css">
+a:link { text-decoration:none; color:"#000080";  }
+a:visited { text-decoration:none; color:"#800080"; }
+a:active { text-decoration:none; color:"#008080"; }
+</style>
+</head>
+<body text="#800000" bgcolor="#FFF5EC">
+<font face="Aboriginal Serif, Gentium, Lucida Sans Unicode, Arial Unicode MS" size="+1">
+
+<center><font size="+4">G</font></center><br>
+<br><b>gain</b>
+&nbsp;to multiply, gain: &nbsp;<i><a href="l.htm#lawwatanòoka">lawwatanòoka</a></i>.&nbsp;
+&nbsp;to gain (weight): &nbsp;<i><a href="i1.htm#ibachasàaka">ibachasàaka</a></i>.&nbsp;
+&nbsp;to gain a little (weight): &nbsp;<i><a href="m.htm#maatimáasàasi">maatimáasàasi</a></i>.&nbsp;
+&nbsp;to gain weight: &nbsp;<i><a href="m.htm#maatimàasa">maatimàasa</a>, <a href="c.htm#chobat aɬɬa">chobat aɬɬa</a></i>.&nbsp;
+<br><b>gall</b>
+&nbsp;bile, gall, gallbladder: &nbsp;<i><a href="i1.htm#iⁿhomi">iⁿhomi</a></i>.&nbsp;
+<br><b>gallop</b>
+&nbsp;to go clippety-clop, make the sound of galloping hooves: &nbsp;<i><a href="k.htm#kipìilichi">kipìilichi</a></i>.&nbsp;
+<br><b>Galveston</b>&nbsp;&nbsp;<i><a href="k.htm#Kalfisti">Kalfisti</a></i>.&nbsp;
+<br><b>gamble</b>
+&nbsp;gambling: &nbsp;<i><a href="h.htm#holissotòoka">holissotòoka</a></i>.&nbsp;
+&nbsp;to bet with each other, gamble on: &nbsp;<i><a href="i2.htm#ittimbahli">ittimbahli</a></i>.&nbsp;
+<br><b>game</b>
+&nbsp;playing, game: &nbsp;<i><a href="t.htm#tòoka">tòoka</a></i>.&nbsp;
+&nbsp;games: &nbsp;<i><a href="h.htm#hompanka">hompanka</a></i>.&nbsp;
+&nbsp;card game: &nbsp;<i><a href="h.htm#holissotòoka">holissotòoka</a></i>.&nbsp;
+&nbsp;marble game: &nbsp;<i><a href="t.htm#taliholitcha">taliholitcha</a></i>.&nbsp;
+&nbsp;moccasin game: &nbsp;<i><a href="ll.htm#ɬahkalonka">ɬahkalonka</a></i>.&nbsp;
+&nbsp;stickball game: &nbsp;<i><a href="k.htm#kapachitòoka">kapachitòoka</a></i>.&nbsp;
+&nbsp;traditional board game: &nbsp;<i><a href="t.htm#taniilka">taniilka</a></i>.&nbsp;
+&nbsp;traditional Christmas party game: &nbsp;<i><a href="o.htm#óolalwi">óolalwi</a></i>.&nbsp;
+&nbsp;leader (of a game), coach, director: &nbsp;<i><a href="h.htm#hompanìichi">hompanìichi</a></i>.&nbsp;
+&nbsp;to lead a game: &nbsp;<i><a href="h.htm#hompaniichi">hompaniichi</a></i>.&nbsp;
+&nbsp;to lead (an activity, esp. a game): &nbsp;<i><a href="i2.htm#ishinaata">ishinaata</a></i>.&nbsp;
+&nbsp;to play (a game, especially a ballgame such as stickball): &nbsp;<i><a href="t.htm#tòoli">tòoli</a></i>.&nbsp;
+&nbsp;to play (games or sports): &nbsp;<i><a href="h.htm#hompani">hompani</a></i>.&nbsp;
+&nbsp;to play the board game taniilka: &nbsp;<i><a href="t.htm#tanihka">tanihka</a></i>.&nbsp;
+&nbsp;to play the game of tag: &nbsp;<i><a href="h.htm#halàyko">halàyko</a></i>.&nbsp;
+&nbsp;to win (a game or contest): &nbsp;<i><a href="i2.htm#istisi">istisi</a></i>.&nbsp;
+<br><b>gap</b>
+&nbsp;to lay across a gap (e.g. a beam), span with, cross a gap with, bridge a gap with (one object): &nbsp;<i><a href="a.htm#afitàali">afitàali</a>, <a href="a.htm#abanàali">abanàali</a></i>.&nbsp;
+&nbsp;to be placed across two objects so as to span a gap (of one): &nbsp;<i><a href="a.htm#abanàaka">abanàaka</a></i>.&nbsp;
+<br><b>gar</b>&nbsp;&nbsp;<i><a href="b.htm#banta">banta</a>, <a href="b.htm#baacha">baacha</a></i>.&nbsp;
+<br><b>garage</b>&nbsp;&nbsp;<i><a href="m.htm#mobìlka aatalibòoka">mobìlka aatalibòoka</a>, <a href="m.htm#mobìlka imiisa">mobìlka imiisa</a></i>.&nbsp;
+<br><b>gardenia</b>&nbsp;&nbsp;<i><a href="k.htm#kaɬàaha pakaali">kaɬàaha pakaali</a></i>.&nbsp;
+<br><b>gargle</b>
+&nbsp;to gargle (medicine): &nbsp;<i><a href="ll.htm#ɬololohka">ɬololohka</a></i>.&nbsp;
+&nbsp;to gargle with: &nbsp;<i><a href="i2.htm#istilinooyaasihli">istilinooyaasihli</a></i>.&nbsp;
+<br><b>garlic</b>
+&nbsp;onion, garlic: &nbsp;<i><a href="k.htm#kosòoma">kosòoma</a></i>.&nbsp;
+<br><b>garters</b>&nbsp;&nbsp;<i><a href="i2.htm#istanaɬkachi istalsiya">istanaɬkachi istalsiya</a></i>.&nbsp;
+<br><b>garter snake</b>&nbsp;&nbsp;<i><a href="c.htm#chintokchákkosi">chintokchákkosi</a></i>.&nbsp;
+<br><b>gas</b>
+&nbsp;flatulence, gas, fart: &nbsp;<i><a href="h.htm#holikcho">holikcho</a></i>.&nbsp;
+&nbsp;foam, gas from fermented berries: &nbsp;<i><a href="p.htm#pakpaki">pakpaki</a></i>.&nbsp;
+&nbsp;oil, gasoline, kerosine: &nbsp;<i><a href="a.htm#apalokchi">apalokchi</a></i>.&nbsp;
+&nbsp;to pass gas: &nbsp;<i><a href="h.htm#hokcho">hokcho</a>, <a href="i1.htm#iⁿsobotlichi">iⁿsobotlichi</a>, <a href="i2.htm#istiⁿsitoffi">istiⁿsitoffi</a></i>.&nbsp;
+<br><b>gasp</b>
+&nbsp;to gasp, breathe intermittently, pant (for breath): &nbsp;<i><a href="h.htm#hifoska atiplichi">hifoska atiplichi</a></i>.&nbsp;
+&nbsp;to be short of breath, breathe shallowly (as when sick): &nbsp;<i><a href="i1.htm#iⁿhifosilka imatipkachi">iⁿhifosilka imatipkachi</a></i>.&nbsp;
+<br><b>gaspergou</b>&nbsp;&nbsp;<i><a href="o.htm#okmálko">okmálko</a></i>.&nbsp;
+<br><b>gate</b>&nbsp;&nbsp;<i><a href="h.htm#holihtokhicha">holihtokhicha</a>, <a href="o.htm#okhicha">okhicha</a></i>.&nbsp;
+<br><b>gather</b>
+&nbsp;assembly, gathering: &nbsp;<i><a href="i2.htm#ittanahkat lokòolihchi">ittanahkat lokòolihchi</a></i>.&nbsp;
+&nbsp;collection, group, gathering: &nbsp;<i><a href="i2.htm#istállàaka">istállàaka</a></i>.&nbsp;
+&nbsp;to gather (cloth), make gathers: &nbsp;<i><a href="y.htm#yikiɬɬi">yikiɬɬi</a></i>.&nbsp;
+&nbsp;to gather together, get together (of several): &nbsp;<i><a href="i2.htm#ittillokòoli">ittillokòoli</a></i>.&nbsp;
+&nbsp;to meet, gather, organize as a group: &nbsp;<i><a href="l.htm#lokòoli">lokòoli</a>, <a href="i2.htm#ittanahka">ittanahka</a></i>.&nbsp;
+&nbsp;to collect, gather, pick (things that have to be looked for such as berries): &nbsp;<i><a href="w.htm#wihli">wihli</a></i>.&nbsp;
+&nbsp;to gather (a planted crop), harvest, pick (a crop): &nbsp;<i><a href="i2.htm#ittanahli">ittanahli</a></i>.&nbsp;
+&nbsp;to gather fabric, put gathers in (a garment): &nbsp;<i><a href="i2.htm#istiwwiliksichi">istiwwiliksichi</a></i>.&nbsp;
+&nbsp;to be gathered (of fabric): &nbsp;<i><a href="w.htm#wiliksi">wiliksi</a></i>.&nbsp;
+<br><b>gathers</b>
+&nbsp;gathers, ruffles: &nbsp;<i><a href="i2.htm#istiwwiliksi">istiwwiliksi</a></i>.&nbsp;
+<br><b>gator</b>&nbsp;&nbsp;<i><a href="h.htm#hachonchoba">hachonchoba</a></i>.&nbsp;
+<br><b>gaze</b>
+&nbsp;to see, gaze at: &nbsp;<i><a href="h.htm#híicha">híicha</a></i>.&nbsp;
+<br><b>gee</b>
+&nbsp;my!, gee!, well!: &nbsp;<i><a href="m.htm#móoskat">móoskat</a></i>.&nbsp;
+<br><b>gel</b>
+&nbsp;to gel, turn to jelly, clot (of blood), curdle (of milk): &nbsp;<i><a href="w.htm#wolohki">wolohki</a></i>.&nbsp;
+&nbsp;to solidify, gel, congeal (as cooling grease): &nbsp;<i><a href="a.htm#akmi">akmi</a></i>.&nbsp;
+<br><b>gelatin</b>&nbsp;&nbsp;<i><a href="c.htm#chalóoka">chalóoka</a></i>.&nbsp;
+<br><b>generous</b>
+&nbsp;to let have it, be generous, not mind if taken: &nbsp;<i><a href="i2.htm#iyikìiho">iyikìiho</a></i>.&nbsp;
+<br><b>genitals</b>&nbsp;&nbsp;<i><a href="i2.htm#istimonkachi">istimonkachi</a>, <a href="i2.htm#ittabittaltàala">ittabittaltàala</a>, <a href="i2.htm#istiⁿholiswa">istiⁿholiswa</a>, <a href="o.htm#obittaltàala">obittaltàala</a></i>.&nbsp;
+&nbsp;genitals (of a woman): &nbsp;<i><a href="i1.htm#inchilaaka">inchilaaka</a></i>.&nbsp;
+&nbsp;to hide one's genitals, cover the privates: &nbsp;<i><a href="i1.htm#ilatanayli">ilatanayli</a></i>.&nbsp;
+<br><b>gentle</b>
+&nbsp;to be tame, gentle: &nbsp;<i><a href="p.htm#pakáamàasi">pakáamàasi</a>, <a href="p.htm#pakaama">pakaama</a></i>.&nbsp;
+&nbsp;to be very tame, gentle, not a bit wild: &nbsp;<i><a href="p.htm#pakáamàssi">pakáamàssi</a></i>.&nbsp;
+<br><b>gently</b>
+&nbsp;quietly, easily, gently, sneakily, covertly: &nbsp;<i><a href="a.htm#ayapátlòosi">ayapátlòosi</a></i>.&nbsp;
+<br><b>German</b>&nbsp;&nbsp;<i><a href="c.htm#Chaama">Chaama</a></i>.&nbsp;
+<br><b>gesture</b>
+&nbsp;to do a certain way, do like this, go like this (gesture): &nbsp;<i><a href="y.htm#yamíhchi">yamíhchi</a>, <a href="y.htm#yàhmi">yàhmi</a></i>.&nbsp;
+<br><b>get</b>
+&nbsp;to take, catch, get, accept, get credit for (one object): &nbsp;<i><a href="i2.htm#isi">isi</a></i>.&nbsp;
+&nbsp;to take (one thing in a container), get (one thing in a container): &nbsp;<i><a href="i2.htm#istisi">istisi</a></i>.&nbsp;
+&nbsp;to arrest, come get (one object): &nbsp;<i><a href="i1.htm#iltisi">iltisi</a></i>.&nbsp;
+&nbsp;to cause or let someone take or get (one object): &nbsp;<i><a href="i2.htm#isiichi">isiichi</a></i>.&nbsp;
+&nbsp;to go after (one object), go get: &nbsp;<i><a href="o.htm#ostisi">ostisi</a>, <a href="o.htm#ostistisi">ostistisi</a>, <a href="m.htm#maatisi">maatisi</a></i>.&nbsp;
+&nbsp;to go get and put down: &nbsp;<i><a href="i1.htm#ilpiɬka">ilpiɬka</a>, <a href="o.htm#ospiɬka">ospiɬka</a></i>.&nbsp;
+&nbsp;to go get, go pick up (more than one thing): &nbsp;<i><a href="o.htm#ospihli">ospihli</a></i>.&nbsp;
+&nbsp;to reach for, take away, go get, go after (one object in a container): &nbsp;<i><a href="m.htm#maastisi">maastisi</a></i>.&nbsp;
+<br><b>get along</b>
+&nbsp;to get along together: &nbsp;<i><a href="i2.htm#ittimayokpa">ittimayokpa</a></i>.&nbsp;
+&nbsp;to work out differences, talk things over so as to get along with, make peace with each other (as a couple): &nbsp;<i><a href="i2.htm#ittinkanoochi">ittinkanoochi</a></i>.&nbsp;
+&nbsp;to be difficult, hard to get along with, hard headed: &nbsp;<i><a href="i2.htm#isbakwanha">isbakwanha</a></i>.&nbsp;
+&nbsp;to be unable to get along: &nbsp;<i><a href="i2.htm#ittimoklatíkko">ittimoklatíkko</a></i>.&nbsp;
+<br><b>get away</b>
+&nbsp;to get away from, pull away from: &nbsp;<i><a href="a.htm#ayapka">ayapka</a></i>.&nbsp;
+<br><b>get dark</b>
+&nbsp;to have it get dark on one: &nbsp;<i><a href="o.htm#ontanka">ontanka</a></i>.&nbsp;
+<br><b>get fat</b>
+&nbsp;to gain weight, get fat: &nbsp;<i><a href="c.htm#chobat aɬɬa">chobat aɬɬa</a></i>.&nbsp;
+<br><b>get into</b>
+&nbsp;to get into, be inside, be in jail (of one): &nbsp;<i><a href="h.htm#hokfa">hokfa</a></i>.&nbsp;
+&nbsp;to have something too tight to get into or through (as clothes): &nbsp;<i><a href="a.htm#awanha">awanha</a></i>.&nbsp;
+<br><b>get on</b>
+&nbsp;to get on (someone's back or head), be located on (of one): &nbsp;<i><a href="p.htm#paayàaya">paayàaya</a></i>.&nbsp;
+&nbsp;to get on the back or top of (of one): &nbsp;<i><a href="p.htm#paalapàali">paalapàali</a></i>.&nbsp;
+<br><b>get out</b>
+&nbsp;to dig out, get out (one object) that is stuck in, uproot: &nbsp;<i><a href="f.htm#fitipka">fitipka</a></i>.&nbsp;
+&nbsp;to get out of, get down, get out of a vehicle (of one): &nbsp;<i><a href="t.htm#tanatli">tanatli</a></i>.&nbsp;
+&nbsp;to help down, help get out of a vehicle: &nbsp;<i><a href="t.htm#tanatlichi">tanatlichi</a></i>.&nbsp;
+<br><b>get ready</b>
+&nbsp;to be ready for, ready to do something, get ready for: &nbsp;<i><a href="i1.htm#imalpisa">imalpisa</a></i>.&nbsp;
+<br><b>get through</b>
+&nbsp;to get through with, use up: &nbsp;<i><a href="a.htm#anooli">anooli</a></i>.&nbsp;
+<br><b>get together</b>&nbsp;&nbsp;<i><a href="i2.htm#itaafoloilka">itaafoloilka</a></i>.&nbsp;
+&nbsp;friends, people who always get together, companions: &nbsp;<i><a href="i2.htm#ittimàaska">ittimàaska</a></i>.&nbsp;
+&nbsp;to gather together, get together (of several): &nbsp;<i><a href="i2.htm#ittillokòoli">ittillokòoli</a></i>.&nbsp;
+&nbsp;to marry, be married, have in-laws, get together: &nbsp;<i><a href="o.htm#onnaaɬi">onnaaɬi</a></i>.&nbsp;
+&nbsp;to meet at a certain place, get together (for a meeting, ball game, etc.), assemble: &nbsp;<i><a href="i2.htm#ittanahka">ittanahka</a></i>.&nbsp;
+<br><b>get up</b>
+&nbsp;to wake up, get out of bed, get up (from a fall) (of one): &nbsp;<i><a href="f.htm#falanka2">falanka<sup>2</sup></a></i>.&nbsp;
+<br><b>ghost</b>&nbsp;&nbsp;<i><a href="a.htm#aatsollokchi">aatsollokchi</a></i>.&nbsp;
+&nbsp;spirit, soul, ghost: &nbsp;<i><a href="s.htm#sollòkchi">sollòkchi</a></i>.&nbsp;
+&nbsp;to die and have the spirit walk the earth, not go to heaven: &nbsp;<i><a href="i2.htm#itanakaaɬa">itanakaaɬa</a></i>.&nbsp;
+<br><b>gift</b>
+&nbsp;to give (a present or gift) to, give (something in a package or container) to: &nbsp;<i><a href="i2.htm#istinka">istinka</a></i>.&nbsp;
+<br><b>gin</b>
+&nbsp;cotton gin: &nbsp;<i><a href="p.htm#pakaalaaboyotlichi">pakaalaaboyotlichi</a></i>.&nbsp;
+&nbsp;to gin (cotton): &nbsp;<i><a href="b.htm#boyotlichi">boyotlichi</a></i>.&nbsp;
+<br><b>gingiva</b>&nbsp;&nbsp;<i><a href="n.htm#nati aanipo">nati aanipo</a></i>.&nbsp;
+<br><b>gingivitis</b>
+&nbsp;to have gingivitis, sore gums: &nbsp;<i><a href="n.htm#nataanipo iⁿhoopa">nataanipo iⁿhoopa</a></i>.&nbsp;
+<br><b>ginseng</b>&nbsp;&nbsp;<i><a href="a.htm#aissihatka">aissihatka</a></i>.&nbsp;
+<br><b>giraffe</b>&nbsp;&nbsp;<i><a href="i2.htm#ittoissibíttipa">ittoissibíttipa</a></i>.&nbsp;
+<br><b>girdle</b>&nbsp;&nbsp;<i><a href="i2.htm#istiliitiɬifilka">istiliitiɬifilka</a>, <a href="i2.htm#istiliitiɬifkachi">istiliitiɬifkachi</a></i>.&nbsp;
+<br><b>girl</b>
+&nbsp;daughter, little girl, female baby: &nbsp;<i><a href="t.htm#tayyosi">tayyosi</a></i>.&nbsp;
+&nbsp;daughter, prepubescent girl, girlfriend: &nbsp;<i><a href="t.htm#tayyaski">tayyaski</a></i>.&nbsp;
+&nbsp;daughters, little girls: &nbsp;<i><a href="t.htm#tayyaskiha">tayyaskiha</a></i>.&nbsp;
+&nbsp;pretty girl: &nbsp;<i><a href="i2.htm#ischipìila">ischipìila</a></i>.&nbsp;
+<br><b>girlfriend</b>
+&nbsp;daughter, prepubescent girl, girlfriend: &nbsp;<i><a href="t.htm#tayyaski">tayyaski</a></i>.&nbsp;
+<br><b>give</b>
+&nbsp;to give (something) to: &nbsp;<i><a href="i1.htm#inka">inka</a></i>.&nbsp;
+&nbsp;to share a piece with, give (someone) a piece of: &nbsp;<i><a href="i1.htm#innachoffi">innachoffi</a></i>.&nbsp;
+&nbsp;to give (a present or gift) to, give (something in a package or container) to: &nbsp;<i><a href="i2.htm#istinka">istinka</a></i>.&nbsp;
+<br><b>give air</b>
+&nbsp;to give air to: &nbsp;<i><a href="a.htm#amahlichi">amahlichi</a></i>.&nbsp;
+<br><b>give away</b>
+&nbsp;to give away to: &nbsp;<i><a href="a.htm#aatinka">aatinka</a></i>.&nbsp;
+<br><b>give birth</b>
+&nbsp;to give birth (of an animal): &nbsp;<i><a href="i1.htm#ilasaachi">ilasaachi</a></i>.&nbsp;
+<br><b>give self</b>
+&nbsp;to give self to the Lord, be Christian (one who gives himself/herself): &nbsp;<i><a href="i1.htm#ilifayli">ilifayli</a></i>.&nbsp;
+<br><b>give up</b>
+&nbsp;to give up bad habits: &nbsp;<i><a href="i1.htm#ilifayli">ilifayli</a></i>.&nbsp;
+&nbsp;to give up (something), deny (something) to oneself (as drink, food, running around): &nbsp;<i><a href="i1.htm#iliⁿhollochi">iliⁿhollochi</a></i>.&nbsp;
+<br><b>gizzards</b>&nbsp;&nbsp;<i><a href="i1.htm#inchakaafa">inchakaafa</a></i>.&nbsp;
+&nbsp;chicken gizzards: &nbsp;<i><a href="a.htm#akaakinchakaafa">akaakinchakaafa</a></i>.&nbsp;
+<br><b>glad</b>
+&nbsp;to be happy, glad, pleasantly surprised: &nbsp;<i><a href="a.htm#ayokpa">ayokpa</a></i>.&nbsp;
+&nbsp;to make happy, make glad, make laugh: &nbsp;<i><a href="i2.htm#istayokpachi">istayokpachi</a></i>.&nbsp;
+&nbsp;to be excitedly, gladly doing something, to have a good time at: &nbsp;<i><a href="i2.htm#istakano">istakano</a></i>.&nbsp;
+<br><b>glands</b>
+&nbsp;lymph glands in neck: &nbsp;<i><a href="n.htm#nokchiɬáali">nokchiɬáali</a></i>.&nbsp;
+<br><b>glass</b>&nbsp;&nbsp;<i><a href="a.htm#aayanchahka">aayanchahka</a></i>.&nbsp;
+&nbsp;bottle shards, glass slivers: &nbsp;<i><a href="o.htm#ochokbabasilka">ochokbabasilka</a></i>.&nbsp;
+&nbsp;glass container, drinking glass: &nbsp;<i><a href="k.htm#kopli2">kopli<sup>2</sup></a></i>.&nbsp;
+&nbsp;glass dish: &nbsp;<i><a href="a.htm#aayanchahka aayampo">aayanchahka aayampo</a></i>.&nbsp;
+&nbsp;to break up, shatter glass (esp. to get pieces for bloodletting): &nbsp;<i><a href="b.htm#baslichi">baslichi</a></i>.&nbsp;
+<br><b>glasses</b>
+&nbsp;eyeglasses: &nbsp;<i><a href="i2.htm#ittiɬistilhicha">ittiɬistilhicha</a>, <a href="i2.htm#istilhíicha">istilhíicha</a></i>.&nbsp;
+&nbsp;eyeglasses, sunglasses: &nbsp;<i><a href="i2.htm#ittiɬi istintalka">ittiɬi istintalka</a></i>.&nbsp;
+&nbsp;telescope, binoculars, spy glass, scope on a gun, glasses for correcting near-sightedness: &nbsp;<i><a href="h.htm#hopaaki maastilhicha">hopaaki maastilhicha</a></i>.&nbsp;
+&nbsp;visor, brim (of hat), sunglasses: &nbsp;<i><a href="i1.htm#intalka">intalka</a></i>.&nbsp;
+&nbsp;to put on (eyeglasses), shade the eyes with the hand and look around: &nbsp;<i><a href="i1.htm#intalli1">intalli<sup>1</sup></a></i>.&nbsp;
+<br><b>glisten</b>
+&nbsp;to give off shimmering waves of light (esp. as a heat mirage or tinfoil), shine, glisten, sparkle: &nbsp;<i><a href="l.htm#limìhkachi">limìhkachi</a></i>.&nbsp;
+<br><b>gloomy</b>
+&nbsp;gloomy, depressed person, depressive: &nbsp;<i><a href="a.htm#aatayokíkpo">aatayokíkpo</a></i>.&nbsp;
+<br><b>glory</b>
+&nbsp;morning glory flower: &nbsp;<i><a href="n.htm#niɬállòosi pakaali">niɬállòosi pakaali</a></i>.&nbsp;
+<br><b>glove</b>
+&nbsp;gloves, mittens: &nbsp;<i><a href="i1.htm#ilbaɬka">ilbaɬka</a></i>.&nbsp;
+&nbsp;baseball glove, catcher's mitt: &nbsp;<i><a href="p.htm#pokko ispafkachi">pokko ispafkachi</a></i>.&nbsp;
+&nbsp;to put on (gloves): &nbsp;<i><a href="a.htm#aɬi1">aɬi<sup>1</sup></a></i>.&nbsp;
+&nbsp;to wear (e.g. gloves) on the hand: &nbsp;<i><a href="a.htm#àaɬi">àaɬi</a></i>.&nbsp;
+<br><b>glow</b>
+&nbsp;to glow from a distance: &nbsp;<i><a href="m.htm#maahòmma">maahòmma</a></i>.&nbsp;
+<br><b>glue</b>
+&nbsp;glue, paste: &nbsp;<i><a href="i2.htm#istinchakissa">istinchakissa</a></i>.&nbsp;
+&nbsp;to cement, glue to: &nbsp;<i><a href="i1.htm#inchakissachi">inchakissachi</a></i>.&nbsp;
+&nbsp;to stick together, glue together (two things): &nbsp;<i><a href="i2.htm#ittilapaalichi">ittilapaalichi</a></i>.&nbsp;
+&nbsp;to stick together, glue together (more than two things): &nbsp;<i><a href="i2.htm#ittilapaffichi">ittilapaffichi</a></i>.&nbsp;
+&nbsp;to glue, cement on (as formica on top of a counter): &nbsp;<i><a href="p.htm#paachakissachi">paachakissachi</a></i>.&nbsp;
+&nbsp;to cement, glue (tiles or linoleum) to the floor: &nbsp;<i><a href="i2.htm#itachakissachi">itachakissachi</a></i>.&nbsp;
+<br><b>gnarled</b>
+&nbsp;to be twisted, crooked, gnarled, curved, warped, spiraled, wrung: &nbsp;<i><a href="p.htm#pànkachi">pànkachi</a></i>.&nbsp;
+<br><b>gnat</b>&nbsp;&nbsp;<i><a href="i2.htm#iskanhatka">iskanhatka</a></i>.&nbsp;
+<br><b>gnaw</b>
+&nbsp;to gnaw on, nibble on: &nbsp;<i><a href="k.htm#kaɬɬi">kaɬɬi</a></i>.&nbsp;
+<br><b>go</b>
+&nbsp;go and: &nbsp;<i><a href="afx.htm#ost-">ost-</a></i>.&nbsp;
+&nbsp;to go (of one or two): &nbsp;<i><a href="a.htm#aɬɬa">aɬɬa</a></i>.&nbsp;
+&nbsp;to go (of more than one): &nbsp;<i><a href="a.htm#amaaka">amaaka</a></i>.&nbsp;
+&nbsp;to go (of two): &nbsp;<i><a href="a.htm#aɬɬachi">aɬɬachi</a></i>.&nbsp;
+&nbsp;to go, leave, disappear (of one): &nbsp;<i><a href="n.htm#nakaaɬa">nakaaɬa</a></i>.&nbsp;
+&nbsp;to go, leave, disappear (of more than one): &nbsp;<i><a href="w.htm#wasahka">wasahka</a></i>.&nbsp;
+&nbsp;to go, leave, disappear, be gone (of two): &nbsp;<i><a href="w.htm#wasatka">wasatka</a></i>.&nbsp;
+&nbsp;to go and move on, go and not stay (of one): &nbsp;<i><a href="o.htm#ostammi">ostammi</a></i>.&nbsp;
+&nbsp;to go and settle someplace, emigrate (of more than one): &nbsp;<i><a href="i1.htm#ilchiika">ilchiika</a></i>.&nbsp;
+&nbsp;to go around in (a vehicle, new clothes): &nbsp;<i><a href="i2.htm#istàaya">istàaya</a></i>.&nbsp;
+&nbsp;to go by car, drive in a car (of one): &nbsp;<i><a href="i2.htm#iswaliika">iswaliika</a></i>.&nbsp;
+&nbsp;to go farther away: &nbsp;<i><a href="h.htm#hopakíhchi">hopakíhchi</a></i>.&nbsp;
+&nbsp;to go in a different direction from (someone): &nbsp;<i><a href="i1.htm#iⁿfilanka">iⁿfilanka</a></i>.&nbsp;
+&nbsp;to go past each other, pass by each other going in opposite directions: &nbsp;<i><a href="i2.htm#ittootamatli">ittootamatli</a></i>.&nbsp;
+&nbsp;to go along (in water): &nbsp;<i><a href="i1.htm#ilakomayli">ilakomayli</a></i>.&nbsp;
+&nbsp;to go to the bathroom: &nbsp;<i><a href="o.htm#osɬoyka">osɬoyka</a>, <a href="m.htm#maatàaya">maatàaya</a></i>.&nbsp;
+&nbsp;to be gone, absent, away: &nbsp;<i><a href="n.htm#nákkàaɬa">nákkàaɬa</a></i>.&nbsp;
+&nbsp;to go every which way, go somewhere and move on (of more than one) (as the way the wind blows): &nbsp;<i><a href="o.htm#ossofka">ossofka</a></i>.&nbsp;
+&nbsp;to be still gone, away: &nbsp;<i><a href="n.htm#nakáaɬa">nakáaɬa</a></i>.&nbsp;
+&nbsp;to want to go, beg to go: &nbsp;<i><a href="c.htm#chiliita">chiliita</a></i>.&nbsp;
+&nbsp;to want to go with or be with, beg someone to allow to go with (though he doesn't want one along): &nbsp;<i><a href="i1.htm#inchiliita">inchiliita</a></i>.&nbsp;
+&nbsp;to go down steps, get down, get out of a vehicle (of one): &nbsp;<i><a href="t.htm#tanatli">tanatli</a></i>.&nbsp;
+&nbsp;to go on a certain way: &nbsp;<i><a href="i2.htm#istaɬɬa">istaɬɬa</a></i>.&nbsp;
+<br><b>go across</b>
+&nbsp;to cross over, go across: &nbsp;<i><a href="a.htm#abanatli">abanatli</a></i>.&nbsp;
+<br><b>go after</b>
+&nbsp;to go after (one object), go get: &nbsp;<i><a href="o.htm#ostisi">ostisi</a>, <a href="o.htm#ostistisi">ostistisi</a></i>.&nbsp;
+&nbsp;to go after (someone at a distance), chase after: &nbsp;<i><a href="m.htm#maaɬohli">maaɬohli</a></i>.&nbsp;
+&nbsp;to track, go after, seek, stalk: &nbsp;<i><a href="a.htm#ayosli">ayosli</a></i>.&nbsp;
+<br><b>goal</b>
+&nbsp;goal posts: &nbsp;<i><a href="i2.htm#ittolokòoli">ittolokòoli</a></i>.&nbsp;
+&nbsp;stickball goal posts: &nbsp;<i><a href="p.htm#poɬachi">poɬachi</a></i>.&nbsp;
+&nbsp;to be finished doing, to have achieved a goal: &nbsp;<i><a href="a.htm#anooka">anooka</a>, <a href="a.htm#anoska">anoska</a></i>.&nbsp;
+<br><b>go along</b>
+&nbsp;to go along by the side of (esp. a creek bank) (of one): &nbsp;<i><a href="i2.htm#islapàali">islapàali</a></i>.&nbsp;
+&nbsp;to go along covering with dirt (of more than one): &nbsp;<i><a href="m.htm#maastonkaffichi">maastonkaffichi</a></i>.&nbsp;
+<br><b>go around</b>
+&nbsp;to circle around, go around once: &nbsp;<i><a href="a.htm#atanatka2">atanatka<sup>2</sup></a></i>.&nbsp;
+&nbsp;to come around from behind something, go around behind something (of one): &nbsp;<i><a href="i1.htm#imatanatka">imatanatka</a></i>.&nbsp;
+&nbsp;to encircle, be around, go around (once or of one): &nbsp;<i><a href="a.htm#apakfotli">apakfotli</a>, <a href="a.htm#atanahka2">atanahka<sup>2</sup></a></i>.&nbsp;
+&nbsp;to encircle with (something), go around with: &nbsp;<i><a href="i2.htm#istapakfotka">istapakfotka</a></i>.&nbsp;
+&nbsp;to go around, be there, be around, be located at a place (of one or two): &nbsp;<i><a href="a.htm#àaya">àaya</a></i>.&nbsp;
+&nbsp;to go around once, circle around once, encircle, surround: &nbsp;<i><a href="m.htm#maatatanatka">maatatanatka</a></i>.&nbsp;
+&nbsp;to go around together (more than four): &nbsp;<i><a href="i2.htm#ittanòwwa">ittanòwwa</a></i>.&nbsp;
+&nbsp;to put around, go around with (one object) repeatedly: &nbsp;<i><a href="a.htm#atanatlichi">atanatlichi</a></i>.&nbsp;
+<br><b>goat</b>&nbsp;&nbsp;<i><a href="c.htm#chowwaata">chowwaata</a></i>.&nbsp;
+<br><b>goatweed</b>&nbsp;&nbsp;<i><a href="h.htm#hasaalapo">hasaalapo</a></i>.&nbsp;
+<br><b>go away</b>
+&nbsp;to go away and not come back, stay away: &nbsp;<i><a href="i2.htm#istonafayli">istonafayli</a></i>.&nbsp;
+<br><b>go back</b>
+&nbsp;to return, go back, come back (of one): &nbsp;<i><a href="ll.htm#ɬoyka">ɬoyka</a></i>.&nbsp;
+<br><b>go backwards</b>
+&nbsp;to back up, go backwards (of one): &nbsp;<i><a href="i1.htm#ibakhititli">ibakhititli</a>, <a href="i1.htm#ibakhitli">ibakhitli</a></i>.&nbsp;
+&nbsp;to push backwards, make go backwards: &nbsp;<i><a href="i1.htm#ibakhititlichi">ibakhititlichi</a>, <a href="i1.htm#ibakhitlichi">ibakhitlichi</a></i>.&nbsp;
+<br><b>gobble</b>
+&nbsp;to gobble (as a turkey): &nbsp;<i><a href="k.htm#kaloklohka">kaloklohka</a></i>.&nbsp;
+<br><b>go crazy</b>
+&nbsp;to be crazy, go crazy, act wild: &nbsp;<i><a href="k.htm#kostìnko">kostìnko</a></i>.&nbsp;
+<br><b>God</b>&nbsp;&nbsp;<i><a href="a.htm#Abàalichókkòoli">Abàalichókkòoli</a>, <a href="a.htm#Abàalimikko">Abàalimikko</a>, <a href="a.htm#Abáskichókkòoli">Abáskichókkòoli</a></i>.&nbsp;
+&nbsp;God, Jesus: &nbsp;<i><a href="a.htm#Abàalichókkòoli imililla íkso">Abàalichókkòoli imililla íkso</a></i>.&nbsp;
+&nbsp;preacher, minister, spiritual leader, God: &nbsp;<i><a href="o.htm#ookalasa">ookalasa</a></i>.&nbsp;
+&nbsp;to have God's grace: &nbsp;<i><a href="a.htm#ayyihoochi">ayyihoochi</a></i>.&nbsp;
+<br><b>go down</b>
+&nbsp;to descend, come down, go down, land: &nbsp;<i><a href="t.htm#tanatli">tanatli</a>, <a href="m.htm#maatanatli">maatanatli</a></i>.&nbsp;
+&nbsp;to go down (of more than one): &nbsp;<i><a href="m.htm#maatanahli">maatanahli</a></i>.&nbsp;
+&nbsp;to go down any incline or over a vertical drop (of one): &nbsp;<i><a href="o.htm#ootanatli">ootanatli</a></i>.&nbsp;
+&nbsp;to go down (of the sun): &nbsp;<i><a href="h.htm#hasi ootammi">hasi ootammi</a></i>.&nbsp;
+<br><b>go far</b>
+&nbsp;to go far from someone: &nbsp;<i><a href="i1.htm#iⁿhopakiichi">iⁿhopakiichi</a></i>.&nbsp;
+&nbsp;to go farther away (from somewhere): &nbsp;<i><a href="i1.htm#iⁿhopáhki">iⁿhopáhki</a></i>.&nbsp;
+<br><b>go get</b>
+&nbsp;to go get, go after (one object): &nbsp;<i><a href="m.htm#maatisi">maatisi</a></i>.&nbsp;
+&nbsp;to reach for, take away, go get, go after (one object in a container): &nbsp;<i><a href="m.htm#maastisi">maastisi</a></i>.&nbsp;
+<br><b>go home</b>
+&nbsp;to disperse, scatter, all go home, break up a meeting: &nbsp;<i><a href="a.htm#aamatka">aamatka</a></i>.&nbsp;
+<br><b>go in between</b>
+&nbsp;to go in between, fit in between, stand in between (in a line) (of one): &nbsp;<i><a href="s.htm#samatli">samatli</a></i>.&nbsp;
+<br><b>go into</b>
+&nbsp;to go into, enter (of one): &nbsp;<i><a href="c.htm#chokkaliika">chokkaliika</a>, <a href="c.htm#chokkahka">chokkahka</a>, <a href="c.htm#chokkàaka">chokkàaka</a></i>.&nbsp;
+<br><b>gold</b>
+&nbsp;penny, gold coin: &nbsp;<i><a href="t.htm#toknaawalaana">toknaawalaana</a></i>.&nbsp;
+&nbsp;to be gold colored, shiny: &nbsp;<i><a href="l.htm#laanat aɬaplihchi">laanat aɬaplihchi</a></i>.&nbsp;
+&nbsp;to be yellow, orange, brown, gold, beige, pink: &nbsp;<i><a href="l.htm#laana">laana</a></i>.&nbsp;
+<br><b>golden eagle</b>&nbsp;&nbsp;<i><a href="t.htm#talakto">talakto</a></i>.&nbsp;
+<br><b>goldfish</b>
+&nbsp;sunfish, bream, goldfish: &nbsp;<i><a href="p.htm#patassi">patassi</a></i>.&nbsp;
+<br><b>go look for</b>
+&nbsp;to go look for: &nbsp;<i><a href="m.htm#maawihli">maawihli</a></i>.&nbsp;
+<br><b>gone</b>
+&nbsp;to be gone (of more than one): &nbsp;<i><a href="w.htm#wasaawòoka">wasaawòoka</a></i>.&nbsp;
+&nbsp;to be all gone, finished up, used up, be lacking, be out of a supply: &nbsp;<i><a href="a.htm#anooka">anooka</a>, <a href="a.htm#anoska">anoska</a></i>.&nbsp;
+&nbsp;to be lacking on top, missing on top, gone on top: &nbsp;<i><a href="p.htm#paayíkso">paayíkso</a></i>.&nbsp;
+&nbsp;to be (still) gone (of two): &nbsp;<i><a href="w.htm#wássatka">wássatka</a></i>.&nbsp;
+<br><b>gonorrhea</b>
+&nbsp;any venereal disease, esp. gonorrhea: &nbsp;<i><a href="y.htm#yokbi">yokbi</a></i>.&nbsp;
+<br><b>good</b>
+&nbsp;easily, well: &nbsp;<i><a href="i2.htm#iskano">iskano</a></i>.&nbsp;
+&nbsp;good person: &nbsp;<i><a href="a.htm#aatikàano">aatikàano</a></i>.&nbsp;
+&nbsp;good behavior: &nbsp;<i><a href="n.htm#nokchóobatilka">nokchóobatilka</a></i>.&nbsp;
+&nbsp;what one says if something tastes very good: &nbsp;<i><a href="a.htm#amm! kanobi!">amm! kanobi!</a></i>.&nbsp;
+&nbsp;to be good, pretty, well, fine: &nbsp;<i><a href="k.htm#kano">kano</a></i>.&nbsp;
+&nbsp;to be good: &nbsp;<i><a href="c.htm#chookma">chookma</a></i>.&nbsp;
+&nbsp;to be good, charitable, or kind to a person: &nbsp;<i><a href="a.htm#ayokpáalòssi">ayokpáalòssi</a></i>.&nbsp;
+&nbsp;to be good for someone, all right for: &nbsp;<i><a href="i1.htm#inkano">inkano</a></i>.&nbsp;
+&nbsp;to be good to, be charitable to, comfort: &nbsp;<i><a href="a.htm#ayokpali">ayokpali</a></i>.&nbsp;
+&nbsp;to be kind, nice, good: &nbsp;<i><a href="a.htm#alíila">alíila</a></i>.&nbsp;
+&nbsp;to be better, best: &nbsp;<i><a href="k.htm#káhno">káhno</a></i>.&nbsp;
+&nbsp;to be doing good work, make someone feel good, make someone feel excited (as a good musician): &nbsp;<i><a href="i2.htm#istakanoochi">istakanoochi</a></i>.&nbsp;
+&nbsp;to have (food) taste good to one: &nbsp;<i><a href="i1.htm#inchampoli">inchampoli</a></i>.&nbsp;
+&nbsp;to have something fit well, have suit one, have look good on one: &nbsp;<i><a href="i2.htm#istimalíila">istimalíila</a>, <a href="i2.htm#istimálpìisa">istimálpìisa</a></i>.&nbsp;
+&nbsp;to make feel good: &nbsp;<i><a href="i1.htm#imonkachi">imonkachi</a></i>.&nbsp;
+&nbsp;to taste good, taste sweet: &nbsp;<i><a href="c.htm#champoli">champoli</a></i>.&nbsp;
+<br><b>goodbye</b>&nbsp;&nbsp;<i><a href="t.htm#tá!">tá!</a></i>.&nbsp;
+<br><b>good-looking</b>&nbsp;&nbsp;<i><a href="i1.htm#ilhicha kano">ilhicha kano</a></i>.&nbsp;
+<br><b>goodness</b>
+&nbsp;oh, no! oh, shoot! darn! oh, heck! oh, my goodness!: &nbsp;<i><a href="h.htm#híhha">híhha</a></i>.&nbsp;
+<br><b>good time</b>
+&nbsp;happiness, fun, good time, party: &nbsp;<i><a href="a.htm#ayolikpa">ayolikpa</a></i>.&nbsp;
+<br><b>gooey</b>
+&nbsp;to be gooey, moist and sticky, slimy (as paste, a wet clay road, a fish, etc.): &nbsp;<i><a href="c.htm#chakissa">chakissa</a></i>.&nbsp;
+<br><b>go off</b>
+&nbsp;to go off (of an explosion), crash (of thunder), burst open once: &nbsp;<i><a href="t.htm#tokafka">tokafka</a></i>.&nbsp;
+<br><b>go on</b>
+&nbsp;to keep on, keep doing, continue, go on a certain way: &nbsp;<i><a href="a.htm#aɬíina">aɬíina</a></i>.&nbsp;
+<br><b>goose</b>
+&nbsp;goose, swan: &nbsp;<i><a href="s.htm#salakla">salakla</a></i>.&nbsp;
+&nbsp;gosling, cygnet: &nbsp;<i><a href="s.htm#salaklasi">salaklasi</a></i>.&nbsp;
+<br><b>go out</b>
+&nbsp;to burn out, go out (of a fire or light): &nbsp;<i><a href="l.htm#laboska">laboska</a></i>.&nbsp;
+&nbsp;to go out, get out of, exit: &nbsp;<i><a href="a.htm#assaliika">assaliika</a>, <a href="a.htm#askahka">askahka</a></i>.&nbsp;
+<br><b>gopher</b>&nbsp;&nbsp;<i><a href="c.htm#chokbahta">chokbahta</a></i>.&nbsp;
+&nbsp;gopher hill, gopher den: &nbsp;<i><a href="c.htm#chokbahta iⁿhini">chokbahta iⁿhini</a></i>.&nbsp;
+<br><b>gopher snake</b>&nbsp;&nbsp;<i><a href="c.htm#chintopatha">chintopatha</a>, <a href="c.htm#chinto isbakpàtha">chinto isbakpàtha</a>, <a href="i2.htm#isbakpàtha">isbakpàtha</a></i>.&nbsp;
+<br><b>go pick up</b>
+&nbsp;to go pick up (something) and bring back, fetch: &nbsp;<i><a href="o.htm#oswihli">oswihli</a></i>.&nbsp;
+<br><b>gore</b>
+&nbsp;to stick, gore with the horns or antlers (once): &nbsp;<i><a href="b.htm#bisipka">bisipka</a></i>.&nbsp;
+<br><b>go see</b>
+&nbsp;to go see about, go to see: &nbsp;<i><a href="o.htm#oshicha">oshicha</a></i>.&nbsp;
+<br><b>gosling</b>&nbsp;&nbsp;<i><a href="s.htm#salaklasi">salaklasi</a></i>.&nbsp;
+<br><b>gossip</b>&nbsp;&nbsp;<i><a href="p.htm#píilanaaɬiilka">píilanaaɬiilka</a></i>.&nbsp;
+&nbsp;gossip (talk): &nbsp;<i><a href="n.htm#naaɬiikachi">naaɬiikachi</a></i>.&nbsp;
+&nbsp;gossiper: &nbsp;<i><a href="a.htm#aatnaaɬìika">aatnaaɬìika</a>, <a href="a.htm#aatnaaɬiilìichi">aatnaaɬiilìichi</a></i>.&nbsp;
+&nbsp;to talk about or gossip about someone: &nbsp;<i><a href="n.htm#naaɬiilichi">naaɬiilichi</a></i>.&nbsp;
+&nbsp;to talk about one another, gossip about each other: &nbsp;<i><a href="i2.htm#ittinnaaɬiilichi">ittinnaaɬiilichi</a></i>.&nbsp;
+<br><b>go through</b>
+&nbsp;to go through (a hole as in a fence), step into (a hole) (of one): &nbsp;<i><a href="ll.htm#ɬibitli">ɬibitli</a></i>.&nbsp;
+&nbsp;to go through to the end: &nbsp;<i><a href="i2.htm#istittaɬopotli">istittaɬopotli</a>, <a href="i2.htm#ittaɬopotli">ittaɬopotli</a></i>.&nbsp;
+<br><b>go to bed</b>
+&nbsp;to go to bed with: &nbsp;<i><a href="a.htm#apoɬka">apoɬka</a>, <a href="a.htm#apoɬòoka">apoɬòoka</a></i>.&nbsp;
+<br><b>go under</b>
+&nbsp;to go under, crawl under: &nbsp;<i><a href="n.htm#nottakonotli">nottakonotli</a>, <a href="i2.htm#ittakonotli">ittakonotli</a></i>.&nbsp;
+&nbsp;to dive under water, go under water, submerge once: &nbsp;<i><a href="o.htm#okhaboska">okhaboska</a></i>.&nbsp;
+<br><b>go up</b>
+&nbsp;to ascend, rise, take off (as an airplane), go up: &nbsp;<i><a href="a.htm#abahlichi">abahlichi</a></i>.&nbsp;
+<br><b>gourd</b>&nbsp;&nbsp;<i><a href="k.htm#kochi">kochi</a></i>.&nbsp;
+&nbsp;gourd or turtleshell rattle: &nbsp;<i><a href="k.htm#kochiba">kochiba</a></i>.&nbsp;
+<br><b>gourd dance</b>&nbsp;&nbsp;<i><a href="k.htm#kochibitka">kochibitka</a></i>.&nbsp;
+&nbsp;gourd dance song: &nbsp;<i><a href="k.htm#kochibitka talilwa">kochibitka talilwa</a></i>.&nbsp;
+<br><b>govern</b>
+&nbsp;to be a leader, be a guide: &nbsp;<i><a href="h.htm#hínnàata">hínnàata</a></i>.&nbsp;
+<br><b>go with</b>
+&nbsp;to go with: &nbsp;<i><a href="i1.htm#ilasaachi">ilasaachi</a></i>.&nbsp;
+&nbsp;to go with, accompany, date: &nbsp;<i><a href="a.htm#achakki">achakki</a></i>.&nbsp;
+<br><b>go wrong</b>
+&nbsp;to have plans go wrong, be interfered with: &nbsp;<i><a href="i2.htm#istimpìila">istimpìila</a></i>.&nbsp;
+<br><b>grab</b>
+&nbsp;to hold, catch, grab: &nbsp;<i><a href="t.htm#tabatka">tabatka</a></i>.&nbsp;
+&nbsp;to grab, hold, catch, pull (one object): &nbsp;<i><a href="h.htm#halatka">halatka</a></i>.&nbsp;
+&nbsp;to grab at (something in a container): &nbsp;<i><a href="o.htm#ostistisi">ostistisi</a></i>.&nbsp;
+&nbsp;to be grabbing: &nbsp;<i><a href="t.htm#támbatka">támbatka</a></i>.&nbsp;
+<br><b>grace</b>
+&nbsp;to have God's grace: &nbsp;<i><a href="a.htm#ayyihoochi">ayyihoochi</a></i>.&nbsp;
+<br><b>grade</b>
+&nbsp;slant, grade in a road: &nbsp;<i><a href="b.htm#bokko">bokko</a></i>.&nbsp;
+<br><b>graduate</b>
+&nbsp;to graduate (of one): &nbsp;<i><a href="i2.htm#istanooli">istanooli</a></i>.&nbsp;
+&nbsp;to be a graduate: &nbsp;<i><a href="h.htm#holisso sobáyli">holisso sobáyli</a></i>.&nbsp;
+<br><b>grain</b>
+&nbsp;to clear grain of chaff: &nbsp;<i><a href="c.htm#chanaɬbachi">chanaɬbachi</a></i>.&nbsp;
+&nbsp;to winnow grain, sift with a basket, fan grain: &nbsp;<i><a href="i1.htm#immaska">immaska</a></i>.&nbsp;
+<br><b>grained</b>
+&nbsp;to be fine-grained, fine in texture (of material) (as silk, chiffon, voile): &nbsp;<i><a href="t.htm#tapaski">tapaski</a></i>.&nbsp;
+<br><b>Grancy graybeard</b>&nbsp;&nbsp;<i><a href="a.htm#aatichòoba ichokhiska">aatichòoba ichokhiska</a>, <a href="n.htm#nita imìlpa">nita imìlpa</a></i>.&nbsp;
+<br><b>grandchild</b>&nbsp;&nbsp;<i><a href="i2.htm#ipokòosi">ipokòosi</a></i>.&nbsp;
+<br><b>granddaughter</b>&nbsp;&nbsp;<i><a href="i2.htm#ipokitàyyi">ipokitàyyi</a>, <a href="i2.htm#ipokòostayyi">ipokòostayyi</a></i>.&nbsp;
+<br><b>grandfather</b>&nbsp;&nbsp;<i><a href="a.htm#awo">awo</a>, <a href="f.htm#fósi">fósi</a></i>.&nbsp;
+&nbsp;grandfather, greatgrandfather: &nbsp;<i><a href="a.htm#awochòoba">awochòoba</a></i>.&nbsp;
+&nbsp;greatgrandfather: &nbsp;<i><a href="f.htm#fóssòoba">fóssòoba</a></i>.&nbsp;
+<br><b>grandmother</b>&nbsp;&nbsp;<i><a href="a.htm#áapo">áapo</a>, <a href="c.htm#chíppo">chíppo</a></i>.&nbsp;
+&nbsp;grandmother, greataunt, forebear, female ancestor: &nbsp;<i><a href="a.htm#áapochòoba">áapochòoba</a></i>.&nbsp;
+&nbsp;greataunt, greatgrandmother, oldest sister of one's mother: &nbsp;<i><a href="k.htm#kóossòoba">kóossòoba</a></i>.&nbsp;
+&nbsp;greatgrandmother: &nbsp;<i><a href="c.htm#chíppochòoba">chíppochòoba</a></i>.&nbsp;
+<br><b>grandson</b>&nbsp;&nbsp;<i><a href="i2.htm#ipokinaani">ipokinaani</a></i>.&nbsp;
+<br><b>grape</b>
+&nbsp;grape, raisin: &nbsp;<i><a href="b.htm#baɬka">baɬka</a></i>.&nbsp;
+&nbsp;black grape: &nbsp;<i><a href="b.htm#baɬkalocha">baɬkalocha</a></i>.&nbsp;
+&nbsp;species of wild grape: &nbsp;<i><a href="s.htm#sawimbaɬka">sawimbaɬka</a></i>.&nbsp;
+&nbsp;wild grape vine: &nbsp;<i><a href="b.htm#baɬkapihchi">baɬkapihchi</a></i>.&nbsp;
+&nbsp;grape juice: &nbsp;<i><a href="b.htm#baɬkokchi">baɬkokchi</a></i>.&nbsp;
+<br><b>grapefruit</b>
+&nbsp;lemon, grapefruit, sour orange: &nbsp;<i><a href="y.htm#yalàahakaskaha">yalàahakaskaha</a></i>.&nbsp;
+<br><b>grasp</b>
+&nbsp;to take hold of in the hand, grasp, wrestle: &nbsp;<i><a href="c.htm#chitiika">chitiika</a></i>.&nbsp;
+<br><b>grass</b>&nbsp;&nbsp;<i><a href="h.htm#hassi">hassi</a></i>.&nbsp;
+&nbsp;bermuda grass, crabgrass, motor grass: &nbsp;<i><a href="h.htm#hassipatàaka">hassipatàaka</a>, <a href="h.htm#hassiwànha">hassiwànha</a></i>.&nbsp;
+&nbsp;dry grass for kindling fires and stuffing mattresses: &nbsp;<i><a href="h.htm#hastalpo">hastalpo</a></i>.&nbsp;
+&nbsp;dry grass used for kindling fires: &nbsp;<i><a href="h.htm#hasaalapo">hasaalapo</a></i>.&nbsp;
+&nbsp;grass sp.: &nbsp;<i><a href="ll.htm#ɬaɬo imaissi">ɬaɬo imaissi</a></i>.&nbsp;
+&nbsp;species of tall grass: &nbsp;<i><a href="h.htm#hassihommachi">hassihommachi</a></i>.&nbsp;
+&nbsp;yucca, bear grass: &nbsp;<i><a href="t.htm#tosìina istatakka">tosìina istatakka</a></i>.&nbsp;
+<br><b>grassburrs</b>&nbsp;&nbsp;<i><a href="h.htm#hassihalokpa">hassihalokpa</a></i>.&nbsp;
+<br><b>grass fire</b>
+&nbsp;forest fire, grass fire: &nbsp;<i><a href="a.htm#assikba">assikba</a>, <a href="h.htm#hassikba">hassikba</a></i>.&nbsp;
+<br><b>grasshopper</b>&nbsp;&nbsp;<i><a href="h.htm#hataffo">hataffo</a></i>.&nbsp;
+&nbsp;large grasshopper: &nbsp;<i><a href="h.htm#hatokhàapli">hatokhàapli</a></i>.&nbsp;
+<br><b>grate</b>
+&nbsp;cattle guard, grate across road preventing entry of cattle: &nbsp;<i><a href="w.htm#waakistimataakachi">waakistimataakachi</a></i>.&nbsp;
+&nbsp;to grate: &nbsp;<i><a href="m.htm#miɬihlichi">miɬihlichi</a></i>.&nbsp;
+&nbsp;to break off, scrape off, grate: &nbsp;<i><a href="i2.htm#ismiɬoffi">ismiɬoffi</a></i>.&nbsp;
+&nbsp;to be grated: &nbsp;<i><a href="m.htm#miɬihkachi">miɬihkachi</a></i>.&nbsp;
+<br><b>grater</b>&nbsp;&nbsp;<i><a href="i2.htm#isbotooka">isbotooka</a>, <a href="i2.htm#ismiɬihkachi">ismiɬihkachi</a></i>.&nbsp;
+<br><b>gratis</b>
+&nbsp;to be free, gratis (not cost anything): &nbsp;<i><a href="p.htm#piila">piila</a></i>.&nbsp;
+<br><b>grave</b>
+&nbsp;grave, cemetery: &nbsp;<i><a href="i1.htm#ihaani">ihaani</a></i>.&nbsp;
+<br><b>gravel</b>&nbsp;&nbsp;<i><a href="t.htm#talchossi">talchossi</a>, <a href="t.htm#talisawwa">talisawwa</a></i>.&nbsp;
+&nbsp;gravel, small stone or rock, pebble: &nbsp;<i><a href="t.htm#talosi">talosi</a></i>.&nbsp;
+&nbsp;gravelly land: &nbsp;<i><a href="t.htm#talchossibáana">talchossibáana</a>, <a href="t.htm#talosi báanafayya ihaani">talosi báanafayya ihaani</a></i>.&nbsp;
+<br><b>gravemarker</b>&nbsp;&nbsp;<i><a href="i1.htm#ihaanifa inchokòoli">ihaanifa inchokòoli</a>, <a href="i1.htm#ihaanifa iⁿhachàali">ihaanifa iⁿhachàali</a></i>.&nbsp;
+<br><b>graveyard</b>&nbsp;&nbsp;<i><a href="a.htm#aatilli istìisa">aatilli istìisa</a>, <a href="i1.htm#ihaanisnàaho">ihaanisnàaho</a></i>.&nbsp;
+<br><b>gravy</b>&nbsp;&nbsp;<i><a href="t.htm#tiliko istoochihbi">tiliko istoochihbi</a></i>.&nbsp;
+&nbsp;to burn (of gravy): &nbsp;<i><a href="i2.htm#istookilaaya">istookilaaya</a></i>.&nbsp;
+<br><b>gray</b>
+&nbsp;white or gray hair: &nbsp;<i><a href="h.htm#hissihatka">hissihatka</a></i>.&nbsp;
+&nbsp;to be gray: &nbsp;<i><a href="i2.htm#istokhatka">istokhatka</a></i>.&nbsp;
+&nbsp;to be gray (especially of an animal, such as a Brahma bull): &nbsp;<i><a href="b.htm#bafko">bafko</a></i>.&nbsp;
+&nbsp;to be gray-haired: &nbsp;<i><a href="h.htm#hatka">hatka</a></i>.&nbsp;
+<br><b>graze</b>
+&nbsp;to graze on (of animals): &nbsp;<i><a href="k.htm#kopli1">kopli<sup>1</sup></a></i>.&nbsp;
+<br><b>grease</b>
+&nbsp;fat, grease, oil: &nbsp;<i><a href="n.htm#nikóobihchi">nikóobihchi</a></i>.&nbsp;
+&nbsp;grease, oil, lard, shortening: &nbsp;<i><a href="n.htm#nitokchi">nitokchi</a></i>.&nbsp;
+&nbsp;heavy oil or grease, lubricant: &nbsp;<i><a href="i2.htm#istinnikoobi">istinnikoobi</a></i>.&nbsp;
+&nbsp;to grease, get grease on: &nbsp;<i><a href="i1.htm#innikoobichi">innikoobichi</a></i>.&nbsp;
+&nbsp;to grease, oil, season (food) with grease: &nbsp;<i><a href="i2.htm#istinnikoobichi">istinnikoobichi</a></i>.&nbsp;
+&nbsp;to grease (the hair) (esp. with bear grease), waterproof the feathers with body oil (of fowl): &nbsp;<i><a href="i1.htm#ilaksoopka2">ilaksoopka<sup>2</sup></a></i>.&nbsp;
+&nbsp;to anoint (the hair), grease (hair), pomade: &nbsp;<i><a href="a.htm#aksoopka">aksoopka</a></i>.&nbsp;
+&nbsp;to get grease on the floor: &nbsp;<i><a href="i2.htm#itanikoobichi">itanikoobichi</a></i>.&nbsp;
+<br><b>greasy</b>
+&nbsp;to be greasy: &nbsp;<i><a href="n.htm#nikoobi">nikoobi</a></i>.&nbsp;
+&nbsp;to get greasy: &nbsp;<i><a href="n.htm#nikoobichi">nikoobichi</a></i>.&nbsp;
+&nbsp;to have a possession greased or lubricated, get a possession greasy: &nbsp;<i><a href="i1.htm#iminnikoobichi">iminnikoobichi</a></i>.&nbsp;
+<br><b>greataunt</b>
+&nbsp;grandmother, greataunt, forebear, female ancestor: &nbsp;<i><a href="a.htm#áapochòoba">áapochòoba</a></i>.&nbsp;
+&nbsp;greataunt, greatgrandmother, oldest sister of one's mother: &nbsp;<i><a href="k.htm#kóossòoba">kóossòoba</a></i>.&nbsp;
+<br><b>great blue heron</b>&nbsp;&nbsp;<i><a href="w.htm#wakhachàaha">wakhachàaha</a></i>.&nbsp;
+<br><b>greatgrandfather</b>&nbsp;&nbsp;<i><a href="f.htm#fóssòoba">fóssòoba</a></i>.&nbsp;
+&nbsp;grandfather, great-grandfather: &nbsp;<i><a href="a.htm#awochòoba">awochòoba</a></i>.&nbsp;
+<br><b>greatgrandmother</b>&nbsp;&nbsp;<i><a href="c.htm#chíppochòoba">chíppochòoba</a></i>.&nbsp;
+&nbsp;greataunt, greatgrandmother, oldest sister of one's mother: &nbsp;<i><a href="k.htm#kóossòoba">kóossòoba</a></i>.&nbsp;
+<br><b>greed</b>&nbsp;&nbsp;<i><a href="a.htm#ayaalbi">ayaalbi</a></i>.&nbsp;
+&nbsp;greedy person: &nbsp;<i><a href="a.htm#ayàabi">ayàabi</a></i>.&nbsp;
+&nbsp;stinginess, greed: &nbsp;<i><a href="i2.htm#iyihotilka">iyihotilka</a></i>.&nbsp;
+&nbsp;to be greedy: &nbsp;<i><a href="i2.htm#istayaabi">istayaabi</a></i>.&nbsp;
+&nbsp;to be greedy about something: &nbsp;<i><a href="a.htm#ayaabi">ayaabi</a></i>.&nbsp;
+&nbsp;to be selfish, greedy, stingy: &nbsp;<i><a href="i2.htm#iyiho">iyiho</a></i>.&nbsp;
+&nbsp;to act greedy, stingy, selfish: &nbsp;<i><a href="i2.htm#istiloyhachi">istiloyhachi</a></i>.&nbsp;
+&nbsp;to be greedier: &nbsp;<i><a href="a.htm#ayáhbi">ayáhbi</a></i>.&nbsp;
+<br><b>green</b>&nbsp;&nbsp;<i><a href="i2.htm#ittoissi okchakkoyáhchi">ittoissi okchakkoyáhchi</a></i>.&nbsp;
+&nbsp;green, immature, unripe: &nbsp;<i><a href="w.htm#wakìiyo">wakìiyo</a></i>.&nbsp;
+&nbsp;to be green, not ripe (as any tender vegetable or fruit): &nbsp;<i><a href="o.htm#okcháako">okcháako</a></i>.&nbsp;
+&nbsp;to be blue, green, purple, violet, in the blue-green spectrum: &nbsp;<i><a href="o.htm#okchakko">okchakko</a></i>.&nbsp;
+&nbsp;to make blue, green, or purple (with dye, paint, etc.): &nbsp;<i><a href="o.htm#okchakkochi">okchakkochi</a></i>.&nbsp;
+<br><b>green bean</b>&nbsp;&nbsp;<i><a href="c.htm#chastokalbiɬa">chastokalbiɬa</a></i>.&nbsp;
+<br><b>greenbrier</b>&nbsp;&nbsp;<i><a href="b.htm#bakcho hollo">bakcho hollo</a>, <a href="b.htm#bakchokchako">bakchokchako</a>, <a href="k.htm#kanta">kanta</a></i>.&nbsp;
+<br><b>green corn</b>&nbsp;&nbsp;<i><a href="c.htm#chassokcháako">chassokcháako</a>, <a href="c.htm#chassitiɬkachi">chassitiɬkachi</a></i>.&nbsp;
+&nbsp;green corn cornbread: &nbsp;<i><a href="c.htm#chassokcháako paspa">chassokcháako paspa</a></i>.&nbsp;
+<br><b>green corn dance</b>&nbsp;&nbsp;<i><a href="c.htm#chassokcháako bitka">chassokcháako bitka</a></i>.&nbsp;
+<br><b>green hornet</b>&nbsp;&nbsp;<i><a href="f.htm#fofchòkba">fofchòkba</a></i>.&nbsp;
+<br><b>green onion</b>&nbsp;&nbsp;<i><a href="k.htm#kosòoma hissi okchákko">kosòoma hissi okchákko</a>, <a href="k.htm#kosòoma hissi okchákkoya ilpa">kosòoma hissi okchákkoya ilpa</a></i>.&nbsp;
+<br><b>green pea</b>&nbsp;&nbsp;<i><a href="c.htm#chastokokcháako">chastokokcháako</a></i>.&nbsp;
+<br><b>greens</b>
+&nbsp;collard greens: &nbsp;<i><a href="h.htm#hissihopàtha">hissihopàtha</a></i>.&nbsp;
+&nbsp;turnip or mustard greens: &nbsp;<i><a href="a.htm#assikchìlpa">assikchìlpa</a></i>.&nbsp;
+<br><b>green snake</b>&nbsp;&nbsp;<i><a href="c.htm#chintokchákkosi">chintokchákkosi</a></i>.&nbsp;
+<br><b>greet</b>
+&nbsp;to greet warmly (e.g. with a hug): &nbsp;<i><a href="a.htm#ayokpali">ayokpali</a></i>.&nbsp;
+<br><b>grief</b>
+&nbsp;to be sad about, be mournful, be apologetic, have regrets about, feel grief: &nbsp;<i><a href="i1.htm#imachiiba">imachiiba</a></i>.&nbsp;
+<br><b>grill</b>
+&nbsp;barbecue grill, barbecue pit: &nbsp;<i><a href="n.htm#nipo aayaboska">nipo aayaboska</a></i>.&nbsp;
+&nbsp;to barbecue, grill over a fire, roast: &nbsp;<i><a href="a.htm#abosli">abosli</a>, <a href="i2.htm#italahpachi">italahpachi</a>, <a href="i2.htm#itayikbachi">itayikbachi</a></i>.&nbsp;
+<br><b>grimace</b>
+&nbsp;to wrinkle the face by squinting, frowning, or grimacing: &nbsp;<i><a href="i1.htm#ilibiichokyohlichi">ilibiichokyohlichi</a></i>.&nbsp;
+<br><b>grimy</b>
+&nbsp;to be grimy, dirty (all over), sloppy: &nbsp;<i><a href="t.htm#talaami">talaami</a></i>.&nbsp;
+<br><b>grin</b>
+&nbsp;to smile, grin: &nbsp;<i><a href="a.htm#afaaka">afaaka</a></i>.&nbsp;
+<br><b>grind</b>
+&nbsp;miller, person who grinds: &nbsp;<i><a href="b.htm#botòoli">botòoli</a></i>.&nbsp;
+&nbsp;ground meat: &nbsp;<i><a href="n.htm#nipobotooka">nipobotooka</a></i>.&nbsp;
+&nbsp;pole for grinding corn: &nbsp;<i><a href="k.htm#kistapi">kistapi</a></i>.&nbsp;
+&nbsp;front molar, grinding tooth: &nbsp;<i><a href="n.htm#natiskachàaka">natiskachàaka</a>, <a href="n.htm#natiskaɬka">natiskaɬka</a></i>.&nbsp;
+&nbsp;to grind: &nbsp;<i><a href="b.htm#botooli">botooli</a></i>.&nbsp;
+&nbsp;to grind (the teeth): &nbsp;<i><a href="w.htm#wotòolichi">wotòolichi</a></i>.&nbsp;
+&nbsp;to grind up fine, crush to powder, pulverize: &nbsp;<i><a href="l.htm#liphachi">liphachi</a></i>.&nbsp;
+&nbsp;to pound, pulverize, grind with a pestle: &nbsp;<i><a href="h.htm#hochi">hochi</a></i>.&nbsp;
+&nbsp;to be pounded, ground up: &nbsp;<i><a href="h.htm#hoska">hoska</a>, <a href="b.htm#botooka">botooka</a>, <a href="h.htm#holchi">holchi</a></i>.&nbsp;
+&nbsp;to be finely ground (of meal), powdery: &nbsp;<i><a href="p.htm#possi">possi</a></i>.&nbsp;
+<br><b>grinding stone</b>&nbsp;&nbsp;<i><a href="i2.htm#isbotooka">isbotooka</a>, <a href="i2.htm#ishalokpa">ishalokpa</a></i>.&nbsp;
+<br><b>grist mill</b>
+&nbsp;corn mill, grist mill: &nbsp;<i><a href="c.htm#chassaabotòoli">chassaabotòoli</a></i>.&nbsp;
+<br><b>grits</b>
+&nbsp;any food such as rice or grits that absorbs water as it is cooked: &nbsp;<i><a href="a.htm#asolotka">asolotka</a></i>.&nbsp;
+<br><b>groan</b>
+&nbsp;to squeak, creak, screech, crackle or groan (e.g. of trees in a wind): &nbsp;<i><a href="w.htm#wachàalichi">wachàalichi</a></i>.&nbsp;
+<br><b>grocery</b>
+&nbsp;grocery store: &nbsp;<i><a href="o.htm#oolimpa ischoopa">oolimpa ischoopa</a></i>.&nbsp;
+<br><b>groin</b>
+&nbsp;area between the legs, groin, genitals: &nbsp;<i><a href="o.htm#obittaltàala">obittaltàala</a></i>.&nbsp;
+<br><b>groom</b>
+&nbsp;bridegroom: &nbsp;<i><a href="n.htm#naani itaafolòoka">naani itaafolòoka</a></i>.&nbsp;
+<br><b>ground</b>
+&nbsp;land, ground, country: &nbsp;<i><a href="i1.htm#ihaani">ihaani</a></i>.&nbsp;
+&nbsp;close to the ground, near to the ground or roots of a tree: &nbsp;<i><a href="y.htm#yíkchi">yíkchi</a></i>.&nbsp;
+&nbsp;deep gully, canyon, big hole in the ground: &nbsp;<i><a href="i1.htm#ihankolokbi">ihankolokbi</a></i>.&nbsp;
+&nbsp;to clear ground (for building, etc.): &nbsp;<i><a href="i2.htm#itachakli">itachakli</a></i>.&nbsp;
+&nbsp;to dig, drill into the ground: &nbsp;<i><a href="s.htm#saffi">saffi</a></i>.&nbsp;
+&nbsp;to sit on the floor, sit on the ground (of one): &nbsp;<i><a href="i2.htm#itachokòoli">itachokòoli</a></i>.&nbsp;
+&nbsp;to ground (a child): &nbsp;<i><a href="n.htm#nokchobaachi">nokchobaachi</a></i>.&nbsp;
+<br><b>ground rattler</b>&nbsp;&nbsp;<i><a href="a.htm#alba">alba</a>, <a href="i1.htm#ihaanikosi">ihaanikosi</a></i>.&nbsp;
+<br><b>group</b>
+&nbsp;collection, group, gathering: &nbsp;<i><a href="i2.htm#istállàaka">istállàaka</a></i>.&nbsp;
+&nbsp;to meet, gather, organize as a group: &nbsp;<i><a href="l.htm#lokòoli">lokòoli</a></i>.&nbsp;
+<br><b>grouse</b>&nbsp;&nbsp;<i><a href="n.htm#nita iwwaslichi">nita iwwaslichi</a></i>.&nbsp;
+<br><b>grove</b>
+&nbsp;grove, little wooded area, stand of trees: &nbsp;<i><a href="a.htm#aboolòosi">aboolòosi</a>, <a href="a.htm#aposa">aposa</a>, <a href="i2.htm#istalàaka">istalàaka</a></i>.&nbsp;
+<br><b>grow</b>
+&nbsp;to grow bigger: &nbsp;<i><a href="c.htm#chóoba">chóoba</a></i>.&nbsp;
+&nbsp;to grow in business sales: &nbsp;<i><a href="c.htm#chobat aɬɬa">chobat aɬɬa</a></i>.&nbsp;
+&nbsp;to grow out (of hair or grass): &nbsp;<i><a href="m.htm#maahobaski">maahobaski</a></i>.&nbsp;
+&nbsp;to grow (something), grow (a beard): &nbsp;<i><a href="o.htm#olfachi">olfachi</a></i>.&nbsp;
+&nbsp;to grow (something) to maturity: &nbsp;<i><a href="w.htm#waayachi">waayachi</a></i>.&nbsp;
+&nbsp;to grow up, gain growth: &nbsp;<i><a href="c.htm#chobat aɬɬa">chobat aɬɬa</a></i>.&nbsp;
+&nbsp;to lengthen, let (the hair) grow long: &nbsp;<i><a href="b.htm#baskichi">baskichi</a></i>.&nbsp;
+&nbsp;to be overgrown with weeds, grown over, grown up: &nbsp;<i><a href="o.htm#olahna">olahna</a></i>.&nbsp;
+<br><b>grow back</b>
+&nbsp;to grow back in (of hair or grass): &nbsp;<i><a href="m.htm#maatolfa">maatolfa</a></i>.&nbsp;
+<br><b>grower</b>&nbsp;&nbsp;<i><a href="w.htm#waayàachi">waayàachi</a></i>.&nbsp;
+<br><b>growl</b>
+&nbsp;fussing, quarreling, growling: &nbsp;<i><a href="a.htm#akayihatilka">akayihatilka</a></i>.&nbsp;
+&nbsp;to growl: &nbsp;<i><a href="a.htm#akayiha">akayiha</a></i>.&nbsp;
+&nbsp;to fuss at, growl at: &nbsp;<i><a href="i1.htm#imakayiha">imakayiha</a></i>.&nbsp;
+&nbsp;to have the stomach growl, grumble: &nbsp;<i><a href="i1.htm#ikfik imola">ikfik imola</a></i>.&nbsp;
+<br><b>growth</b>&nbsp;&nbsp;<i><a href="w.htm#waayatilka">waayatilka</a></i>.&nbsp;
+<br><b>grub</b>
+&nbsp;grub, beetle larva: &nbsp;<i><a href="s.htm#saklichi ochoski">saklichi ochoski</a></i>.&nbsp;
+&nbsp;large grub, beetle larva: &nbsp;<i><a href="s.htm#saksámpa">saksámpa</a></i>.&nbsp;
+&nbsp;large white grub species, prob. pine beetle grub used for fishing: &nbsp;<i><a href="o.htm#okyaali">okyaali</a></i>.&nbsp;
+&nbsp;sawyer beetle, black beetle, sawyer worm, pine beetle larva, small pine bark grub: &nbsp;<i><a href="s.htm#saklichi">saklichi</a></i>.&nbsp;
+<br><b>grudge</b>
+&nbsp;to be angry at someone, hold a grudge against, be provoked by: &nbsp;<i><a href="i1.htm#iⁿhasaaya">iⁿhasaaya</a></i>.&nbsp;
+<br><b>gruel</b>
+&nbsp;gruel, broth from boiled corn: &nbsp;<i><a href="a.htm#afolka">afolka</a></i>.&nbsp;
+&nbsp;sofkey: &nbsp;<i><a href="h.htm#hoɬka">hoɬka</a></i>.&nbsp;
+<br><b>grumble</b>
+&nbsp;to fuss, complain, grumble: &nbsp;<i><a href="a.htm#akayiha">akayiha</a></i>.&nbsp;
+&nbsp;to have the stomach growl, grumble: &nbsp;<i><a href="i1.htm#ikfik imola">ikfik imola</a>, <a href="i1.htm#ikfi imaksobaachi">ikfi imaksobaachi</a></i>.&nbsp;
+<br><b>grunt</b>
+&nbsp;to moan, sigh, grunt (in pain): &nbsp;<i><a href="a.htm#ahoomi">ahoomi</a></i>.&nbsp;
+&nbsp;to snort, oink, grunt: &nbsp;<i><a href="ll.htm#ɬokɬoⁿhka">ɬokɬoⁿhka</a></i>.&nbsp;
+&nbsp;to snort (esp. in derision), heave a sigh of disgust, grunt: &nbsp;<i><a href="k.htm#kifahka">kifahka</a></i>.&nbsp;
+<br><b>guard</b>
+&nbsp;cattle guard, grate across road preventing entry of cattle: &nbsp;<i><a href="w.htm#waakistimataakachi">waakistimataakachi</a></i>.&nbsp;
+&nbsp;to care for, watch over, babysit, guard: &nbsp;<i><a href="a.htm#ahíicha">ahíicha</a>, <a href="a.htm#ahíina">ahíina</a></i>.&nbsp;
+&nbsp;to guard in basketball: &nbsp;<i><a href="i1.htm#imataaka">imataaka</a></i>.&nbsp;
+&nbsp;to be looking after, keeping watch over, guarding: &nbsp;<i><a href="a.htm#áhhìicha">áhhìicha</a></i>.&nbsp;
+<br><b>guess</b>
+&nbsp;to wonder about, think about, guess at, worry about: &nbsp;<i><a href="a.htm#áalo">áalo</a></i>.&nbsp;
+<br><b>guest</b>
+&nbsp;to keep (guests) overnight: &nbsp;<i><a href="i2.htm#isaachi">isaachi</a></i>.&nbsp;
+<br><b>guide</b>
+&nbsp;leader, guide: &nbsp;<i><a href="h.htm#hinàata">hinàata</a></i>.&nbsp;
+&nbsp;leading, guiding, guidance: &nbsp;<i><a href="h.htm#hinaalta">hinaalta</a></i>.&nbsp;
+&nbsp;to be a leader, be a guide: &nbsp;<i><a href="h.htm#hínnàata">hínnàata</a></i>.&nbsp;
+&nbsp;to guide, lead (someone): &nbsp;<i><a href="i1.htm#iⁿhinaata">iⁿhinaata</a></i>.&nbsp;
+&nbsp;to guide, lead somewhere: &nbsp;<i><a href="m.htm#maaɬakkila">maaɬakkila</a></i>.&nbsp;
+<br><b>guides</b>
+&nbsp;tent guides: &nbsp;<i><a href="i2.htm#istimmaapilka">istimmaapilka</a></i>.&nbsp;
+<br><b>guinea fowl</b>&nbsp;&nbsp;<i><a href="c.htm#chokàⁿhka">chokàⁿhka</a></i>.&nbsp;
+&nbsp;to cluck as a guinea fowl: &nbsp;<i><a href="c.htm#chookachookachooka">chookachookachooka</a></i>.&nbsp;
+<br><b>guinea hen</b>&nbsp;&nbsp;<i><a href="c.htm#chokàⁿkkatàyyi">chokàⁿkkatàyyi</a></i>.&nbsp;
+<br><b>gully</b>
+&nbsp;gully, ravine, canyon: &nbsp;<i><a href="k.htm#kolokbi">kolokbi</a></i>.&nbsp;
+&nbsp;deep gully, canyon, big hole in the ground: &nbsp;<i><a href="i1.htm#ihankolokbi">ihankolokbi</a></i>.&nbsp;
+<br><b>gulp</b>
+&nbsp;to eat like a pig, gulp or slurp food: &nbsp;<i><a href="i2.htm#istokɬolohka">istokɬolohka</a></i>.&nbsp;
+<br><b>gum</b>
+&nbsp;sweetgum tree: &nbsp;<i><a href="y.htm#yassaako">yassaako</a></i>.&nbsp;
+&nbsp;blackgum tree, black tupelo, prob. also water tupelo: &nbsp;<i><a href="k.htm#kosapa">kosapa</a></i>.&nbsp;
+&nbsp;water tupelo, tupelo gum: &nbsp;<i><a href="o.htm#okifa itto">okifa itto</a>, <a href="y.htm#yassaakohatka">yassaakohatka</a></i>.&nbsp;
+&nbsp;chewing gum: &nbsp;<i><a href="y.htm#yassaako">yassaako</a></i>.&nbsp;
+<br><b>gums</b>
+&nbsp;gums, gingiva: &nbsp;<i><a href="n.htm#nati aanipo">nati aanipo</a></i>.&nbsp;
+&nbsp;to have gingivitis, sore gums: &nbsp;<i><a href="n.htm#nataanipo iⁿhoopa">nataanipo iⁿhoopa</a></i>.&nbsp;
+<br><b>gun</b>
+&nbsp;bow, gun, rifle, shotgun, blowgun: &nbsp;<i><a href="b.htm#bihi2">bihi<sup>2</sup></a></i>.&nbsp;
+&nbsp;blowgun: &nbsp;<i><a href="b.htm#bihipofilka">bihipofilka</a>, <a href="i1.htm#iɬanibihi">iɬanibihi</a>, <a href="i1.htm#iɬani isholitcha">iɬani isholitcha</a></i>.&nbsp;
+&nbsp;double-barreled shotgun: &nbsp;<i><a href="b.htm#bihipokta">bihipokta</a></i>.&nbsp;
+&nbsp;machine gun, automatic gun: &nbsp;<i><a href="b.htm#bihitokaalisnámpo">bihitokaalisnámpo</a>, <a href="b.htm#bihitokàalislawa">bihitokàalislawa</a></i>.&nbsp;
+&nbsp;pistol: &nbsp;<i><a href="b.htm#bihikoboksi">bihikoboksi</a></i>.&nbsp;
+&nbsp;thirty-thirty rifle, thirty-aught-six rifle, shotgun: &nbsp;<i><a href="b.htm#bihichoba2">bihichoba<sup>2</sup></a></i>.&nbsp;
+&nbsp;twenty-two caliber rifle: &nbsp;<i><a href="b.htm#bihosi">bihosi</a></i>.&nbsp;
+&nbsp;hammer on a gun: &nbsp;<i><a href="b.htm#bihistimpaachakafka">bihistimpaachakafka</a>, <a href="b.htm#bihistimpaachakka">bihistimpaachakka</a></i>.&nbsp;
+&nbsp;trigger of a gun: &nbsp;<i><a href="b.htm#bihi iⁿhalatilka">bihi iⁿhalatilka</a></i>.&nbsp;
+&nbsp;barrel of gun: &nbsp;<i><a href="b.htm#bihi intali">bihi intali</a></i>.&nbsp;
+&nbsp;sight on a gun barrel: &nbsp;<i><a href="b.htm#bihi mastimilhicha">bihi mastimilhicha</a>, <a href="b.htm#bihistimpaayilhicha">bihistimpaayilhicha</a></i>.&nbsp;
+&nbsp;bullet, ammunition shell, gun cartridge: &nbsp;<i><a href="b.htm#bihinɬaki">bihinɬaki</a></i>.&nbsp;
+&nbsp;blowgun dart: &nbsp;<i><a href="b.htm#bihipofilka">bihipofilka</a></i>.&nbsp;
+&nbsp;shotgun shell: &nbsp;<i><a href="ll.htm#ɬaksawwa">ɬaksawwa</a></i>.&nbsp;
+&nbsp;shooting a gun, fireworks, bursting a balloon, etc.: &nbsp;<i><a href="t.htm#tokahlichi">tokahlichi</a></i>.&nbsp;
+&nbsp;shooting a gun, rocket, etc.: &nbsp;<i><a href="o.htm#onahotcha">onahotcha</a></i>.&nbsp;
+&nbsp;to load a single shot into (a gun): &nbsp;<i><a href="i1.htm#inɬaki istiⁿhokfi">inɬaki istiⁿhokfi</a></i>.&nbsp;
+&nbsp;to load (an automatic gun or thirty-thirty rifle), load (cartridges): &nbsp;<i><a href="i1.htm#inɬaki istimaapitta">inɬaki istimaapitta</a></i>.&nbsp;
+&nbsp;to pull (the trigger of a gun): &nbsp;<i><a href="i1.htm#iⁿhalatka">iⁿhalatka</a></i>.&nbsp;
+<br><b>gunpowder</b>&nbsp;&nbsp;<i><a href="i2.htm#istokaalimpossi">istokaalimpossi</a>, <a href="ll.htm#ɬaki impossi">ɬaki impossi</a></i>.&nbsp;
+<br><b>gunshot</b>
+&nbsp;bang, sound of a gunshot: &nbsp;<i><a href="t.htm#tokafka">tokafka</a></i>.&nbsp;
+<br><b>gurgle</b>
+&nbsp;to make a raspy, wheezy or gurgling noise in breathing: &nbsp;<i><a href="ll.htm#ɬikihkachi">ɬikihkachi</a></i>.&nbsp;
+<br><b>gush</b>
+&nbsp;to fall at a distance (of more than one), gush out, overflow, spill over: &nbsp;<i><a href="m.htm#maasofka">maasofka</a></i>.&nbsp;
+<br><b>gut</b>
+&nbsp;gut string: &nbsp;<i><a href="w.htm#waakinchoswa">waakinchoswa</a></i>.&nbsp;
+&nbsp;to gut, dress (an animal): &nbsp;<i><a href="i1.htm#intokaffi">intokaffi</a></i>.&nbsp;
+<br><b>guts</b>
+&nbsp;intestines, guts: &nbsp;<i><a href="i1.htm#inchaabi">inchaabi</a></i>.&nbsp;
+<br><b>gymnasium</b>
+&nbsp;amphitheater, gymnasium: &nbsp;<i><a href="a.htm#aahompanka">aahompanka</a></i>.&nbsp;
+<br><b>gynecologist</b>&nbsp;&nbsp;<i><a href="t.htm#tayyiha imalikchi">tayyiha imalikchi</a></i>.&nbsp;
+<br><b>Gypsy</b>&nbsp;&nbsp;<i><a href="c.htm#chipsi">chipsi</a></i>.&nbsp;
+&nbsp;Gypsy woman: &nbsp;<i><a href="c.htm#chalakkitayyi">chalakkitayyi</a></i>.&nbsp;
+&nbsp;gypsy, nomad: &nbsp;<i><a href="a.htm#albinàachi">albinàachi</a></i>.&nbsp;
+</font>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6603593-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>
