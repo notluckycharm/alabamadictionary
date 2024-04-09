@@ -1,11 +1,21 @@
-var http = require('http');
-var url = require('url');
-var fs = require('fs');
+const express = require('express');
+const path = require('path');
+const app = express();
+const port = 3000;
 
+// Serve static files from 'public' directory
+app.use(express.static('public'));
 
-http.createServer(function (req, res) {
-  res.writeHead(200, {'Content-Type': 'text/html'});
-  var q = url.parse(req.url, true).query;
-  var txt = q.year + " " + q.month;
-  res.end(txt);
-}).listen(8080);
+// Route to serve the home.html file
+app.get('/', (req, res) => {
+    res.sendFile(path.join(__dirname, 'public', 'home.html'));
+});
+
+// Route to serve the nounentry.html file
+app.get('/nounentry', (req, res) => {
+    res.sendFile(path.join(__dirname, 'public', 'nounentry.html'));
+});
+
+app.listen(port, () => {
+    console.log(`Server running at http://localhost:${port}/`);
+});
