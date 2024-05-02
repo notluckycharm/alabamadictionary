@@ -1,12 +1,12 @@
 {
   "dependencies": {
     "express": "^4.19.2",
+    "firebase": "^10.11.1",
     "pluralize": "^8.0.0"
   },
   "name": "alabamadictionary",
   "version": "1.0.0",
   "main": "main.js",
-  "devDependencies": {},
   "scripts": {
     "devStart": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"

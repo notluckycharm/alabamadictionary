@@ -65,30 +65,35 @@
             function dictSort() {
                 var divs = "";
                 var string = document.getElementById('searchBar').value.toLowerCase();
-                
+                console.log(string.slice(0,string.length - 1));
                 function stateMachineSort(a, b) {
                     if (a.lemma.toLowerCase() == string || a.definition.toLowerCase() == string) { return -100000; }
-                    else if (b.lemma.toLowerCase() == string || b.definition.toLowerCase == string) { return 100000; }
+                    else if (b.lemma.toLowerCase() == string || b.definition.toLowerCase() == string) { return 100000; }
                     else {
                         var lem_shared = 0;
                         var def_shared = 0;
                         for (var i = 0; i < string.length; i++){
-                            if (a.lemma.slice(0,string.length - i) == string.slice(0,string.length - i)) {
+                            if (a.lemma.slice(0,string.length - i) === string.slice(0,string.length - i)) {
                                 lem_shared = string.length - i;
                             }
-                            if (a.definition.slice(0,string.length - i) == string.slice(0,string.length - i)) {
+                            if (a.definition.slice(0,string.length - i) === string.slice(0,string.length - i)) {
                                 def_shared = string.length - i;
                             }
                         }
+                        if (string.includes(a.lemma.toLowerCase()) && !string.includes(b.lemma.toLowerCase))
                         if (a.lemma < b.lemma) {
                             return a.lemma.length - b.lemma.length - lem_shared
                         }
                         else if (a.lemma > b.lemma && a.lemma.slice(0,string.length) != string) {
-                            return a.lemma.length - b.lemma.length - lem_shared
+                            return Math.abs(a.lemma.length - b.lemma.length - lem_shared)
+                        }
+                        else{
+                            return 0;
                         }
                     }
                 }
-
+                console.log(stateMachineSort({'lemma':'hakchoopalpa', 'definition': ''}, {'lemma': 'ischoopa', 'definition': ''}));
+                console.log(stateMachineSort({'lemma':'ischoopa', 'definition': ''}, {'lemma': 'hakchoopalpa', 'definition': ''}));
                 fetch ("https://notluckycharm.github.io/Conjugator/dict.json")
                      .then((res) => {
                         if (!res.ok) {
@@ -119,7 +124,6 @@
                      .catch((error) => console.error("Unable to fetch data:", error));
                 // var data = fetchJSONData();
                 // console.log(data);
-                
             }
         </script>
     </body>
