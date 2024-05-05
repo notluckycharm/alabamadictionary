@@ -24,7 +24,7 @@
                 <div class="ui">
                     <div class="row" style="padding-top:25px">
                         <div class="left aligned column" style="display: flex; border:0px; flex-direction: row;">
-                            <i onclick="returnToSender()" class="far" style="font-size:1.5em; margin: 0px; color: rgb(177, 177, 177); cursor: pointer;">&#60;</i>
+                            <i onclick="returnToSender()" class="far" style="font-size:1.5em; margin: 0px; color: rgb(177, 177, 177); cursor: pointer;">&#60; Back to Search</i>
                         </div>
                     </div>
                 </div>
@@ -71,7 +71,7 @@
                 var derived = [];
                 if ((string) == "aati") {  derived = [{'lemma': 'aatosi', 'definition': 'American Indian baby or child'}]}
                 else { derived = []; }
-                fetch ("https://notluckycharm.github.io/Conjugator/dict.json")
+                fetch ("dict.json")
                      .then((res) => {
                         if (!res.ok) {
                             throw new Error 
@@ -132,7 +132,7 @@
                                     <span style="flex: 4 1 0%" class="tabular description">plural</span>
                                 </div>
                                 <div class="left aligned" style="display:flex; line-height: 25px; margin-left:25px">
-                                    <span style="flex: 3 1 0%" class="tabular">im` + str + `</span>
+                                    <span style="flex: 3 1 0%" class="tabular">am` + str + `</span>
                                     <span style="flex: 7 1 0%; padding-right: auto" class="tabular">my ` + def.split(';')[0] + `</span>
                                     <span style="flex: 4 1 0%" class="tabular description">possessive</span>
                                 </div>`
